@@ -5,7 +5,7 @@
 // --------
 // Vertical navbar by default (mobile)
 .nav
-  // border-bottom: 1px solid lighten(getColor(background, body), 10%)
+  margin-top: 0
   border-bottom: 2px solid getColor(background, dark)
   ul
     margin: 0
@@ -21,22 +21,42 @@
     a:hover
       color: white
       background-color: getColor(background, dark)
+  > .active
+    color: white
+    background-color: getColor(background, dark)
+    cursor: default
+  > .logo
+    img
+      max-height: $nav-height
+      padding: $nav-height * 0.2
 
 // Horizontal navbar on desktop
-@media (min-width: $bp-small)
+@media (--small)
   .nav ul
     float: right
   .nav li
     float: left
+
 // Active and logo in navbar classes
-.active
-  color: white
-  background-color: getColor(background, dark)
-  cursor: default
-.logo
-  img
-    max-height: $nav-height
-    padding: $nav-height * 0.2
-  // img:hover
-  //   filter: brightness(110%)
-  //   transition: $transition-duration filter linear
+
+// to do: replace with svg sprite
+label
+  display: block
+  position: absolute
+  right: 16px
+  top: 10px
+  cursor: pointer
+
+#nav-button
+  display: none
+
+.nav-button
+  @media (--medium)
+    display: none
+
+#mobile-menu
+  max-height: 0
+  overflow: hidden
+
+#nav-button:checked ~ #mobile-menu
+  max-height: 500px
