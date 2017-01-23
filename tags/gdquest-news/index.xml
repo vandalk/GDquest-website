@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GDquest</title>
+    <link>http://gdquest.com/tags/gdquest-news/index.xml</link>
+    <description>Recent content on GDquest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <atom:link href="http://gdquest.com/tags/gdquest-news/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>In the office - January news</title>
+      <link>http://gdquest.com/post/news/2017/in-the-office/</link>
+      <pubDate>Sat, 21 Jan 2017 17:35:09 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/news/2017/in-the-office/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/aouow3pfa7Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;The past 2 months have been hectic. I’ll pass on the details, but since a few days, I’m renting an office. After so much time struggling to work from home, you can’t imagine how great it feels! I not only have access to the room 24/7, it’s also part of a local business incubator. The structure offer a lot of support, free training on accounting, management, legal stuff… All of which is quite complex in France. The building is great, and there are other entrepreneurs to share your thoughts and struggles with. Actually, the team in the office right in front of mine is into 3-D printing, and they are super nice.&lt;/p&gt;
+
+&lt;p&gt;Anyway, it’s news time. In this month’s update, we talk about the weekly releases on the premium game art tutorial, the Godot tutorial series that’s happening right now on the channel, and FOSDEM and GodotCon, 2 events taking place from February 4 to 7. I’m going to give the Godot team a hand and prepare some upcoming project, so we can meet there! To get more details about all of that, I invite you to watch the video.&lt;/p&gt;
+
+&lt;p&gt;See you in February for the next update!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
