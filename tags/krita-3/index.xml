@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GDquest</title>
+    <title>Krita 3 on GDquest</title>
     <link>http://gdquest.com/tags/krita-3/index.xml</link>
-    <description>Recent content on GDquest</description>
+    <description>Recent content in Krita 3 on GDquest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
@@ -80,7 +80,7 @@
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Krita&amp;#39;s animation workspace
         
@@ -120,7 +120,7 @@
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Krita 3&amp;#39;s new layers docker, with layer colors
         
@@ -184,7 +184,7 @@
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         The improved assistant widget
         
@@ -226,7 +226,7 @@
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Normal (left) vs greater blending mode (right)
         
@@ -248,7 +248,7 @@
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Krita now loads and saves brush tips in Gimp’s format
         
@@ -270,7 +270,7 @@
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Krita&amp;#39;s new pop-up palette has round icons
         
@@ -304,7 +304,7 @@
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Preview your Krita files from the Explorer with the shell extension
         

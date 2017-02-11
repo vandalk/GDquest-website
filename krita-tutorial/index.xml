@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Game-art-quest-rsses on GDquest</title>
-    <link>http://gdquest.com/game-art-quest/index.xml</link>
-    <description>Recent content in Game-art-quest-rsses on GDquest</description>
+    <title>Krita-tutorials on GDquest</title>
+    <link>http://gdquest.com/krita-tutorial/index.xml</link>
+    <description>Recent content in Krita-tutorials on GDquest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
     <lastBuildDate>Mon, 08 Feb 2016 17:55:44 +0100</lastBuildDate>
-    <atom:link href="http://gdquest.com/game-art-quest/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://gdquest.com/krita-tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Krita tutorial for Game Artists</title>
@@ -51,62 +51,50 @@
       <guid>http://gdquest.com/game-art-quest</guid>
       <description>
 
-&lt;h2&gt;&lt;a href=&#34;http://gdquest.com/game-art-quest/volume-1/krita-tutorial-for-game-artists&#34;&gt;Krita tutorial for game artists &lt;span class=&#34;text--success&#34;&gt;(Free)&lt;/span&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;krita-tutorial-for-game-artists-free&#34;&gt;Krita tutorial for game artists (Free)&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://gdquest.com/game-art-quest/volume-1/krita-tutorial-for-game-artists&#34;&gt;&lt;img src=&#34;img/game-art-quest-free-krita-tutorials.png&#34; alt=&#34;Game Art Quest volume 1 banner - Free Krita tutorials&#34; class=&#34;img-responsive&#34;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/page/game-art-quest/krita-tutorial-banner.jpg&#34; alt=&#34;Game Art Quest volume 1 banner: Free Krita tutorials&#34; class=&#34;banner-img -yellow&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;This training focuses on Krita&amp;rsquo;s functionality for game artists and digital painters. It covers the tools you need to work efficiently.
 It is &lt;strong&gt;completely free&lt;/strong&gt;, thanks to the 424 Kickstarter backers.&lt;/p&gt;
 
-&lt;div class=&#34;group&#34;&gt;
-  &lt;li class=&#34;group-item&#34;&gt;
-    &lt;a href=&#34;http://gdquest.com/game-art-quest/volume-1/krita-tutorial-for-game-artists&#34; class=&#34;lead&#34;&gt; &lt;i class=&#34;my-fa fa-book
+&lt;div grid&gt;
+  &lt;div column class=&#34;-center&#34;&gt;
+    &lt;a href=&#34;http://gdquest.com/game-art-quest/volume-1/krita-tutorial-for-game-artists&#34;&gt; 
+      &lt;button class=&#34;-bordered -call-to-action -success&#34;&gt;&lt;i class=&#34;my-fa fa-book
 text--default
  text--inherit&#34;&gt;&lt;/i&gt;
- The course &lt;/a&gt;
-  &lt;/li&gt;
-  &lt;li class=&#34;group-item&#34;&gt;
-    &lt;a href=&#34;http://gdquest.com/krita-brushes-for-game-artists&#34; class=&#34;lead&#34;&gt; &lt;i class=&#34;my-fa fa-check
+ Free course&lt;/button&gt;
+    &lt;/a&gt;
+    &lt;a href=&#34;http://gdquest.com/krita-brushes-for-game-artists&#34;&gt; 
+      &lt;button class=&#34;-bordered -call-to-action&#34;&gt;&lt;i class=&#34;my-fa fa-check
 text--success
  text--inherit&#34;&gt;&lt;/i&gt;
- Krita brushes &lt;/a&gt;
-  &lt;/li&gt;
+ Krita brushes&lt;/button&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
-
-&lt;hr&gt;
-
-&lt;!-- REWRITE EVERYTHING FROM HERE --&gt;
-
-&lt;p&gt;Game Art Quest has a &lt;a href=&#34;https://www.facebook.com/groups/GameArtQuest/&#34;&gt;&lt;i class=&#34;my-fa fa-book
-text--default
- text--inherit&#34;&gt;&lt;/i&gt;
- Facebook study group&lt;/a&gt;! There, we run weekly game art challenges. The goal is to become better game artists together.&lt;/p&gt;
-
-&lt;p&gt;There&amp;rsquo;s also an official &lt;i class=&#34;my-fa fa-shopping-cart
-text--success
- text--inherit&#34;&gt;&lt;/i&gt;
- &lt;a href=&#34;http://gdquest.com/krita-brushes-for-game-artists&#34;&gt;Krita brush pack&lt;/a&gt; to supplement the training.&lt;/p&gt;
 
 &lt;hr&gt;
 
 &lt;h2 id=&#34;volume-2-painterly-game-art-and-side-scrolling-games&#34;&gt;Volume 2 - Painterly game art and side-scrolling games&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;img/game-art-quest-painterly.png&#34; alt=&#34;Game Art Quest volume 2 banner - painterly art&#34; class=&#34;img-responsive&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;\img\page\game-art-quest\game-art-quest-painterly.png&#34; alt=&#34;Game Art Quest volume 2 banner - painterly art&#34; class=&#34;img-responsive&#34;/&gt;&lt;/p&gt;
 
 &lt;p&gt;In this second training, we will take a closer look at the game creation pipeline from a game artist&amp;rsquo;s standpoint. We will create static assets for a side scrolling video game with a painterly art style, inspired by the work of VanillaWare (&lt;em&gt;Odin Sphere, Muramasa&lt;/em&gt;) and Moon Studios (&lt;em&gt;Ori and the Blind Forest&lt;/em&gt;).&lt;/p&gt;
 
 &lt;h2 id=&#34;volume-3-cel-shaded-game-art-and-isometric-games&#34;&gt;Volume 3 - Cel shaded game art and isometric games&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;img/game-art-quest-cel-shaded.png&#34; alt=&#34;Game Art Quest volume 3 banner - Cel shaded art&#34; class=&#34;img-responsive&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;\img\page\game-art-quest\game-art-quest-cel-shaded.png&#34; alt=&#34;Game Art Quest volume 3 banner - Cel shaded art&#34; class=&#34;img-responsive&#34;/&gt;&lt;/p&gt;
 
 &lt;p&gt;This 3rd volume is dedicated to isometric game art. In this series, we will expand on the first 2 volumes, explore new drawing techniques as well as the characteristics of isometric games.&lt;/p&gt;
 
 &lt;p&gt;&lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;col-lg-6&#34; &gt;
+&lt;div class=&#34;col-lg-6&#34; &gt;
 
-&lt;!-- DISCOVER --&gt;
-&lt;h2 id=&#34;discover&#34;&gt;Discover Game Art Quest!&lt;/h2&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;discover&#34;&gt;Discover Game Art Quest!&lt;/h2&gt;
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
@@ -122,7 +110,7 @@ text--success
 
 &lt;p&gt;Although we’ll use Krita, the concepts you will learn apply to any painting application or medium. To become a more efficient game artist, you have to sharpen your observation skills and explore drawing techniques. These are the same regardless of the tools you are using, and that’s what we&amp;rsquo;re going to see.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;img/krita-screenshot.png&#34; alt=&#34;Nathan&#39;s picture&#34; class=&#34;img-responsive&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;\img\page\game-art-quest\krita-screenshot.png&#34; alt=&#34;Nathan&#39;s picture&#34; class=&#34;img-responsive&#34;/&gt;&lt;/p&gt;
 
 &lt;p&gt;The series will also cover the unique constraints we game artists face in our work. As a game artist, you have to make assets with a target resolution and camera in mind. You have to carefully draw your alpha masks. More importantly, as a game artist, &lt;strong&gt;your art has to support the gameplay: it shapes the game experience&lt;/strong&gt;.&lt;/p&gt;
 
@@ -134,7 +122,7 @@ text--success
 
 &lt;h3 id=&#34;who-am-i-to-teach-you-game-art&#34;&gt;Who am I to teach you game art?&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;img/i-am-nathan.jpg&#34; alt=&#34;Nathan&#39;s picture&#34; class=&#34;img-responsive&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;\img\page\game-art-quest\i-am-nathan.jpg&#34; alt=&#34;Nathan&#39;s picture&#34; class=&#34;img-responsive&#34;/&gt;&lt;/p&gt;
 
 &lt;p&gt;I’m Nathan Lovato, a game designer. I the run &lt;a href=&#34;http://youtube.com/c/gdquest&#34;&gt;GDquest&lt;/a&gt; a Youtube education channel dedicated to game art and game design. Every week, I release a new tutorial. I have made dozens of tutorials already! You can find them all &lt;a href=&#34;https://game-design-tutorials.zeef.com/nathan.lovato&#34;&gt;on that page&lt;/a&gt;.&lt;/p&gt;
 
@@ -146,7 +134,7 @@ text--success
 &lt;p&gt;&lt;strong&gt;Space Adventures&lt;/strong&gt;: 5 electro-futuristic game soundtrack&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://gdquest.bandcamp.com/album/space-adventures&#34;&gt;
-  &lt;img src=&#34;img/space-adventures-free-game-soundtrack-bandcamp.jpg&#34; alt=&#34;Space adventures album cover&#34; class=&#34;img-responsive&#34;/&gt;
+  &lt;img src=&#34;\img\page\game-art-quest\space-adventures-free-game-soundtrack-bandcamp.jpg&#34; alt=&#34;Space adventures album cover&#34; class=&#34;img-responsive&#34;/&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p class=&#34;text-center&#34;&gt;
@@ -158,7 +146,7 @@ text--success
 Game asset repository
 &lt;/p&gt;
 &lt;a href=&#34;http://opengameart.org/users/gdquest&#34;&gt;
-&lt;img src=&#34;img/GDquest-Freebies-Open-Source-Art-Pack-002-Xbox-Buttons.jpg&#34; alt=&#34;Free Xbox buttons&#34; class=&#34;img-responsive&#34; /&gt;
+&lt;img src=&#34;\img\page\game-art-quest\GDquest-Freebies-Open-Source-Art-Pack-002-Xbox-Buttons.jpg&#34; alt=&#34;Free Xbox buttons&#34; class=&#34;img-responsive&#34; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;More coming in the future!&lt;/strong&gt; In the meantime, check out my existing assets on &lt;a href=&#34;http://opengameart.org/users/gdquest&#34;&gt;OpenGameArt&lt;/a&gt;.&lt;/p&gt;

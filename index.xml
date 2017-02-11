@@ -45,7 +45,16 @@
 
 &lt;p&gt;See more of Zhillustrator&amp;rsquo;s work &lt;a href=&#34;https://www.artstation.com/artist/zhille&#34;&gt;on Artstation&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://gum.co/krita-brushes-gdquest-lite&#34;&gt;&lt;img src=&#34;http://gdquest.com/img/page/krita-brushes/krita-brushes-banner-lite.jpg&#34; alt=&#34;Krita brushes banner lite&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div&gt;
+    
+    &lt;img 
+        src=&#34;http://gdquest.com/img/page/krita-brushes/krita-brushes-banner-lite.jpg&#34; 
+        alt=&#34;Krita brushes banner lite&#34; 
+        class=&#34;banner-img blue&#34; 
+    /&gt;
+&lt;/div&gt;
+
+
 
 &lt;h2 id=&#34;free-krita-brushes&#34;&gt;Free Krita brushes&lt;/h2&gt;
 
@@ -438,7 +447,7 @@ text--success
     &lt;div class=&#34;card-content&#34;&gt;&lt;p&gt;Krita 3 is out tomorrow! I will be live on YouTube to answer all of your questions about the program, GDquest, and game art in general. I will also create 2-D game assets to fill in the blanks. To join the event, click on the link below and show up tomorrow, at 6 PM &lt;abbr title=&#34;Central Europe Standard Time (UTC/GMT +2)&#34;&gt;CEST&lt;/abbr&gt;&lt;/p&gt;&lt;/div&gt;
 
     
-    &lt;div class=&#34;card-footer text--center&#34;&gt;
+    &lt;div class=&#34;card-footer -center&#34;&gt;
       &lt;a href=&#34;https://www.youtube.com/watch?v=hlcHDRc-gN8&#34;&gt;Youtube Livestream&lt;/a&gt;
     &lt;/div&gt;
     
@@ -563,7 +572,7 @@ text--success
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Krita&amp;#39;s animation workspace
         
@@ -603,7 +612,7 @@ text--success
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Krita 3&amp;#39;s new layers docker, with layer colors
         
@@ -667,7 +676,7 @@ text--success
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         The improved assistant widget
         
@@ -709,7 +718,7 @@ text--success
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Normal (left) vs greater blending mode (right)
         
@@ -731,7 +740,7 @@ text--success
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Krita now loads and saves brush tips in Gimp’s format
         
@@ -753,7 +762,7 @@ text--success
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Krita&amp;#39;s new pop-up palette has round icons
         
@@ -787,7 +796,7 @@ text--success
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Preview your Krita files from the Explorer with the shell extension
         
@@ -978,10 +987,10 @@ text--success
     
     <item>
       <title>GDquest news and Krita 3.0 pre-alpha 3</title>
-      <link>http://gdquest.com/post/community/GDquest-news-and-Krita-3/</link>
+      <link>http://gdquest.com/post/community/GDquest-news-and-Krita-3.0-pre-alpha/</link>
       <pubDate>Wed, 16 Mar 2016 08:25:29 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/post/community/GDquest-news-and-Krita-3/</guid>
+      <guid>http://gdquest.com/post/community/GDquest-news-and-Krita-3.0-pre-alpha/</guid>
       <description>
 
 

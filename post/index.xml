@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on GDquest</title>
+    <title>Posts on GDquest</title>
     <link>http://gdquest.com/post/index.xml</link>
-    <description>Recent content in Post-rsses on GDquest</description>
+    <description>Recent content in Posts on GDquest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
@@ -325,7 +325,7 @@ text--success
     &lt;div class=&#34;card-content&#34;&gt;&lt;p&gt;Krita 3 is out tomorrow! I will be live on YouTube to answer all of your questions about the program, GDquest, and game art in general. I will also create 2-D game assets to fill in the blanks. To join the event, click on the link below and show up tomorrow, at 6 PM &lt;abbr title=&#34;Central Europe Standard Time (UTC/GMT +2)&#34;&gt;CEST&lt;/abbr&gt;&lt;/p&gt;&lt;/div&gt;
 
     
-    &lt;div class=&#34;card-footer text--center&#34;&gt;
+    &lt;div class=&#34;card-footer -center&#34;&gt;
       &lt;a href=&#34;https://www.youtube.com/watch?v=hlcHDRc-gN8&#34;&gt;Youtube Livestream&lt;/a&gt;
     &lt;/div&gt;
     
@@ -434,7 +434,7 @@ text--success
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Krita&amp;#39;s animation workspace
         
@@ -474,7 +474,7 @@ text--success
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Krita 3&amp;#39;s new layers docker, with layer colors
         
@@ -538,7 +538,7 @@ text--success
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         The improved assistant widget
         
@@ -580,7 +580,7 @@ text--success
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Normal (left) vs greater blending mode (right)
         
@@ -602,7 +602,7 @@ text--success
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Krita now loads and saves brush tips in Gimp’s format
         
@@ -624,7 +624,7 @@ text--success
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Krita&amp;#39;s new pop-up palette has round icons
         
@@ -658,7 +658,7 @@ text--success
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Preview your Krita files from the Explorer with the shell extension
         
@@ -814,10 +814,10 @@ The problem is, we don’t always want to have the page’s author set to Admin.
     
     <item>
       <title>GDquest news and Krita 3.0 pre-alpha 3</title>
-      <link>http://gdquest.com/post/community/GDquest-news-and-Krita-3/</link>
+      <link>http://gdquest.com/post/community/GDquest-news-and-Krita-3.0-pre-alpha/</link>
       <pubDate>Wed, 16 Mar 2016 08:25:29 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/post/community/GDquest-news-and-Krita-3/</guid>
+      <guid>http://gdquest.com/post/community/GDquest-news-and-Krita-3.0-pre-alpha/</guid>
       <description>
 
 

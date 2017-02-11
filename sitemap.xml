@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://gdquest.com/</loc>
-    <lastmod>2017-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://gdquest.com/krita-brushes-for-game-artists</loc>
     <lastmod>2017-01-30T00:00:00+00:00</lastmod>
   </url>
@@ -67,7 +62,7 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/post/community/GDquest-news-and-Krita-3/</loc>
+    <loc>http://gdquest.com/post/community/GDquest-news-and-Krita-3.0-pre-alpha/</loc>
     <lastmod>2016-03-16T08:25:29+01:00</lastmod>
   </url>
   
@@ -97,15 +92,192 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/game-art-quest</loc>
+    <loc>http://gdquest.com/about/</loc>
+    <lastmod>2016-01-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/category/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/category/community/</loc>
+    <lastmod>2016-01-11T09:16:10+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/community/</loc>
+    <lastmod>2017-01-21T17:35:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/create-a-website/</loc>
+    <lastmod>2016-04-20T09:34:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/free/</loc>
+    <lastmod>2016-04-15T15:25:47+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/free-krita-brushes/</loc>
+    <lastmod>2017-01-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://gdquest.com/</loc>
+    <lastmod>2017-01-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gdquest.com/portfolio/portfolio/</loc>
+    <loc>http://gdquest.com/homepage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/game-art-quest</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/category/game-design/</loc>
+    <lastmod>2015-10-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/gdquest/</loc>
+    <lastmod>2017-01-21T17:35:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/gdquest-news/</loc>
+    <lastmod>2017-01-21T17:35:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/gohugo/</loc>
+    <lastmod>2016-04-20T09:34:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/category/hardware/</loc>
+    <lastmod>2016-03-23T10:08:53+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/hugo/</loc>
+    <lastmod>2016-04-20T09:34:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/category/krita/</loc>
+    <lastmod>2017-01-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/krita-3/</loc>
+    <lastmod>2016-05-09T17:49:09+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/krita-brush/</loc>
+    <lastmod>2017-01-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/krita-brushes/</loc>
+    <lastmod>2017-01-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/krita-review/</loc>
+    <lastmod>2016-05-09T17:49:09+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/krita-tutorial/</loc>
+    <lastmod>2016-02-08T17:55:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/category/news/</loc>
+    <lastmod>2017-01-21T17:35:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/game-design-portfolio</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/portfolio/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/post/</loc>
+    <lastmod>2017-01-21T17:35:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/product/</loc>
+    <lastmod>2017-01-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/category/quick-tips/</loc>
+    <lastmod>2015-10-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/static-html-engine/</loc>
+    <lastmod>2016-04-20T09:34:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/training/</loc>
+    <lastmod>2016-04-15T15:25:47+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/</loc>
+    <lastmod>2016-05-16T20:29:44+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/category/webdesign/</loc>
+    <lastmod>2016-04-20T09:34:58+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

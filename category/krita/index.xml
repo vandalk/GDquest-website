@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GDquest</title>
+    <title>Krita on GDquest</title>
     <link>http://gdquest.com/category/krita/index.xml</link>
-    <description>Recent content on GDquest</description>
+    <description>Recent content in Krita on GDquest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
@@ -44,7 +44,16 @@
 
 &lt;p&gt;See more of Zhillustrator&amp;rsquo;s work &lt;a href=&#34;https://www.artstation.com/artist/zhille&#34;&gt;on Artstation&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://gum.co/krita-brushes-gdquest-lite&#34;&gt;&lt;img src=&#34;http://gdquest.com/img/page/krita-brushes/krita-brushes-banner-lite.jpg&#34; alt=&#34;Krita brushes banner lite&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div&gt;
+    
+    &lt;img 
+        src=&#34;http://gdquest.com/img/page/krita-brushes/krita-brushes-banner-lite.jpg&#34; 
+        alt=&#34;Krita brushes banner lite&#34; 
+        class=&#34;banner-img blue&#34; 
+    /&gt;
+&lt;/div&gt;
+
+
 
 &lt;h2 id=&#34;free-krita-brushes&#34;&gt;Free Krita brushes&lt;/h2&gt;
 
@@ -193,7 +202,7 @@
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Krita&amp;#39;s animation workspace
         
@@ -233,7 +242,7 @@
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Krita 3&amp;#39;s new layers docker, with layer colors
         
@@ -297,7 +306,7 @@
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         The improved assistant widget
         
@@ -339,7 +348,7 @@
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Normal (left) vs greater blending mode (right)
         
@@ -361,7 +370,7 @@
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Krita now loads and saves brush tips in Gimp’s format
         
@@ -383,7 +392,7 @@
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Krita&amp;#39;s new pop-up palette has round icons
         
@@ -417,7 +426,7 @@
     
     
 
-    &lt;figcaption class=&#34;text--muted&#34;&gt;
+    &lt;figcaption class=&#34;-muted&#34;&gt;
         &lt;p&gt;
         Preview your Krita files from the Explorer with the shell extension
         
