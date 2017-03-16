@@ -8,8 +8,217 @@
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Mon, 27 Feb 2017 09:45:11 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 14 Mar 2017 09:00:51 +0100</lastBuildDate>
     <atom:link href="http://gdquest.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>freebies</title>
+      <link>http://gdquest.com/free-game-creation-resources</link>
+      <pubDate>Tue, 14 Mar 2017 09:00:51 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/free-game-creation-resources</guid>
+      <description>
+
+&lt;h2 id=&#34;open-source-game-assets&#34;&gt;Open source game assets&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Space Adventures&lt;/strong&gt;: 5 electro-futuristic game soundtrack&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gdquest.bandcamp.com/album/space-adventures&#34;&gt;
+  &lt;img src=&#34;\img\page\game-art-quest\space-adventures-free-game-soundtrack-bandcamp.jpg&#34; alt=&#34;Space adventures album cover&#34; class=&#34;img-responsive&#34;/&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&#34;text-center&#34;&gt;
+  &lt;!-- CC 4.0 BY LICENCE --&gt;
+  &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;span xmlns:dct=&#34;http://purl.org/dc/terms/&#34; property=&#34;dct:title&#34;&gt;Space adventures&lt;/span&gt; by &lt;a xmlns:cc=&#34;http://creativecommons.org/ns#&#34; href=&#34;gdquest.com&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;GDquest&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;Creative Commons Attribution 4.0 International License&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Open Game Art&lt;/strong&gt;&lt;br&gt;
+Game asset repository
+&lt;/p&gt;
+&lt;a href=&#34;http://opengameart.org/users/gdquest&#34;&gt;
+&lt;img src=&#34;\img\page\game-art-quest\GDquest-Freebies-Open-Source-Art-Pack-002-Xbox-Buttons.jpg&#34; alt=&#34;Free Xbox buttons&#34; class=&#34;img-responsive&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;More coming in the future!&lt;/strong&gt; In the meantime, check out my existing assets on &lt;a href=&#34;http://opengameart.org/users/gdquest&#34;&gt;OpenGameArt&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Construct 2 tutorials</title>
+      <link>http://gdquest.com/tutorial/old/construct-2/</link>
+      <pubDate>Mon, 13 Mar 2017 20:42:51 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/old/construct-2/</guid>
+      <description>&lt;p&gt;In a another life, I wrote a handful of tutorials for Construct 2. They&amp;rsquo;re not on this website anymore, but you can still find them on the engine&amp;rsquo;s official website.&lt;/p&gt;
+
+&lt;p&gt;Now, I make videos tutorials about game creation with free, open source game creation tools: &lt;a href=&#34;http://gdquest.com&#34;&gt;learn more about GDquest&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Construct 2 tutorials:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/4838/grid-based-movement-using-the-tilemap-object-for-collisions&#34;&gt;Grid-Based movement using the Tilemap object for collisions.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1445/programming-simple-touch-qtes&#34;&gt;Programming simple touch QTEs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1430/quick-timer-events-from-a-game-design-perspective&#34;&gt;Quick Timer Events from a Game Design Perspective&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1405/top-down-jump-the-grasshopper&#34;&gt;Top Down Jump - The Grasshopper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1398/how-to-design-professional-looking-mobile-game-buttons&#34;&gt;How to design professional looking mobile game buttons&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1388/12-handy-free-productivity-tools-for-game-designers&#34;&gt;12 handy free productivity tools for game designers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1377/how-to-create-a-radial-lifebar-in-construct-2&#34;&gt;How to create a Radial Lifebar in Construct 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1365/how-to-code-faster-in-construct-2&#34;&gt;How to Code Faster in Construct 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1323/my-7-best-game-design-resources&#34;&gt;My 7 best game design resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1275/4-productivity-tricks-with-the-event-editor&#34;&gt;4 productivity tricks with the event editor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1158/how-to-ai-by-example-platform-follower&#34;&gt;How to AI by example - Platform follower&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1154/drastically-reduce-your-games-download-size-with-pngquant&#34;&gt;Drastically reduce your game&amp;rsquo;s download size with PNGquant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1139/how-to-simplify-your-ai-code-with-finite-state-machines&#34;&gt;How to simplify your AI code with Finite State Machines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1085/3-techniques-to-manage-complex-ui-with-construct-2&#34;&gt;3 techniques to manage complex UI with construct 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1080/how-to-do-advanced-callbacks-in-construct-2&#34;&gt;How to do advanced callbacks in Construct 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1077/4-lessons-learned-from-dan-the-rabbit&#34;&gt;4 lessons learned from Dan the Rabbit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1063/how-to-improve-your-construct-2-code-with-callbacks&#34;&gt;How to improve your Construct 2 code with Callbacks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1026/ceiling-walk&#34;&gt;Ceiling walk&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Game art tutorials:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1407/how-to-game-art-1-silhouettes&#34;&gt;How to game art #1 – Silhouettes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1410/how-to-game-art-2-drawing-game-assets&#34;&gt;How to game art #2 – Drawing game assets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1412/how-to-game-art-3-drawing-with-selections-in-photoshop&#34;&gt;How to game art #3 – Drawing with selections in Photoshop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1419/how-to-game-art-4-designing-a-cute-character&#34;&gt;How to game art #4 – Designing a cute character&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1426/how-to-game-art-5-the-principles-of-design&#34;&gt;How to game art #5 – The principles of design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1453/how-to-game-art-6-a-first-look-at-colors&#34;&gt;How to game art #6 - A first look at colors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1458/how-to-game-art-7-hue-shifting&#34;&gt;How to Game Art #7 - Hue Shifting&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marketing indie games with no budget – Notes</title>
+      <link>http://gdquest.com/tutorial/old/marketing-indie-games-with-0-budget/</link>
+      <pubDate>Mon, 13 Mar 2017 20:33:30 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/old/marketing-indie-games-with-0-budget/</guid>
+      <description>
+
+&lt;p&gt;Emmy Jonhassen, aka IndieGameGirl, gave a talk named &lt;a href=&#34;http://www.indiegamegirl.com/no-budget-marketing/&#34;&gt;Marketing Indie Games on a $0 Budget&lt;/a&gt;. It offers a nice introduction to the topic, so I decided to share synthetic notes for it.&lt;/p&gt;
+
+&lt;p&gt;I also wrote a detailed article on the topic for Game Analytics. There, you&amp;rsquo;ll learn a lot more about everything I&amp;rsquo;ve outlined below. Check it out: &lt;a href=&#34;http://www.gameanalytics.com/blog/marketing-indie-game-without-budget.html&#34;&gt;Marketing Your Indie Game On A Zero-Dollar Budget&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Emmy outlines 5 key types of contents required to maximize your game’s reach before and after its release. All of the content has to be prepared thoughtfully in advance as part of a complete marketing plan.&lt;/p&gt;
+
+&lt;h3 id=&#34;1-trailer&#34;&gt;1– Trailer&lt;/h3&gt;
+
+&lt;p&gt;The trailer is your n°1 marketing weapon. Both the users and the press will look at it to judge whether they’ll cover or play the game. A solid trailer needs the following features:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;It should be less than 90 seconds long.&lt;/li&gt;
+&lt;li&gt;Its intro has to catch attention straight away.&lt;/li&gt;
+&lt;li&gt;Music and SFX are powerful tools to mark the minds. Make them great!&lt;/li&gt;
+&lt;li&gt;It is key to show a substantial amount of in-game-footage. Use reviews to your advantage: add quotes from professional reviews. Those give your game more credibility in the eyes of the viewer.&lt;/li&gt;
+&lt;li&gt;End the video with a call to action: the potential buyer should know how to follow you, how to buy the game… make it big and clear!&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/VA3saHRW3H8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h3 id=&#34;2-screenshots-and-gifs&#34;&gt;2- Screenshots and GIFs&lt;/h3&gt;
+
+&lt;p&gt;Each and every screenshot is its own little piece of art. If you follow artists on twitter, you know how popular artwork is, and how likely people are to like, comment and retweet them. When you design screens and GIFs, think about the people who look at them or want to use them:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;They should be in high resolution, and high quality.&lt;/li&gt;
+&lt;li&gt;Pay attention to your visual composition. It should be balanced.&lt;/li&gt;
+&lt;li&gt;Make sure they are well lit, with both good brightness and contrast.&lt;/li&gt;
+&lt;li&gt;The screens should look appealing, and really they should tell a story.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/marketing-indie-games-with-0-budget/firewatch-sunrise.jpg&#34; alt=&#34;Beautiful sunrise scene in the game Firewatch&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;3-press-release&#34;&gt;3- Press release&lt;/h3&gt;
+
+&lt;p&gt;Once you have your trailer and screenshots, you&amp;rsquo;ll want to compile them in a Press Release or PR. These documents are designed for journalists, who happen to be busy people. They get contacted all the time. People will copy and paste text from your PR, especially if you&amp;rsquo;re new and small. So you do want to write it well.&lt;/p&gt;
+
+&lt;p&gt;Here are the essential characteristics of a good press release:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;All the key information should be in the 1st paragraph. This includes the 5 Ws (What, Who, When, Where, Why?), and it should grab the reader&amp;rsquo;s attention.&lt;/li&gt;
+&lt;li&gt;It should be well written, clear, and stick to the point.&lt;/li&gt;
+&lt;li&gt;The most important parts are the headline, the subhead, and the 1st paragraph.&lt;/li&gt;
+&lt;li&gt;Use a quote from the creative director or someone inside the company to breathe life to your PR.&lt;/li&gt;
+&lt;li&gt;Have the company&amp;rsquo;s information and some ways to contact you at the bottom.&lt;/li&gt;
+&lt;li&gt;Provide a link to your presskit, that contains the trailer and best screenshots.&lt;/li&gt;
+&lt;li&gt;Use in-text hyperlinks so people can jump to another page with a single click.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;4-landing-page&#34;&gt;4- Landing page&lt;/h3&gt;
+
+&lt;p&gt;The landing page is a powerful marketing asset. It is a vitrine for your game, that&amp;rsquo;ll convert visitors to buyers. Emmy mentions the best practices for it to work:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;No navigation. You don&amp;rsquo;t want the top links to take any clicks away from the page.&lt;/li&gt;
+&lt;li&gt;Feature an attention-grabbing headline at the top. Most people will only read that, just like with articles. Give them a reason to check out the trailer, the screenshots, and generally to stay on the page. Use the headline to talk to your target audience.&lt;/li&gt;
+&lt;li&gt;Include social sharing links on the side.&lt;/li&gt;
+&lt;li&gt;Make the trailer video prominent.&lt;/li&gt;
+&lt;li&gt;Have a strong call to action button.&lt;/li&gt;
+&lt;li&gt;Provide a selection of your best screenshots.&lt;/li&gt;
+&lt;li&gt;Mention good reviews and testimonials from influent sources.&lt;/li&gt;
+&lt;li&gt;At the bottom, leave links to your presskit and ways to contact you.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/marketing-indie-games-with-0-budget/hollow-knight-teaser.jpg&#34; alt=&#34;Hollow knight game screenshot&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Hollow knight has a great landing page
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;5-devblog&#34;&gt;5- Devblog&lt;/h3&gt;
+
+&lt;p&gt;Lastly, a devblog can bring you a lot of extra traffic, and help you build a fanbase, although it takes some work. Here are Emmy&amp;rsquo;s tips for it:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Post at least once a week.&lt;/li&gt;
+&lt;li&gt;Always use images in your articles.&lt;/li&gt;
+&lt;li&gt;Link to the devblog in your website&amp;rsquo;s navigation bar and from the homepage.&lt;/li&gt;
+&lt;li&gt;Provide an RSS feed and/or email subscriptions. If people take that step to subscribe, they&amp;rsquo;ll get notified and they&amp;rsquo;re a lot more likely to check out your next stuff.&lt;/li&gt;
+&lt;li&gt;Include links to your accounts on social networks and social sharing icons&lt;/li&gt;
+&lt;li&gt;Call to action. Remind people where they can get your game and some key info they&amp;rsquo;d like to know about at end of every post.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GDquest Tutorial Library</title>
+      <link>http://gdquest.com/tutorial-library</link>
+      <pubDate>Wed, 01 Mar 2017 20:29:44 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial-library</guid>
+      <description>&lt;!-- TODO: Sub page like &#34;Krita tutorial series&#34; for SEO --&gt;
+
+&lt;!-- TODO: Page per type of tutorial/category? More like guide to each theme --&gt;
+
+&lt;p&gt;Welcome to the tutorial library. This is a Work in Progress. How can I improve it? Please &lt;a href=&#34;mailto:nathan@gdquest.com&#34;&gt;send me your feedback&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Learn Professional Painterly Game Art with Krita - Out in early access!</title>
@@ -101,61 +310,6 @@ If you don&amp;rsquo;t know how to use Krita, I made a &lt;a href=&#34;http://gd
 &lt;h2 id=&#34;to-those-who-made-this-possible&#34;&gt;To those who made this possible&lt;/h2&gt;
 
 &lt;p&gt;I want to thank the &lt;a href=&#34;https://www.kickstarter.com/projects/gdquest/game-art-quest-make-professional-2d-art-with-krita&#34;&gt;424 Kickstarter backers&lt;/a&gt; who made this project possible from the bottom of my heart! Thanks to these persons, tens of thousands of people got hours of free education for Krita, and many discovered this wonderful program. This would not have been possible without you. GDquest would not have been possible without you. Many thanks!&lt;/p&gt;
-
-&lt;h2 id=&#34;release-notes&#34;&gt;Release notes&lt;/h2&gt;
-
-&lt;p&gt;The course is currently in early access. It gets an update every week! You&amp;rsquo;ll find the full changelog below.&lt;/p&gt;
-
-&lt;h3 id=&#34;next-release-march-2&#34;&gt;Next release - March 2&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;3 videos: character concept art and sprite creation process&lt;/li&gt;
-&lt;li&gt;1 course document: Ideas for your game project&lt;/li&gt;
-&lt;li&gt;1 assignment&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;version-0-6-february-23&#34;&gt;Version 0.6 - February 23&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;1 video about my process for concept art&lt;/li&gt;
-&lt;li&gt;1 concept art assignment&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;version-0-5-february-16&#34;&gt;Version 0.5 - February 16&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2 videos about the concept art of our game&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;I was at FOSDEM and the first Godot Convention in Brussels from the 3rd to the 8th of February, that&amp;rsquo;s why there was exceptionally no release last Thursday&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;version-0-4-february-2&#34;&gt;Version 0.4 - February 2&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Painting a game character inspired by Pankapu (premium)&lt;/li&gt;
-&lt;li&gt;Making our game&amp;rsquo;s concept art&lt;/li&gt;
-&lt;li&gt;1 assignment and 1 course document (premium)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;version-0-3-january-26&#34;&gt;Version 0.3 - January 26&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;5 tips to achieve a painterly style&lt;/li&gt;
-&lt;li&gt;Painting a game character inspired by Seasons: After Fall&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;version-0-2-january-19&#34;&gt;Version 0.2 - January 19&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Color contrast: Following on Value Contrast, we explore its colored counterpart, Color Contrast. This video focuses on the components of colors, and it will explain to you why certain tones blend together or clash again one another.&lt;/li&gt;
-&lt;li&gt;The Global Selection Mask: ever wondered how to transform and paint selections in Krita? You have to use the global selection mask, which is hidden by default.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;version-0-1-january-12&#34;&gt;Version 0.1 - January 12&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Value contrast: Get a deep dive in an essential principle that we&amp;rsquo;ll use to make our game assets&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
@@ -635,22 +789,6 @@ text--success
     </item>
     
     <item>
-      <title>Tutorials</title>
-      <link>http://gdquest.com/tutorial/</link>
-      <pubDate>Mon, 16 May 2016 20:29:44 +0200</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/</guid>
-      <description>&lt;!-- TODO: Sub page like &#34;Krita tutorial series&#34; for SEO --&gt;
-
-&lt;!-- TODO: Page per type of tutorial/category --&gt;
-
-&lt;!-- Hey there, it&#39;s the tutorial page! --&gt;
-
-&lt;p&gt;If you found this page, well, it&amp;rsquo;s in construction! Please come back later :)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>What’s New in Krita 3.0? Krita Review</title>
       <link>http://gdquest.com/new-features-in-krita-3</link>
       <pubDate>Mon, 09 May 2016 17:49:09 +0200</pubDate>
@@ -1051,142 +1189,6 @@ The problem is, we don’t always want to have the page’s author set to Admin.
 &lt;p&gt;I hope this helps! As a non-web developer, I find it hard sometimes to wrap my head around the way go template work. It&amp;rsquo;s really simple once you know how to do it, but it can take a while before you find how to use a function the right way, even with the help of the documentation.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Happy Hugo coding!&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Intro to monster design for 2-D games</title>
-      <link>http://gdquest.com/tutorial/monster_design/</link>
-      <pubDate>Fri, 15 Apr 2016 15:25:47 +0200</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/monster_design/</guid>
-      <description>
-
-&lt;!-- CURRENTLY SET TO EMPTY LAYOUT! --&gt;
-
-&lt;h1 id=&#34;intro-to-monster-design-for-2-d-games&#34;&gt;Intro to monster design for 2-D games&lt;/h1&gt;
-
-&lt;p&gt;The intro to monster design is the first free training released on GDquest. In about 40 minutes, it will &lt;strong&gt;run you through the thought process a game artist might follow to design monsters&lt;/strong&gt;. It both covers the thought process behind the design of a monster and an example of monster drawing with pen, paper and Krita.&lt;/p&gt;
-
-&lt;h2 id=&#34;hahahugoshortcode-1hbhb-useful-links&#34;&gt;&lt;i class=&#34;my-fa fa-link
-text--default
- text--inherit&#34;&gt;&lt;/i&gt;
- Useful links&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;i class=&#34;my-fa fa-facebook
-text--info
- text--inherit&#34;&gt;&lt;/i&gt;
- &lt;a href=&#34;https://www.facebook.com/groups/GameArtQuest/&#34;&gt;Facebook Game Art study group&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;i class=&#34;my-fa fa-paint-brush
-text--info
- text--inherit&#34;&gt;&lt;/i&gt;
- &lt;a href=&#34;http://gdquest.com/krita-brushes-for-game-artists&#34;&gt;GAQ Krita brush pack&lt;/a&gt; &lt;i class=&#34;my-fa fa-shopping-cart
-text--success
- text--inherit&#34;&gt;&lt;/i&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Recommended graphic tablets</title>
-      <link>http://gdquest.com/post/recommended-graphic-tablets/</link>
-      <pubDate>Wed, 23 Mar 2016 10:08:53 +0100</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/post/recommended-graphic-tablets/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/post/hardware/huion-vs-wacom.jpg&#34; alt=&#34;Huion vs Wacom graphic tablet banner&#34; class=&#34;img-responsive&#34; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;recommended-graphic-tablets&#34;&gt;Recommended graphic tablets&lt;/h1&gt;
-
-&lt;p&gt;On this page, you can find a list of the graphic tablets I recommend for &lt;a href=&#34;http://gdquest.com/krita-tutorial&#34;&gt;Game Art Quest&lt;/a&gt;. I used &lt;a href=&#34;http://frenden.com/tagged/review&#34;&gt;Frenden&amp;rsquo;s reviews&lt;/a&gt; as a reference to pick affordable tablets you can try out. I also asked feedback to fellow professionals who use Huion devices, as I only have Wacom tablets here. When you buy a graphic tablet, be sure to test your device and to use your right of withdrawal in case you don&amp;rsquo;t like it. And read reviews on Amazon or on the website you&amp;rsquo;re buying them on.&lt;/p&gt;
-
-&lt;h2 id=&#34;flat-tablets&#34;&gt;Flat tablets&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Flat tablets are perfect for everyone to start with at a low price. Especially students and hobbyists.&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Huion H610 pro (80$) - &lt;a href=&#34;http://frenden.com/post/87110791272/huion-h610-pro-h610-k58-graphics-tablet-review&#34;&gt;review&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Wacom Intuos Pro Medium or Large (300-500$)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;screen-tablets&#34;&gt;Screen tablets&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Screen tablets are worth a try if you&amp;rsquo;re an experienced artist already, and you do a lot of line work.&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Huion GT-220 (21.5&amp;raquo; HD screen, 800$) - &lt;a href=&#34;http://frenden.com/image/118056589592&#34;&gt;review&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Monoprice 19&amp;raquo; (1440*900 resolution, 400$) - &lt;a href=&#34;http://frenden.com/post/69444810884/review-monoprice-19-tablet-monitor-wacom-take&#34;&gt;review&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Wacom Cintiq 13HD (13&amp;raquo; HD screen, 800$)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;tips&#34;&gt;Tips&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Always&lt;/strong&gt; download and install the driver from the manufacturer&amp;rsquo;s official website &lt;strong&gt;before&lt;/strong&gt; you plug your device in! This will save you some trouble.&lt;/li&gt;
-&lt;li&gt;As far as Wacom tablets are concerned, you can pretty safely buy second hand devices! That&amp;rsquo;s how I got mine, and after years of frequent use, they still work perfectly.&lt;/li&gt;
-&lt;li&gt;At the time I&amp;rsquo;m writing this, Krita doesn&amp;rsquo;t support every single tablet on the market. The developers are in the process of re-writing their tablet code. Wacom tablets work OK, but some other brands might not until Krita 3.0&amp;rsquo;s release.&lt;/li&gt;
-&lt;li&gt;If you want to use 2 tablets at the same time like I&amp;rsquo;m doing, they have to share the same brand. In other words, you can&amp;rsquo;t use a flat Wacom tablet and a Wacom cintiq at the same time.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>GDquest news and Krita 3.0 pre-alpha 3</title>
-      <link>http://gdquest.com/post/community/GDquest-news-and-Krita-3.0-pre-alpha/</link>
-      <pubDate>Wed, 16 Mar 2016 08:25:29 +0100</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/post/community/GDquest-news-and-Krita-3.0-pre-alpha/</guid>
-      <description>
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/JWwpm4hs0l0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Hi there! I wanted to keep you posted on what is going on right now with GDquest. The video says it all, but I’m going to sum up the news below.&lt;/p&gt;
-
-&lt;p&gt;With one last contract finished last week, and the series on monster design done, I am now working full-time on Game Art Quest. My top priority is to release the first version of the GAQ Krita brush back and to finish chapter 0 in the training. Once this is done, I will start releasing videos from the training publicly, at the rate of 1 to 2 per week.&lt;/p&gt;
-
-&lt;p&gt;I released the first 5 soundtracks from the project in an album called &lt;a href=&#34;https://gdquest.bandcamp.com/album/space-adventures&#34;&gt;Space Adventures&lt;/a&gt;. They are available under the &lt;strong&gt;Creative Commons 4.0 license&lt;/strong&gt;, so you can use them in &lt;strong&gt;both personal and commercial projects&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;iframe style=&#34;border: 0; width: 700px; height: 307px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=1579881958/size=large/bgcol=333333/linkcol=e99708/artwork=small/transparent=true/&#34; seamless&gt;&lt;a href=&#34;http://gdquest.bandcamp.com/album/space-adventures&#34;&gt;Space adventures by Nathan Lovato&lt;/a&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&#34;your-votes-for-future-tutorials&#34;&gt;Your votes for future tutorials&lt;/h2&gt;
-
-&lt;p&gt;Since January, I have been &lt;a href=&#34;http://gdquest.com/post/community/vote-for-upcoming-tutorials-january-2016/&#34;&gt;running a vote&lt;/a&gt; to ask you which tutorial series you wanted me to do this year aside from Krita. More than 400 people voted, and here are the themes you picked:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Overview of Godot 2.0, the open source game engine, for 2d games&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Painting rock and grass tiles for 2d games&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Human proportions, from reality to games&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;This is great, as they will reinforce &lt;a href=&#34;http://gdquest.com/krita-tutorial&#34;&gt;Game Art Quest&lt;/a&gt;. I might also do the 4th one, the Overview of &lt;a href=&#34;http://superpowers-html5.com/&#34;&gt;Superpowers, the collaborative HTML5 game engine&lt;/a&gt;, as time permits.&lt;/p&gt;
-
-&lt;h2 id=&#34;krita-3-0-pre-alpha-3&#34;&gt;Krita 3.0, pre-alpha 3&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;\img\post\community\krita-gradient-map.png&#34; alt=&#34;Krita gradient map filter&#34; class=&#34;img-responsive&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The 3rd pre-alpha of Krita 3.0 was released! The development entered a feature-frozen state, and the full release of Krita 3.0 is planned for April 27. The features that didn’t make it in this version will be available in Krita 3.1.&lt;/p&gt;
-
-&lt;p&gt;Here’s a quick list of what is new in this pre-alpha:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The improvements to the layer docker&lt;/li&gt;
-&lt;li&gt;The new grid and guides system, along with snapping&lt;/li&gt;
-&lt;li&gt;A gradient map filter&lt;/li&gt;
-&lt;li&gt;A greater alpha blending mode, useful for painting with the pixel brush engine&lt;/li&gt;
-&lt;li&gt;The foundations for 2 exporters. One is for spriter, the animation application for 2d games, and the other one is a csv-based format to exports animated sequences from krita.&lt;/li&gt;
-&lt;li&gt;A variety of improvements to the move tool, the crop tool, the assistants…&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Head on to the dedicated article on the official website to find the builds along with download instructions. It also features an exhaustive list of changes in this version.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;That’s it for this update. See you soon, in the next one!&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

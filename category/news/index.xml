@@ -11,6 +11,38 @@
     <atom:link href="http://gdquest.com/category/news/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>freebies</title>
+      <link>http://gdquest.com/free-game-creation-resources</link>
+      <pubDate>Tue, 14 Mar 2017 09:00:51 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/free-game-creation-resources</guid>
+      <description>
+
+&lt;h2 id=&#34;open-source-game-assets&#34;&gt;Open source game assets&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Space Adventures&lt;/strong&gt;: 5 electro-futuristic game soundtrack&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gdquest.bandcamp.com/album/space-adventures&#34;&gt;
+  &lt;img src=&#34;\img\page\game-art-quest\space-adventures-free-game-soundtrack-bandcamp.jpg&#34; alt=&#34;Space adventures album cover&#34; class=&#34;img-responsive&#34;/&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&#34;text-center&#34;&gt;
+  &lt;!-- CC 4.0 BY LICENCE --&gt;
+  &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;span xmlns:dct=&#34;http://purl.org/dc/terms/&#34; property=&#34;dct:title&#34;&gt;Space adventures&lt;/span&gt; by &lt;a xmlns:cc=&#34;http://creativecommons.org/ns#&#34; href=&#34;gdquest.com&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;GDquest&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;Creative Commons Attribution 4.0 International License&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Open Game Art&lt;/strong&gt;&lt;br&gt;
+Game asset repository
+&lt;/p&gt;
+&lt;a href=&#34;http://opengameart.org/users/gdquest&#34;&gt;
+&lt;img src=&#34;\img\page\game-art-quest\GDquest-Freebies-Open-Source-Art-Pack-002-Xbox-Buttons.jpg&#34; alt=&#34;Free Xbox buttons&#34; class=&#34;img-responsive&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;More coming in the future!&lt;/strong&gt; In the meantime, check out my existing assets on &lt;a href=&#34;http://opengameart.org/users/gdquest&#34;&gt;OpenGameArt&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Learn Professional Painterly Game Art with Krita - Out in early access!</title>
       <link>http://gdquest.com/post/news/2017/gaq-early-access/</link>
       <pubDate>Mon, 27 Feb 2017 09:45:11 +0100</pubDate>
