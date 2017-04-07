@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gdquest on GDquest</title>
+    <link>http://gdquest.com/tags/gdquest/index.xml</link>
+    <description>Recent content in Gdquest on GDquest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <atom:link href="http://gdquest.com/tags/gdquest/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>freebies</title>
+      <link>http://gdquest.com/free-game-creation-resources</link>
+      <pubDate>Tue, 14 Mar 2017 09:00:51 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/free-game-creation-resources</guid>
+      <description>
+
+&lt;h2 id=&#34;open-source-game-assets&#34;&gt;Open source game assets&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Space Adventures&lt;/strong&gt;: 5 electro-futuristic game soundtrack&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://gdquest.bandcamp.com/album/space-adventures&#34;&gt;
+  &lt;img src=&#34;\img\page\game-art-quest\space-adventures-free-game-soundtrack-bandcamp.jpg&#34; alt=&#34;Space adventures album cover&#34; class=&#34;img-responsive&#34;/&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&#34;text-center&#34;&gt;
+  &lt;!-- CC 4.0 BY LICENCE --&gt;
+  &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;span xmlns:dct=&#34;http://purl.org/dc/terms/&#34; property=&#34;dct:title&#34;&gt;Space adventures&lt;/span&gt; by &lt;a xmlns:cc=&#34;http://creativecommons.org/ns#&#34; href=&#34;gdquest.com&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;GDquest&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;Creative Commons Attribution 4.0 International License&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Open Game Art&lt;/strong&gt;&lt;br&gt;
+Game asset repository
+&lt;/p&gt;
+&lt;a href=&#34;http://opengameart.org/users/gdquest&#34;&gt;
+&lt;img src=&#34;\img\page\game-art-quest\GDquest-Freebies-Open-Source-Art-Pack-002-Xbox-Buttons.jpg&#34; alt=&#34;Free Xbox buttons&#34; class=&#34;img-responsive&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;More coming in the future!&lt;/strong&gt; In the meantime, check out my existing assets on &lt;a href=&#34;http://opengameart.org/users/gdquest&#34;&gt;OpenGameArt&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Construct 2 tutorials</title>
+      <link>http://gdquest.com/old/construct-2/</link>
+      <pubDate>Mon, 13 Mar 2017 20:42:51 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/old/construct-2/</guid>
+      <description>&lt;p&gt;In a another life, I wrote a handful of tutorials for Construct 2. They&amp;rsquo;re not on this website anymore, but you can still find them on the engine&amp;rsquo;s official website.&lt;/p&gt;
+
+&lt;p&gt;Now, I make videos tutorials about game creation with free, open source game creation tools: &lt;a href=&#34;http://gdquest.com&#34;&gt;learn more about GDquest&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Construct 2 tutorials:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/4838/grid-based-movement-using-the-tilemap-object-for-collisions&#34;&gt;Grid-Based movement using the Tilemap object for collisions.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1445/programming-simple-touch-qtes&#34;&gt;Programming simple touch QTEs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1430/quick-timer-events-from-a-game-design-perspective&#34;&gt;Quick Timer Events from a Game Design Perspective&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1405/top-down-jump-the-grasshopper&#34;&gt;Top Down Jump - The Grasshopper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1398/how-to-design-professional-looking-mobile-game-buttons&#34;&gt;How to design professional looking mobile game buttons&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1388/12-handy-free-productivity-tools-for-game-designers&#34;&gt;12 handy free productivity tools for game designers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1377/how-to-create-a-radial-lifebar-in-construct-2&#34;&gt;How to create a Radial Lifebar in Construct 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1365/how-to-code-faster-in-construct-2&#34;&gt;How to Code Faster in Construct 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1323/my-7-best-game-design-resources&#34;&gt;My 7 best game design resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1275/4-productivity-tricks-with-the-event-editor&#34;&gt;4 productivity tricks with the event editor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1158/how-to-ai-by-example-platform-follower&#34;&gt;How to AI by example - Platform follower&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1154/drastically-reduce-your-games-download-size-with-pngquant&#34;&gt;Drastically reduce your game&amp;rsquo;s download size with PNGquant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1139/how-to-simplify-your-ai-code-with-finite-state-machines&#34;&gt;How to simplify your AI code with Finite State Machines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1085/3-techniques-to-manage-complex-ui-with-construct-2&#34;&gt;3 techniques to manage complex UI with construct 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1080/how-to-do-advanced-callbacks-in-construct-2&#34;&gt;How to do advanced callbacks in Construct 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1077/4-lessons-learned-from-dan-the-rabbit&#34;&gt;4 lessons learned from Dan the Rabbit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1063/how-to-improve-your-construct-2-code-with-callbacks&#34;&gt;How to improve your Construct 2 code with Callbacks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1026/ceiling-walk&#34;&gt;Ceiling walk&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Game art tutorials:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1407/how-to-game-art-1-silhouettes&#34;&gt;How to game art #1 – Silhouettes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1410/how-to-game-art-2-drawing-game-assets&#34;&gt;How to game art #2 – Drawing game assets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1412/how-to-game-art-3-drawing-with-selections-in-photoshop&#34;&gt;How to game art #3 – Drawing with selections in Photoshop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1419/how-to-game-art-4-designing-a-cute-character&#34;&gt;How to game art #4 – Designing a cute character&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1426/how-to-game-art-5-the-principles-of-design&#34;&gt;How to game art #5 – The principles of design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1453/how-to-game-art-6-a-first-look-at-colors&#34;&gt;How to game art #6 - A first look at colors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1458/how-to-game-art-7-hue-shifting&#34;&gt;How to Game Art #7 - Hue Shifting&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learn Professional Painterly Game Art with Krita - Out in early access!</title>
+      <link>http://gdquest.com/post/2017/gaq-early-access/</link>
+      <pubDate>Mon, 27 Feb 2017 09:45:11 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2017/gaq-early-access/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Do you want to become a better artist? To learn how professionals make beautiful sprites?&lt;/strong&gt; Make professional painterly game art with Krita is a new premium training out in early access. It will show you how to make your own 2d game art with the open source painting program Krita.&lt;/p&gt;
+
+&lt;p&gt;It is available in 3 different versions to fit your budget and your very needs. You&amp;rsquo;ll get 20% off your purchase with the coupon code &amp;laquo;early&amp;raquo; for the duration of the early access. Learn more below:&lt;/p&gt;
+
+&lt;p&gt;&lt;script src=&#34;https://gumroad.com/js/gumroad-embed.js&#34;&gt;&lt;/script&gt;
+&lt;div class=&#34;gumroad-product-embed&#34; data-gumroad-product-id=&#34;krita-game-art-tutorial-1&#34; data-outbound-embed=&#34;true&#34;&gt;&lt;a href=&#34;https://gumroad.com/l/krita-game-art-tutorial-1&#34;&gt;Loading&amp;hellip;&lt;/a&gt;&lt;/div&gt;
+&lt;noscript&gt;
+&lt;a href=&#34;http://gdquest.com/krita-professional-game-art-tutorial&#34;&gt;Access the Krita training&lt;/a&gt;
+&lt;/noscript&gt;&lt;/p&gt;
+
+&lt;p&gt;If you only want to know when the course will be out, subscribe below and I&amp;rsquo;ll let you know via email:&lt;/p&gt;
+
+&lt;style&gt;.gumroad-follow-form-embed button,.gumroad-follow-form-embed input{font-size:15px;font-family:-apple-system,&#34;.SFNSDisplay-Regular&#34;,&#34;Helvetica Neue&#34;,Helvetica,Arial,sans-serif;height:40px!important}.gumroad-follow-form-embed{zoom:1}.gumroad-follow-form-embed:after,.gumroad-follow-form-embed:before{display:table;line-height:0;content:&#34;&#34;}.gumroad-follow-form-embed:after{clear:both}.gumroad-follow-form-embed *{margin:0;border:0;padding:0;outline:0;box-sizing:border-box!important;float:left!important}.gumroad-follow-form-embed input{border-radius:4px 0 0 4px;line-height:20px;background:top right no-repeat #fff;border:1px solid #ddd;border-right:0;color:#aaa;padding:10px;box-shadow:inset 0 1px 0 rgba(0,0,0,.02);text-rendering:optimizeLegibility;font-smoothing:antialiased;-webkit-appearance:none;-moz-appearance:caret;width:65%!important}.gumroad-follow-form-embed button{border-radius:0 4px 4px 0;box-shadow:0 1px 1px rgba(0,0,0,.12);-webkit-transition:all .05s ease-in-out;transition:all .05s ease-in-out;display:inline-block;padding:11px 15px 12px;cursor:pointer;color:#fff;line-height:100%;border:1px solid #31989d;filter:&#34;progid:DXImageTransform.Microsoft.gradient(startColorstr=#5ccfd4, endColorstr=#329ca1, GradientType=0)&#34;;background:-webkit-linear-gradient(top,#5ccfd4,#329ca1);background:linear-gradient(to bottom,#5ccfd4,#329ca1);width:35%!important}&lt;/style&gt;&lt;form action=&#34;https://gumroad.com/follow_from_embed_form&#34; class=&#34;form gumroad-follow-form-embed&#34; method=&#34;post&#34;&gt;&lt;input name=&#34;seller_id&#34; type=&#34;hidden&#34; value=&#34;6873367754130&#34;&gt; &lt;input name=&#34;email&#34; placeholder=&#34;Your email address&#34; type=&#34;email&#34;&gt; &lt;button data-custom-highlight-color=&#34;&#34; type=&#34;submit&#34;&gt;Sign up&lt;/button&gt;&lt;/form&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In the office - January news</title>
+      <link>http://gdquest.com/post/2017/in-the-office/</link>
+      <pubDate>Sat, 21 Jan 2017 17:35:09 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2017/in-the-office/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/aouow3pfa7Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;The past 2 months have been hectic. I’ll pass on the details, but since a few days, I’m renting an office. After so much time struggling to work from home, you can’t imagine how great it feels! I not only have access to the room 24/7, it’s also part of a local business incubator. The structure offer a lot of support, free training on accounting, management, legal stuff… All of which is quite complex in France. The building is great, and there are other entrepreneurs to share your thoughts and struggles with. Actually, the team in the office right in front of mine is into 3-D printing, and they are super nice.&lt;/p&gt;
+
+&lt;p&gt;Anyway, it’s news time. In this month’s update, we talk about the weekly releases on the premium game art tutorial, the Godot tutorial series that’s happening right now on the channel, and FOSDEM and GodotCon, 2 events taking place from February 4 to 7. I’m going to give the Godot team a hand and prepare some upcoming project, so we can meet there! To get more details about all of that, I invite you to watch the video.&lt;/p&gt;
+
+&lt;p&gt;See you in February for the next update!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
