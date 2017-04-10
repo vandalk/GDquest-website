@@ -34,41 +34,62 @@
     </item>
     
     <item>
-      <title>Game Art Quest</title>
-      <link>http://gdquest.com/krita-tutorial</link>
+      <title>Krita</title>
+      <link>http://gdquest.com/krita/game_art_quest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/krita-tutorial</guid>
+      <guid>http://gdquest.com/krita/game_art_quest/</guid>
       <description>
 
 &lt;h2 id=&#34;free-krita-tutorial-for-game-artists&#34;&gt;Free Krita tutorial for game artists&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/page/game-art-quest/krita-tutorial-banner.jpg&#34; alt=&#34;Game Art Quest volume 1 banner: Free Krita tutorials&#34; class=&#34;banner-img -yellow&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;card-box&#34;&gt;
+&lt;img src=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;
+       data-src=&#34;/img/page/game-art-quest/krita-tutorial-banner.jpg&#34;
+       alt=&#34;Game Art Quest volume 1 banner: Free Krita tutorials&#34;
+       class=&#34;lazy banner-img -yellow&#34; /&gt;
+&lt;noscript&gt;
+    &lt;img src=&#34;http://gdquest.com/img/page/game-art-quest/krita-tutorial-banner.jpg&#34; alt=&#34;Game Art Quest volume 1 banner: Free Krita tutorials&#34; class=&#34;lazy banner-img banner-img -yellow&#34; /&gt;
+&lt;/noscript&gt;
 
-&lt;p&gt;This free Krita tutorial focuses on the tools the program offers for game artists and digital painters. It covers the essential tools you need to work efficiently. It was funded by 424 artists on Kickstarter.&lt;/p&gt;
+&lt;div class=&#34;content&#34;&gt;
+A free Krita course focusing on the tools the program offers for game artists and digital painters. It covers everything you need to work efficiently.
 
-&lt;div grid&gt;
-  &lt;div column class=&#34;-center&#34;&gt;
-    &lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt; 
-      &lt;button class=&#34;-bordered -call-to-action&#34;&gt;&lt;i class=&#34;my-fa fa-book
+  &lt;div grid&gt;
+    &lt;div column class=&#34;-center&#34;&gt;
+      &lt;a href=&#34;http://gdquest.com/tutorial/art/krita_tutorial_for_game_artists/&#34;&gt; 
+        &lt;button class=&#34;-bordered -call-to-action&#34;&gt;&lt;i class=&#34;my-fa fa-book
 default
 &#34;&gt;&lt;/i&gt;
  Free course&lt;/button&gt;
-    &lt;/a&gt;
-    &lt;a href=&#34;http://gdquest.com/product/krita-brushes/&#34;&gt; 
-      &lt;button class=&#34;-bordered -call-to-action -success&#34;&gt;&lt;i class=&#34;my-fa fa-paint-brush
+      &lt;/a&gt;
+      &lt;a href=&#34;http://gdquest.com/product/krita_brushes/&#34;&gt; 
+        &lt;button class=&#34;-bordered -call-to-action -success&#34;&gt;&lt;i class=&#34;my-fa fa-paint-brush
 success
 &#34;&gt;&lt;/i&gt;
  Krita brushes&lt;/button&gt;
-    &lt;/a&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
   &lt;/div&gt;
-&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
 
 &lt;hr&gt;
 
-&lt;h2 id=&#34;make-professional-painterly-game-art-with-krita&#34;&gt;Make Professional Painterly Game Art with Krita&lt;/h2&gt;
+&lt;div class=&#34;card-box&#34;&gt;
+## Make Professional Painterly Game Art with Krita
 
-&lt;p&gt;&lt;img src=&#34;\img\page\product\krita-tutorial-1\krita-game-art-tutorial-1-banner.jpg&#34; alt=&#34;Game Art Quest volume 2 banner - painterly art&#34; class=&#34;banner-img -yellow&#34;/&gt;&lt;/p&gt;
+&lt;img src=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;
+       data-src=&#34;/img/page/product/krita-tutorial-1/krita-game-art-tutorial-1-banner.jpg&#34;
+       alt=&#34;Game Art Quest volume 2 banner - painterly art&#34;
+       class=&#34;lazy banner-img -yellow&#34; /&gt;
+&lt;noscript&gt;
+    &lt;img src=&#34;http://gdquest.com/img/page/product/krita-tutorial-1/krita-game-art-tutorial-1-banner.jpg&#34; alt=&#34;Game Art Quest volume 2 banner - painterly art&#34; class=&#34;lazy banner-img banner-img -yellow&#34; /&gt;
+&lt;/noscript&gt;
+
+&lt;div class=&#34;content&#34;&gt;
+Want to go a step further and learn to make professional sprites? Then, this course is for you.
 
 &lt;div grid&gt;
   &lt;div column class=&#34;-center&#34;&gt;
@@ -81,37 +102,42 @@ default
   &lt;/div&gt;
 &lt;/div&gt;
 
+&lt;p&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
 &lt;h2 id=&#34;discover-game-art-quest&#34;&gt;Discover Game Art Quest!&lt;/h2&gt;
 
 &lt;h3 id=&#34;do-you-want-to-become-a-better-2d-game-artist&#34;&gt;Do you want to become a better 2d game artist?&lt;/h3&gt;
 
-&lt;p&gt;You came to the right place! Using &lt;strong&gt;Krita, a free and open source painting application&lt;/strong&gt;, Game Art Quest will show you both &lt;strong&gt;essential concepts&lt;/strong&gt; and &lt;strong&gt;concrete techniques&lt;/strong&gt; professionals use on a daily basis. It is a training series in 3 volumes. The first one is &lt;strong&gt;completely free&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;You came to the right place! Using &lt;strong&gt;Krita, a free and open source painting application&lt;/strong&gt;, Game Art Quest will show you both &lt;strong&gt;essential concepts&lt;/strong&gt; and &lt;strong&gt;concrete techniques&lt;/strong&gt; professionals use on a daily basis. &lt;a href=&#34;http://gdquest.com/tutorial/art/krita_tutorial_for_game_artists/&#34;&gt;The first course&lt;/a&gt; in the series is &lt;strong&gt;completely free&lt;/strong&gt; (6 hours of tutorials).&lt;/p&gt;
 
-&lt;p&gt;In this series, &lt;strong&gt;I will run you through the process of creating professional grade static assets for games&lt;/strong&gt;. I will share my workflow and my productivity tricks. Not only that! I will show you how Krita is becoming a solid option for professional work.&lt;/p&gt;
+&lt;p&gt;In this series, &lt;strong&gt;I run you through the process of creating professional sprites for games&lt;/strong&gt;. I share my workflow and productivity tricks. Not only that! I will that Krita is the leading Free and Open Source digital painting program today.&lt;/p&gt;
 
-&lt;p&gt;Although we’ll use Krita, the concepts you will learn apply to any painting application or medium. To become a more efficient game artist, you have to sharpen your observation skills and explore drawing techniques. These are the same regardless of the tools you are using, and that’s what we&amp;rsquo;re going to see.&lt;/p&gt;
+&lt;p&gt;To become a more efficient artist, you have to sharpen your observation skills and explore fundamental techniques. These are the same regardless of the tools you are using, so the concepts you will learn apply to any painting application.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;\img\page\game-art-quest\krita-screenshot.png&#34; alt=&#34;Nathan&#39;s picture&#34; class=&#34;img-responsive&#34;/&gt;&lt;/p&gt;
+&lt;img src=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;
+       data-src=&#34;/img/page/game-art-quest/krita-screenshot.png&#34;
+       alt=&#34;Nathan&amp;#39;s picture&#34;
+       class=&#34;lazy -blue&#34; /&gt;
+&lt;noscript&gt;
+    &lt;img src=&#34;http://gdquest.com/img/page/game-art-quest/krita-screenshot.png&#34; alt=&#34;Nathan&amp;#39;s picture&#34; class=&#34;lazy banner-img -blue&#34; /&gt;
+&lt;/noscript&gt;
 
-&lt;p&gt;The series will also cover the unique constraints we game artists face in our work. As a game artist, you have to make assets with a target resolution and camera in mind. You have to carefully draw your alpha masks. More importantly, as a game artist, &lt;strong&gt;your art has to support the gameplay: it shapes the game experience&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;http://gdquest.com/krita-professional-game-art-tutorial&#34;&gt;second course&lt;/a&gt; also covers the unique constraints game artists face in their work. You have to make assets with a target resolution and camera in mind. You have to carefully draw your alpha masks. More importantly, as a game artist, &lt;strong&gt;your art has to support the gameplay: it shapes the game experience&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;If you don&amp;rsquo;t know Krita yet, check out my &lt;a href=&#34;https://www.youtube.com/playlist?list=PLhqJJNjsQ7KE3FLHIE31UgmLdcqsZfXTw&#34;&gt;19 YouTube tutorials&lt;/a&gt; dedicated to it! And &lt;a href=&#34;https://krita.org/download/krita-desktop/&#34;&gt;click here&lt;/a&gt; to download the application. It&amp;rsquo;s available on Windows, Linux and Mac (&lt;em&gt;port in progress&lt;/em&gt;).&lt;/p&gt;
-
-&lt;p&gt;Game Art Quest was funded &lt;a href=&#34;https://www.kickstarter.com/projects/gdquest/game-art-quest-make-professional-2d-art-with-krita&#34;&gt;on Kickstarter&lt;/a&gt; by 424 generous backers!&lt;/p&gt;
-
-&lt;p&gt;This page is a hub for all of the activity linked to the project. Here, you will find open source game assets, the free Krita training, as well as a frequently updated roadmap.&lt;/p&gt;
+&lt;p&gt;Game Art Quest was funded &lt;a href=&#34;https://www.kickstarter.com/projects/gdquest/game-art-quest-make-professional-2d-art-with-krita&#34;&gt;on Kickstarter&lt;/a&gt; by 424 artists!&lt;/p&gt;
 
 &lt;h3 id=&#34;who-am-i-to-teach-you-game-art&#34;&gt;Who am I to teach you game art?&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;\img\page\game-art-quest\i-am-nathan.jpg&#34; alt=&#34;Nathan&#39;s picture&#34; class=&#34;img-responsive&#34;/&gt;&lt;/p&gt;
+&lt;img src=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;
+       data-src=&#34;/img/page/game-art-quest/i-am-nathan.jpg&#34;
+       alt=&#34;Nathan&amp;#39;s picture&#34;
+       class=&#34;lazy -blue&#34; /&gt;
+&lt;noscript&gt;
+    &lt;img src=&#34;http://gdquest.com/img/page/game-art-quest/i-am-nathan.jpg&#34; alt=&#34;Nathan&amp;#39;s picture&#34; class=&#34;lazy banner-img -blue&#34; /&gt;
+&lt;/noscript&gt;
 
-&lt;p&gt;I’m Nathan Lovato, a game designer. I the run &lt;a href=&#34;http://youtube.com/c/gdquest&#34;&gt;GDquest&lt;/a&gt; a Youtube education channel dedicated to game art and game design. Every week, I release a new tutorial. I have made dozens of tutorials already! You can find them all &lt;a href=&#34;https://game-design-tutorials.zeef.com/nathan.lovato&#34;&gt;on that page&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m working &lt;strong&gt;hand in hand with the Krita developers&lt;/strong&gt;. They review my work to ensure that you get the best Krita training possible!&lt;/p&gt;
-
-&lt;h2 id=&#34;open-source-assets&#34;&gt;Open source assets&lt;/h2&gt;
-
-&lt;p&gt;Check out the &lt;a href=&#34;http://gdquest.com/free-game-creation-resources&#34;&gt;open source game assets&lt;/a&gt; page for free resources.&lt;/p&gt;
+&lt;p&gt;I’m Nathan Lovato, a game designer. I the run &lt;a href=&#34;http://youtube.com/c/gdquest&#34;&gt;GDquest&lt;/a&gt;, a Youtube channel dedicated to game art and game design. Every week, I release a new tutorial. I have released more than 200 videos already! You can find most of them in the tutorial section.&lt;/p&gt;
 </description>
     </item>
     

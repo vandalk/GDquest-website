@@ -8,40 +8,8 @@
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Tue, 14 Mar 2017 09:00:51 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 22 Feb 2017 15:11:59 +0100</lastBuildDate>
     <atom:link href="http://gdquest.com/product/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>freebies</title>
-      <link>http://gdquest.com/free-game-creation-resources</link>
-      <pubDate>Tue, 14 Mar 2017 09:00:51 +0100</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/free-game-creation-resources</guid>
-      <description>
-
-&lt;h2 id=&#34;open-source-game-assets&#34;&gt;Open source game assets&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Space Adventures&lt;/strong&gt;: 5 electro-futuristic game soundtrack&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gdquest.bandcamp.com/album/space-adventures&#34;&gt;
-  &lt;img src=&#34;\img\page\game-art-quest\space-adventures-free-game-soundtrack-bandcamp.jpg&#34; alt=&#34;Space adventures album cover&#34; class=&#34;img-responsive&#34;/&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&#34;text-center&#34;&gt;
-  &lt;!-- CC 4.0 BY LICENCE --&gt;
-  &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;span xmlns:dct=&#34;http://purl.org/dc/terms/&#34; property=&#34;dct:title&#34;&gt;Space adventures&lt;/span&gt; by &lt;a xmlns:cc=&#34;http://creativecommons.org/ns#&#34; href=&#34;gdquest.com&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;GDquest&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;Creative Commons Attribution 4.0 International License&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Open Game Art&lt;/strong&gt;&lt;br&gt;
-Game asset repository
-&lt;/p&gt;
-&lt;a href=&#34;http://opengameart.org/users/gdquest&#34;&gt;
-&lt;img src=&#34;\img\page\game-art-quest\GDquest-Freebies-Open-Source-Art-Pack-002-Xbox-Buttons.jpg&#34; alt=&#34;Free Xbox buttons&#34; class=&#34;img-responsive&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;More coming in the future!&lt;/strong&gt; In the meantime, check out my existing assets on &lt;a href=&#34;http://opengameart.org/users/gdquest&#34;&gt;OpenGameArt&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Learn to Make Professional Painterly Game Art with Krita</title>
@@ -104,7 +72,7 @@ Game asset repository
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
 
 &lt;p&gt;You have some experience with drawing and digital art.
-If you don&amp;rsquo;t know how to use Krita, I made a &lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;FREE Krita tutorial series&lt;/a&gt;. It&amp;rsquo;s more than 6 hours long! In this course, you will learn the tools you need to work comfortably and efficiently with the program.&lt;/p&gt;
+If you don&amp;rsquo;t know how to use Krita, I made a &lt;a href=&#34;http://gdquest.com/tutorial/art/krita_tutorial_for_game_artists/&#34;&gt;FREE Krita tutorial series&lt;/a&gt;. It&amp;rsquo;s more than 6 hours long! In this course, you will learn the tools you need to work comfortably and efficiently with the program.&lt;/p&gt;
 
 &lt;p&gt;Krita is an award winning, free and open source painting program. It is available on all desktop platforms (&lt;em&gt;Windows, Mac, Linux&lt;/em&gt;). You can download it on the &lt;a href=&#34;https://krita.org/en/download/krita-desktop/&#34;&gt;Krita foundation&amp;rsquo;s website&lt;/a&gt;.&lt;/p&gt;
 
@@ -116,10 +84,10 @@ If you don&amp;rsquo;t know how to use Krita, I made a &lt;a href=&#34;http://gd
     
     <item>
       <title>Krita Brushes For Game Artists</title>
-      <link>http://gdquest.com/product/krita-brushes/</link>
+      <link>http://gdquest.com/product/krita_brushes/</link>
       <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/product/krita-brushes/</guid>
+      <guid>http://gdquest.com/product/krita_brushes/</guid>
       <description>
 
 &lt;p&gt;Version 12 (&lt;em&gt;March 2017&lt;/em&gt;) contains:&lt;/p&gt;

@@ -11,38 +11,6 @@
     <atom:link href="http://gdquest.com/category/news/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>freebies</title>
-      <link>http://gdquest.com/free-game-creation-resources</link>
-      <pubDate>Tue, 14 Mar 2017 09:00:51 +0100</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/free-game-creation-resources</guid>
-      <description>
-
-&lt;h2 id=&#34;open-source-game-assets&#34;&gt;Open source game assets&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Space Adventures&lt;/strong&gt;: 5 electro-futuristic game soundtrack&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gdquest.bandcamp.com/album/space-adventures&#34;&gt;
-  &lt;img src=&#34;\img\page\game-art-quest\space-adventures-free-game-soundtrack-bandcamp.jpg&#34; alt=&#34;Space adventures album cover&#34; class=&#34;img-responsive&#34;/&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&#34;text-center&#34;&gt;
-  &lt;!-- CC 4.0 BY LICENCE --&gt;
-  &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;span xmlns:dct=&#34;http://purl.org/dc/terms/&#34; property=&#34;dct:title&#34;&gt;Space adventures&lt;/span&gt; by &lt;a xmlns:cc=&#34;http://creativecommons.org/ns#&#34; href=&#34;gdquest.com&#34; property=&#34;cc:attributionName&#34; rel=&#34;cc:attributionURL&#34;&gt;GDquest&lt;/a&gt; is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;Creative Commons Attribution 4.0 International License&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Open Game Art&lt;/strong&gt;&lt;br&gt;
-Game asset repository
-&lt;/p&gt;
-&lt;a href=&#34;http://opengameart.org/users/gdquest&#34;&gt;
-&lt;img src=&#34;\img\page\game-art-quest\GDquest-Freebies-Open-Source-Art-Pack-002-Xbox-Buttons.jpg&#34; alt=&#34;Free Xbox buttons&#34; class=&#34;img-responsive&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;More coming in the future!&lt;/strong&gt; In the meantime, check out my existing assets on &lt;a href=&#34;http://opengameart.org/users/gdquest&#34;&gt;OpenGameArt&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Learn Professional Painterly Game Art with Krita - Out in early access!</title>
       <link>http://gdquest.com/post/2017/gaq-early-access/</link>
       <pubDate>Mon, 27 Feb 2017 09:45:11 +0100</pubDate>
@@ -174,7 +142,7 @@ Nathan&lt;/p&gt;
 success
 &#34;&gt;&lt;/i&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;Available tutorials&lt;/a&gt; (free)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gdquest.com/tutorial/art/krita_tutorial_for_game_artists/&#34;&gt;Available tutorials&lt;/a&gt; (free)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;The extra premium brushes and their companion tutorials are also getting pretty big. With this month&amp;rsquo;s update, it now includes 34 presets and more than 30 minutes of video tutorials. And more coming monthly.&lt;/p&gt;
@@ -315,7 +283,7 @@ success
       <guid>http://gdquest.com/post/2016/kickstarter-news-june/</guid>
       <description>
 
-&lt;p&gt;We&amp;rsquo;re getting to the end of June. It&amp;rsquo;s time to sum up all that&amp;rsquo;s been happening this month. The short version: I kept improving the website, went to the biggest yearly KDE development sprint in Randa, Switzerland, and added about 1h of tutorials dedicated to Krita 3&amp;rsquo;s new features in the &lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;Krita training&lt;/a&gt;. You can find more details about what happened in Randa, and what the plans are for July, below.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re getting to the end of June. It&amp;rsquo;s time to sum up all that&amp;rsquo;s been happening this month. The short version: I kept improving the website, went to the biggest yearly KDE development sprint in Randa, Switzerland, and added about 1h of tutorials dedicated to Krita 3&amp;rsquo;s new features in the &lt;a href=&#34;http://gdquest.com/tutorial/art/krita_tutorial_for_game_artists/&#34;&gt;Krita training&lt;/a&gt;. You can find more details about what happened in Randa, and what the plans are for July, below.&lt;/p&gt;
 
 &lt;h2 id=&#34;randa&#34;&gt;Randa&lt;/h2&gt;
 
@@ -375,9 +343,9 @@ success
 
 &lt;div grid&gt;
   &lt;div class=&#34;card-box&#34;&gt;
-    &lt;div class=&#34;card-image&#34;&gt;&lt;img src=&#34;http://gdquest.com/img/post/2016/05/krita-logo.png&#34; alt=&#34;Featured picture&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;image&#34;&gt;&lt;img src=&#34;http://gdquest.com/img/post/2016/05/krita-logo.png&#34; alt=&#34;Featured picture&#34;&gt;&lt;/div&gt;
     &lt;h3 class=&#34;card-title&#34;&gt;Krita 3 launch Youtube livestream&lt;/h3&gt;
-    &lt;div class=&#34;card-content&#34;&gt;&lt;p&gt;Krita 3 is out tomorrow! I will be live on YouTube to answer all of your questions about the program, GDquest, and game art in general. I will also create 2-D game assets to fill in the blanks. To join the event, click on the link below and show up tomorrow, at 6 PM &lt;abbr title=&#34;Central Europe Standard Time (UTC/GMT +2)&#34;&gt;CEST&lt;/abbr&gt;&lt;/p&gt;&lt;/div&gt;
+    &lt;div class=&#34;content&#34;&gt;&lt;p&gt;Krita 3 is out tomorrow! I will be live on YouTube to answer all of your questions about the program, GDquest, and game art in general. I will also create 2-D game assets to fill in the blanks. To join the event, click on the link below and show up tomorrow, at 6 PM &lt;abbr title=&#34;Central Europe Standard Time (UTC/GMT +2)&#34;&gt;CEST&lt;/abbr&gt;&lt;/p&gt;&lt;/div&gt;
 
     
     &lt;div class=&#34;card-footer -center&#34;&gt;
@@ -451,7 +419,7 @@ success
 &lt;li&gt;&lt;strong&gt;Human proportions, from reality to games&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;This is great, as they will reinforce &lt;a href=&#34;http://gdquest.com/krita-tutorial&#34;&gt;Game Art Quest&lt;/a&gt;. I might also do the 4th one, the Overview of &lt;a href=&#34;http://superpowers-html5.com/&#34;&gt;Superpowers, the collaborative HTML5 game engine&lt;/a&gt;, as time permits.&lt;/p&gt;
+&lt;p&gt;This is great, as they will reinforce &lt;a href=&#34;http://gdquest.com/krita/game_art_quest/&#34;&gt;Game Art Quest&lt;/a&gt;. I might also do the 4th one, the Overview of &lt;a href=&#34;http://superpowers-html5.com/&#34;&gt;Superpowers, the collaborative HTML5 game engine&lt;/a&gt;, as time permits.&lt;/p&gt;
 
 &lt;h2 id=&#34;krita-3-0-pre-alpha-3&#34;&gt;Krita 3.0, pre-alpha 3&lt;/h2&gt;
 

@@ -30,24 +30,34 @@ default
 &lt;li&gt;&lt;i class=&#34;my-fa fa-paint-brush
 success
 &#34;&gt;&lt;/i&gt;
- &lt;a href=&#34;http://gdquest.com/product/krita-brushes/&#34;&gt;Krita brushes&lt;/a&gt;&lt;/li&gt;
+ &lt;a href=&#34;http://gdquest.com/product/krita_brushes/&#34;&gt;Krita brushes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;i class=&#34;my-fa fa-book
 success
 &#34;&gt;&lt;/i&gt;
  &lt;a href=&#34;http://gdquest.com/krita-professional-game-art-tutorial&#34;&gt;Make Professional Painterly Game Art with Krita&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;i class=&#34;my-fa fa-book
 &#34;&gt;&lt;/i&gt;
- &lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;Free Krita tutorial for Game Artists&lt;/a&gt;&lt;/li&gt;
+ &lt;a href=&#34;http://gdquest.com/tutorial/art/krita_tutorial_for_game_artists/&#34;&gt;Free Krita tutorial for Game Artists&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
+      <title>Intro to the Godot game engine</title>
+      <link>http://gdquest.com/tutorial/game_design/godot/introduction_to_godot/</link>
+      <pubDate>Wed, 15 Feb 2017 15:25:47 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game_design/godot/introduction_to_godot/</guid>
+      <description>&lt;p&gt;Welcome to the first free tutorial series on GDquest that&amp;rsquo;s dedicated to Godot! Over the course of 1h, it&amp;rsquo;ll teach you some basic concepts with the engine.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Free Krita Tutorial For Game Artists</title>
-      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/</link>
+      <link>http://gdquest.com/tutorial/art/krita_tutorial_for_game_artists/</link>
       <pubDate>Mon, 08 Feb 2016 17:55:44 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/</guid>
+      <guid>http://gdquest.com/tutorial/art/krita_tutorial_for_game_artists/</guid>
       <description>&lt;p&gt;&lt;strong&gt;If you want to become a better 2-D game artist, this training is for you&lt;/strong&gt;. It will teach you how to work with Krita, a mature open source digital painting program. In 6 chapters, we will explore the most important features krita has to offer to game artists. Cherry on the cake: the tutorials are completely free! And if you have some experience already and want to go further, I&amp;rsquo;m working on a new &lt;a href=&#34;https://gumroad.com/l/krita-game-art-tutorial-1&#34;&gt;Krita game art workshop&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

@@ -29,15 +29,25 @@ default
 &lt;li&gt;&lt;i class=&#34;my-fa fa-paint-brush
 success
 &#34;&gt;&lt;/i&gt;
- &lt;a href=&#34;http://gdquest.com/product/krita-brushes/&#34;&gt;Krita brushes&lt;/a&gt;&lt;/li&gt;
+ &lt;a href=&#34;http://gdquest.com/product/krita_brushes/&#34;&gt;Krita brushes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;i class=&#34;my-fa fa-book
 success
 &#34;&gt;&lt;/i&gt;
  &lt;a href=&#34;http://gdquest.com/krita-professional-game-art-tutorial&#34;&gt;Make Professional Painterly Game Art with Krita&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;i class=&#34;my-fa fa-book
 &#34;&gt;&lt;/i&gt;
- &lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;Free Krita tutorial for Game Artists&lt;/a&gt;&lt;/li&gt;
+ &lt;a href=&#34;http://gdquest.com/tutorial/art/krita_tutorial_for_game_artists/&#34;&gt;Free Krita tutorial for Game Artists&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intro to the Godot game engine</title>
+      <link>http://gdquest.com/tutorial/game_design/godot/introduction_to_godot/</link>
+      <pubDate>Wed, 15 Feb 2017 15:25:47 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game_design/godot/introduction_to_godot/</guid>
+      <description>&lt;p&gt;Welcome to the first free tutorial series on GDquest that&amp;rsquo;s dedicated to Godot! Over the course of 1h, it&amp;rsquo;ll teach you some basic concepts with the engine.&lt;/p&gt;
 </description>
     </item>
     
