@@ -44,66 +44,60 @@
 &lt;h2 id=&#34;free-krita-tutorial-for-game-artists&#34;&gt;Free Krita tutorial for game artists&lt;/h2&gt;
 
 &lt;div class=&#34;card-box&#34;&gt;
-&lt;img src=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;
+  &lt;img src=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;
        data-src=&#34;/img/page/game-art-quest/krita-tutorial-banner.jpg&#34;
        alt=&#34;Game Art Quest volume 1 banner: Free Krita tutorials&#34;
        class=&#34;lazy banner-img -yellow&#34; /&gt;
 &lt;noscript&gt;
     &lt;img src=&#34;http://gdquest.com/img/page/game-art-quest/krita-tutorial-banner.jpg&#34; alt=&#34;Game Art Quest volume 1 banner: Free Krita tutorials&#34; class=&#34;lazy banner-img banner-img -yellow&#34; /&gt;
 &lt;/noscript&gt;
-
-&lt;div class=&#34;content&#34;&gt;
-A free Krita course focusing on the tools the program offers for game artists and digital painters. It covers everything you need to work efficiently.
-
-  &lt;div grid&gt;
-    &lt;div column class=&#34;-center&#34;&gt;
-      &lt;a href=&#34;http://gdquest.com/tutorial/art/krita_tutorial_for_game_artists/&#34;&gt; 
-        &lt;button class=&#34;-bordered -call-to-action&#34;&gt;&lt;i class=&#34;my-fa fa-book
+  &lt;div class=&#34;content&#34;&gt;
+    A free Krita course focusing on the tools the program offers for game artists and digital painters. It covers everything you need to work efficiently.
+    &lt;div grid&gt;
+      &lt;div column class=&#34;-center&#34;&gt;
+        &lt;a href=&#34;http://gdquest.com/tutorial/art/krita_tutorial_for_game_artists/&#34;&gt; 
+          &lt;button class=&#34;-bordered -call-to-action&#34;&gt;&lt;i class=&#34;my-fa fa-book
 default
 &#34;&gt;&lt;/i&gt;
  Free course&lt;/button&gt;
-      &lt;/a&gt;
-      &lt;a href=&#34;http://gdquest.com/product/krita_brushes/&#34;&gt; 
-        &lt;button class=&#34;-bordered -call-to-action -success&#34;&gt;&lt;i class=&#34;my-fa fa-paint-brush
+        &lt;/a&gt;
+        &lt;a href=&#34;http://gdquest.com/product/krita_brushes/&#34;&gt; 
+          &lt;button class=&#34;-bordered -call-to-action -success&#34;&gt;&lt;i class=&#34;my-fa fa-paint-brush
 success
 &#34;&gt;&lt;/i&gt;
  Krita brushes&lt;/button&gt;
-      &lt;/a&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;hr&gt;
 
-&lt;div class=&#34;card-box&#34;&gt;
-## Make Professional Painterly Game Art with Krita
+&lt;h2 id=&#34;make-professional-painterly-game-art-with-krita&#34;&gt;Make Professional Painterly Game Art with Krita&lt;/h2&gt;
 
-&lt;img src=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;
+&lt;div class=&#34;card-box&#34;&gt;
+  &lt;img src=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;
        data-src=&#34;/img/page/product/krita-tutorial-1/krita-game-art-tutorial-1-banner.jpg&#34;
        alt=&#34;Game Art Quest volume 2 banner - painterly art&#34;
        class=&#34;lazy banner-img -yellow&#34; /&gt;
 &lt;noscript&gt;
     &lt;img src=&#34;http://gdquest.com/img/page/product/krita-tutorial-1/krita-game-art-tutorial-1-banner.jpg&#34; alt=&#34;Game Art Quest volume 2 banner - painterly art&#34; class=&#34;lazy banner-img banner-img -yellow&#34; /&gt;
 &lt;/noscript&gt;
-
-&lt;div class=&#34;content&#34;&gt;
-Want to go a step further and learn to make professional sprites? Then, this course is for you.
-
-&lt;div grid&gt;
-  &lt;div column class=&#34;-center&#34;&gt;
-    &lt;a href=&#34;http://gdquest.com/krita-professional-game-art-tutorial&#34;&gt; 
-      &lt;button class=&#34;-bordered -call-to-action -success&#34;&gt;&lt;i class=&#34;my-fa fa-book
+  &lt;div class=&#34;content&#34;&gt;
+    Want to go a step further and learn to make professional sprites? Then, this course is for you.
+    &lt;div grid&gt;
+      &lt;div column class=&#34;-center&#34;&gt;
+        &lt;a href=&#34;http://gdquest.com/krita-professional-game-art-tutorial&#34;&gt; 
+          &lt;button class=&#34;-bordered -call-to-action -success&#34;&gt;&lt;i class=&#34;my-fa fa-book
 default
 &#34;&gt;&lt;/i&gt;
  Learn more&lt;/button&gt;
-    &lt;/a&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-
-&lt;p&gt;&lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;discover-game-art-quest&#34;&gt;Discover Game Art Quest!&lt;/h2&gt;
 
