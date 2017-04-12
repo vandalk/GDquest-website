@@ -56,13 +56,13 @@
     &lt;div grid&gt;
       &lt;div column class=&#34;-center&#34;&gt;
         &lt;a href=&#34;http://gdquest.com/tutorial/art/krita_tutorial_for_game_artists/&#34;&gt; 
-          &lt;button class=&#34;-bordered -call-to-action&#34;&gt;&lt;i class=&#34;my-fa fa-book
+          &lt;button class=&#34;-call-to-action&#34;&gt;&lt;i class=&#34;my-fa fa-book
 default
 &#34;&gt;&lt;/i&gt;
  Free course&lt;/button&gt;
         &lt;/a&gt;
         &lt;a href=&#34;http://gdquest.com/product/krita_brushes/&#34;&gt; 
-          &lt;button class=&#34;-bordered -call-to-action -success&#34;&gt;&lt;i class=&#34;my-fa fa-paint-brush
+          &lt;button class=&#34;-call-to-action -success&#34;&gt;&lt;i class=&#34;my-fa fa-paint-brush
 success
 &#34;&gt;&lt;/i&gt;
  Krita brushes&lt;/button&gt;
@@ -89,7 +89,7 @@ success
     &lt;div grid&gt;
       &lt;div column class=&#34;-center&#34;&gt;
         &lt;a href=&#34;http://gdquest.com/krita-professional-game-art-tutorial&#34;&gt; 
-          &lt;button class=&#34;-bordered -call-to-action -success&#34;&gt;&lt;i class=&#34;my-fa fa-book
+          &lt;button class=&#34;-call-to-action -success&#34;&gt;&lt;i class=&#34;my-fa fa-book
 default
 &#34;&gt;&lt;/i&gt;
  Learn more&lt;/button&gt;
