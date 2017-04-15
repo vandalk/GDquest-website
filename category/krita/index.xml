@@ -18,10 +18,6 @@
       <guid>http://gdquest.com/krita-professional-game-art-tutorial</guid>
       <description>
 
-&lt;!-- This goes below the landing page --&gt;
-
-&lt;p&gt;I’ve been in the games industry for a few years now. I made my own indie game company, worked on mobile and browser-based titles. I had a blast, but I felt like we missed quality game art tutorials.That’s why I created GDquest. GDquest is a growing library of 150+ &lt;a href=&#34;http://youtube.com/c/gdquest&#34;&gt;free game creation tutorials&lt;/a&gt; about game design, game art, and programming with open source technologies.&lt;/p&gt;
-
 &lt;h2 id=&#34;what-will-i-learn-in-this-course&#34;&gt;What will I learn in this course?&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -32,7 +28,13 @@
 
 &lt;p&gt;On top of that, if you buy the premium version, you will get step by step exercise sheets and create your own game mockup, ready to use in the game engine of your choice!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/page/product/krita-tutorial-1/krita-tutorial-learn-whole-process.jpg&#34; alt=&#34;Creation process of 2 characters including the sketch, the blocking and the final sprite&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Check out this &lt;strong&gt;free video from the course&lt;/strong&gt; and get a sense for the content:&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/VtfQ5z3t1E0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
 
 &lt;h2 id=&#34;the-training-is-available-in-3-versions&#34;&gt;The training is available in 3 versions&lt;/h2&gt;
 
@@ -48,11 +50,11 @@
 
 &lt;p&gt;Get all of the essentials, plus:&lt;/p&gt;
 
-&lt;ul&gt;
+&lt;ol&gt;
 &lt;li&gt;Fundamental training on the principles of design&lt;/li&gt;
 &lt;li&gt;Techniques to make nondestructive selections in Krita&lt;/li&gt;
 &lt;li&gt;Video demos based on the art of the games Pankapu and Seasons: After Fall&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/ol&gt;
 
 &lt;h3 id=&#34;premium&#34;&gt;Premium&lt;/h3&gt;
 
@@ -67,6 +69,8 @@
 &lt;li&gt;Priority support&lt;/li&gt;
 &lt;li&gt;Access to the GDquest premium Discord server&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/page/product/krita-tutorial-1/krita-tutorial-learn-whole-process.jpg&#34; alt=&#34;Creation process of 2 characters including the sketch, the blocking and the final sprite&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
 
@@ -83,10 +87,10 @@ If you don&amp;rsquo;t know how to use Krita, I made a &lt;a href=&#34;http://gd
     
     <item>
       <title>Krita Brushes For Game Artists</title>
-      <link>http://gdquest.com/product/krita_brushes/</link>
+      <link>http://gdquest.com/product/krita/brushes/</link>
       <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/product/krita_brushes/</guid>
+      <guid>http://gdquest.com/product/krita/brushes/</guid>
       <description>
 
 &lt;p&gt;Version 12 (&lt;em&gt;March 2017&lt;/em&gt;) contains:&lt;/p&gt;
@@ -377,11 +381,8 @@ If you don&amp;rsquo;t know how to use Krita, I made a &lt;a href=&#34;http://gd
 
 &lt;p&gt;The 2016 Kickstarter campaign is live right now, and the developers need your support. Check it out now and help Krita to become even more awesome!&lt;/p&gt;
 
-&lt;span class=&#34;lead&#34;&gt;
-&lt;a href=&#34;https://www.kickstarter.com/projects/krita/krita-2016-lets-make-text-and-vector-art-awesome
-&#34;&gt;Krita 2016: Let&#39;s Make Text and Vector Art Awesome!&lt;/a&gt;
-&lt;/span&gt;
-
+&lt;p&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/krita/krita-2016-lets-make-text-and-vector-art-awesome
+&#34; style=&#34;font-size:150%&#34;&gt;Krita 2016: Let&amp;rsquo;s Make Text and Vector Art Awesome!&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;smaller-features&#34;&gt;11 smaller but welcome additions&lt;/h2&gt;
 
@@ -565,22 +566,13 @@ If you don&amp;rsquo;t know how to use Krita, I made a &lt;a href=&#34;http://gd
 
 &lt;p&gt;As far as I&amp;rsquo;m concerned, the program is mature for professional use. It&amp;rsquo;s not perfect, but it&amp;rsquo;s powerful. It easily competes with many paid alternatives I&amp;rsquo;ve tried in the past. Give Krita 3 a try. See what it has in store for you. You won&amp;rsquo;t regret it!&lt;/p&gt;
 
-&lt;span class=&#34;text--muted&#34;&gt;
-Krita 3 is coming out at the end of the month. However, it is already out in Beta, and all of the features listed above are in.
-&lt;/span&gt;
+&lt;p&gt;Krita 3 is out now!&lt;/p&gt;
 
-
-&lt;p&gt;&lt;a href=&#34;https://krita.org/item/new-development-builds-ready/&#34;&gt;&lt;i class=&#34;my-fa fa-link
+&lt;p&gt;&lt;a href=&#34;https://krita.org/en/download/krita-desktop/&#34;&gt;&lt;i class=&#34;my-fa fa-link
 &#34;&gt;&lt;/i&gt;
- Krita 3.0 Beta&lt;/a&gt;&lt;/p&gt;
+ Download Krita 3&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://krita.org/&#34;&gt;&lt;i class=&#34;my-fa fa-link
-&#34;&gt;&lt;/i&gt;
- Krita&amp;rsquo;s official website&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/krita/krita-2016-lets-make-text-and-vector-art-awesome&#34;&gt;&lt;i class=&#34;my-fa fa-link
-&#34;&gt;&lt;/i&gt;
- The 2016 Krita Kickstarter campaign&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And check out my &lt;a href=&#34;http://gdquest.com/krita-professional-game-art-tutorial&#34;&gt;Krita 3 game art course&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     

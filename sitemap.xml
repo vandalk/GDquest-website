@@ -16,6 +16,11 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/post/2017/news/first-krita-course-out/</loc>
+    <lastmod>2017-04-14T13:06:14+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/now/</loc>
     <lastmod>2017-04-09T19:57:33+02:00</lastmod>
   </url>
@@ -31,7 +36,7 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/post/2017/gaq-early-access/</loc>
+    <loc>http://gdquest.com/post/2017/news/gaq-early-access/</loc>
     <lastmod>2017-02-27T09:45:11+01:00</lastmod>
   </url>
   
@@ -51,12 +56,12 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/product/krita_brushes/</loc>
+    <loc>http://gdquest.com/product/krita/brushes/</loc>
     <lastmod>2017-01-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gdquest.com/post/2017/in-the-office/</loc>
+    <loc>http://gdquest.com/post/2017/news/in-the-office/</loc>
     <lastmod>2017-01-21T17:35:09+01:00</lastmod>
   </url>
   
@@ -168,7 +173,7 @@
   
   <url>
     <loc>http://gdquest.com/</loc>
-    <lastmod>2017-04-09T19:57:33+02:00</lastmod>
+    <lastmod>2017-04-14T13:06:14+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -190,7 +195,7 @@
   
   <url>
     <loc>http://gdquest.com/tags/gdquest-news/</loc>
-    <lastmod>2017-04-09T19:57:33+02:00</lastmod>
+    <lastmod>2017-04-14T13:06:14+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -249,6 +254,18 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/krita-game-art/</loc>
+    <lastmod>2017-04-14T13:06:14+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/krita-game-art-tutorial/</loc>
+    <lastmod>2017-04-14T13:06:14+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/krita-painting-brushes/</loc>
     <lastmod>2017-01-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -268,7 +285,7 @@
   
   <url>
     <loc>http://gdquest.com/category/news/</loc>
-    <lastmod>2017-02-27T09:45:11+01:00</lastmod>
+    <lastmod>2017-04-14T13:06:14+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -289,7 +306,7 @@
   
   <url>
     <loc>http://gdquest.com/post/</loc>
-    <lastmod>2017-04-06T20:33:30+01:00</lastmod>
+    <lastmod>2017-04-14T13:06:14+02:00</lastmod>
     <priority>0</priority>
   </url>
   
