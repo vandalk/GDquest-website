@@ -45,7 +45,7 @@
 
 &lt;div class=&#34;-center&#34;&gt;
     &lt;a href=&#34;http://gdquest.com/krita-professional-game-art-tutorial&#34;&gt;
-        &lt;button class=&#34;-call-to-action -success&#34;&gt;
+        &lt;button class=&#34;-calltoaction -success&#34;&gt;
             Get the course!
         &lt;/button&gt;
     &lt;/a&gt;
