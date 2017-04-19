@@ -8,7 +8,7 @@
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Fri, 14 Apr 2017 13:06:14 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2017 15:00:11 +0100</lastBuildDate>
     <atom:link href="http://gdquest.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -110,6 +110,100 @@ default
 &lt;/noscript&gt;
 
 &lt;p&gt;I’m Nathan Lovato, a game designer. I the run &lt;a href=&#34;http://youtube.com/c/gdquest&#34;&gt;GDquest&lt;/a&gt;, a Youtube channel dedicated to game art and game design. Every week, I release a new tutorial. I have released more than 200 videos already! You can find most of them in the tutorial section.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Game Creation with Godot, Kickstarter soon</title>
+      <link>http://gdquest.com/post/2017/news/godot_engine_kickstarter/</link>
+      <pubDate>Wed, 19 Apr 2017 15:00:11 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2017/news/godot_engine_kickstarter/</guid>
+      <description>
+
+&lt;p&gt;Back in December 2015, hundreds supported gdquest on Kickstarter to bring out game art tutorials to Krita. Since then, I produced more than a hundred videos for it, and the &lt;a href=&#34;https://gumroad.com/l/krita-game-art-tutorial-1&#34;&gt;first professional game art course&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I didn&amp;rsquo;t expect to go full time with GDquest. Back then there was no website, a small community, I had few contacts to help me and no experience with crowdfunding. A lot had yet to be done. The Krita devs and I weren&amp;rsquo;t sure it would work, but it did. Fast forward 18 months, I&amp;rsquo;m ready to work hand-in-hand with the Godot developers to create the &lt;strong&gt;first premium course for the powerful Godot game engine&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;godot-the-engine-you-ve-been-waiting-for&#34;&gt;Godot, the engine you&amp;rsquo;ve been waiting for&lt;/h2&gt;
+
+&lt;p&gt;It is certainly the most flexible, 100% Free and Open Source game engine out there. I mean, just look at &lt;a href=&#34;https://godotengine.org/features&#34;&gt;Godot&amp;rsquo;s key features&lt;/a&gt;. And in the upcoming version 3, there&amp;rsquo;s so much new stuff coming I&amp;rsquo;d need a separate article to just give you an overview of the changes. PBR workflow for 3d, light probes, audio mixer and audio effects, brand new asset management system, particles rebuilt from scratch, Vulkan support&amp;hellip;&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot_engine_kickstarter/godot_editor_design.jpg&#34; alt=&#34;Screenshot of the Godot editor&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;the-one-thing-it-lacks&#34;&gt;The one thing it lacks&lt;/h2&gt;
+
+&lt;p&gt;Although Godot&amp;rsquo;s documentation is great and plenty of people made videos to get you started with it, there&amp;rsquo;s few high quality, structured tutorials to help you go further. I&amp;rsquo;m sure we could use a complete game creation course, right?&lt;/p&gt;
+
+&lt;p&gt;If over the past 3 years, nobody did it, there&amp;rsquo;s a good reason. This is not only months of full time work: it&amp;rsquo;s extremely risky for the teacher. Working full-time in open source technologies is risky. Money, or rather the lack of it, always gets in the way. Make a course for an open source program and you&amp;rsquo;ll earn far less than if you covered a big proprietary tool. You might not even get enough to put food on the table.&lt;/p&gt;
+
+&lt;h2 id=&#34;on-kickstarter-in-may&#34;&gt;On Kickstarter in May&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m a professional designer. I&amp;rsquo;ve worked in games for a few years now, made hundreds of videos, and I&amp;rsquo;m crazy enough to pave the road for future teachers. But I&amp;rsquo;ll need your help, because no one can work for months on such a project for free, me included. We&amp;rsquo;ve discussed that with Rémi (akien) at the first GodotCon, and the devs want this to happen. Actually, many of you want this to happen!&lt;/p&gt;
+
+&lt;p&gt;A Kickstarter campaign will allow me to earn enough money to create high quality tutorials and to do a lot of communication around Godot, thus help new people learn about the engine. Tens of thousands have watched my Krita tutorials, and thousands stumble upon the videos every day. I&amp;rsquo;m working super hard now to wrap up freelance contracts, ongoing projects, and to live up to my words. I didn&amp;rsquo;t forget the channel, and I didn&amp;rsquo;t forget you guys.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot_engine_kickstarter/krita_course_cel_shading.jpg&#34; alt=&#34;3 stylized characters used to teach lighting fundamentals&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        I&amp;#39;m wrapping up a Krita course, out on May 9, to then focus on Godot
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Actually, during the campaign, I want to do a &lt;strong&gt;30 days, daily free tutorial challenge&lt;/strong&gt; about game design, programming with godot, and maybe a bit of game art.&lt;/p&gt;
+
+&lt;p&gt;Whether you&amp;rsquo;re interested in a premium course or not, this project is a positive step for Godot:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;I&amp;rsquo;ll be doing a lot of communication for the Godot engine&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ll make many free tutorials during the campaign&lt;/li&gt;
+&lt;li&gt;Higher quality education means more Godot power users, who can in turn help newcomers&lt;/li&gt;
+&lt;li&gt;Professional content can poke the interest of creators who would pass on the engine otherwise&lt;/li&gt;
+&lt;li&gt;Once I proved you&amp;rsquo;re ready to support a Godot instructor, other professional teachers will jump in&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;what-do-you-want&#34;&gt;What do YOU want?&lt;/h2&gt;
+
+&lt;p&gt;The course will focus on 2d game creation, because that&amp;rsquo;s what I&amp;rsquo;ve got experience with. Then, I want to know what you want, so I can make a course that you&amp;rsquo;ll love!&lt;/p&gt;
+
+&lt;p&gt;To do so, please fill this short form (only 5 questions):&lt;/p&gt;
+
+&lt;div class=&#34;-center&#34;&gt;
+    &lt;a href=&#34;https://gdquest.typeform.com/to/ul3bc1&#34;&gt;
+        &lt;button class=&#34;-calltoaction -success&#34;&gt;
+            Fill the form
+        &lt;/button&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;want-to-know-when-it-starts&#34;&gt;Want to know when it starts?&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Subscribe to the &lt;a href=&#34;https://www.youtube.com/c/Gdquest?sub_confirmation=1&#34;&gt;GDquest Youtube channel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow &lt;a href=&#34;https://twitter.com/NathanGDquest&#34;&gt;GDquest on Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I&amp;rsquo;ll let you know when it starts ASAP. Feel free to ask me questions! I&amp;rsquo;ll also share the results from the form when I&amp;rsquo;ve got everyone&amp;rsquo;s thoughts on the project :)&lt;/p&gt;
+
+&lt;p&gt;Thank you for your time, and have a nice day!&lt;/p&gt;
 </description>
     </item>
     
@@ -894,62 +988,6 @@ success
 &lt;p&gt;That said, it&amp;rsquo;s time to get back to work. Well, actually to share dinner with a few friends, at the time of writing. But you know what I mean!&lt;/p&gt;
 
 &lt;p&gt;See you soon.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>June update: the Randa meetings</title>
-      <link>http://gdquest.com/post/2016/kickstarter-news-june/</link>
-      <pubDate>Tue, 28 Jun 2016 11:17:06 +0200</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/post/2016/kickstarter-news-june/</guid>
-      <description>
-
-&lt;p&gt;We&amp;rsquo;re getting to the end of June. It&amp;rsquo;s time to sum up all that&amp;rsquo;s been happening this month. The short version: I kept improving the website, went to the biggest yearly KDE development sprint in Randa, Switzerland, and added about 1h of tutorials dedicated to Krita 3&amp;rsquo;s new features in the &lt;a href=&#34;http://gdquest.com/tutorial/art/krita_tutorial_for_game_artists/&#34;&gt;Krita training&lt;/a&gt;. You can find more details about what happened in Randa, and what the plans are for July, below.&lt;/p&gt;
-
-&lt;h2 id=&#34;randa&#34;&gt;Randa&lt;/h2&gt;
-
-&lt;p&gt;From June 13 to 19, I was in Randa, KDE&amp;rsquo;s biggest yearly sprint. KDE is a large community of free software developers and users. Krita is part of it, and it&amp;rsquo;s certainly the most popular multiplatform KDE program today. Sadly, no one else from the team could make it to the sprint this year. They ran a hectic Kickstarter in May, and boud, Krita&amp;rsquo;s maintainer, had too much work to do the trip.&lt;/p&gt;
-
-&lt;p&gt;Randa was an amazing experience for me. There, I didn&amp;rsquo;t get to produce Krita tutorials. I mostly jumped around projects, learned about the whole KDE ecosystem, and helped with communication and UX design. It&amp;rsquo;s incredible to get in touch with so many cultures at once. People came from all around the world. There was Joseph, from Kenya, who came to port KDEnlive on Windows. Lays and Ayrton, from Brazil, working on an open 3d printing program. Developers from India, Germany, Denmark&amp;hellip; you name it.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/post/2016/06/Randa-meetings-work-discussions.jpg&#34; alt=&#34;KDE Randa meetings: developers discussions&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;All those people are so different&amp;hellip; and yet they all work together to hopefully make the computer world a slightly better place. There was such a strong ambience there that we all worked very hard. I was up around 7:00 every morning, and went off to bed at 23:00. I spent the vast majority of the day working. And it was pretty much the same for everybody else.&lt;/p&gt;
-
-&lt;p&gt;The village we stayed at itself was peaceful and lovely. A perfect, undistracted place to both focus and relax.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/post/2016/06/Randa-view-2.jpg&#34; alt=&#34;Randa view of the mountains&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The view was gorgeous from my office&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;time-to-make-some-money-again&#34;&gt;Time to make some money again&lt;/h2&gt;
-
-&lt;p&gt;As I told you in a previous update, Game Art Quest became bigger than what it was supposed to be. With the Kickstarter, we raised enough money for six months of full-time work.&lt;/p&gt;
-
-&lt;p&gt;These six months are getting to an end, so I have to make a bit of money again. I&amp;rsquo;m getting new offers on a weekly basis, but until now, I almost declined them all. However, I accepted one job writing Krita tutorials for a magazine this month. It is a great opportunity as they asked me to work on animation, which I haven&amp;rsquo;t covered yet in the training, thus it&amp;rsquo;s not distracting me from daily work too much.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m looking to start working on and selling the next 2 volumes of the training in early access at the end of July. If I sell enough, I&amp;rsquo;ll be able to keep working full-time on it. Otherwise, I&amp;rsquo;ll dedicate one day per week to client work, which shouldn&amp;rsquo;t slow down the production of the training noticeably.&lt;/p&gt;
-
-&lt;h2 id=&#34;one-video-a-week&#34;&gt;One video a week&lt;/h2&gt;
-
-&lt;p&gt;It&amp;rsquo;s summer time in here. The hot weather is back, and people are taking time off. I&amp;rsquo;m not! I&amp;rsquo;ll be here all summer long, working at the same pace. However, now that the tutorial series covering Krita 3&amp;rsquo;s new features is out, we&amp;rsquo;re going to move back to a rhythm of 1 tutorial per week on the channel. This will give me more time to improve the GDquest Blender add-on, and to prepare the &lt;a href=&#34;http://gdquest.com/post/2016/community/vote-for-upcoming-tutorials-january-2016/&#34;&gt;future series&lt;/a&gt; coming to the channel.&lt;/p&gt;
-
-&lt;h2 id=&#34;this-week&#34;&gt;This week&lt;/h2&gt;
-
-&lt;p&gt;To wrap up June, I have to release a brush pack update. This new version will contain 4 new brushes, and I painted a new thumbnail for the blender brush, as the current one looks horrible.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/post/2016/06/Flat-blender-brush.jpg&#34; alt=&#34;New flat blender brush icon&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Also, I&amp;rsquo;m working on the fourth chapter in the Krita training, to release it as soon as possible. It will introduce you to the game assets creation workflow. As soon as it is out, I will move on to the second volume of the training, which you will be able to access on Gumroad.&lt;/p&gt;
-
-&lt;p&gt;Moving into July, I have to get working again on the blender of VSE add-on. It is one of the main ways I can improve my productivity creating the video tutorials now. My goal is to add one new feature every single week, even if it&amp;rsquo;s small. This week for instance, I&amp;rsquo;m working on an import feature that loads all of the project&amp;rsquo;s video and audio files to the VSE in one click. As I get to create up to six videos in a single week, this feature will be a real time saver. And with that, I&amp;rsquo;ll be able to release the first public version of the add-on.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/post/2016/06/blender-vse-add-on-code.png&#34; alt=&#34;Blender GDquest VSE add-on import code&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The import code is already there - it just needs to be refined&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;That said, it&amp;rsquo;s time to get back to work! Thank you all for reading. Thank you for constant support and your kind words. I read all of your comments on Youtube, on social networks, and the messages you send me via email. It&amp;rsquo;s really heartwarming to see some of you following everything that&amp;rsquo;s happening on a weekly basis. Big thanks!&lt;/p&gt;
 </description>
     </item>
     

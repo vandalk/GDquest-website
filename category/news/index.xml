@@ -11,6 +11,100 @@
     <atom:link href="http://gdquest.com/category/news/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Game Creation with Godot, Kickstarter soon</title>
+      <link>http://gdquest.com/post/2017/news/godot_engine_kickstarter/</link>
+      <pubDate>Wed, 19 Apr 2017 15:00:11 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2017/news/godot_engine_kickstarter/</guid>
+      <description>
+
+&lt;p&gt;Back in December 2015, hundreds supported gdquest on Kickstarter to bring out game art tutorials to Krita. Since then, I produced more than a hundred videos for it, and the &lt;a href=&#34;https://gumroad.com/l/krita-game-art-tutorial-1&#34;&gt;first professional game art course&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I didn&amp;rsquo;t expect to go full time with GDquest. Back then there was no website, a small community, I had few contacts to help me and no experience with crowdfunding. A lot had yet to be done. The Krita devs and I weren&amp;rsquo;t sure it would work, but it did. Fast forward 18 months, I&amp;rsquo;m ready to work hand-in-hand with the Godot developers to create the &lt;strong&gt;first premium course for the powerful Godot game engine&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;godot-the-engine-you-ve-been-waiting-for&#34;&gt;Godot, the engine you&amp;rsquo;ve been waiting for&lt;/h2&gt;
+
+&lt;p&gt;It is certainly the most flexible, 100% Free and Open Source game engine out there. I mean, just look at &lt;a href=&#34;https://godotengine.org/features&#34;&gt;Godot&amp;rsquo;s key features&lt;/a&gt;. And in the upcoming version 3, there&amp;rsquo;s so much new stuff coming I&amp;rsquo;d need a separate article to just give you an overview of the changes. PBR workflow for 3d, light probes, audio mixer and audio effects, brand new asset management system, particles rebuilt from scratch, Vulkan support&amp;hellip;&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot_engine_kickstarter/godot_editor_design.jpg&#34; alt=&#34;Screenshot of the Godot editor&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;the-one-thing-it-lacks&#34;&gt;The one thing it lacks&lt;/h2&gt;
+
+&lt;p&gt;Although Godot&amp;rsquo;s documentation is great and plenty of people made videos to get you started with it, there&amp;rsquo;s few high quality, structured tutorials to help you go further. I&amp;rsquo;m sure we could use a complete game creation course, right?&lt;/p&gt;
+
+&lt;p&gt;If over the past 3 years, nobody did it, there&amp;rsquo;s a good reason. This is not only months of full time work: it&amp;rsquo;s extremely risky for the teacher. Working full-time in open source technologies is risky. Money, or rather the lack of it, always gets in the way. Make a course for an open source program and you&amp;rsquo;ll earn far less than if you covered a big proprietary tool. You might not even get enough to put food on the table.&lt;/p&gt;
+
+&lt;h2 id=&#34;on-kickstarter-in-may&#34;&gt;On Kickstarter in May&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m a professional designer. I&amp;rsquo;ve worked in games for a few years now, made hundreds of videos, and I&amp;rsquo;m crazy enough to pave the road for future teachers. But I&amp;rsquo;ll need your help, because no one can work for months on such a project for free, me included. We&amp;rsquo;ve discussed that with Rémi (akien) at the first GodotCon, and the devs want this to happen. Actually, many of you want this to happen!&lt;/p&gt;
+
+&lt;p&gt;A Kickstarter campaign will allow me to earn enough money to create high quality tutorials and to do a lot of communication around Godot, thus help new people learn about the engine. Tens of thousands have watched my Krita tutorials, and thousands stumble upon the videos every day. I&amp;rsquo;m working super hard now to wrap up freelance contracts, ongoing projects, and to live up to my words. I didn&amp;rsquo;t forget the channel, and I didn&amp;rsquo;t forget you guys.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot_engine_kickstarter/krita_course_cel_shading.jpg&#34; alt=&#34;3 stylized characters used to teach lighting fundamentals&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        I&amp;#39;m wrapping up a Krita course, out on May 9, to then focus on Godot
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Actually, during the campaign, I want to do a &lt;strong&gt;30 days, daily free tutorial challenge&lt;/strong&gt; about game design, programming with godot, and maybe a bit of game art.&lt;/p&gt;
+
+&lt;p&gt;Whether you&amp;rsquo;re interested in a premium course or not, this project is a positive step for Godot:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;I&amp;rsquo;ll be doing a lot of communication for the Godot engine&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ll make many free tutorials during the campaign&lt;/li&gt;
+&lt;li&gt;Higher quality education means more Godot power users, who can in turn help newcomers&lt;/li&gt;
+&lt;li&gt;Professional content can poke the interest of creators who would pass on the engine otherwise&lt;/li&gt;
+&lt;li&gt;Once I proved you&amp;rsquo;re ready to support a Godot instructor, other professional teachers will jump in&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;what-do-you-want&#34;&gt;What do YOU want?&lt;/h2&gt;
+
+&lt;p&gt;The course will focus on 2d game creation, because that&amp;rsquo;s what I&amp;rsquo;ve got experience with. Then, I want to know what you want, so I can make a course that you&amp;rsquo;ll love!&lt;/p&gt;
+
+&lt;p&gt;To do so, please fill this short form (only 5 questions):&lt;/p&gt;
+
+&lt;div class=&#34;-center&#34;&gt;
+    &lt;a href=&#34;https://gdquest.typeform.com/to/ul3bc1&#34;&gt;
+        &lt;button class=&#34;-calltoaction -success&#34;&gt;
+            Fill the form
+        &lt;/button&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;want-to-know-when-it-starts&#34;&gt;Want to know when it starts?&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Subscribe to the &lt;a href=&#34;https://www.youtube.com/c/Gdquest?sub_confirmation=1&#34;&gt;GDquest Youtube channel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Follow &lt;a href=&#34;https://twitter.com/NathanGDquest&#34;&gt;GDquest on Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I&amp;rsquo;ll let you know when it starts ASAP. Feel free to ask me questions! I&amp;rsquo;ll also share the results from the form when I&amp;rsquo;ve got everyone&amp;rsquo;s thoughts on the project :)&lt;/p&gt;
+
+&lt;p&gt;Thank you for your time, and have a nice day!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Make Professional Game Art with Krita out now!</title>
       <link>http://gdquest.com/post/2017/news/first-krita-course-out/</link>
       <pubDate>Fri, 14 Apr 2017 13:06:14 +0200</pubDate>
