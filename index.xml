@@ -22,13 +22,7 @@
 &lt;h2 id=&#34;free-krita-tutorial-for-game-artists&#34;&gt;Free Krita tutorial for game artists&lt;/h2&gt;
 
 &lt;div class=&#34;card-box&#34;&gt;
-  &lt;img src=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;
-       data-src=&#34;/img/page/game-art-quest/krita-tutorial-banner.jpg&#34;
-       alt=&#34;Game Art Quest volume 1 banner: Free Krita tutorials&#34;
-       class=&#34;lazy banner-img -yellow&#34; /&gt;
-&lt;noscript&gt;
-    &lt;img src=&#34;http://gdquest.com/img/page/game-art-quest/krita-tutorial-banner.jpg&#34; alt=&#34;Game Art Quest volume 1 banner: Free Krita tutorials&#34; class=&#34;lazy banner-img banner-img -yellow&#34; /&gt;
-&lt;/noscript&gt;
+  &lt;img src=&#34;http://gdquest.com/img/page/game-art-quest/krita-tutorial-banner.jpg&#34; alt=&#34;Game Art Quest volume 1 banner: Free Krita tutorials&#34; class=&#34;banner-img -blue&#34;&gt;
   &lt;div class=&#34;content&#34;&gt;
     A free Krita course focusing on the tools the program offers for game artists and digital painters. It covers everything you need to work efficiently.
     &lt;div grid&gt;
@@ -55,13 +49,7 @@ success
 &lt;h2 id=&#34;make-professional-painterly-game-art-with-krita&#34;&gt;Make Professional Painterly Game Art with Krita&lt;/h2&gt;
 
 &lt;div class=&#34;card-box&#34;&gt;
-  &lt;img src=&#34;data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==&#34;
-       data-src=&#34;/img/product/krita/painterly_game_art/banner.jpg&#34;
-       alt=&#34;Game Art Quest volume 2 banner - painterly art&#34;
-       class=&#34;lazy banner-img -yellow&#34; /&gt;
-&lt;noscript&gt;
-    &lt;img src=&#34;http://gdquest.com/img/product/krita/painterly_game_art/banner.jpg&#34; alt=&#34;Game Art Quest volume 2 banner - painterly art&#34; class=&#34;lazy banner-img banner-img -yellow&#34; /&gt;
-&lt;/noscript&gt;
+  &lt;img src=&#34;http://gdquest.com/img/product/krita/painterly_game_art/banner.jpg&#34; alt=&#34;Game Art Quest volume 2 banner - painterly art&#34; class=&#34;banner-img -blue&#34;&gt;
   &lt;div class=&#34;content&#34;&gt;
     Want to go a step further and learn to make professional sprites? Then, this course is for you.
     &lt;div grid&gt;
