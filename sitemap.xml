@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://gdquest.com/krita/game_art_quest/</loc>
+    <loc>http://gdquest.com/krita/game-art-quest/</loc>
   </url>
   
   <url>
@@ -16,7 +16,12 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/post/2017/news/godot_engine_kickstarter/</loc>
+    <loc>http://gdquest.com/post/2017/news/krita-brushes-anniversary-update/</loc>
+    <lastmod>2017-04-28T08:15:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/post/2017/news/godot-engine-kickstarter/</loc>
     <lastmod>2017-04-19T15:00:11+01:00</lastmod>
   </url>
   
@@ -46,17 +51,17 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/krita-professional-game-art-tutorial</loc>
+    <loc>http://gdquest.com/product/krita/painterly-game-art/</loc>
     <lastmod>2017-02-22T15:11:59+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gdquest.com/tutorial/art/monster_design/</loc>
+    <loc>http://gdquest.com/tutorial/art/monster-design/</loc>
     <lastmod>2017-02-15T15:25:47+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gdquest.com/tutorial/game_design/godot/introduction_to_godot/</loc>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/</loc>
     <lastmod>2017-02-15T15:25:47+02:00</lastmod>
   </url>
   
@@ -116,7 +121,7 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/tutorial/art/krita_tutorial_for_game_artists/</loc>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/</loc>
     <lastmod>2016-02-08T17:55:44+01:00</lastmod>
   </url>
   
@@ -136,6 +141,12 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/anniversary/</loc>
+    <lastmod>2017-04-28T08:15:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/best-krita-brushes/</loc>
     <lastmod>2017-01-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -147,14 +158,14 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/category/community/</loc>
-    <lastmod>2016-01-11T09:16:10+01:00</lastmod>
+    <loc>http://gdquest.com/tags/community/</loc>
+    <lastmod>2017-01-21T17:35:09+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gdquest.com/tags/community/</loc>
-    <lastmod>2017-01-21T17:35:09+01:00</lastmod>
+    <loc>http://gdquest.com/category/community/</loc>
+    <lastmod>2016-01-11T09:16:10+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -184,7 +195,7 @@
   
   <url>
     <loc>http://gdquest.com/</loc>
-    <lastmod>2017-04-19T15:00:11+01:00</lastmod>
+    <lastmod>2017-04-28T08:15:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -205,6 +216,12 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/gdquest-brushes/</loc>
+    <lastmod>2017-04-28T08:15:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/gdquest-kickstarter/</loc>
     <lastmod>2017-04-19T15:00:11+01:00</lastmod>
     <priority>0</priority>
@@ -212,7 +229,7 @@
   
   <url>
     <loc>http://gdquest.com/tags/gdquest-news/</loc>
-    <lastmod>2017-04-14T13:06:14+02:00</lastmod>
+    <lastmod>2017-04-28T08:15:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -278,7 +295,7 @@
   
   <url>
     <loc>http://gdquest.com/tags/krita-brushes/</loc>
-    <lastmod>2017-02-22T15:11:59+01:00</lastmod>
+    <lastmod>2017-04-28T08:15:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -313,14 +330,14 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/category/news/</loc>
+    <loc>http://gdquest.com/tags/news/</loc>
     <lastmod>2017-04-19T15:00:11+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gdquest.com/tags/news/</loc>
-    <lastmod>2017-04-19T15:00:11+01:00</lastmod>
+    <loc>http://gdquest.com/category/news/</loc>
+    <lastmod>2017-04-28T08:15:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -341,7 +358,7 @@
   
   <url>
     <loc>http://gdquest.com/post/</loc>
-    <lastmod>2017-04-19T15:00:11+01:00</lastmod>
+    <lastmod>2017-04-28T08:15:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -354,6 +371,12 @@
   <url>
     <loc>http://gdquest.com/category/quick-tips/</loc>
     <lastmod>2015-10-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/sale/</loc>
+    <lastmod>2017-04-28T08:15:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -377,6 +400,12 @@
   <url>
     <loc>http://gdquest.com/category/tutorials/</loc>
     <lastmod>2017-04-06T20:33:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/update/</loc>
+    <lastmod>2017-04-28T08:15:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   

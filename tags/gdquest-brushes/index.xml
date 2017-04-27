@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gdquest Brushes on GDquest</title>
+    <link>http://gdquest.com/tags/gdquest-brushes/index.xml</link>
+    <description>Recent content in Gdquest Brushes on GDquest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <atom:link href="http://gdquest.com/tags/gdquest-brushes/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Krita Brushes Anniversary Update</title>
+      <link>http://gdquest.com/post/2017/news/krita-brushes-anniversary-update/</link>
+      <pubDate>Fri, 28 Apr 2017 08:15:16 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2017/news/krita-brushes-anniversary-update/</guid>
+      <description>
+
+&lt;p&gt;It&amp;rsquo;s been a year already. 12 months, 12 consecutive updates. This anniversary release may not seem like much, but it&amp;rsquo;s certainly the biggest so far. I redesigned all the brushes from scratch! The new thumbnails are circular. That way, all the information they can convey is available whether you look at the pop-up palette or the presets list. The design is also unique so that it’s easy to differentiate from other bundles.&lt;/p&gt;
+
+&lt;p&gt;The updated design reads a lot better when the thumbnails get small. If you work on a laptop, a tablet, or if you have a lot of presets in the docker, you can now spot the one you want faster.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/krita-brushes-anniversary-update/presets-docker-comparison.jpg&#34; alt=&#34;Comparison of the old brush thumbnails and the new ones&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        The old brushes and the new ones in the presets docker. That&amp;#39;s quite a change, isn&amp;#39;t it?
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;There are up to 4 elements in each thumbnail:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;The base&lt;/strong&gt; or background color indicates the bundle a brush belongs to&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The outline&lt;/strong&gt; shows which family the preset belongs to&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The pictogram&lt;/strong&gt;, in the top-right corner, tells you what the brush is intended for&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The stroke&lt;/strong&gt; is prominent, in the center&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/krita-brushes-anniversary-update/brush-thumbnail-components.jpg&#34; alt=&#34;The 4 components of a brush thumbnail, and the assembled result&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        A handful of layers are all it takes to generate the complete thumbnail
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I wrote a python script to automate the process, and make it easier to improve them moving forward. As this is a big change, I&amp;rsquo;m counting on you to tell me what you think!&lt;/p&gt;
+
+&lt;h2 id=&#34;30-off-until-may-1st&#34;&gt;30% off until May 1st&lt;/h2&gt;
+
+&lt;p&gt;The update is in your library already. And to celebrate its anniversary, the premium brushes are on sale this week-end: you&amp;rsquo;ll save 3 euros off the standard version and 7.5 euros off the premium one!&lt;/p&gt;
+
+&lt;div class=&#34;-center&#34;&gt;
+    &lt;a href=&#34;https://gumroad.com/l/krita-brushes-for-game-artists/anniversary&#34;&gt;
+        &lt;button class=&#34;-calltoaction -success&#34;&gt;
+            Get the brushes!
+        &lt;/button&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;And if you&amp;rsquo;d like to know when there&amp;rsquo;s a sale or a new course comes out, subscribe below:&lt;/p&gt;
+
+&lt;style&gt;.gumroad-follow-form-embed button,.gumroad-follow-form-embed input{font-size:15px;font-family:-apple-system,&#34;.SFNSDisplay-Regular&#34;,&#34;Helvetica Neue&#34;,Helvetica,Arial,sans-serif;height:40px!important}.gumroad-follow-form-embed{zoom:1}.gumroad-follow-form-embed:after,.gumroad-follow-form-embed:before{display:table;line-height:0;content:&#34;&#34;}.gumroad-follow-form-embed:after{clear:both}.gumroad-follow-form-embed *{margin:0;border:0;padding:0;outline:0;box-sizing:border-box!important;float:left!important}.gumroad-follow-form-embed input{border-radius:4px 0 0 4px;line-height:20px;background:top right no-repeat #fff;border:1px solid #ddd;border-right:0;color:#aaa;padding:10px;box-shadow:inset 0 1px 0 rgba(0,0,0,.02);text-rendering:optimizeLegibility;font-smoothing:antialiased;-webkit-appearance:none;-moz-appearance:caret;width:65%!important}.gumroad-follow-form-embed button{border-radius:0 4px 4px 0;box-shadow:0 1px 1px rgba(0,0,0,.12);-webkit-transition:all .05s ease-in-out;transition:all .05s ease-in-out;display:inline-block;padding:11px 15px 12px;cursor:pointer;color:#fff;line-height:100%;border:1px solid #31989d;filter:&#34;progid:DXImageTransform.Microsoft.gradient(startColorstr=#5ccfd4, endColorstr=#329ca1, GradientType=0)&#34;;background:-webkit-linear-gradient(top,#5ccfd4,#329ca1);background:linear-gradient(to bottom,#5ccfd4,#329ca1);width:35%!important}&lt;/style&gt;&lt;form action=&#34;https://gumroad.com/follow_from_embed_form&#34; class=&#34;form gumroad-follow-form-embed&#34; method=&#34;post&#34;&gt;&lt;input name=&#34;seller_id&#34; type=&#34;hidden&#34; value=&#34;6873367754130&#34;&gt; &lt;input name=&#34;email&#34; placeholder=&#34;Your email address&#34; type=&#34;email&#34;&gt; &lt;button data-custom-highlight-color=&#34;&#34; type=&#34;submit&#34;&gt;Sign up&lt;/button&gt;&lt;/form&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

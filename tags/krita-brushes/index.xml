@@ -11,11 +11,88 @@
     <atom:link href="http://gdquest.com/tags/krita-brushes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Learn to Make Professional Painterly Game Art with Krita</title>
-      <link>http://gdquest.com/krita-professional-game-art-tutorial</link>
+      <title>Krita Brushes Anniversary Update</title>
+      <link>http://gdquest.com/post/2017/news/krita-brushes-anniversary-update/</link>
+      <pubDate>Fri, 28 Apr 2017 08:15:16 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2017/news/krita-brushes-anniversary-update/</guid>
+      <description>
+
+&lt;p&gt;It&amp;rsquo;s been a year already. 12 months, 12 consecutive updates. This anniversary release may not seem like much, but it&amp;rsquo;s certainly the biggest so far. I redesigned all the brushes from scratch! The new thumbnails are circular. That way, all the information they can convey is available whether you look at the pop-up palette or the presets list. The design is also unique so that it’s easy to differentiate from other bundles.&lt;/p&gt;
+
+&lt;p&gt;The updated design reads a lot better when the thumbnails get small. If you work on a laptop, a tablet, or if you have a lot of presets in the docker, you can now spot the one you want faster.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/krita-brushes-anniversary-update/presets-docker-comparison.jpg&#34; alt=&#34;Comparison of the old brush thumbnails and the new ones&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        The old brushes and the new ones in the presets docker. That&amp;#39;s quite a change, isn&amp;#39;t it?
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;There are up to 4 elements in each thumbnail:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;The base&lt;/strong&gt; or background color indicates the bundle a brush belongs to&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The outline&lt;/strong&gt; shows which family the preset belongs to&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The pictogram&lt;/strong&gt;, in the top-right corner, tells you what the brush is intended for&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The stroke&lt;/strong&gt; is prominent, in the center&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/krita-brushes-anniversary-update/brush-thumbnail-components.jpg&#34; alt=&#34;The 4 components of a brush thumbnail, and the assembled result&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        A handful of layers are all it takes to generate the complete thumbnail
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I wrote a python script to automate the process, and make it easier to improve them moving forward. As this is a big change, I&amp;rsquo;m counting on you to tell me what you think!&lt;/p&gt;
+
+&lt;h2 id=&#34;30-off-until-may-1st&#34;&gt;30% off until May 1st&lt;/h2&gt;
+
+&lt;p&gt;The update is in your library already. And to celebrate its anniversary, the premium brushes are on sale this week-end: you&amp;rsquo;ll save 3 euros off the standard version and 7.5 euros off the premium one!&lt;/p&gt;
+
+&lt;div class=&#34;-center&#34;&gt;
+    &lt;a href=&#34;https://gumroad.com/l/krita-brushes-for-game-artists/anniversary&#34;&gt;
+        &lt;button class=&#34;-calltoaction -success&#34;&gt;
+            Get the brushes!
+        &lt;/button&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;And if you&amp;rsquo;d like to know when there&amp;rsquo;s a sale or a new course comes out, subscribe below:&lt;/p&gt;
+
+&lt;style&gt;.gumroad-follow-form-embed button,.gumroad-follow-form-embed input{font-size:15px;font-family:-apple-system,&#34;.SFNSDisplay-Regular&#34;,&#34;Helvetica Neue&#34;,Helvetica,Arial,sans-serif;height:40px!important}.gumroad-follow-form-embed{zoom:1}.gumroad-follow-form-embed:after,.gumroad-follow-form-embed:before{display:table;line-height:0;content:&#34;&#34;}.gumroad-follow-form-embed:after{clear:both}.gumroad-follow-form-embed *{margin:0;border:0;padding:0;outline:0;box-sizing:border-box!important;float:left!important}.gumroad-follow-form-embed input{border-radius:4px 0 0 4px;line-height:20px;background:top right no-repeat #fff;border:1px solid #ddd;border-right:0;color:#aaa;padding:10px;box-shadow:inset 0 1px 0 rgba(0,0,0,.02);text-rendering:optimizeLegibility;font-smoothing:antialiased;-webkit-appearance:none;-moz-appearance:caret;width:65%!important}.gumroad-follow-form-embed button{border-radius:0 4px 4px 0;box-shadow:0 1px 1px rgba(0,0,0,.12);-webkit-transition:all .05s ease-in-out;transition:all .05s ease-in-out;display:inline-block;padding:11px 15px 12px;cursor:pointer;color:#fff;line-height:100%;border:1px solid #31989d;filter:&#34;progid:DXImageTransform.Microsoft.gradient(startColorstr=#5ccfd4, endColorstr=#329ca1, GradientType=0)&#34;;background:-webkit-linear-gradient(top,#5ccfd4,#329ca1);background:linear-gradient(to bottom,#5ccfd4,#329ca1);width:35%!important}&lt;/style&gt;&lt;form action=&#34;https://gumroad.com/follow_from_embed_form&#34; class=&#34;form gumroad-follow-form-embed&#34; method=&#34;post&#34;&gt;&lt;input name=&#34;seller_id&#34; type=&#34;hidden&#34; value=&#34;6873367754130&#34;&gt; &lt;input name=&#34;email&#34; placeholder=&#34;Your email address&#34; type=&#34;email&#34;&gt; &lt;button data-custom-highlight-color=&#34;&#34; type=&#34;submit&#34;&gt;Sign up&lt;/button&gt;&lt;/form&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Make Professional Painterly Game Art with Krita</title>
+      <link>http://gdquest.com/product/krita/painterly-game-art/</link>
       <pubDate>Wed, 22 Feb 2017 15:11:59 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/krita-professional-game-art-tutorial</guid>
+      <guid>http://gdquest.com/product/krita/painterly-game-art/</guid>
       <description>
 
 &lt;h2 id=&#34;what-will-i-learn-in-this-course&#34;&gt;What will I learn in this course?&lt;/h2&gt;
@@ -75,7 +152,7 @@
 &lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
 
 &lt;p&gt;You have some experience with drawing and digital art.
-If you don&amp;rsquo;t know how to use Krita, I made a &lt;a href=&#34;http://gdquest.com/tutorial/art/krita_tutorial_for_game_artists/&#34;&gt;FREE Krita tutorial series&lt;/a&gt;. It&amp;rsquo;s more than 6 hours long! In this course, you will learn the tools you need to work comfortably and efficiently with the program.&lt;/p&gt;
+If you don&amp;rsquo;t know how to use Krita, I made a &lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;FREE Krita tutorial series&lt;/a&gt;. It&amp;rsquo;s more than 6 hours long! In this course, you will learn the tools you need to work comfortably and efficiently with the program.&lt;/p&gt;
 
 &lt;p&gt;Krita is an award winning, free and open source painting program. It is available on all desktop platforms (&lt;em&gt;Windows, Mac, Linux&lt;/em&gt;). You can download it on the &lt;a href=&#34;https://krita.org/en/download/krita-desktop/&#34;&gt;Krita foundation&amp;rsquo;s website&lt;/a&gt;.&lt;/p&gt;
 
@@ -93,12 +170,13 @@ If you don&amp;rsquo;t know how to use Krita, I made a &lt;a href=&#34;http://gd
       <guid>http://gdquest.com/product/krita/brushes/</guid>
       <description>
 
-&lt;p&gt;Version 12 (&lt;em&gt;March 2017&lt;/em&gt;) contains:&lt;/p&gt;
+&lt;p&gt;Version 13 (&lt;em&gt;April 2017&lt;/em&gt;) contains:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;73 unique brush presets&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2 pdf documents&lt;/strong&gt; to help you get started with the brushes&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Monthly updates&lt;/strong&gt;. More brushes and videos are already on your way!&lt;/li&gt;
+&lt;li&gt;Completely redesigned thumbnails&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;The premium tier adds:&lt;/p&gt;
@@ -109,7 +187,25 @@ If you don&amp;rsquo;t know how to use Krita, I made a &lt;a href=&#34;http://gd
 &lt;li&gt;Priority support&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;I take my time to design the presets and ensure that they are worth adding to the pack. I also use them in my daily work to ensure that they are tested thoroughly in all kinds of configurations.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/page/krita-brushes/thumbs-redesign-comparison.png&#34; alt=&#34;Brushes thumbnails comparison&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        The new thumbnails in version 13
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I take my time to design the presets and ensure that they are worth adding to the pack. I also use them in my daily work so they are tested thoroughly in all kinds of configurations.&lt;/p&gt;
 
 &lt;h2 id=&#34;what-other-artists-have-to-say&#34;&gt;What other artists have to say&lt;/h2&gt;
 
@@ -118,6 +214,8 @@ If you don&amp;rsquo;t know how to use Krita, I made a &lt;a href=&#34;http://gd
 &lt;p&gt;&lt;a href=&#34;https://twitter.com/zhille&#34;&gt;Zhillustrator&lt;/a&gt; writes: &amp;laquo;Nathan&amp;rsquo;s brush set has some essential brushes for digital painting that will ease your way into Krita&amp;rsquo;s powerful brush engine. My favorites in the pack are the mix and smudge brushes. Honestly, if you like the Lite set, it&amp;rsquo;s worth it, Krita is going somewhere.&amp;raquo;&lt;/p&gt;
 
 &lt;p&gt;See more of Zhillustrator&amp;rsquo;s work &lt;a href=&#34;https://www.artstation.com/artist/zhille&#34;&gt;on Artstation&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;free-krita-brushes&#34;&gt;Free Krita brushes&lt;/h2&gt;
 
 &lt;div&gt;
     
@@ -130,12 +228,17 @@ If you don&amp;rsquo;t know how to use Krita, I made a &lt;a href=&#34;http://gd
 
 
 
-&lt;h2 id=&#34;free-krita-brushes&#34;&gt;Free Krita brushes&lt;/h2&gt;
-
 &lt;p&gt;The best part? There is actually a free, smaller version of this set, so you can try it out for yourself.
 &lt;a href=&#34;https://gumroad.com/l/krita-brushes-gdquest-lite&#34;&gt;Click here to download the free Krita brushes&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+
+&lt;h3 id=&#34;version-13-april-2017&#34;&gt;Version 13 - April 2017&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Complete redesign of the brush thumbnails&lt;/strong&gt;. All 85 brushes now have a new, clearer picture that highlights their stroke and still reads on small screens.This was a lot of work, but now it&amp;rsquo;s done, the set is ready to welcome new presets.&lt;/li&gt;
+&lt;li&gt;Pixel art presets are now in a separate bundle&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&#34;version-12-march-2017&#34;&gt;Version 12 - March 2017&lt;/h3&gt;
 
@@ -232,8 +335,6 @@ If you don&amp;rsquo;t know how to use Krita, I made a &lt;a href=&#34;http://gd
 &lt;li&gt;Text-based install guide (pdf)&lt;/li&gt;
 &lt;li&gt;An intro to brush families (pdf)&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;For the full release changelog, check out the &lt;a href=&#34;https://gumroad.com/l/krita-brushes-for-game-artists&#34;&gt;Gumroad page&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

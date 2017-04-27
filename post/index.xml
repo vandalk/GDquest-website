@@ -8,15 +8,92 @@
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Wed, 19 Apr 2017 15:00:11 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Apr 2017 08:15:16 +0200</lastBuildDate>
     <atom:link href="http://gdquest.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Krita Brushes Anniversary Update</title>
+      <link>http://gdquest.com/post/2017/news/krita-brushes-anniversary-update/</link>
+      <pubDate>Fri, 28 Apr 2017 08:15:16 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2017/news/krita-brushes-anniversary-update/</guid>
+      <description>
+
+&lt;p&gt;It&amp;rsquo;s been a year already. 12 months, 12 consecutive updates. This anniversary release may not seem like much, but it&amp;rsquo;s certainly the biggest so far. I redesigned all the brushes from scratch! The new thumbnails are circular. That way, all the information they can convey is available whether you look at the pop-up palette or the presets list. The design is also unique so that it’s easy to differentiate from other bundles.&lt;/p&gt;
+
+&lt;p&gt;The updated design reads a lot better when the thumbnails get small. If you work on a laptop, a tablet, or if you have a lot of presets in the docker, you can now spot the one you want faster.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/krita-brushes-anniversary-update/presets-docker-comparison.jpg&#34; alt=&#34;Comparison of the old brush thumbnails and the new ones&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        The old brushes and the new ones in the presets docker. That&amp;#39;s quite a change, isn&amp;#39;t it?
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;There are up to 4 elements in each thumbnail:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;The base&lt;/strong&gt; or background color indicates the bundle a brush belongs to&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The outline&lt;/strong&gt; shows which family the preset belongs to&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The pictogram&lt;/strong&gt;, in the top-right corner, tells you what the brush is intended for&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The stroke&lt;/strong&gt; is prominent, in the center&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/krita-brushes-anniversary-update/brush-thumbnail-components.jpg&#34; alt=&#34;The 4 components of a brush thumbnail, and the assembled result&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        A handful of layers are all it takes to generate the complete thumbnail
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I wrote a python script to automate the process, and make it easier to improve them moving forward. As this is a big change, I&amp;rsquo;m counting on you to tell me what you think!&lt;/p&gt;
+
+&lt;h2 id=&#34;30-off-until-may-1st&#34;&gt;30% off until May 1st&lt;/h2&gt;
+
+&lt;p&gt;The update is in your library already. And to celebrate its anniversary, the premium brushes are on sale this week-end: you&amp;rsquo;ll save 3 euros off the standard version and 7.5 euros off the premium one!&lt;/p&gt;
+
+&lt;div class=&#34;-center&#34;&gt;
+    &lt;a href=&#34;https://gumroad.com/l/krita-brushes-for-game-artists/anniversary&#34;&gt;
+        &lt;button class=&#34;-calltoaction -success&#34;&gt;
+            Get the brushes!
+        &lt;/button&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;And if you&amp;rsquo;d like to know when there&amp;rsquo;s a sale or a new course comes out, subscribe below:&lt;/p&gt;
+
+&lt;style&gt;.gumroad-follow-form-embed button,.gumroad-follow-form-embed input{font-size:15px;font-family:-apple-system,&#34;.SFNSDisplay-Regular&#34;,&#34;Helvetica Neue&#34;,Helvetica,Arial,sans-serif;height:40px!important}.gumroad-follow-form-embed{zoom:1}.gumroad-follow-form-embed:after,.gumroad-follow-form-embed:before{display:table;line-height:0;content:&#34;&#34;}.gumroad-follow-form-embed:after{clear:both}.gumroad-follow-form-embed *{margin:0;border:0;padding:0;outline:0;box-sizing:border-box!important;float:left!important}.gumroad-follow-form-embed input{border-radius:4px 0 0 4px;line-height:20px;background:top right no-repeat #fff;border:1px solid #ddd;border-right:0;color:#aaa;padding:10px;box-shadow:inset 0 1px 0 rgba(0,0,0,.02);text-rendering:optimizeLegibility;font-smoothing:antialiased;-webkit-appearance:none;-moz-appearance:caret;width:65%!important}.gumroad-follow-form-embed button{border-radius:0 4px 4px 0;box-shadow:0 1px 1px rgba(0,0,0,.12);-webkit-transition:all .05s ease-in-out;transition:all .05s ease-in-out;display:inline-block;padding:11px 15px 12px;cursor:pointer;color:#fff;line-height:100%;border:1px solid #31989d;filter:&#34;progid:DXImageTransform.Microsoft.gradient(startColorstr=#5ccfd4, endColorstr=#329ca1, GradientType=0)&#34;;background:-webkit-linear-gradient(top,#5ccfd4,#329ca1);background:linear-gradient(to bottom,#5ccfd4,#329ca1);width:35%!important}&lt;/style&gt;&lt;form action=&#34;https://gumroad.com/follow_from_embed_form&#34; class=&#34;form gumroad-follow-form-embed&#34; method=&#34;post&#34;&gt;&lt;input name=&#34;seller_id&#34; type=&#34;hidden&#34; value=&#34;6873367754130&#34;&gt; &lt;input name=&#34;email&#34; placeholder=&#34;Your email address&#34; type=&#34;email&#34;&gt; &lt;button data-custom-highlight-color=&#34;&#34; type=&#34;submit&#34;&gt;Sign up&lt;/button&gt;&lt;/form&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Game Creation with Godot, Kickstarter soon</title>
-      <link>http://gdquest.com/post/2017/news/godot_engine_kickstarter/</link>
+      <link>http://gdquest.com/post/2017/news/godot-engine-kickstarter/</link>
       <pubDate>Wed, 19 Apr 2017 15:00:11 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/post/2017/news/godot_engine_kickstarter/</guid>
+      <guid>http://gdquest.com/post/2017/news/godot-engine-kickstarter/</guid>
       <description>
 
 &lt;p&gt;Back in December 2015, hundreds supported gdquest on Kickstarter to bring out game art tutorials to Krita. Since then, I produced more than a hundred videos for it, and the &lt;a href=&#34;https://gumroad.com/l/krita-game-art-tutorial-1&#34;&gt;first professional game art course&lt;/a&gt;.&lt;/p&gt;
@@ -30,7 +107,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot_engine_kickstarter/godot_editor_design.jpg&#34; alt=&#34;Screenshot of the Godot editor&#34; /&gt;
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot-engine-kickstarter/godot-editor-design.jpg&#34; alt=&#34;Screenshot of the Godot editor&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -51,7 +128,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot_engine_kickstarter/krita_course_cel_shading.jpg&#34; alt=&#34;3 stylized characters used to teach lighting fundamentals&#34; /&gt;
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot-engine-kickstarter/krita-course-cel-shading.jpg&#34; alt=&#34;3 stylized characters used to teach lighting fundamentals&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -87,7 +164,7 @@
 &lt;div class=&#34;-center&#34;&gt;
     &lt;a href=&#34;https://gdquest.typeform.com/to/ul3bc1&#34;&gt;
         &lt;button class=&#34;-calltoaction -success&#34;&gt;
-            Fill the form
+            Fill the form!
         &lt;/button&gt;
     &lt;/a&gt;
 &lt;/div&gt;
@@ -126,7 +203,7 @@
 &lt;li&gt;You will acquire new tricks to work efficiently with Krita (Pro and Premium)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/product/krita/painterly_game_art/demo.jpg&#34; alt=&#34;Blabla&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/product/krita/painterly-game-art/demo.jpg&#34; alt=&#34;Blabla&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;what-s-in-it-how-much-does-it-cost&#34;&gt;What&amp;rsquo;s in it? How much does it cost?&lt;/h2&gt;
 
@@ -139,7 +216,7 @@
 &lt;/ul&gt;
 
 &lt;div class=&#34;-center&#34;&gt;
-    &lt;a href=&#34;http://gdquest.com/krita-professional-game-art-tutorial&#34;&gt;
+    &lt;a href=&#34;https://gumroad.com/l/krita-game-art-tutorial-1&#34;&gt;
         &lt;button class=&#34;-calltoaction -success&#34;&gt;
             Get the course!
         &lt;/button&gt;
@@ -153,7 +230,7 @@
 &lt;h2 id=&#34;what-are-the-prerequisites&#34;&gt;What are the prerequisites?&lt;/h2&gt;
 
 &lt;p&gt;You should have some experience with drawing and digital art. The pace and difficulty of the course is similar to the &lt;a href=&#34;http://youtube.com/c/gdquest&#34;&gt;GDquest Youtube channel&lt;/a&gt;.
-You also want to know a bit about Krita. My free series will cover everything you need in that regards: &lt;a href=&#34;http://gdquest.com/tutorial/art/krita_tutorial_for_game_artists/&#34;&gt;Free Krita tutorial&lt;/a&gt; (50 videos!)&lt;/p&gt;
+You also want to know a bit about Krita. My free series will cover everything you need in that regards: &lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;Free Krita tutorial&lt;/a&gt; (50 videos!)&lt;/p&gt;
 
 &lt;p&gt;If you want to be notified when there&amp;rsquo;s a promotion for the course or other products on GDquest, just enter your email below!&lt;/p&gt;
 
@@ -294,7 +371,7 @@ You also want to know a bit about Krita. My free series will cover everything yo
 &lt;p&gt;&lt;script src=&#34;https://gumroad.com/js/gumroad-embed.js&#34;&gt;&lt;/script&gt;
 &lt;div class=&#34;gumroad-product-embed&#34; data-gumroad-product-id=&#34;krita-game-art-tutorial-1&#34; data-outbound-embed=&#34;true&#34;&gt;&lt;a href=&#34;https://gumroad.com/l/krita-game-art-tutorial-1&#34;&gt;Loading&amp;hellip;&lt;/a&gt;&lt;/div&gt;
 &lt;noscript&gt;
-&lt;a href=&#34;http://gdquest.com/krita-professional-game-art-tutorial&#34;&gt;Access the Krita training&lt;/a&gt;
+&lt;a href=&#34;http://gdquest.com/product/krita/painterly-game-art/&#34;&gt;Access the Krita training&lt;/a&gt;
 &lt;/noscript&gt;&lt;/p&gt;
 
 &lt;p&gt;If you only want to know when the course will be out, subscribe below and I&amp;rsquo;ll let you know via email:&lt;/p&gt;
@@ -411,7 +488,7 @@ Nathan&lt;/p&gt;
 success
 &#34;&gt;&lt;/i&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gdquest.com/tutorial/art/krita_tutorial_for_game_artists/&#34;&gt;Available tutorials&lt;/a&gt; (free)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;Available tutorials&lt;/a&gt; (free)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;The extra premium brushes and their companion tutorials are also getting pretty big. With this month&amp;rsquo;s update, it now includes 34 presets and more than 30 minutes of video tutorials. And more coming monthly.&lt;/p&gt;
@@ -552,7 +629,7 @@ success
       <guid>http://gdquest.com/post/2016/kickstarter-news-june/</guid>
       <description>
 
-&lt;p&gt;We&amp;rsquo;re getting to the end of June. It&amp;rsquo;s time to sum up all that&amp;rsquo;s been happening this month. The short version: I kept improving the website, went to the biggest yearly KDE development sprint in Randa, Switzerland, and added about 1h of tutorials dedicated to Krita 3&amp;rsquo;s new features in the &lt;a href=&#34;http://gdquest.com/tutorial/art/krita_tutorial_for_game_artists/&#34;&gt;Krita training&lt;/a&gt;. You can find more details about what happened in Randa, and what the plans are for July, below.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re getting to the end of June. It&amp;rsquo;s time to sum up all that&amp;rsquo;s been happening this month. The short version: I kept improving the website, went to the biggest yearly KDE development sprint in Randa, Switzerland, and added about 1h of tutorials dedicated to Krita 3&amp;rsquo;s new features in the &lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;Krita training&lt;/a&gt;. You can find more details about what happened in Randa, and what the plans are for July, below.&lt;/p&gt;
 
 &lt;h2 id=&#34;randa&#34;&gt;Randa&lt;/h2&gt;
 
@@ -678,7 +755,8 @@ success
 
 &lt;p&gt;The list could go on, and on. You get it: there is a lot to talk about. That&amp;rsquo;s why I wrote this overview of Krita 3. In this article, I&amp;rsquo;ll introduce you to the most important new features one at a time. At the end of the post, I&amp;rsquo;ll give you my thoughts on the program and the updates for 2-D game artists.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Do you want to learn all of the new features? I&amp;rsquo;m working on a free &lt;a href=&#34;http://gdquest.com/tutorial/art/krita_tutorial_for_game_artists/&#34;&gt;Krita tutorial series&lt;/a&gt; that will help you to become a faster artist with Krita 3.0.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Do you want to learn all of the new features? I&amp;rsquo;m working on a free &lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;Krita tutorial series&lt;/a&gt; that will help you to become a faster artist with Krita 3.0.&lt;/strong&gt;&lt;/p&gt;
+
 
 &lt;figure &gt;
     
@@ -706,6 +784,7 @@ success
 
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=c9yiBRFQnbo&#34;&gt;Overview of the Instant Preview beta in Krita 2.9&lt;/a&gt;&lt;/p&gt;
 
+
 &lt;figure &gt;
     
         &lt;img src=&#34;http://gdquest.com/img/post/krita/new-in-krita-3/krita-instant-preview-2.9.png&#34; alt=&#34;Instant preview in Krita 2.9 anim edition&#34; /&gt;
@@ -720,13 +799,13 @@ success
 
 &lt;p&gt;To help you get started animating, there is a new default animation workspace. When you load it, it will display the 3 dockers I just mentioned at the bottom of your interface.&lt;/p&gt;
 
+
 &lt;figure &gt;
     
         &lt;img src=&#34;http://gdquest.com/img/post/krita/new-in-krita-3/krita-3-animation-workspace.jpg&#34; alt=&#34;Krita&amp;#39;s animation workspace&#34; /&gt;
     
     
-
-    &lt;figcaption class=&#34;-muted&#34;&gt;
+    &lt;figcaption&gt;
         &lt;p&gt;
         Krita&amp;#39;s animation workspace
         
@@ -760,13 +839,13 @@ success
 
 &lt;p&gt;Last, but not least: the former 3 display modes have been merged into a single one that gives you all of the options you need at a glance.&lt;/p&gt;
 
+
 &lt;figure &gt;
     
         &lt;img src=&#34;http://gdquest.com/img/post/krita/new-in-krita-3/krita-3-new-layers-docker.jpg&#34; alt=&#34;Krita 3&amp;#39;s new layers docker, with layer colors&#34; /&gt;
     
     
-
-    &lt;figcaption class=&#34;-muted&#34;&gt;
+    &lt;figcaption&gt;
         &lt;p&gt;
         Krita 3&amp;#39;s new layers docker, with layer colors
         
@@ -789,6 +868,7 @@ success
 &lt;p&gt;Under the hood, Krita&amp;rsquo;s code went through major changes. The developers ported the program to Qt 5 and the KDE frameworks 5. These popular code libraries power Krita&amp;rsquo;s interface. They are part of the application&amp;rsquo;s foundations. The port was a massive task, but it will give the team a stable ground for future updates.&lt;/p&gt;
 
 &lt;p&gt;All of this was made possible thanks to the community and the Kickstarter backers in particular. Speaking of which&amp;hellip;&lt;/p&gt;
+
 
 &lt;figure &gt;
     &lt;a href=&#34;https://www.kickstarter.com/projects/krita/krita-2016-lets-make-text-and-vector-art-awesome&#34;&gt;
@@ -821,13 +901,13 @@ success
 
 &lt;p&gt;The assistants now have a little widget attached to them to control each and every instance separately. The little UI elements move along with the origin of the assistants to help you keep track of them more easily.&lt;/p&gt;
 
+
 &lt;figure &gt;
     
         &lt;img src=&#34;http://gdquest.com/img/post/krita/new-in-krita-3/krita-3-improved-assistant-widget.jpg&#34; alt=&#34;The improved assistant widget&#34; /&gt;
     
     
-
-    &lt;figcaption class=&#34;-muted&#34;&gt;
+    &lt;figcaption&gt;
         &lt;p&gt;
         The improved assistant widget
         
@@ -844,6 +924,7 @@ success
 &lt;p&gt;The keyboard shortcut editor has moved to Krita&amp;rsquo;s preferences. It sits next to the &amp;laquo;Canvas Input Settings&amp;raquo;, where you can edit all canvas related shortcuts. It feels more natural to edit all of the program&amp;rsquo;s options in that unique pop up window.&lt;/p&gt;
 
 &lt;p&gt;The keyboard shortcuts are now arranged in categories. Unlike before, you can create shortcut schemes to share online. Krita ships with 3 default schemes: the default one, &amp;laquo;Photoshop compatible&amp;raquo; and &amp;laquo;Paint Tool SAI compatible&amp;raquo;. The canvas input settings also come with the same 3 shortcut schemes.&lt;/p&gt;
+
 
 &lt;figure &gt;
     
@@ -863,13 +944,13 @@ success
 
 &lt;p&gt;The greater blending mode solve this issue. It prevents new strokes from increasing the opacity of existing pixels on the canvas beyond your current maximum opacity setting. It may not sound intuitive, but it does feel very natural when you use it.&lt;/p&gt;
 
+
 &lt;figure &gt;
     
         &lt;img src=&#34;http://gdquest.com/img/post/krita/new-in-krita-3/krita-3-greater-blending-mode.png&#34; alt=&#34;Normal (left) vs greater blending mode (right)&#34; /&gt;
     
     
-
-    &lt;figcaption class=&#34;-muted&#34;&gt;
+    &lt;figcaption&gt;
         &lt;p&gt;
         Normal (left) vs greater blending mode (right)
         
@@ -885,13 +966,13 @@ success
 
 &lt;p&gt;You can now both load and save animated brush tips using Gimp&amp;rsquo;s GIH format. This works a bit like importing Photoshop&amp;rsquo;s ABR files: Krita will load the brush tip and add it to your library. For this to work, you have to use the &amp;laquo;Import Resources&amp;raquo; button in the brush preset editor. If your Gimp file contains multiple layers, you&amp;rsquo;ll be able to import them as an animated brush tip.&lt;/p&gt;
 
+
 &lt;figure &gt;
     
         &lt;img src=&#34;http://gdquest.com/img/post/krita/new-in-krita-3/krita-3-loading-and-saving-gimp-brushes.png&#34; alt=&#34;Krita now loads and saves brush tips in Gimp’s format&#34; /&gt;
     
     
-
-    &lt;figcaption class=&#34;-muted&#34;&gt;
+    &lt;figcaption&gt;
         &lt;p&gt;
         Krita now loads and saves brush tips in Gimp’s format
         
@@ -907,13 +988,13 @@ success
 
 &lt;p&gt;The pop-up palette got a little polish in this version. The brush icons are now displayed as circles, so they&amp;rsquo;ll always show most of the preset&amp;rsquo;s thumbnail. They also automatically resize based on the amount of brushes you want to display. It is easier to pick the right brush among a dozen or more now!&lt;/p&gt;
 
+
 &lt;figure &gt;
     
         &lt;img src=&#34;http://gdquest.com/img/post/krita/new-in-krita-3/krita-3-color-palette-new-look.jpg&#34; alt=&#34;Krita&amp;#39;s new pop-up palette has round icons&#34; /&gt;
     
     
-
-    &lt;figcaption class=&#34;-muted&#34;&gt;
+    &lt;figcaption&gt;
         &lt;p&gt;
         Krita&amp;#39;s new pop-up palette has round icons
         
@@ -941,13 +1022,13 @@ success
 
 &lt;p&gt;Another great addition for Windows users is the new shell extension. This tiny program gives Windows Explorer the ability to display thumbnails and metadata for your Krita files.&lt;/p&gt;
 
+
 &lt;figure &gt;
     
         &lt;img src=&#34;http://gdquest.com/img/post/krita/new-in-krita-3/krita-3-windows-shell-extension.jpg&#34; alt=&#34;Preview your Krita files from the Explorer with the shell extension&#34; /&gt;
     
     
-
-    &lt;figcaption class=&#34;-muted&#34;&gt;
+    &lt;figcaption&gt;
         &lt;p&gt;
         Preview your Krita files from the Explorer with the shell extension
         
@@ -991,7 +1072,7 @@ success
 &#34;&gt;&lt;/i&gt;
  Download Krita 3&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;And check out my &lt;a href=&#34;http://gdquest.com/krita-professional-game-art-tutorial&#34;&gt;Krita 3 game art course&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;And check out my &lt;a href=&#34;http://gdquest.com/product/krita/painterly-game-art/&#34;&gt;Krita 3 game art course&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     
@@ -1060,7 +1141,7 @@ The problem is, we don’t always want to have the page’s author set to Admin.
 
 &lt;h1 id=&#34;recommended-graphic-tablets&#34;&gt;Recommended graphic tablets&lt;/h1&gt;
 
-&lt;p&gt;On this page, you can find a list of the graphic tablets I recommend for &lt;a href=&#34;http://gdquest.com/krita/game_art_quest/&#34;&gt;Game Art Quest&lt;/a&gt;. I used &lt;a href=&#34;http://frenden.com/tagged/review&#34;&gt;Frenden&amp;rsquo;s reviews&lt;/a&gt; as a reference to pick affordable tablets you can try out. I also asked feedback to fellow professionals who use Huion devices, as I only have Wacom tablets here. When you buy a graphic tablet, be sure to test your device and to use your right of withdrawal in case you don&amp;rsquo;t like it. And read reviews on Amazon or on the website you&amp;rsquo;re buying them on.&lt;/p&gt;
+&lt;p&gt;On this page, you can find a list of the graphic tablets I recommend for &lt;a href=&#34;http://gdquest.com/krita/game-art-quest/&#34;&gt;Game Art Quest&lt;/a&gt;. I used &lt;a href=&#34;http://frenden.com/tagged/review&#34;&gt;Frenden&amp;rsquo;s reviews&lt;/a&gt; as a reference to pick affordable tablets you can try out. I also asked feedback to fellow professionals who use Huion devices, as I only have Wacom tablets here. When you buy a graphic tablet, be sure to test your device and to use your right of withdrawal in case you don&amp;rsquo;t like it. And read reviews on Amazon or on the website you&amp;rsquo;re buying them on.&lt;/p&gt;
 
 &lt;h2 id=&#34;flat-tablets&#34;&gt;Flat tablets&lt;/h2&gt;
 
@@ -1124,7 +1205,7 @@ The problem is, we don’t always want to have the page’s author set to Admin.
 &lt;li&gt;&lt;strong&gt;Human proportions, from reality to games&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;This is great, as they will reinforce &lt;a href=&#34;http://gdquest.com/krita/game_art_quest/&#34;&gt;Game Art Quest&lt;/a&gt;. I might also do the 4th one, the Overview of &lt;a href=&#34;http://superpowers-html5.com/&#34;&gt;Superpowers, the collaborative HTML5 game engine&lt;/a&gt;, as time permits.&lt;/p&gt;
+&lt;p&gt;This is great, as they will reinforce &lt;a href=&#34;http://gdquest.com/krita/game-art-quest/&#34;&gt;Game Art Quest&lt;/a&gt;. I might also do the 4th one, the Overview of &lt;a href=&#34;http://superpowers-html5.com/&#34;&gt;Superpowers, the collaborative HTML5 game engine&lt;/a&gt;, as time permits.&lt;/p&gt;
 
 &lt;h2 id=&#34;krita-3-0-pre-alpha-3&#34;&gt;Krita 3.0, pre-alpha 3&lt;/h2&gt;
 
@@ -1146,100 +1227,6 @@ The problem is, we don’t always want to have the page’s author set to Admin.
 &lt;p&gt;Head on to the dedicated article on the official website to find the builds along with download instructions. It also features an exhaustive list of changes in this version.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;That’s it for this update. See you soon, in the next one!&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Vote for future free tutorials! 2016</title>
-      <link>http://gdquest.com/post/2016/community/vote-for-upcoming-tutorials-january-2016/</link>
-      <pubDate>Mon, 11 Jan 2016 09:16:10 +0100</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/post/2016/community/vote-for-upcoming-tutorials-january-2016/</guid>
-      <description>
-
-&lt;p&gt;06-2016 update: Voting is over! You were more than 400 to vote on the series you want to see on GDquest.&lt;/p&gt;
-
-&lt;p&gt;Here are the top 3 results:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Overview of Godot 2&lt;/strong&gt; (249 votes)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Painting rock and grass tiles for 2d games&lt;/strong&gt; (141 votes)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Human proportions, from reality to games&lt;/strong&gt; (119 votes)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;let-your-voice-be-heard&#34;&gt;Let your voice be heard&lt;/h2&gt;
-
-&lt;p&gt;Up until now, the tutorials have been a bit random on GDquest. I jumped from theme to theme based on your requests or ideas I had. But now, we&amp;rsquo;re in 2016. I want us to try something new. &lt;strong&gt;It is time for you, members of the community, to choose the tutorial series you want to see on the channel.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I chose a handful of ideas based on your feedback and on what I can handle right now. There are 2 themes that I didn’t list, on purpose: animation and the Godot engine. Here&amp;rsquo;s why: there will be some animation tutorials when Krita 3.0 is released. And I am waiting for Godot 2.0 to cover it on the channel.&lt;/p&gt;
-
-&lt;p&gt;You can pick as many series as you’d like! I will produce the 3 most popular entries.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;You can find more information about each and every series below.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/post/community/tutorial-banners/superpowers-html5.png&#34; alt=&#34;Superpowers, the collaborative HTML5 game engine tutorial banner&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;overview-of-superpowers-the-collaborative-html5-game-engine&#34;&gt;Overview of Superpowers, the collaborative HTML5 game engine&lt;/h3&gt;
-
-&lt;p&gt;Superpowers is a fully functional 2-D and 3-D HTML5 game editor that was released a few days ago, free and open source. It is based on three.JS and it uses Typescript, a superset of JavaScript. Not only that, it allows you to collaborate on projects online in real time! Although it is still young, the toolset is already impressive. In the development team is already at work on exciting new features!
-By the way, it’s not their first shot at game engines. The project is made by &lt;a href=&#34;https://sparklinlabs.com/&#34;&gt;Sparkin Labs&lt;/a&gt;, the authors of &lt;a href=&#34;http://craftstud.io/&#34;&gt;CraftStudio&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/post/community/tutorial-banners/godot-2d-engine.png&#34; alt=&#34;Human proportions, from reality to games tutorial banner&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;overview-of-godot-2-0-the-open-source-game-engine-for-2d-games&#34;&gt;Overview of Godot 2.0, the open source game engine, for 2d games&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.godotengine.org/projects/godot-engine&#34;&gt;Godot&lt;/a&gt; is an open source 2d and 3d game engine. It was developed in-house by an Argentinian game studio, Okam, and released open source 2 years ago. Godot 2.0 features a robust editor with built-in animation tools, a visual shader editor, and much more!
-In this series, we&amp;rsquo;ll cover the basics of 2d game development with Godot. If you want to join the community, check out its &lt;a href=&#34;https://www.facebook.com/groups/godotengine/&#34;&gt;Facebook group&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/post/community/tutorial-banners/human-proportions-from-reality-to-games.png&#34; alt=&#34;Human proportions, from reality to games tutorial banner&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;human-proportions-from-reality-to-games&#34;&gt;Human proportions, from reality to games&lt;/h3&gt;
-
-&lt;p&gt;There are lots of tutorials available on the basics of human anatomy and proportions (I recommend &lt;a href=&#34;https://www.youtube.com/user/ProkoTV&#34;&gt;Proko&amp;rsquo;s videos&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;Here though, I want to create a series unlike most of what you&amp;rsquo;ll find online. We will take a look at the general proportions of human beings. We will look at both male and female. We&amp;rsquo;ll cover some critical landmarks of the human body. We will then compare it with the proportions of children, and teenagers.&lt;/p&gt;
-
-&lt;p&gt;But more importantly, we will then discuss how we can play with those proportions in games. We&amp;rsquo;ll look at what rules designers break, and which ones they respect. We will look at various examples of stylized characters in popular games, and we will then work on our own character thumbnails. It&amp;rsquo;s a pretty big topic, perfect to complement Game Art Quest!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/post/community/tutorial-banners/blender-vse.png&#34; alt=&#34;Blender VSE tutorial banner&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;introduction-to-video-editing-with-blender&#34;&gt;Introduction to video editing with Blender&lt;/h3&gt;
-
-&lt;p&gt;Blender is an impressive piece of software. It is also my open source replacement for After Effects and a video editing tool of choice. Its sequencer has its shortcomings, but it is an efficient tool to get started making videos nonetheless. In this series, I will share what I have learned creating YouTube videos with blender for the past 6 months.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/post/community/tutorial-banners/becoming-a-game-designer.png&#34; alt=&#34;Becoming a game designer tutorial banner&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;becoming-an-independent-game-designer&#34;&gt;Becoming an independent game designer&lt;/h3&gt;
-
-&lt;p&gt;What is a game designer? How can you become a professional or an independent game designer? Based on my experience creating games with a talented engineer, working as a freelancer and now creating Game Design Quest, I will share what I learned along the way.&lt;/p&gt;
-
-&lt;p&gt;I can’t tell you which college you should pick, but I can help you to teach yourself game design. That is what this series is all about. &lt;strong&gt;It is not a series about creating a business and selling your games!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/post/community/tutorial-banners/introduction-music-scoring-for-games.png&#34; alt=&#34;Introduction to music scoring for games tutorial banner&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;a-primer-on-music-scoring-for-games&#34;&gt;A primer on music scoring for games&lt;/h3&gt;
-
-&lt;p&gt;Believe it or not, but I write and produce &lt;a href=&#34;https://soundcloud.com/gdquest&#34;&gt;game soundtracks&lt;/a&gt;! I actually studied music scoring.&lt;/p&gt;
-
-&lt;p&gt;Writing good music takes a lot of experience! And the resources for it are sometimes overly complicated, or plain mystical. I was lucky to learn music with a teacher who’s all about analysis and clarity. I&amp;rsquo;d like to share some of what he taught me.&lt;/p&gt;
-
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/243108339&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;strong&gt;This isn’t a series about music production using a DAW&lt;/strong&gt; (&lt;em&gt;Digital Audio Workstation&lt;/em&gt;) like FL studio. Music scoring is a huge topic. This is but an introduction to music as a language! I will try to give you a good sense of what the building blocks of a score are, and what scoring for games is like.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/post/community/tutorial-banners/rock-and-grass-tiles.png&#34; alt=&#34;Rock tiles tutorial banner&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;painting-rock-and-grass-tiles-for-2d-games&#34;&gt;Painting rock and grass tiles for 2d games&lt;/h3&gt;
-
-&lt;p&gt;There is one type of 2-D game asset that is rarely explained online: tiles. These are sprites that connect seamlessly to one another and that you can reuse extensively to create your game backgrounds.&lt;/p&gt;
-
-&lt;p&gt;In this tutorial series, I will show you how to create tiles for the ground and for walls or hanging ceiling in an outdoor environment, in a side scrolling game.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/post/community/tutorial-banners/kickstarter-tips.png&#34; alt=&#34;Game Art Quest Kickstarter tutorial banner&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;kickstarter-all-of-my-hard-learned-tips&#34;&gt;Kickstarter: all of my hard learned tips!&lt;/h3&gt;
-
-&lt;p&gt;As you know I ran a Kickstarter campaign that was successfully funded. Better than that, it doubled the initial goal! During those hectic weeks, struggling to keep up with the frightening workload, I learned a lot about crowdfunding. With this theme, I want to go over the preparation, the ongoing production and the communication you have to take care of during the course of a Kickstarter campaign.&lt;/p&gt;
 </description>
     </item>
     

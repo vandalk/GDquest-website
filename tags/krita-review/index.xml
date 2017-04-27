@@ -32,7 +32,8 @@
 
 &lt;p&gt;The list could go on, and on. You get it: there is a lot to talk about. That&amp;rsquo;s why I wrote this overview of Krita 3. In this article, I&amp;rsquo;ll introduce you to the most important new features one at a time. At the end of the post, I&amp;rsquo;ll give you my thoughts on the program and the updates for 2-D game artists.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Do you want to learn all of the new features? I&amp;rsquo;m working on a free &lt;a href=&#34;http://gdquest.com/tutorial/art/krita_tutorial_for_game_artists/&#34;&gt;Krita tutorial series&lt;/a&gt; that will help you to become a faster artist with Krita 3.0.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Do you want to learn all of the new features? I&amp;rsquo;m working on a free &lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;Krita tutorial series&lt;/a&gt; that will help you to become a faster artist with Krita 3.0.&lt;/strong&gt;&lt;/p&gt;
+
 
 &lt;figure &gt;
     
@@ -60,6 +61,7 @@
 
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=c9yiBRFQnbo&#34;&gt;Overview of the Instant Preview beta in Krita 2.9&lt;/a&gt;&lt;/p&gt;
 
+
 &lt;figure &gt;
     
         &lt;img src=&#34;http://gdquest.com/img/post/krita/new-in-krita-3/krita-instant-preview-2.9.png&#34; alt=&#34;Instant preview in Krita 2.9 anim edition&#34; /&gt;
@@ -74,13 +76,13 @@
 
 &lt;p&gt;To help you get started animating, there is a new default animation workspace. When you load it, it will display the 3 dockers I just mentioned at the bottom of your interface.&lt;/p&gt;
 
+
 &lt;figure &gt;
     
         &lt;img src=&#34;http://gdquest.com/img/post/krita/new-in-krita-3/krita-3-animation-workspace.jpg&#34; alt=&#34;Krita&amp;#39;s animation workspace&#34; /&gt;
     
     
-
-    &lt;figcaption class=&#34;-muted&#34;&gt;
+    &lt;figcaption&gt;
         &lt;p&gt;
         Krita&amp;#39;s animation workspace
         
@@ -114,13 +116,13 @@
 
 &lt;p&gt;Last, but not least: the former 3 display modes have been merged into a single one that gives you all of the options you need at a glance.&lt;/p&gt;
 
+
 &lt;figure &gt;
     
         &lt;img src=&#34;http://gdquest.com/img/post/krita/new-in-krita-3/krita-3-new-layers-docker.jpg&#34; alt=&#34;Krita 3&amp;#39;s new layers docker, with layer colors&#34; /&gt;
     
     
-
-    &lt;figcaption class=&#34;-muted&#34;&gt;
+    &lt;figcaption&gt;
         &lt;p&gt;
         Krita 3&amp;#39;s new layers docker, with layer colors
         
@@ -143,6 +145,7 @@
 &lt;p&gt;Under the hood, Krita&amp;rsquo;s code went through major changes. The developers ported the program to Qt 5 and the KDE frameworks 5. These popular code libraries power Krita&amp;rsquo;s interface. They are part of the application&amp;rsquo;s foundations. The port was a massive task, but it will give the team a stable ground for future updates.&lt;/p&gt;
 
 &lt;p&gt;All of this was made possible thanks to the community and the Kickstarter backers in particular. Speaking of which&amp;hellip;&lt;/p&gt;
+
 
 &lt;figure &gt;
     &lt;a href=&#34;https://www.kickstarter.com/projects/krita/krita-2016-lets-make-text-and-vector-art-awesome&#34;&gt;
@@ -175,13 +178,13 @@
 
 &lt;p&gt;The assistants now have a little widget attached to them to control each and every instance separately. The little UI elements move along with the origin of the assistants to help you keep track of them more easily.&lt;/p&gt;
 
+
 &lt;figure &gt;
     
         &lt;img src=&#34;http://gdquest.com/img/post/krita/new-in-krita-3/krita-3-improved-assistant-widget.jpg&#34; alt=&#34;The improved assistant widget&#34; /&gt;
     
     
-
-    &lt;figcaption class=&#34;-muted&#34;&gt;
+    &lt;figcaption&gt;
         &lt;p&gt;
         The improved assistant widget
         
@@ -198,6 +201,7 @@
 &lt;p&gt;The keyboard shortcut editor has moved to Krita&amp;rsquo;s preferences. It sits next to the &amp;laquo;Canvas Input Settings&amp;raquo;, where you can edit all canvas related shortcuts. It feels more natural to edit all of the program&amp;rsquo;s options in that unique pop up window.&lt;/p&gt;
 
 &lt;p&gt;The keyboard shortcuts are now arranged in categories. Unlike before, you can create shortcut schemes to share online. Krita ships with 3 default schemes: the default one, &amp;laquo;Photoshop compatible&amp;raquo; and &amp;laquo;Paint Tool SAI compatible&amp;raquo;. The canvas input settings also come with the same 3 shortcut schemes.&lt;/p&gt;
+
 
 &lt;figure &gt;
     
@@ -217,13 +221,13 @@
 
 &lt;p&gt;The greater blending mode solve this issue. It prevents new strokes from increasing the opacity of existing pixels on the canvas beyond your current maximum opacity setting. It may not sound intuitive, but it does feel very natural when you use it.&lt;/p&gt;
 
+
 &lt;figure &gt;
     
         &lt;img src=&#34;http://gdquest.com/img/post/krita/new-in-krita-3/krita-3-greater-blending-mode.png&#34; alt=&#34;Normal (left) vs greater blending mode (right)&#34; /&gt;
     
     
-
-    &lt;figcaption class=&#34;-muted&#34;&gt;
+    &lt;figcaption&gt;
         &lt;p&gt;
         Normal (left) vs greater blending mode (right)
         
@@ -239,13 +243,13 @@
 
 &lt;p&gt;You can now both load and save animated brush tips using Gimp&amp;rsquo;s GIH format. This works a bit like importing Photoshop&amp;rsquo;s ABR files: Krita will load the brush tip and add it to your library. For this to work, you have to use the &amp;laquo;Import Resources&amp;raquo; button in the brush preset editor. If your Gimp file contains multiple layers, you&amp;rsquo;ll be able to import them as an animated brush tip.&lt;/p&gt;
 
+
 &lt;figure &gt;
     
         &lt;img src=&#34;http://gdquest.com/img/post/krita/new-in-krita-3/krita-3-loading-and-saving-gimp-brushes.png&#34; alt=&#34;Krita now loads and saves brush tips in Gimp’s format&#34; /&gt;
     
     
-
-    &lt;figcaption class=&#34;-muted&#34;&gt;
+    &lt;figcaption&gt;
         &lt;p&gt;
         Krita now loads and saves brush tips in Gimp’s format
         
@@ -261,13 +265,13 @@
 
 &lt;p&gt;The pop-up palette got a little polish in this version. The brush icons are now displayed as circles, so they&amp;rsquo;ll always show most of the preset&amp;rsquo;s thumbnail. They also automatically resize based on the amount of brushes you want to display. It is easier to pick the right brush among a dozen or more now!&lt;/p&gt;
 
+
 &lt;figure &gt;
     
         &lt;img src=&#34;http://gdquest.com/img/post/krita/new-in-krita-3/krita-3-color-palette-new-look.jpg&#34; alt=&#34;Krita&amp;#39;s new pop-up palette has round icons&#34; /&gt;
     
     
-
-    &lt;figcaption class=&#34;-muted&#34;&gt;
+    &lt;figcaption&gt;
         &lt;p&gt;
         Krita&amp;#39;s new pop-up palette has round icons
         
@@ -295,13 +299,13 @@
 
 &lt;p&gt;Another great addition for Windows users is the new shell extension. This tiny program gives Windows Explorer the ability to display thumbnails and metadata for your Krita files.&lt;/p&gt;
 
+
 &lt;figure &gt;
     
         &lt;img src=&#34;http://gdquest.com/img/post/krita/new-in-krita-3/krita-3-windows-shell-extension.jpg&#34; alt=&#34;Preview your Krita files from the Explorer with the shell extension&#34; /&gt;
     
     
-
-    &lt;figcaption class=&#34;-muted&#34;&gt;
+    &lt;figcaption&gt;
         &lt;p&gt;
         Preview your Krita files from the Explorer with the shell extension
         
@@ -345,7 +349,7 @@
 &#34;&gt;&lt;/i&gt;
  Download Krita 3&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;And check out my &lt;a href=&#34;http://gdquest.com/krita-professional-game-art-tutorial&#34;&gt;Krita 3 game art course&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;And check out my &lt;a href=&#34;http://gdquest.com/product/krita/painterly-game-art/&#34;&gt;Krita 3 game art course&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     
