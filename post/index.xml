@@ -8,8 +8,108 @@
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Fri, 28 Apr 2017 08:15:16 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 08:42:22 +0200</lastBuildDate>
     <atom:link href="http://gdquest.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Make Cel Shaded 2d Characters With Krita</title>
+      <link>http://gdquest.com/post/2017/news/make-cel-shaded-2d-characters-with-krita/</link>
+      <pubDate>Tue, 09 May 2017 08:42:22 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2017/news/make-cel-shaded-2d-characters-with-krita/</guid>
+      <description>
+
+&lt;p&gt;The second Krita game art tutorial series is out! Meet Pepper, Carrot, and cel shading. This course is based on the world of Pepper&amp;amp;Carrot, a webcomic under the CCBy 4.0 licence by &lt;a href=&#34;http://davidrevoy.com/&#34;&gt;David Revoy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-you-will-learn&#34;&gt;What you will learn&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;How to create game characters with a cartoon shaded art style&lt;/li&gt;
+&lt;li&gt;Lighting and shading tricks with Krita&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This is a short, yet a rich series. It comes with &lt;strong&gt;14 video tutorials&lt;/strong&gt;, plus a fully &lt;strong&gt;commented art time-lapse&lt;/strong&gt;.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/product/krita/cel-shaded-game-art/pepper-and-carrot-artwork.jpg&#34; alt=&#34;Pepper and Carrot side by side, painted with a cartoon art style&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Meet Pepper and Carrot, the 2 characters from the course
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;pre-requisites&#34;&gt;Pre-requisites&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;If you have never used Krita before or don’t feel comfortable with it, check out my &lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;6 hours long free Krita course&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The pace of the course is like the tutorials you will find on the GDquest channel, you can check them out first and see if they work for you before you buy.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot-engine-kickstarter/krita-course-cel-shading.jpg&#34; alt=&#34;3 stylized characters used to teach lighting fundamentals&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Learn lighting and shading tricks with Krita
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;30-days-moneyback&#34;&gt;30 days moneyback&lt;/h2&gt;
+
+&lt;p&gt;You’re interested in the course, but what if you buy and you don’t like it? No worries, it comes with a &lt;strong&gt;30 days money back warranty&lt;/strong&gt;. Just drop me a message, and you’ll get a refund: no questions asked.&lt;/p&gt;
+
+&lt;p&gt;The course is available on Gumroad. Click the button below to access it. If you pre-order it, use the code &amp;laquo;early&amp;raquo; and get 20% off!&lt;/p&gt;
+
+&lt;div class=&#34;-center&#34;&gt;
+    &lt;a href=&#34;https://gumroad.com/l/cartoon-game-art-krita-course&#34;&gt;
+        &lt;button class=&#34;-calltoaction -success&#34;&gt;
+            Get the course now!
+        &lt;/button&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;what-next&#34;&gt;What next?&lt;/h2&gt;
+
+&lt;p&gt;This series wraps up the Game Art Quest Kickstarter project. Next, we&amp;rsquo;re working together with the Godot developers to offer the first professional course for this wonderful open source engine! &lt;a href=&#34;https://www.youtube.com/c/gdquest&#34;&gt;Subscribe to the Youtube channel&lt;/a&gt; to know when it&amp;rsquo;s available. I&amp;rsquo;m preparing 30 free tutorials for the 30 days of the Kickstarter campaign.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/product/krita/cel-shaded-game-art/pepper-carrot-cover-by-david-revoy.jpg&#34; alt=&#34;Pepper smiling and holding a colorful potion inside her house&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Pepper and Carrot, CC-By 4.0 David Revoy
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Krita Brushes Anniversary Update</title>
@@ -1170,63 +1270,6 @@ The problem is, we don’t always want to have the page’s author set to Admin.
 &lt;li&gt;At the time I&amp;rsquo;m writing this, Krita doesn&amp;rsquo;t support every single tablet on the market. The developers are in the process of re-writing their tablet code. Wacom tablets work OK, but some other brands might not until Krita 3.0&amp;rsquo;s release.&lt;/li&gt;
 &lt;li&gt;If you want to use 2 tablets at the same time like I&amp;rsquo;m doing, they have to share the same brand. In other words, you can&amp;rsquo;t use a flat Wacom tablet and a Wacom cintiq at the same time.&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>GDquest news and Krita 3.0 pre-alpha 3</title>
-      <link>http://gdquest.com/post/2016/community/GDquest-news-and-Krita-3.0-pre-alpha/</link>
-      <pubDate>Wed, 16 Mar 2016 08:25:29 +0100</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/post/2016/community/GDquest-news-and-Krita-3.0-pre-alpha/</guid>
-      <description>
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/JWwpm4hs0l0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Hi there! I wanted to keep you posted on what is going on right now with GDquest. The video says it all, but I’m going to sum up the news below.&lt;/p&gt;
-
-&lt;p&gt;With one last contract finished last week, and the series on monster design done, I am now working full-time on Game Art Quest. My top priority is to release the first version of the GAQ Krita brush back and to finish chapter 0 in the training. Once this is done, I will start releasing videos from the training publicly, at the rate of 1 to 2 per week.&lt;/p&gt;
-
-&lt;p&gt;I released the first 5 soundtracks from the project in an album called &lt;a href=&#34;https://gdquest.bandcamp.com/album/space-adventures&#34;&gt;Space Adventures&lt;/a&gt;. They are available under the &lt;strong&gt;Creative Commons 4.0 license&lt;/strong&gt;, so you can use them in &lt;strong&gt;both personal and commercial projects&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;iframe style=&#34;border: 0; width: 700px; height: 307px;&#34; src=&#34;https://bandcamp.com/EmbeddedPlayer/album=1579881958/size=large/bgcol=333333/linkcol=e99708/artwork=small/transparent=true/&#34; seamless&gt;&lt;a href=&#34;http://gdquest.bandcamp.com/album/space-adventures&#34;&gt;Space adventures by Nathan Lovato&lt;/a&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&#34;your-votes-for-future-tutorials&#34;&gt;Your votes for future tutorials&lt;/h2&gt;
-
-&lt;p&gt;Since January, I have been &lt;a href=&#34;http://gdquest.com/post/2016/community/vote-for-upcoming-tutorials-january-2016/&#34;&gt;running a vote&lt;/a&gt; to ask you which tutorial series you wanted me to do this year aside from Krita. More than 400 people voted, and here are the themes you picked:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Overview of Godot 2.0, the open source game engine, for 2d games&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Painting rock and grass tiles for 2d games&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Human proportions, from reality to games&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;This is great, as they will reinforce &lt;a href=&#34;http://gdquest.com/krita/game-art-quest/&#34;&gt;Game Art Quest&lt;/a&gt;. I might also do the 4th one, the Overview of &lt;a href=&#34;http://superpowers-html5.com/&#34;&gt;Superpowers, the collaborative HTML5 game engine&lt;/a&gt;, as time permits.&lt;/p&gt;
-
-&lt;h2 id=&#34;krita-3-0-pre-alpha-3&#34;&gt;Krita 3.0, pre-alpha 3&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;\img\post\community\krita-gradient-map.png&#34; alt=&#34;Krita gradient map filter&#34; class=&#34;img-responsive&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The 3rd pre-alpha of Krita 3.0 was released! The development entered a feature-frozen state, and the full release of Krita 3.0 is planned for April 27. The features that didn’t make it in this version will be available in Krita 3.1.&lt;/p&gt;
-
-&lt;p&gt;Here’s a quick list of what is new in this pre-alpha:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The improvements to the layer docker&lt;/li&gt;
-&lt;li&gt;The new grid and guides system, along with snapping&lt;/li&gt;
-&lt;li&gt;A gradient map filter&lt;/li&gt;
-&lt;li&gt;A greater alpha blending mode, useful for painting with the pixel brush engine&lt;/li&gt;
-&lt;li&gt;The foundations for 2 exporters. One is for spriter, the animation application for 2d games, and the other one is a csv-based format to exports animated sequences from krita.&lt;/li&gt;
-&lt;li&gt;A variety of improvements to the move tool, the crop tool, the assistants…&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Head on to the dedicated article on the official website to find the builds along with download instructions. It also features an exhaustive list of changes in this version.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;That’s it for this update. See you soon, in the next one!&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
