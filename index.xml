@@ -8,7 +8,7 @@
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Tue, 09 May 2017 08:42:22 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 May 2017 13:37:08 +0200</lastBuildDate>
     <atom:link href="http://gdquest.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -104,9 +104,143 @@ default
     </item>
     
     <item>
+      <title>Godot Kickstarter, Your Feedback on the Form</title>
+      <link>http://gdquest.com/post/2017/news/godot-kickstarter-form-results/</link>
+      <pubDate>Sat, 06 May 2017 13:37:08 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2017/news/godot-kickstarter-form-results/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Almost 600 of you&lt;/strong&gt; gave feedback on the Godot course&amp;rsquo;s Kickstarter! That&amp;rsquo;s close to 3 times as many as last time, for the Krita game art project. Let&amp;rsquo;s look at what you had to say.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;About the form&#39;s design
+
+There are 3 key questions you need to answer before you crowdfund a course:
+1. Do enough people want it to happen?
+2. Who are they?
+3. What do they want?
+
+To get to know people well, you need to ask a lot of things. However, everyone&#39;s busy, and in online forms, one abandons fast. That&#39;s why there were only 6 short questions, and only 3 mandatory ones. With that, I got a 60% completion rate, up from 45% last time. Aside from that, I chat with numerous people one on one to get detailed insights. Fellow content creators like Heartbeast, Godot devs, experienced teachers, and the community.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;That said, let&amp;rsquo;s look at the results!&lt;/p&gt;
+
+&lt;h2 id=&#34;it-all-starts-with-you&#34;&gt;It all starts with you&lt;/h2&gt;
+
+&lt;p&gt;76% said they&amp;rsquo;ll support the project on Kickstarter. The most common amounts people want to pledge are 10, 20, 40, 100 and 200 euros (&lt;em&gt;quartiles, median, 9th decile and 95 percentile values&lt;/em&gt;). That&amp;rsquo;s great news! The more funding, the longer the course will be.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot-kickstarter-form-results/would-you-support.png&#34; alt=&#34;The picture shows 445 persons said they&amp;#39;d support the kickstarter&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        If that many people support the project, it&amp;#39;ll be funded for sure
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I can help you become better at game creation, but making a great course costs a lot of time. And time is money. Working full-time with open source technologies taught me how essential the community is, in many regards. That&amp;rsquo;s why such a project starts with &lt;strong&gt;you&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Making money isn&amp;rsquo;t hard in itself&amp;hellip; What&amp;rsquo;s hard is to earn it doing something worth devoting one&amp;rsquo;s life to
+&lt;cite&gt;Carlos Ruiz Zafón&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;a-top-down-game&#34;&gt;A top-down game?&lt;/h2&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot-kickstarter-form-results/what-game-genre.png&#34; alt=&#34;Form results, showing 53% of the respondents prefer the project to be a Zelda-like, followed by Platformer&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        I listed game genres that work well with a character, so we can explore movement and collisions in the course
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The 3 most popular types of games are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Zelda-like (top-down)&lt;/li&gt;
+&lt;li&gt;Platformer&lt;/li&gt;
+&lt;li&gt;RPG (turn-based)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I expected the platformer genre to take the first place. However, there are many tutorials about it already, and far less for other types of games. This might explain the results. Now it&amp;rsquo;s cool, because there&amp;rsquo;s a lot to learn with top-down titles, even from the design&amp;rsquo;s standpoint.&lt;/p&gt;
+
+&lt;p&gt;Anyway, the point of the course is not to teach you how to make a zelda-like, but to make you more capable with Godot and game creation in general. I just wanted to do that with a fun and appealing project. On top of that, a lot of what you&amp;rsquo;ll learn will apply directly to RPGs, covering 2 of the top 3 options.&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-style-50-50&#34;&gt;Learning style: 50/50&lt;/h2&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot-kickstarter-form-results/what-course-style.png&#34; alt=&#34;50% of the respondents want the course to be &#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        The answers in the &amp;#39;other&amp;#39; category show how torn people can be on the subject
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Everyone has a different opinion on how things should be taught, but that&amp;rsquo;s the reflect of who we are: we all learn differently, and we&amp;rsquo;re all at different stages on our journey. I&amp;rsquo;ll do my best to make the course useful to every backer. There&amp;rsquo;ll definitely be step-by-step tutorials and code commentaries, to help new Godot users get more comfortable with the engine. But I&amp;rsquo;ll also cover more advanced topics for those who want to go a step further. I&amp;rsquo;ve already done that for the last project, and it worked well.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-you-want-to-learn&#34;&gt;What you want to learn&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;EVERYTHING
+&lt;cite&gt;The Godot community&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Out of the 502 requests, most are unique. And that&amp;rsquo;s normal. The key here is to spot the requests that are popular, tie in well into the course, and that are useful to everyone. I use them both to pick cool topics for free tutorials and to structure the course and Kickstarter campaign.&lt;/p&gt;
+
+&lt;p&gt;I want to build the course with you, and I&amp;rsquo;ll improve the curriculum over time, based on your feedback. With these replies, I can better set priorities for the course and potential extra modules to add on top of it. For instance, a number of you want to know how to polish the game and manage animations (tweening, particles&amp;hellip;). To explain it properly, I need to cover some animation principles, theory, how it works in Godot, working with particles and special effects&amp;hellip; there&amp;rsquo;s so much to explain! But it&amp;rsquo;s more important to help you build solid foundations for your games first, so that&amp;rsquo;s the priority.&lt;/p&gt;
+
+&lt;p&gt;In any case, there&amp;rsquo;ll be plenty for you to learn. And again, the higher the funding, the more bonus content you&amp;rsquo;ll get.&lt;/p&gt;
+
+&lt;h2 id=&#34;be-the-first-to-know&#34;&gt;Be the first to know!&lt;/h2&gt;
+
+&lt;p&gt;To know when the Kickstarter&amp;rsquo;s up, &lt;strong&gt;click the button below and subscribe to GDquest on Youtube&lt;/strong&gt;! You will get 1 free tutorial every single day throughout the campaign:&lt;/p&gt;
+
+&lt;div class=&#34;-center&#34;&gt;
+    &lt;a href=&#34;http://youtube.com/c/gdquest&#34;&gt;
+        &lt;button class=&#34;-calltoaction -success&#34;&gt;
+            The GDquest channel
+        &lt;/button&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Thank you for your time! Feel free to comment or ask questions below :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Make Cel Shaded 2d Characters With Krita</title>
       <link>http://gdquest.com/post/2017/news/make-cel-shaded-2d-characters-with-krita/</link>
-      <pubDate>Tue, 09 May 2017 08:42:22 +0200</pubDate>
+      <pubDate>Thu, 04 May 2017 08:42:22 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/post/2017/news/make-cel-shaded-2d-characters-with-krita/</guid>
       <description>
@@ -948,79 +1082,6 @@ default
 &lt;p&gt;Anyway, it’s news time. In this month’s update, we talk about the weekly releases on the premium game art tutorial, the Godot tutorial series that’s happening right now on the channel, and FOSDEM and GodotCon, 2 events taking place from February 4 to 7. I’m going to give the Godot team a hand and prepare some upcoming project, so we can meet there! To get more details about all of that, I invite you to watch the video.&lt;/p&gt;
 
 &lt;p&gt;See you in February for the next update!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Back from japan, back to work</title>
-      <link>http://gdquest.com/post/2016/back-from-japan/</link>
-      <pubDate>Wed, 09 Nov 2016 20:16:29 +0100</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/post/2016/back-from-japan/</guid>
-      <description>
-
-&lt;p&gt;Yes, I’m back from Japan! Physically at least: my heart is still back there. I’ve been traveling around the country for a bit less than a month, and the experience was incredible. It was a great occasion to practice Japanese and get a better sense for the culture. I’ve read and been told a lot of things before going, and reality felt a lot subtler than what you would expect at first. Some facts were somewhat true, others plain wrong. The collectivism there felt wonderful. The french culture is a lot more individualistic, which is part of what makes me feel like a foreigner here.&lt;/p&gt;
-
-&lt;p&gt;There can be a sheer contrast between Japanese people&amp;rsquo;s behavior during daytime, and at night. When they are tipsy, or even completely drunk, you&amp;rsquo;re up for all sorts of surprises! And it&amp;rsquo;s fine for them to drink way too much and end up sleeping on the sidewalk in larger cities.&lt;/p&gt;
-
-&lt;p&gt;Anyway, Japan is beautiful. And a picture is probably worth a thousand words in that regards:&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&#34;true&#34;  href=&#34;https://www.flickr.com/photos/144749747@N03/30581295540/in/album-72157674849188902/&#34; title=&#34;Sunset on Naoshima&#34;&gt;&lt;img src=&#34;https://c5.staticflickr.com/6/5783/30581295540_8642c0298a_b.jpg&#34; width=&#34;1024&#34; height=&#34;576&#34; alt=&#34;Sunset on Naoshima&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve mostly been out hiking, meeting people, making friends&amp;hellip; enjoying the soothing nature. If you ever travel there, I would warmly recommend walking the Kumano Kodo, a pilgrimage route. At least if you’re into trekking. Oh, and when you&amp;rsquo;re on your way down to Tanabe City, be sure stop by Osaka and eat some freshly cooked okonomiyaki with cheese topping. It tastes great!&lt;/p&gt;
-
-&lt;h2 id=&#34;looking-for-a-proper-workplace&#34;&gt;Looking for a proper workplace&lt;/h2&gt;
-
-&lt;p&gt;Alright, let’s get back to the channel. Last week, I wrote a business plan and applied to a local business incubator. It’s a place where you can get an office, along with other young companies. Experienced people follow your work and are here to guide you. If they accept GDquest, this will help the project greatly in the coming year. It is getting hard for me to work at home. I need to get out of here. That’s why I took a few extra days to refine the document: I want - no, I need it to work!&lt;/p&gt;
-
-&lt;h2 id=&#34;upcoming-updates&#34;&gt;Upcoming updates&lt;/h2&gt;
-
-&lt;p&gt;Let&amp;rsquo;s talk about what&amp;rsquo;s coming next on GDquest. As far as free content is concerned, until the end of December, you’ll be getting some more Krita tutorials from the Game Art Quest series. In the meantime, I’ll be hard at work on a few things:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;The next training product, which is very important, the game art workshop.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;The Krita brushes and the Krita training series will get a little bit of love through monthly updates.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;I must improve some aspects of the website. In particular, a library page is coming in the next few weeks. It will compile all of the tutorials from the channel in an appealing and organized way.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;And there will still be weekly free videos on the channel. I have to produce some new ones, in parallel to the training products. I&amp;rsquo;ve already prepared the next free series, which will be an introduction to the Godot game engine!&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;And hopefully we&amp;rsquo;ll find some time to do a few collabs with other artists. We got in touch with Daniel, aka &lt;a href=&#34;https://www.youtube.com/channel/UCGgpthBWDbFX2GSljMw-MdQ&#34;&gt;Borodante&lt;/a&gt; (&lt;em&gt;pronounced Borrrrr-rodante&lt;/em&gt;), and some other tutorial makers.&lt;/p&gt;
-
-&lt;h2 id=&#34;come-chat-with-the-community-on-discord&#34;&gt;Come chat with the community on Discord!&lt;/h2&gt;
-
-&lt;div class=&#34;card-box clearfix&#34;&gt;
-  &lt;div class=&#34;card-content&#34;&gt;
-    &lt;p&gt;I’ve opened a server on Discord for everyone in the community to join and talk about game creation with open source programs.
-      Whether you just want to drop by and say hi, showcase your artwork or share your knowledge about Krita and Godot, you’re
-      more than welcome!
-    &lt;/p&gt;
-    &lt;p class=&#34;text--center&#34;&gt;
-      &lt;a href=&#34;https://discord.gg/KVaCsSP&#34; class=&#34;button button--pill button--success button--full lead&#34;&gt;Join the Discord server&lt;/a&gt;
-    &lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;sara-tepes&#34;&gt;Sara Tepes&lt;/h2&gt;
-
-&lt;p&gt;Sara Tepes, a hard-working 17 years old illustrator, talked about GDquest in her last video. I’ve been following her for months now, and her message was heartwarming! So now it’s my turn: if you want to see appealing live Krita demonstrations, check out Sara’s channel on YouTube. She uploads commented time-lapses every week and she already produces very appealing art despite her young age.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCWgMcluGLnaVpCWmscaFs_Q&#34;&gt;Sara Tepes on Youtube&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;640&#34; height=&#34;360&#34; style=&#34;max-width:100%&#34; src=&#34;https://www.youtube.com/embed/orgVs2csqbo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&#34;that-said&#34;&gt;That said&amp;hellip;&lt;/h2&gt;
-
-&lt;p&gt;Time to get back to work! I&amp;rsquo;ll upload the Krita brushes update in the coming week (Nov 14-20), as well as a video overview of the new features in Krita 3.1. Yes, a new major release is right around the corner, and among other things, it&amp;rsquo;s going to be the first stable Mac version!&lt;/p&gt;
-
-&lt;p&gt;Thank you for your time!
-Nathan&lt;/p&gt;
-
-&lt;p&gt;PS: If you want to see more shots I took in Japan, click on the picture below. It&amp;rsquo;ll take you to the album on Flickr.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&#34;true&#34;  href=&#34;https://www.flickr.com/photos/144749747@N03/30766469012/in/dateposted-public/&#34; title=&#34;highlights (40 of 44)&#34;&gt;&lt;img src=&#34;https://c5.staticflickr.com/6/5546/30766469012_1a163667d6_b.jpg&#34; width=&#34;1024&#34; height=&#34;576&#34; alt=&#34;highlights (40 of 44)&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 </description>
     </item>
     

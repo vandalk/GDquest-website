@@ -11,6 +11,140 @@
     <atom:link href="http://gdquest.com/tags/crowdfunding/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Godot Kickstarter, Your Feedback on the Form</title>
+      <link>http://gdquest.com/post/2017/news/godot-kickstarter-form-results/</link>
+      <pubDate>Sat, 06 May 2017 13:37:08 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2017/news/godot-kickstarter-form-results/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Almost 600 of you&lt;/strong&gt; gave feedback on the Godot course&amp;rsquo;s Kickstarter! That&amp;rsquo;s close to 3 times as many as last time, for the Krita game art project. Let&amp;rsquo;s look at what you had to say.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;About the form&#39;s design
+
+There are 3 key questions you need to answer before you crowdfund a course:
+1. Do enough people want it to happen?
+2. Who are they?
+3. What do they want?
+
+To get to know people well, you need to ask a lot of things. However, everyone&#39;s busy, and in online forms, one abandons fast. That&#39;s why there were only 6 short questions, and only 3 mandatory ones. With that, I got a 60% completion rate, up from 45% last time. Aside from that, I chat with numerous people one on one to get detailed insights. Fellow content creators like Heartbeast, Godot devs, experienced teachers, and the community.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;That said, let&amp;rsquo;s look at the results!&lt;/p&gt;
+
+&lt;h2 id=&#34;it-all-starts-with-you&#34;&gt;It all starts with you&lt;/h2&gt;
+
+&lt;p&gt;76% said they&amp;rsquo;ll support the project on Kickstarter. The most common amounts people want to pledge are 10, 20, 40, 100 and 200 euros (&lt;em&gt;quartiles, median, 9th decile and 95 percentile values&lt;/em&gt;). That&amp;rsquo;s great news! The more funding, the longer the course will be.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot-kickstarter-form-results/would-you-support.png&#34; alt=&#34;The picture shows 445 persons said they&amp;#39;d support the kickstarter&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        If that many people support the project, it&amp;#39;ll be funded for sure
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I can help you become better at game creation, but making a great course costs a lot of time. And time is money. Working full-time with open source technologies taught me how essential the community is, in many regards. That&amp;rsquo;s why such a project starts with &lt;strong&gt;you&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Making money isn&amp;rsquo;t hard in itself&amp;hellip; What&amp;rsquo;s hard is to earn it doing something worth devoting one&amp;rsquo;s life to
+&lt;cite&gt;Carlos Ruiz Zafón&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;a-top-down-game&#34;&gt;A top-down game?&lt;/h2&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot-kickstarter-form-results/what-game-genre.png&#34; alt=&#34;Form results, showing 53% of the respondents prefer the project to be a Zelda-like, followed by Platformer&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        I listed game genres that work well with a character, so we can explore movement and collisions in the course
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The 3 most popular types of games are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Zelda-like (top-down)&lt;/li&gt;
+&lt;li&gt;Platformer&lt;/li&gt;
+&lt;li&gt;RPG (turn-based)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I expected the platformer genre to take the first place. However, there are many tutorials about it already, and far less for other types of games. This might explain the results. Now it&amp;rsquo;s cool, because there&amp;rsquo;s a lot to learn with top-down titles, even from the design&amp;rsquo;s standpoint.&lt;/p&gt;
+
+&lt;p&gt;Anyway, the point of the course is not to teach you how to make a zelda-like, but to make you more capable with Godot and game creation in general. I just wanted to do that with a fun and appealing project. On top of that, a lot of what you&amp;rsquo;ll learn will apply directly to RPGs, covering 2 of the top 3 options.&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-style-50-50&#34;&gt;Learning style: 50/50&lt;/h2&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot-kickstarter-form-results/what-course-style.png&#34; alt=&#34;50% of the respondents want the course to be &#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        The answers in the &amp;#39;other&amp;#39; category show how torn people can be on the subject
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Everyone has a different opinion on how things should be taught, but that&amp;rsquo;s the reflect of who we are: we all learn differently, and we&amp;rsquo;re all at different stages on our journey. I&amp;rsquo;ll do my best to make the course useful to every backer. There&amp;rsquo;ll definitely be step-by-step tutorials and code commentaries, to help new Godot users get more comfortable with the engine. But I&amp;rsquo;ll also cover more advanced topics for those who want to go a step further. I&amp;rsquo;ve already done that for the last project, and it worked well.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-you-want-to-learn&#34;&gt;What you want to learn&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;EVERYTHING
+&lt;cite&gt;The Godot community&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Out of the 502 requests, most are unique. And that&amp;rsquo;s normal. The key here is to spot the requests that are popular, tie in well into the course, and that are useful to everyone. I use them both to pick cool topics for free tutorials and to structure the course and Kickstarter campaign.&lt;/p&gt;
+
+&lt;p&gt;I want to build the course with you, and I&amp;rsquo;ll improve the curriculum over time, based on your feedback. With these replies, I can better set priorities for the course and potential extra modules to add on top of it. For instance, a number of you want to know how to polish the game and manage animations (tweening, particles&amp;hellip;). To explain it properly, I need to cover some animation principles, theory, how it works in Godot, working with particles and special effects&amp;hellip; there&amp;rsquo;s so much to explain! But it&amp;rsquo;s more important to help you build solid foundations for your games first, so that&amp;rsquo;s the priority.&lt;/p&gt;
+
+&lt;p&gt;In any case, there&amp;rsquo;ll be plenty for you to learn. And again, the higher the funding, the more bonus content you&amp;rsquo;ll get.&lt;/p&gt;
+
+&lt;h2 id=&#34;be-the-first-to-know&#34;&gt;Be the first to know!&lt;/h2&gt;
+
+&lt;p&gt;To know when the Kickstarter&amp;rsquo;s up, &lt;strong&gt;click the button below and subscribe to GDquest on Youtube&lt;/strong&gt;! You will get 1 free tutorial every single day throughout the campaign:&lt;/p&gt;
+
+&lt;div class=&#34;-center&#34;&gt;
+    &lt;a href=&#34;http://youtube.com/c/gdquest&#34;&gt;
+        &lt;button class=&#34;-calltoaction -success&#34;&gt;
+            The GDquest channel
+        &lt;/button&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Thank you for your time! Feel free to comment or ask questions below :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Game Creation with Godot, Kickstarter soon</title>
       <link>http://gdquest.com/post/2017/news/godot-engine-kickstarter/</link>
       <pubDate>Wed, 19 Apr 2017 15:00:11 +0100</pubDate>
