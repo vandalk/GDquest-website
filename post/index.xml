@@ -8,8 +8,48 @@
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Sat, 06 May 2017 13:37:08 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 09:18:18 +0200</lastBuildDate>
     <atom:link href="http://gdquest.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New Krita Game Art Course Out!</title>
+      <link>http://gdquest.com/post/2017/news/make-cartoon-game-characters-krita-out/</link>
+      <pubDate>Tue, 09 May 2017 09:18:18 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2017/news/make-cartoon-game-characters-krita-out/</guid>
+      <description>&lt;p&gt;The second premium Krita game art course, Make Cel Shaded Game Characters, is out! It contains 14 tutorials that will help you improve your lighting fundamentals and show you how to make a game character.&lt;/p&gt;
+
+&lt;div class=&#34;-center&#34;&gt;
+    &lt;a href=&#34;https://gum.co/cartoon-game-art-krita-course/&#34;&gt;
+        &lt;button class=&#34;-calltoaction -success&#34;&gt;
+            Get the course now!
+        &lt;/button&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The course is based on Pepper and Carrot, the main 2 characters of a webcomic by &lt;a href=&#34;http://davidrevoy.com/&#34;&gt;David Revoy&lt;/a&gt;. It&amp;rsquo;s available under the &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC-By 4.0 licence&lt;/a&gt;. It&amp;rsquo;s very common to work on an existing IP or world as a game artist, and David&amp;rsquo;s comic allows us to do just that.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/product/krita/cel-shaded-game-art/pepper-and-carrot-artwork.jpg&#34; alt=&#34;Pepper and Carrot side by side, painted with a cartoon art style&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Meet Pepper and Carrot, turned into sprites for the tutorials
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I hope you&amp;rsquo;ll like it! And see you soon on Kickstarter for a &lt;a href=&#34;http://gdquest.com/post/2017/news/godot-engine-kickstarter/&#34;&gt;game creation course with Godot&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Godot Kickstarter, Your Feedback on the Form</title>
@@ -329,6 +369,8 @@ To get to know people well, you need to ask a lot of things. However, everyone&#
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/post/2017/news/godot-engine-kickstarter/</guid>
       <description>
+
+&lt;p&gt;Update: the form&amp;rsquo;s results are available: &lt;a href=&#34;http://gdquest.com/post/2017/news/godot-kickstarter-form-results/&#34;&gt;Check them out&lt;/a&gt;!&lt;/p&gt;
 
 &lt;p&gt;Back in December 2015, hundreds supported gdquest on Kickstarter to bring out game art tutorials to Krita. Since then, I produced more than a hundred videos for it, and the &lt;a href=&#34;https://gumroad.com/l/krita-game-art-tutorial-1&#34;&gt;first professional game art course&lt;/a&gt;.&lt;/p&gt;
 
@@ -1307,59 +1349,6 @@ success
  Download Krita 3&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;And check out my &lt;a href=&#34;http://gdquest.com/product/krita/painterly-game-art/&#34;&gt;Krita 3 game art course&lt;/a&gt;!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hugo Tips: Concatenate paths with variables</title>
-      <link>http://gdquest.com/post/2016/programming/hugo-tips-concat-node-paths-variable/</link>
-      <pubDate>Wed, 20 Apr 2016 09:34:58 +0200</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/post/2016/programming/hugo-tips-concat-node-paths-variable/</guid>
-      <description>&lt;p&gt;&lt;span class=&#34;text-muted&#34;&gt; This tutorial is a post I initially wrote on the &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; forums. Hugo is the static website generator that powers GDquest.
-It is a really flexible and elegant system, based on Google&amp;rsquo;s Go programming language. Sometimes, it is a bit hard to use for a non-tech-savvy user. So I decided to share some tips on things that got me stuck at some point. &lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;In a template, you sometimes need to load data from a path based on a parameter in your content file’s front matter. For example, you may want to add an author to every post that tells the visitor a bit more about the writer. You want to tell Hugo who the author is, and let the template load all of that person’s info from the data folder.&lt;/p&gt;
-
-&lt;p&gt;The first step is simple. We just have to properly set the author variable in the post’s front matter. We will use it to access the right file in our database:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;+++
-author = &amp;quot;nathan&amp;quot;
-+++
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Based on this variable, in your template/partial, you want to access a specific data file stored in the &lt;strong&gt;data/authors/&lt;/strong&gt; folder of your website, named exactly the same as your author variable in your content piece. In my case, this file is &lt;strong&gt;data/authors/admin.toml&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;The content of this file can be accessed from your template using the following node path: &lt;strong&gt;.Site.Data.authors.admin&lt;/strong&gt;
-The problem is, we don’t always want to have the page’s author set to Admin. If a guest writes a post for my website, I want to use his name instead. For every content piece, the author’s name is available at &lt;strong&gt;.Params.author&lt;/strong&gt; in your template, as we added this variable to our content&amp;rsquo;s front matter. So you want to load the data from the file at &lt;strong&gt;.Site.Data.authors&lt;/strong&gt; called the same as the variable &lt;strong&gt;.Params.author&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;To do that, in go template, we have to use the index function. Index takes 2 parameters: the first one is a node path, and the 2nd one is a string corresponding to the data we want to access. For example:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ index .Site.Data.authors “admin” }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Will return the content of .Site.Data.authors.admin. Now, as the variable .Params.author is a string, we can use it with the index function. So this:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ index .Site.Data.authors .Params.author }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Will return the content of the data file at data/authors/our_post_author.&lt;/p&gt;
-
-&lt;p&gt;You can put your index operation in parentheses and keep going down the node tree by adding a “.” right after it:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ (index .Site.Data “authors”).admin}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Last but not least, by nesting parentheses, you can compound multiple index operations together and access more complex paths that way:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{ index (index .Site.Data &amp;quot;authors&amp;quot;) &amp;quot;admin&amp;quot; }}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;You can see the resulting author banner at the bottom of this post!&lt;/p&gt;
-
-&lt;p&gt;I hope this helps! As a non-web developer, I find it hard sometimes to wrap my head around the way go template work. It&amp;rsquo;s really simple once you know how to do it, but it can take a while before you find how to use a function the right way, even with the help of the documentation.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Happy Hugo coding!&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

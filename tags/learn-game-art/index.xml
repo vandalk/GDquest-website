@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learn Game Art on GDquest</title>
+    <link>http://gdquest.com/tags/learn-game-art/index.xml</link>
+    <description>Recent content in Learn Game Art on GDquest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <atom:link href="http://gdquest.com/tags/learn-game-art/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New Krita Game Art Course Out!</title>
+      <link>http://gdquest.com/post/2017/news/make-cartoon-game-characters-krita-out/</link>
+      <pubDate>Tue, 09 May 2017 09:18:18 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2017/news/make-cartoon-game-characters-krita-out/</guid>
+      <description>&lt;p&gt;The second premium Krita game art course, Make Cel Shaded Game Characters, is out! It contains 14 tutorials that will help you improve your lighting fundamentals and show you how to make a game character.&lt;/p&gt;
+
+&lt;div class=&#34;-center&#34;&gt;
+    &lt;a href=&#34;https://gum.co/cartoon-game-art-krita-course/&#34;&gt;
+        &lt;button class=&#34;-calltoaction -success&#34;&gt;
+            Get the course now!
+        &lt;/button&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The course is based on Pepper and Carrot, the main 2 characters of a webcomic by &lt;a href=&#34;http://davidrevoy.com/&#34;&gt;David Revoy&lt;/a&gt;. It&amp;rsquo;s available under the &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC-By 4.0 licence&lt;/a&gt;. It&amp;rsquo;s very common to work on an existing IP or world as a game artist, and David&amp;rsquo;s comic allows us to do just that.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://gdquest.com/img/product/krita/cel-shaded-game-art/pepper-and-carrot-artwork.jpg&#34; alt=&#34;Pepper and Carrot side by side, painted with a cartoon art style&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Meet Pepper and Carrot, turned into sprites for the tutorials
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I hope you&amp;rsquo;ll like it! And see you soon on Kickstarter for a &lt;a href=&#34;http://gdquest.com/post/2017/news/godot-engine-kickstarter/&#34;&gt;game creation course with Godot&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

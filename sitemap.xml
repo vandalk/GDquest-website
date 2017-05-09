@@ -16,6 +16,16 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/post/2017/news/make-cartoon-game-characters-krita-out/</loc>
+    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/product/krita/cel-shading-for-characters-course/</loc>
+    <lastmod>2017-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2017/news/godot-kickstarter-form-results/</loc>
     <lastmod>2017-05-06T13:37:08+02:00</lastmod>
   </url>
@@ -168,14 +178,26 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/category/community/</loc>
-    <lastmod>2016-01-11T09:16:10+01:00</lastmod>
+    <loc>http://gdquest.com/tags/character-illustration/</loc>
+    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/character-sprite/</loc>
+    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://gdquest.com/tags/community/</loc>
     <lastmod>2017-01-21T17:35:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/category/community/</loc>
+    <lastmod>2016-01-11T09:16:10+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -188,6 +210,12 @@
   <url>
     <loc>http://gdquest.com/tags/crowdfunding/</loc>
     <lastmod>2017-05-06T13:37:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/foss/</loc>
+    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -205,12 +233,18 @@
   
   <url>
     <loc>http://gdquest.com/</loc>
-    <lastmod>2017-05-06T13:37:08+02:00</lastmod>
+    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://gdquest.com/homepage/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/game-art-tutorial/</loc>
+    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -281,7 +315,7 @@
   
   <url>
     <loc>http://gdquest.com/category/krita/</loc>
-    <lastmod>2017-02-22T15:11:59+01:00</lastmod>
+    <lastmod>2017-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -293,7 +327,7 @@
   
   <url>
     <loc>http://gdquest.com/tags/krita-3/</loc>
-    <lastmod>2016-05-09T17:49:09+02:00</lastmod>
+    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -316,6 +350,12 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/krita-game-art-course/</loc>
+    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/krita-game-art-tutorial/</loc>
     <lastmod>2017-04-14T13:06:14+02:00</lastmod>
     <priority>0</priority>
@@ -334,14 +374,20 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/tags/marketing-indie-games-with-0-budget/</loc>
-    <lastmod>2017-04-06T20:33:30+01:00</lastmod>
+    <loc>http://gdquest.com/tags/krita-tutorial/</loc>
+    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gdquest.com/category/news/</loc>
-    <lastmod>2017-05-06T13:37:08+02:00</lastmod>
+    <loc>http://gdquest.com/tags/learn-game-art/</loc>
+    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/marketing-indie-games-with-0-budget/</loc>
+    <lastmod>2017-04-06T20:33:30+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -352,8 +398,20 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/category/news/</loc>
+    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/old/</loc>
     <lastmod>2017-03-13T20:42:51+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/open-source/</loc>
+    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -368,13 +426,13 @@
   
   <url>
     <loc>http://gdquest.com/post/</loc>
-    <lastmod>2017-05-06T13:37:08+02:00</lastmod>
+    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://gdquest.com/product/</loc>
-    <lastmod>2017-02-22T15:11:59+01:00</lastmod>
+    <lastmod>2017-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
