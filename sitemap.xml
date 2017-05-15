@@ -195,14 +195,14 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/category/community/</loc>
-    <lastmod>2016-01-11T09:16:10+01:00</lastmod>
+    <loc>http://gdquest.com/tags/community/</loc>
+    <lastmod>2017-01-21T17:35:09+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gdquest.com/tags/community/</loc>
-    <lastmod>2017-01-21T17:35:09+01:00</lastmod>
+    <loc>http://gdquest.com/category/community/</loc>
+    <lastmod>2016-01-11T09:16:10+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -214,7 +214,7 @@
   
   <url>
     <loc>http://gdquest.com/tags/crowdfunding/</loc>
-    <lastmod>2017-05-06T13:37:08+02:00</lastmod>
+    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -253,6 +253,12 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/game-creation/</loc>
+    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/category/game-design/</loc>
     <lastmod>2015-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -284,7 +290,7 @@
   
   <url>
     <loc>http://gdquest.com/tags/godot-game-engine/</loc>
-    <lastmod>2017-05-06T13:37:08+02:00</lastmod>
+    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -309,6 +315,12 @@
   <url>
     <loc>http://gdquest.com/tags/indie-game-marketing/</loc>
     <lastmod>2017-04-06T20:33:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/kickstarter/</loc>
+    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -397,14 +409,14 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/category/news/</loc>
-    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
+    <loc>http://gdquest.com/tags/news/</loc>
+    <lastmod>2017-05-06T13:37:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gdquest.com/tags/news/</loc>
-    <lastmod>2017-05-06T13:37:08+02:00</lastmod>
+    <loc>http://gdquest.com/category/news/</loc>
+    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
