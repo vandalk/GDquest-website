@@ -2,14 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GDquest</title>
-    <link>http://gdquest.com/index.xml</link>
+    <link>http://gdquest.com/</link>
     <description>Recent content on GDquest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
     <lastBuildDate>Tue, 09 May 2017 09:18:18 +0200</lastBuildDate>
-    <atom:link href="http://gdquest.com/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://gdquest.com/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Krita</title>
@@ -17,90 +19,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/krita/game-art-quest/</guid>
-      <description>
-
-&lt;h2 id=&#34;free-krita-tutorial-for-game-artists&#34;&gt;Free Krita tutorial for game artists&lt;/h2&gt;
-
-&lt;div class=&#34;card-box&#34;&gt;
-  &lt;img src=&#34;http://gdquest.com/img/page/game-art-quest/krita-tutorial-banner.jpg&#34; alt=&#34;Game Art Quest volume 1 banner: Free Krita tutorials&#34;&gt;
-  &lt;div class=&#34;content&#34;&gt;
-    A free Krita course focusing on the tools the program offers for game artists and digital painters. It covers everything you need to work efficiently.
-    &lt;div grid&gt;
-      &lt;div column class=&#34;-center&#34;&gt;
-        &lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt; 
-          &lt;button class=&#34;-calltoaction&#34;&gt;&lt;i class=&#34;my-fa fa-book
-default
-&#34;&gt;&lt;/i&gt;
- Free course&lt;/button&gt;
-        &lt;/a&gt;
-        &lt;a href=&#34;http://gdquest.com/product/krita/brushes/&#34;&gt; 
-          &lt;button class=&#34;-calltoaction -success&#34;&gt;&lt;i class=&#34;my-fa fa-paint-brush
-success
-&#34;&gt;&lt;/i&gt;
- Krita brushes&lt;/button&gt;
-        &lt;/a&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr&gt;
-
-&lt;h2 id=&#34;make-professional-painterly-game-art-with-krita&#34;&gt;Make Professional Painterly Game Art with Krita&lt;/h2&gt;
-
-&lt;div class=&#34;card-box&#34;&gt;
-  &lt;img src=&#34;http://gdquest.com/img/product/krita/painterly-game-art/banner.jpg&#34; alt=&#34;Game Art Quest volume 2 banner - painterly art&#34;&gt;
-  &lt;div class=&#34;content&#34;&gt;
-    Want to go a step further and learn to make professional sprites? Then, this course is for you.
-    &lt;div grid&gt;
-      &lt;div column class=&#34;-center&#34;&gt;
-        &lt;a href=&#34;http://gdquest.com/product/krita/painterly-game-art/&#34;&gt; 
-          &lt;button class=&#34;-calltoaction -success&#34;&gt;&lt;i class=&#34;my-fa fa-book
-default
-&#34;&gt;&lt;/i&gt;
- Learn more&lt;/button&gt;
-        &lt;/a&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;discover-game-art-quest&#34;&gt;Discover Game Art Quest!&lt;/h2&gt;
-
-&lt;h3 id=&#34;do-you-want-to-become-a-better-2d-game-artist&#34;&gt;Do you want to become a better 2d game artist?&lt;/h3&gt;
-
-&lt;p&gt;You came to the right place! Using &lt;strong&gt;Krita, a free and open source painting application&lt;/strong&gt;, Game Art Quest will show you both &lt;strong&gt;essential concepts&lt;/strong&gt; and &lt;strong&gt;concrete techniques&lt;/strong&gt; professionals use on a daily basis. &lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;The first course&lt;/a&gt; in the series is &lt;strong&gt;completely free&lt;/strong&gt; (6 hours of tutorials).&lt;/p&gt;
-
-&lt;p&gt;In this series, &lt;strong&gt;I run you through the process of creating professional sprites for games&lt;/strong&gt;. I share my workflow and productivity tricks. Not only that! I will that Krita is the leading Free and Open Source digital painting program today.&lt;/p&gt;
-
-&lt;p&gt;To become a more efficient artist, you have to sharpen your observation skills and explore fundamental techniques. These are the same regardless of the tools you are using, so the concepts you will learn apply to any painting application.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/page/game-art-quest/krita-screenshot.png&#34; alt=&#34;Nathan&amp;#39;s picture&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;The &lt;a href=&#34;http://gdquest.com/product/krita/painterly-game-art/&#34;&gt;second course&lt;/a&gt; also covers the unique constraints game artists face in their work. You have to make assets with a target resolution and camera in mind. You have to carefully draw your alpha masks. More importantly, as a game artist, &lt;strong&gt;your art has to support the gameplay: it shapes the game experience&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Game Art Quest was funded &lt;a href=&#34;https://www.kickstarter.com/projects/gdquest/game-art-quest-make-professional-2d-art-with-krita&#34;&gt;on Kickstarter&lt;/a&gt; by 424 artists!&lt;/p&gt;
-
-&lt;h3 id=&#34;who-am-i-to-teach-you-game-art&#34;&gt;Who am I to teach you game art?&lt;/h3&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/page/game-art-quest/i-am-nathan.jpg&#34; alt=&#34;Nathan&amp;#39;s picture&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;I’m Nathan Lovato, a game designer. I the run &lt;a href=&#34;http://youtube.com/c/gdquest&#34;&gt;GDquest&lt;/a&gt;, a Youtube channel dedicated to game art and game design. Every week, I release a new tutorial. I have released more than 200 videos already! You can find most of them in the tutorial section.&lt;/p&gt;
-</description>
+      <description>Free Krita tutorial for game artists  A free Krita course focusing on the tools the program offers for game artists and digital painters. It covers everything you need to work efficiently. Free course  Krita brushes       Make Professional Painterly Game Art with Krita  Want to go a step further and learn to make professional sprites? Then, this course is for you.</description>
     </item>
     
     <item>
@@ -109,77 +28,8 @@ default
       <pubDate>Tue, 09 May 2017 09:18:18 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/post/2017/news/godot-kickstarter-next-monday/</guid>
-      <description>
-
-&lt;p&gt;Do you want to become a better game developer? Gdquest will be on Kickstarter next week, to fund the creation of a game creation course for the new Godot game engine. More precisely for Godot 3, which will be out this summer!&lt;/p&gt;
-
-&lt;p&gt;I’m doing it with the devs&amp;rsquo; support: Rémi (akien) followed the project since the very beginning and ensured the project will be as good as it should be.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-you-ll-get&#34;&gt;What you&amp;rsquo;ll get&lt;/h2&gt;
-
-&lt;p&gt;Once we reach the initial funding goal, you&amp;rsquo;ll get &lt;strong&gt;at least 40 exclusive tutorials, 10 assignments and commented code sources&lt;/strong&gt; in the premium version. I sure could lower the quality and make a lengthier series, but I&amp;rsquo;d rather help you learn more in less time. If you watch Gdquest on Youtube, you&amp;rsquo;ll know I&amp;rsquo;m all about quality over quantity. Also, take it as minimum! I don&amp;rsquo;t want to stop there, and i&amp;rsquo;ll work hard to provide as much value as I can.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/product/krita/painterly-game-art/demo.jpg&#34; alt=&#34;A rabbit and a pig-like character in a forest, scene designed for a 2d game&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        The training will reuse the work done for the Krita course, but in a top-down game
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;The series will revolve around a 2d Zelda-like, as the mechanics we&amp;rsquo;ll look at are directly applicable to all kinds of games. But the goal is to teach you much more than that! It will give you a better understanding of the engine, of the game creation workflow, and how to write solid code! Fellow developers and teachers offered to give advice and share insights to elevate the content even more.&lt;/p&gt;
-
-&lt;p&gt;Ss you might expect, the higher the funding, the more content you will get, regardless of your pledge. &lt;strong&gt;Every single cent will be spent on the course&lt;/strong&gt;. There&amp;rsquo;s so much to cover, including shaders, animation,&lt;/p&gt;
-
-&lt;h2 id=&#34;30-days-tutorial-challenge&#34;&gt;30 days tutorial challenge&lt;/h2&gt;
-
-&lt;p&gt;There is already a ton of videos on the channels for you to watch now. But there&amp;rsquo;s only a short series dedicated to Godot. During the Kickstarter campaign, i&amp;rsquo;ll release &lt;strong&gt;one free tutorial every single day&lt;/strong&gt;, mostly about the engine! It&amp;rsquo;s going to be tough, but that&amp;rsquo;s my way of giving back to the community.&lt;/p&gt;
-
-&lt;h2 id=&#34;it-s-all-based-on-your-feedback&#34;&gt;It&amp;rsquo;s all based on your feedback&lt;/h2&gt;
-
-&lt;p&gt;I put out a form to ask you what you wanted to learn exactly, and you&amp;rsquo;ve been &lt;a href=&#34;https://gdquest.typeform.com/report/ul3bc1/prym&#34;&gt;more than 600 to reply&lt;/a&gt;!&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;form-support-on-kickstarter.png&#34; alt=&#34;Form reponses. Would you support the course on Kickstarter? 3 our of 4 persons said yes&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;Your requests shaped the project already. There are hundreds of completely different suggestions, some as challenging as “show how to make a 3d MMORPG”, so I can&amp;rsquo;t cover them all. But I took note of everything that&amp;rsquo;s most useful, and exciting. You&amp;rsquo;ll see some of them in the free tutorials.&lt;/p&gt;
-
-&lt;h2 id=&#34;it-starts-next-week&#34;&gt;It starts next week&lt;/h2&gt;
-
-&lt;p&gt;Crowdfunding, by essence, involves the community. It Cannot happen without you.&lt;/p&gt;
-
-&lt;p&gt;The Kickstarter starts on Monday 22 at 12 PM CEST.&lt;/p&gt;
-
-&lt;p&gt;Subscribe below and get notified via email when the Kickstarter is up!
-&lt;style&gt;.gumroad-follow-form-embed button,.gumroad-follow-form-embed input{font-size:15px;font-family:-apple-system,&#34;.SFNSDisplay-Regular&#34;,&#34;Helvetica Neue&#34;,Helvetica,Arial,sans-serif;height:40px!important}.gumroad-follow-form-embed{zoom:1}.gumroad-follow-form-embed:after,.gumroad-follow-form-embed:before{display:table;line-height:0;content:&#34;&#34;}.gumroad-follow-form-embed:after{clear:both}.gumroad-follow-form-embed *{margin:0;border:0;padding:0;outline:0;box-sizing:border-box!important;float:left!important}.gumroad-follow-form-embed input{border-radius:4px 0 0 4px;line-height:20px;background:top right no-repeat #fff;border:1px solid #ddd;border-right:0;color:#aaa;padding:10px;box-shadow:inset 0 1px 0 rgba(0,0,0,.02);text-rendering:optimizeLegibility;font-smoothing:antialiased;-webkit-appearance:none;-moz-appearance:caret;width:65%!important}.gumroad-follow-form-embed button{border-radius:0 4px 4px 0;box-shadow:0 1px 1px rgba(0,0,0,.12);-webkit-transition:all .05s ease-in-out;transition:all .05s ease-in-out;display:inline-block;padding:11px 15px 12px;cursor:pointer;color:#fff;line-height:100%;border:1px solid #31989d;filter:&#34;progid:DXImageTransform.Microsoft.gradient(startColorstr=#5ccfd4, endColorstr=#329ca1, GradientType=0)&#34;;background:-webkit-linear-gradient(top,#5ccfd4,#329ca1);background:linear-gradient(to bottom,#5ccfd4,#329ca1);width:35%!important}&lt;/style&gt;&lt;form action=&#34;https://gumroad.com/follow_from_embed_form&#34; class=&#34;form gumroad-follow-form-embed&#34; method=&#34;post&#34;&gt;&lt;input name=&#34;seller_id&#34; type=&#34;hidden&#34; value=&#34;6873367754130&#34;&gt; &lt;input name=&#34;email&#34; placeholder=&#34;Your email address&#34; type=&#34;email&#34;&gt; &lt;button data-custom-highlight-color=&#34;&#34; type=&#34;submit&#34;&gt;Sign up&lt;/button&gt;&lt;/form&gt;&lt;/p&gt;
-
-&lt;p&gt;If you haven&amp;rsquo;t already:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://youtube.com/c/gdquest&#34;&gt;Subscribe to the Youtube channel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/NathanGDquest&#34;&gt;Follow me on Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And feel free to message me on the &lt;a href=&#34;https://discordapp.com/invite/zH7NUgz&#34;&gt;Godot Discord server&lt;/a&gt; anytime (@gdquest#4637)&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Thank you kindly for your time!&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>Do you want to become a better game developer? Gdquest will be on Kickstarter next week, to fund the creation of a game creation course for the new Godot game engine. More precisely for Godot 3, which will be out this summer!
+I’m doing it with the devs&amp;rsquo; support: Rémi (akien) followed the project since the very beginning and ensured the project will be as good as it should be.</description>
     </item>
     
     <item>
@@ -188,38 +38,8 @@ default
       <pubDate>Tue, 09 May 2017 09:18:18 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/post/2017/news/make-cartoon-game-characters-krita-out/</guid>
-      <description>&lt;p&gt;The second premium Krita game art course, Make Cel Shaded Game Characters, is out! It contains 14 tutorials that will help you improve your lighting fundamentals and show you how to make a game character.&lt;/p&gt;
-
-&lt;div class=&#34;-center&#34;&gt;
-    &lt;a href=&#34;https://gum.co/cartoon-game-art-krita-course/&#34;&gt;
-        &lt;button class=&#34;-calltoaction -success&#34;&gt;
-            Get the course now!
-        &lt;/button&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;The course is based on Pepper and Carrot, the main 2 characters of a webcomic by &lt;a href=&#34;http://davidrevoy.com/&#34;&gt;David Revoy&lt;/a&gt;. It&amp;rsquo;s available under the &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC-By 4.0 licence&lt;/a&gt;. It&amp;rsquo;s very common to work on an existing IP or world as a game artist, and David&amp;rsquo;s comic allows us to do just that.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/product/krita/cel-shaded-game-art/pepper-and-carrot-artwork.jpg&#34; alt=&#34;Pepper and Carrot side by side, painted with a cartoon art style&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Meet Pepper and Carrot, turned into sprites for the tutorials
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;I hope you&amp;rsquo;ll like it! And see you soon on Kickstarter for a &lt;a href=&#34;http://gdquest.com/post/2017/news/godot-engine-kickstarter/&#34;&gt;game creation course with Godot&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>The second premium Krita game art course, Make Cel Shaded Game Characters, is out! It contains 14 tutorials that will help you improve your lighting fundamentals and show you how to make a game character.
+Get the course now! The course is based on Pepper and Carrot, the main 2 characters of a webcomic by David Revoy. It&amp;rsquo;s available under the CC-By 4.0 licence. It&amp;rsquo;s very common to work on an existing IP or world as a game artist, and David&amp;rsquo;s comic allows us to do just that.</description>
     </item>
     
     <item>
@@ -228,71 +48,8 @@ default
       <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/product/krita/cel-shading-for-characters-course/</guid>
-      <description>
-
-&lt;p&gt;This tutorial series will show you how to create your own game characters from scratch. It is based on the webcomic Pepper and Carrot by David Revoy.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-you-will-learn&#34;&gt;What you will learn&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;How to create game characters with a cartoon shaded art style&lt;/li&gt;
-&lt;li&gt;Lighting and shading tricks with Krita&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;This is a short, yet a rich series. It comes with &lt;strong&gt;14 video tutorials&lt;/strong&gt;, plus a fully &lt;strong&gt;commented art time-lapse&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;pre-requisites&#34;&gt;Pre-requisites&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;If you have never used Krita before or don’t feel comfortable with it, check out my &lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;6 hours long free Krita course&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;The pace of the course is like the tutorials you will find on the GDquest channel, you can check them out first and see if they work for you before you buy.&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot-engine-kickstarter/krita-course-cel-shading.jpg&#34; alt=&#34;3 stylized characters used to teach lighting fundamentals&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Learn lighting and shading tricks with Krita
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;h2 id=&#34;30-days-moneyback&#34;&gt;30 days moneyback&lt;/h2&gt;
-
-&lt;p&gt;You’re interested in the course, but what if you buy and you don’t like it? No worries, it comes with a &lt;strong&gt;30 days money back warranty&lt;/strong&gt;. Just drop me a message, and you’ll get a refund: no questions asked.&lt;/p&gt;
-
-&lt;p&gt;The course is available on Gumroad. Click the button below to access it. If you pre-order it, use the code &amp;laquo;early&amp;raquo; and get 20% off!&lt;/p&gt;
-
-&lt;div class=&#34;-center&#34;&gt;
-    &lt;a href=&#34;https://gumroad.com/l/cartoon-game-art-krita-course&#34;&gt;
-        &lt;button class=&#34;-calltoaction -success&#34;&gt;
-            Get the course now!
-        &lt;/button&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;pepper-and-carrot&#34;&gt;Pepper and Carrot&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.peppercarrot.com/&#34;&gt;Pepper and Carrot&lt;/a&gt; is a free webcomic by &lt;a href=&#34;http://davidrevoy.com/&#34;&gt;David Revoy&lt;/a&gt;. It is released under the &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC-By 4.0 licence&lt;/a&gt;. It is set in a vibrant world, and we can thank the author(s) for making it available to us. It&amp;rsquo;s very common for game artists to work on an existing IP or following a certain art direction. The fact that this comic is free, as in free speech, allows us to do just that with this Krita course!&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/product/krita/cel-shaded-game-art/pepper-carrot-cover-by-david-revoy.jpg&#34; alt=&#34;3 stylized characters used to teach lighting fundamentals&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-</description>
+      <description>This tutorial series will show you how to create your own game characters from scratch. It is based on the webcomic Pepper and Carrot by David Revoy.
+What you will learn  How to create game characters with a cartoon shaded art style Lighting and shading tricks with Krita  This is a short, yet a rich series. It comes with 14 video tutorials, plus a fully commented art time-lapse.</description>
     </item>
     
     <item>
@@ -301,132 +58,8 @@ default
       <pubDate>Sat, 06 May 2017 13:37:08 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/post/2017/news/godot-kickstarter-form-results/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;More than 600 of you&lt;/strong&gt; gave feedback on the Godot course&amp;rsquo;s Kickstarter! That&amp;rsquo;s close to 3 times as many as last time, for the Krita game art project. Let&amp;rsquo;s look at what you had to say.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;About the form&#39;s design
-
-There are 3 key questions you need to answer before you crowdfund a course:
-1. Do enough people want it to happen?
-2. Who are they?
-3. What do they want?
-
-To get to know people well, you need to ask a lot of things. However, everyone&#39;s busy, and in online forms, one abandons fast. That&#39;s why there were only 6 short questions, and only 3 mandatory ones. With that, I got a 60% completion rate, up from 45% last time. Aside from that, I chat with numerous people one on one to get detailed insights. Fellow content creators like Heartbeast, Godot devs, experienced teachers, and the community.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;That said, let&amp;rsquo;s look at the results!&lt;/p&gt;
-
-&lt;h2 id=&#34;it-all-starts-with-you&#34;&gt;It all starts with you&lt;/h2&gt;
-
-&lt;p&gt;76% said they&amp;rsquo;ll support the project on Kickstarter. The most common amounts people want to pledge are 10, 20, 40, 100 and 200 euros (&lt;em&gt;quartiles, median, 9th decile and 95 percentile values&lt;/em&gt;). That&amp;rsquo;s great news! The more funding, the longer the course will be.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot-kickstarter-form-results/would-you-support.png&#34; alt=&#34;The picture shows 445 persons said they&amp;#39;d support the kickstarter&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        If that many people support the project, it&amp;#39;ll be funded for sure
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;I can help you become better at game creation, but making a great course costs a lot of time. And time is money. Working full-time with open source technologies taught me how essential the community is, in many regards. That&amp;rsquo;s why such a project starts with &lt;strong&gt;you&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Making money isn&amp;rsquo;t hard in itself&amp;hellip; What&amp;rsquo;s hard is to earn it doing something worth devoting one&amp;rsquo;s life to
-&lt;cite&gt;Carlos Ruiz Zafón&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;a-top-down-game&#34;&gt;A top-down game?&lt;/h2&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot-kickstarter-form-results/what-game-genre.png&#34; alt=&#34;Form results, showing 53% of the respondents prefer the project to be a Zelda-like, followed by Platformer&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        I listed game genres that work well with a character, so we can explore movement and collisions in the course
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;The 3 most popular types of games are:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Zelda-like (top-down)&lt;/li&gt;
-&lt;li&gt;Platformer&lt;/li&gt;
-&lt;li&gt;RPG (turn-based)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I expected the platformer genre to take the first place. However, there are many tutorials about it already, and far less for other types of games. This might explain the results. Now it&amp;rsquo;s cool, because there&amp;rsquo;s a lot to learn with top-down titles, even from the design&amp;rsquo;s standpoint.&lt;/p&gt;
-
-&lt;p&gt;Anyway, the point of the course is not to teach you how to make a zelda-like, but to make you more capable with Godot and game creation in general. I just wanted to do that with a fun and appealing project. On top of that, a lot of what you&amp;rsquo;ll learn will apply directly to RPGs, covering 2 of the top 3 options.&lt;/p&gt;
-
-&lt;h2 id=&#34;learning-style-50-50&#34;&gt;Learning style: 50/50&lt;/h2&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot-kickstarter-form-results/what-course-style.png&#34; alt=&#34;50% of the respondents want the course to be &#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        The answers in the &amp;#39;other&amp;#39; category show how torn people can be on the subject
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;Everyone has a different opinion on how things should be taught, but that&amp;rsquo;s the reflect of who we are: we all learn differently, and we&amp;rsquo;re all at different stages on our journey. I&amp;rsquo;ll do my best to make the course useful to every backer. There&amp;rsquo;ll definitely be step-by-step tutorials and code commentaries, to help new Godot users get more comfortable with the engine. But I&amp;rsquo;ll also cover more advanced topics for those who want to go a step further. I&amp;rsquo;ve already done that for the last project, and it worked well.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-you-want-to-learn&#34;&gt;What you want to learn&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;EVERYTHING
-&lt;cite&gt;The Godot community&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Out of the 502 requests, most are unique. And that&amp;rsquo;s normal. The key here is to spot the requests that are popular, tie in well into the course, and that are useful to everyone. I use them both to pick cool topics for free tutorials and to structure the course and Kickstarter campaign.&lt;/p&gt;
-
-&lt;p&gt;I want to build the course with you, and I&amp;rsquo;ll improve the curriculum over time, based on your feedback. With these replies, I can better set priorities for the course and potential extra modules to add on top of it. For instance, a number of you want to know how to polish the game and manage animations (tweening, particles&amp;hellip;). To explain it properly, I need to cover some animation principles, theory, how it works in Godot, working with particles and special effects&amp;hellip; there&amp;rsquo;s so much to explain! But it&amp;rsquo;s more important to help you build solid foundations for your games first, so that&amp;rsquo;s the priority.&lt;/p&gt;
-
-&lt;p&gt;In any case, there&amp;rsquo;ll be plenty for you to learn. And again, the higher the funding, the more bonus content you&amp;rsquo;ll get.&lt;/p&gt;
-
-&lt;h2 id=&#34;be-the-first-to-know&#34;&gt;Be the first to know!&lt;/h2&gt;
-
-&lt;p&gt;To know when the Kickstarter&amp;rsquo;s up, &lt;strong&gt;click the button below and subscribe to GDquest on Youtube&lt;/strong&gt;! You will get 1 free tutorial every single day throughout the campaign:&lt;/p&gt;
-
-&lt;div class=&#34;-center&#34;&gt;
-    &lt;a href=&#34;http://youtube.com/c/gdquest&#34;&gt;
-        &lt;button class=&#34;-calltoaction -success&#34;&gt;
-            The GDquest channel
-        &lt;/button&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Thank you for your time! Feel free to comment or ask questions below :)&lt;/p&gt;
-</description>
+      <description>More than 600 of you gave feedback on the Godot course&amp;rsquo;s Kickstarter! That&amp;rsquo;s close to 3 times as many as last time, for the Krita game art project. Let&amp;rsquo;s look at what you had to say.
+About the form&#39;s design There are 3 key questions you need to answer before you crowdfund a course: 1. Do enough people want it to happen? 2. Who are they? 3. What do they want?</description>
     </item>
     
     <item>
@@ -435,98 +68,8 @@ To get to know people well, you need to ask a lot of things. However, everyone&#
       <pubDate>Thu, 04 May 2017 08:42:22 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/post/2017/news/make-cel-shaded-2d-characters-with-krita/</guid>
-      <description>
-
-&lt;p&gt;The second Krita game art tutorial series is out! Meet Pepper, Carrot, and cel shading. This course is based on the world of Pepper&amp;amp;Carrot, a webcomic under the CCBy 4.0 licence by &lt;a href=&#34;http://davidrevoy.com/&#34;&gt;David Revoy&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-you-will-learn&#34;&gt;What you will learn&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;How to create game characters with a cartoon shaded art style&lt;/li&gt;
-&lt;li&gt;Lighting and shading tricks with Krita&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;This is a short, yet a rich series. It comes with &lt;strong&gt;14 video tutorials&lt;/strong&gt;, plus a fully &lt;strong&gt;commented art time-lapse&lt;/strong&gt;.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/product/krita/cel-shaded-game-art/pepper-and-carrot-artwork.jpg&#34; alt=&#34;Pepper and Carrot side by side, painted with a cartoon art style&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Meet Pepper and Carrot, the 2 characters from the course
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;h2 id=&#34;pre-requisites&#34;&gt;Pre-requisites&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;If you have never used Krita before or don’t feel comfortable with it, check out my &lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;6 hours long free Krita course&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;The pace of the course is like the tutorials you will find on the GDquest channel, you can check them out first and see if they work for you before you buy.&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot-engine-kickstarter/krita-course-cel-shading.jpg&#34; alt=&#34;3 stylized characters used to teach lighting fundamentals&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Learn lighting and shading tricks with Krita
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;h2 id=&#34;30-days-moneyback&#34;&gt;30 days moneyback&lt;/h2&gt;
-
-&lt;p&gt;You’re interested in the course, but what if you buy and you don’t like it? No worries, it comes with a &lt;strong&gt;30 days money back warranty&lt;/strong&gt;. Just drop me a message, and you’ll get a refund: no questions asked.&lt;/p&gt;
-
-&lt;p&gt;The course is available on Gumroad. Click the button below to access it. If you pre-order it, use the code &amp;laquo;early&amp;raquo; and get 20% off!&lt;/p&gt;
-
-&lt;div class=&#34;-center&#34;&gt;
-    &lt;a href=&#34;https://gumroad.com/l/cartoon-game-art-krita-course&#34;&gt;
-        &lt;button class=&#34;-calltoaction -success&#34;&gt;
-            Get the course now!
-        &lt;/button&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;what-next&#34;&gt;What next?&lt;/h2&gt;
-
-&lt;p&gt;This series wraps up the Game Art Quest Kickstarter project. Next, we&amp;rsquo;re working together with the Godot developers to offer the first professional course for this wonderful open source engine! &lt;a href=&#34;https://www.youtube.com/c/gdquest&#34;&gt;Subscribe to the Youtube channel&lt;/a&gt; to know when it&amp;rsquo;s available. I&amp;rsquo;m preparing 30 free tutorials for the 30 days of the Kickstarter campaign.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/product/krita/cel-shaded-game-art/pepper-carrot-cover-by-david-revoy.jpg&#34; alt=&#34;Pepper smiling and holding a colorful potion inside her house&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Pepper and Carrot, CC-By 4.0 David Revoy
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-</description>
+      <description>The second Krita game art tutorial series is out! Meet Pepper, Carrot, and cel shading. This course is based on the world of Pepper&amp;amp;Carrot, a webcomic under the CCBy 4.0 licence by David Revoy.
+What you will learn  How to create game characters with a cartoon shaded art style Lighting and shading tricks with Krita  This is a short, yet a rich series. It comes with 14 video tutorials, plus a fully commented art time-lapse.</description>
     </item>
     
     <item>
@@ -535,75 +78,7 @@ To get to know people well, you need to ask a lot of things. However, everyone&#
       <pubDate>Fri, 28 Apr 2017 08:15:16 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/post/2017/news/krita-brushes-anniversary-update/</guid>
-      <description>
-
-&lt;p&gt;It&amp;rsquo;s been a year already. 12 months, 12 consecutive updates. This anniversary release may not seem like much, but it&amp;rsquo;s certainly the biggest so far. I redesigned all the brushes from scratch! The new thumbnails are circular. That way, all the information they can convey is available whether you look at the pop-up palette or the presets list. The design is also unique so that it’s easy to differentiate from other bundles.&lt;/p&gt;
-
-&lt;p&gt;The updated design reads a lot better when the thumbnails get small. If you work on a laptop, a tablet, or if you have a lot of presets in the docker, you can now spot the one you want faster.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/krita-brushes-anniversary-update/presets-docker-comparison.jpg&#34; alt=&#34;Comparison of the old brush thumbnails and the new ones&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        The old brushes and the new ones in the presets docker. That&amp;#39;s quite a change, isn&amp;#39;t it?
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;There are up to 4 elements in each thumbnail:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;The base&lt;/strong&gt; or background color indicates the bundle a brush belongs to&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The outline&lt;/strong&gt; shows which family the preset belongs to&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The pictogram&lt;/strong&gt;, in the top-right corner, tells you what the brush is intended for&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The stroke&lt;/strong&gt; is prominent, in the center&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/krita-brushes-anniversary-update/brush-thumbnail-components.jpg&#34; alt=&#34;The 4 components of a brush thumbnail, and the assembled result&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        A handful of layers are all it takes to generate the complete thumbnail
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;I wrote a python script to automate the process, and make it easier to improve them moving forward. As this is a big change, I&amp;rsquo;m counting on you to tell me what you think!&lt;/p&gt;
-
-&lt;h2 id=&#34;30-off-until-may-1st&#34;&gt;30% off until May 1st&lt;/h2&gt;
-
-&lt;p&gt;The update is in your library already. And to celebrate its anniversary, the premium brushes are on sale this week-end: you&amp;rsquo;ll save 3 euros off the standard version and 7.5 euros off the premium one!&lt;/p&gt;
-
-&lt;div class=&#34;-center&#34;&gt;
-    &lt;a href=&#34;https://gumroad.com/l/krita-brushes-for-game-artists/anniversary&#34;&gt;
-        &lt;button class=&#34;-calltoaction -success&#34;&gt;
-            Get the brushes!
-        &lt;/button&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;And if you&amp;rsquo;d like to know when there&amp;rsquo;s a sale or a new course comes out, subscribe below:&lt;/p&gt;
-
-&lt;style&gt;.gumroad-follow-form-embed button,.gumroad-follow-form-embed input{font-size:15px;font-family:-apple-system,&#34;.SFNSDisplay-Regular&#34;,&#34;Helvetica Neue&#34;,Helvetica,Arial,sans-serif;height:40px!important}.gumroad-follow-form-embed{zoom:1}.gumroad-follow-form-embed:after,.gumroad-follow-form-embed:before{display:table;line-height:0;content:&#34;&#34;}.gumroad-follow-form-embed:after{clear:both}.gumroad-follow-form-embed *{margin:0;border:0;padding:0;outline:0;box-sizing:border-box!important;float:left!important}.gumroad-follow-form-embed input{border-radius:4px 0 0 4px;line-height:20px;background:top right no-repeat #fff;border:1px solid #ddd;border-right:0;color:#aaa;padding:10px;box-shadow:inset 0 1px 0 rgba(0,0,0,.02);text-rendering:optimizeLegibility;font-smoothing:antialiased;-webkit-appearance:none;-moz-appearance:caret;width:65%!important}.gumroad-follow-form-embed button{border-radius:0 4px 4px 0;box-shadow:0 1px 1px rgba(0,0,0,.12);-webkit-transition:all .05s ease-in-out;transition:all .05s ease-in-out;display:inline-block;padding:11px 15px 12px;cursor:pointer;color:#fff;line-height:100%;border:1px solid #31989d;filter:&#34;progid:DXImageTransform.Microsoft.gradient(startColorstr=#5ccfd4, endColorstr=#329ca1, GradientType=0)&#34;;background:-webkit-linear-gradient(top,#5ccfd4,#329ca1);background:linear-gradient(to bottom,#5ccfd4,#329ca1);width:35%!important}&lt;/style&gt;&lt;form action=&#34;https://gumroad.com/follow_from_embed_form&#34; class=&#34;form gumroad-follow-form-embed&#34; method=&#34;post&#34;&gt;&lt;input name=&#34;seller_id&#34; type=&#34;hidden&#34; value=&#34;6873367754130&#34;&gt; &lt;input name=&#34;email&#34; placeholder=&#34;Your email address&#34; type=&#34;email&#34;&gt; &lt;button data-custom-highlight-color=&#34;&#34; type=&#34;submit&#34;&gt;Sign up&lt;/button&gt;&lt;/form&gt;
-</description>
+      <description>It&amp;rsquo;s been a year already. 12 months, 12 consecutive updates. This anniversary release may not seem like much, but it&amp;rsquo;s certainly the biggest so far. I redesigned all the brushes from scratch! The new thumbnails are circular. That way, all the information they can convey is available whether you look at the pop-up palette or the presets list. The design is also unique so that it’s easy to differentiate from other bundles.</description>
     </item>
     
     <item>
@@ -612,94 +87,9 @@ To get to know people well, you need to ask a lot of things. However, everyone&#
       <pubDate>Wed, 19 Apr 2017 15:00:11 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/post/2017/news/godot-engine-kickstarter/</guid>
-      <description>
-
-&lt;p&gt;Update: the form&amp;rsquo;s results are available: &lt;a href=&#34;http://gdquest.com/post/2017/news/godot-kickstarter-form-results/&#34;&gt;Check them out&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;Back in December 2015, hundreds supported gdquest on Kickstarter to bring out game art tutorials to Krita. Since then, I produced more than a hundred videos for it, and the &lt;a href=&#34;https://gumroad.com/l/krita-game-art-tutorial-1&#34;&gt;first professional game art course&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I didn&amp;rsquo;t expect to go full time with GDquest. Back then there was no website, a small community, I had few contacts to help me and no experience with crowdfunding. A lot had yet to be done. The Krita devs and I weren&amp;rsquo;t sure it would work, but it did. Fast forward 18 months, I&amp;rsquo;m ready to work hand-in-hand with the Godot developers to create the &lt;strong&gt;first premium course for the powerful Godot game engine&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;godot-the-engine-you-ve-been-waiting-for&#34;&gt;Godot, the engine you&amp;rsquo;ve been waiting for&lt;/h2&gt;
-
-&lt;p&gt;It is certainly the most flexible, 100% Free and Open Source game engine out there. I mean, just look at &lt;a href=&#34;https://godotengine.org/features&#34;&gt;Godot&amp;rsquo;s key features&lt;/a&gt;. And in the upcoming version 3, there&amp;rsquo;s so much new stuff coming I&amp;rsquo;d need a separate article to just give you an overview of the changes. PBR workflow for 3d, light probes, audio mixer and audio effects, brand new asset management system, particles rebuilt from scratch&amp;hellip;&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot-engine-kickstarter/godot-editor-design.jpg&#34; alt=&#34;Screenshot of the Godot editor&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;h2 id=&#34;the-one-thing-it-lacks&#34;&gt;The one thing it lacks&lt;/h2&gt;
-
-&lt;p&gt;Although Godot&amp;rsquo;s documentation is great and plenty of people made videos to get you started with it, there&amp;rsquo;s few high quality, structured tutorials to help you go further. I&amp;rsquo;m sure we could use a complete game creation course, right?&lt;/p&gt;
-
-&lt;p&gt;If over the past 3 years, nobody did it, there&amp;rsquo;s a good reason. This is not only months of full time work: it&amp;rsquo;s extremely risky for the teacher. Working full-time in open source technologies is risky. Money, or rather the lack of it, always gets in the way. Make a course for an open source program and you&amp;rsquo;ll earn far less than if you covered a big proprietary tool. You might not even get enough to put food on the table.&lt;/p&gt;
-
-&lt;h2 id=&#34;on-kickstarter-in-may&#34;&gt;On Kickstarter in May&lt;/h2&gt;
-
-&lt;p&gt;I&amp;rsquo;m a professional designer. I&amp;rsquo;ve worked in games for a few years now, made hundreds of videos, and I&amp;rsquo;m crazy enough to pave the road for future teachers. But I&amp;rsquo;ll need your help, because no one can work for months on such a project for free, me included. We&amp;rsquo;ve discussed that with Rémi (akien) at the first GodotCon, and the devs want this to happen. Actually, many of you want this to happen!&lt;/p&gt;
-
-&lt;p&gt;A Kickstarter campaign will allow me to earn enough money to create high quality tutorials and to do a lot of communication around Godot, thus help new people learn about the engine. Tens of thousands have watched my Krita tutorials, and thousands stumble upon the videos every day. I&amp;rsquo;m working super hard now to wrap up freelance contracts, ongoing projects, and to live up to my words. I didn&amp;rsquo;t forget the channel, and I didn&amp;rsquo;t forget you guys.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot-engine-kickstarter/krita-course-cel-shading.jpg&#34; alt=&#34;3 stylized characters used to teach lighting fundamentals&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        I&amp;#39;m wrapping up a Krita course, out on May 9, to then focus on Godot
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;Actually, during the campaign, I want to do a &lt;strong&gt;30 days, daily free tutorial challenge&lt;/strong&gt; about game design, programming with godot, and maybe a bit of game art.&lt;/p&gt;
-
-&lt;p&gt;Whether you&amp;rsquo;re interested in a premium course or not, this project is a positive step for Godot:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;I&amp;rsquo;ll be doing a lot of communication for the Godot engine&lt;/li&gt;
-&lt;li&gt;I&amp;rsquo;ll make many free tutorials during the campaign&lt;/li&gt;
-&lt;li&gt;Higher quality education means more Godot power users, who can in turn help newcomers&lt;/li&gt;
-&lt;li&gt;Professional content can poke the interest of creators who would pass on the engine otherwise&lt;/li&gt;
-&lt;li&gt;Once I proved you&amp;rsquo;re ready to support a Godot instructor, other professional teachers will jump in&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;what-do-you-want&#34;&gt;What do YOU want?&lt;/h2&gt;
-
-&lt;p&gt;The course will focus on 2d game creation, because that&amp;rsquo;s what I&amp;rsquo;ve got experience with. Then, I want to know what you want, so I can make a course that you&amp;rsquo;ll love!&lt;/p&gt;
-
-&lt;p&gt;To do so, please fill this short form (only 5 questions):&lt;/p&gt;
-
-&lt;div class=&#34;-center&#34;&gt;
-    &lt;a href=&#34;https://gdquest.typeform.com/to/ul3bc1&#34;&gt;
-        &lt;button class=&#34;-calltoaction -success&#34;&gt;
-            Fill the form!
-        &lt;/button&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;want-to-know-when-it-starts&#34;&gt;Want to know when it starts?&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Subscribe to the &lt;a href=&#34;https://www.youtube.com/c/Gdquest?sub_confirmation=1&#34;&gt;GDquest Youtube channel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Follow &lt;a href=&#34;https://twitter.com/NathanGDquest&#34;&gt;GDquest on Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I&amp;rsquo;ll let you know when it starts ASAP. Feel free to ask me questions! I&amp;rsquo;ll also share the results from the form when I&amp;rsquo;ve got everyone&amp;rsquo;s thoughts on the project :)&lt;/p&gt;
-
-&lt;p&gt;Thank you for your time, and have a nice day!&lt;/p&gt;
-</description>
+      <description>Update: the form&amp;rsquo;s results are available: Check them out!
+Back in December 2015, hundreds supported gdquest on Kickstarter to bring out game art tutorials to Krita. Since then, I produced more than a hundred videos for it, and the first professional game art course.
+I didn&amp;rsquo;t expect to go full time with GDquest. Back then there was no website, a small community, I had few contacts to help me and no experience with crowdfunding.</description>
     </item>
     
     <item>
@@ -708,56 +98,10 @@ To get to know people well, you need to ask a lot of things. However, everyone&#
       <pubDate>Fri, 14 Apr 2017 13:06:14 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/post/2017/news/first-krita-course-out/</guid>
-      <description>
-
-&lt;p&gt;After months of work, the Make Professional Painterly Game Art with Krita course is out!&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s the first and only Krita course about 2d game art. I took the time to explain the workflow and techniques I use in my work as a professional designer.&lt;/p&gt;
-
-&lt;p&gt;In this course, you will learn:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;How to create smart, reusable game sprites&lt;/li&gt;
-&lt;li&gt;How to make your own game characters and environment&lt;/li&gt;
-&lt;li&gt;You will improve your art fundamentals (Pro and Premium)&lt;/li&gt;
-&lt;li&gt;You will acquire new tricks to work efficiently with Krita (Pro and Premium)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/product/krita/painterly-game-art/demo.jpg&#34; alt=&#34;Blabla&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;what-s-in-it-how-much-does-it-cost&#34;&gt;What&amp;rsquo;s in it? How much does it cost?&lt;/h2&gt;
-
-&lt;p&gt;In total, there are about 30 video tutorials and 15 PDF documents depending on the version you want to get. The course comes in 3 versions to fit your budget and your needs:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Essentials (9.95 EUR), the game sprite creation tutorials&lt;/li&gt;
-&lt;li&gt;Pro (24.95 EUR), adds fundamental art training, techniques to create nondestructive selections in Krita, and art demos based on the games Pankapu and Seasons: After Fall&lt;/li&gt;
-&lt;li&gt;Premium (49.95 EUR), for those who want the full value. On top of exclusive tutorials, it gives you access to the premium-only Discord chat, priority support, step by step assignments and 2 PDF course documents&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&#34;-center&#34;&gt;
-    &lt;a href=&#34;https://gumroad.com/l/krita-game-art-tutorial-1&#34;&gt;
-        &lt;button class=&#34;-calltoaction -success&#34;&gt;
-            Get the course!
-        &lt;/button&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;no-strings-attached&#34;&gt;No strings attached&lt;/h2&gt;
-
-&lt;p&gt;I&amp;rsquo;m confident it&amp;rsquo;ll help you get your art to the next level. So confident you have a 30 days money-back guarantee! If you feel like you didn&amp;rsquo;t learn anything from the course, just drop me a message, and I&amp;rsquo;ll refund your purchase. No questions asked!&lt;/p&gt;
-
-&lt;h2 id=&#34;what-are-the-prerequisites&#34;&gt;What are the prerequisites?&lt;/h2&gt;
-
-&lt;p&gt;You should have some experience with drawing and digital art. The pace and difficulty of the course is similar to the &lt;a href=&#34;http://youtube.com/c/gdquest&#34;&gt;GDquest Youtube channel&lt;/a&gt;.
-You also want to know a bit about Krita. My free series will cover everything you need in that regards: &lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;Free Krita tutorial&lt;/a&gt; (50 videos!)&lt;/p&gt;
-
-&lt;p&gt;If you want to be notified when there&amp;rsquo;s a promotion for the course or other products on GDquest, just enter your email below!&lt;/p&gt;
-
-&lt;style&gt;.gumroad-follow-form-embed button,.gumroad-follow-form-embed input{font-size:15px;font-family:-apple-system,&#34;.SFNSDisplay-Regular&#34;,&#34;Helvetica Neue&#34;,Helvetica,Arial,sans-serif;height:40px!important}.gumroad-follow-form-embed{zoom:1}.gumroad-follow-form-embed:after,.gumroad-follow-form-embed:before{display:table;line-height:0;content:&#34;&#34;}.gumroad-follow-form-embed:after{clear:both}.gumroad-follow-form-embed *{margin:0;border:0;padding:0;outline:0;box-sizing:border-box!important;float:left!important}.gumroad-follow-form-embed input{border-radius:4px 0 0 4px;line-height:20px;background:top right no-repeat #fff;border:1px solid #ddd;border-right:0;color:#aaa;padding:10px;box-shadow:inset 0 1px 0 rgba(0,0,0,.02);text-rendering:optimizeLegibility;font-smoothing:antialiased;-webkit-appearance:none;-moz-appearance:caret;width:65%!important}.gumroad-follow-form-embed button{border-radius:0 4px 4px 0;box-shadow:0 1px 1px rgba(0,0,0,.12);-webkit-transition:all .05s ease-in-out;transition:all .05s ease-in-out;display:inline-block;padding:11px 15px 12px;cursor:pointer;color:#fff;line-height:100%;border:1px solid #31989d;filter:&#34;progid:DXImageTransform.Microsoft.gradient(startColorstr=#5ccfd4, endColorstr=#329ca1, GradientType=0)&#34;;background:-webkit-linear-gradient(top,#5ccfd4,#329ca1);background:linear-gradient(to bottom,#5ccfd4,#329ca1);width:35%!important}&lt;/style&gt;&lt;form action=&#34;https://gumroad.com/follow_from_embed_form&#34; class=&#34;form gumroad-follow-form-embed&#34; method=&#34;post&#34;&gt;&lt;input name=&#34;seller_id&#34; type=&#34;hidden&#34; value=&#34;6873367754130&#34;&gt; &lt;input name=&#34;email&#34; placeholder=&#34;Your email address&#34; type=&#34;email&#34;&gt; &lt;button data-custom-highlight-color=&#34;&#34; type=&#34;submit&#34;&gt;Sign up&lt;/button&gt;&lt;/form&gt;
-
-&lt;p&gt;I hope to see you soon again on GDquest :)&lt;/p&gt;
-</description>
+      <description>After months of work, the Make Professional Painterly Game Art with Krita course is out!
+It&amp;rsquo;s the first and only Krita course about 2d game art. I took the time to explain the workflow and techniques I use in my work as a professional designer.
+In this course, you will learn:
+ How to create smart, reusable game sprites How to make your own game characters and environment You will improve your art fundamentals (Pro and Premium) You will acquire new tricks to work efficiently with Krita (Pro and Premium)  What&amp;rsquo;s in it?</description>
     </item>
     
     <item>
@@ -766,28 +110,10 @@ You also want to know a bit about Krita. My free series will cover everything yo
       <pubDate>Sun, 09 Apr 2017 19:57:33 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/now/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Last update on April 9, 2017&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;I am near Switzerland, in the French Alps.&lt;/p&gt;
-
-&lt;p&gt;Lately, I&amp;rsquo;m:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Building a mini game art series about cel shaded art with Krita&lt;/li&gt;
-&lt;li&gt;Preparing a Kickstarter campaign for a game design course&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gdquest.com/post/2017/marketing/marketing-indie-games-with-0-budget/&#34;&gt;Writing articles&lt;/a&gt; as a freelancer to pay the bills&lt;/li&gt;
-&lt;li&gt;Coding a blender add-on to make videos efficiently&lt;/li&gt;
-&lt;li&gt;Working on the &lt;a href=&#34;http://gdquest.com/product/krita/brushes/&#34;&gt;GDquest Krita brushes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Improving this website&lt;/li&gt;
-&lt;li&gt;Studying Japanese grammar and kanji&lt;/li&gt;
-&lt;li&gt;Trail running and chinese boxing&lt;/li&gt;
-&lt;li&gt;Occasionally writing hip-hop songs&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I&amp;rsquo;m doing most of that, trying to make a living off my work so I can keep supporting open source game creators in a direct way: providing professional grade education for those tools, both paid and free.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m open to opportunities, especially if you need somebody to create interesting tutorials. If you&amp;rsquo;re a fellow Youtuber, I love to do collab videos. It&amp;rsquo;s fun, motivating, and people &lt;a href=&#34;https://www.youtube.com/watch?v=yVNOpMMbeNk&#34;&gt;seem to love that&lt;/a&gt;. So feel free to &lt;a href=&#34;mailto:nathan@gdquest.com&#34;&gt;drop me an email&lt;/a&gt;!&lt;/p&gt;
-</description>
+      <description>Last update on April 9, 2017
+I am near Switzerland, in the French Alps.
+Lately, I&amp;rsquo;m:
+ Building a mini game art series about cel shaded art with Krita Preparing a Kickstarter campaign for a game design course Writing articles as a freelancer to pay the bills Coding a blender add-on to make videos efficiently Working on the GDquest Krita brushes Improving this website Studying Japanese grammar and kanji Trail running and chinese boxing Occasionally writing hip-hop songs  I&amp;rsquo;m doing most of that, trying to make a living off my work so I can keep supporting open source game creators in a direct way: providing professional grade education for those tools, both paid and free.</description>
     </item>
     
     <item>
@@ -796,114 +122,9 @@ You also want to know a bit about Krita. My free series will cover everything yo
       <pubDate>Thu, 06 Apr 2017 20:33:30 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/post/2017/marketing/marketing-indie-games-with-0-budget/</guid>
-      <description>
-
-&lt;p&gt;Emmy Jonhassen, aka IndieGameGirl, gave a talk named &lt;a href=&#34;http://www.indiegamegirl.com/no-budget-marketing/&#34;&gt;Marketing Indie Games on a $0 Budget&lt;/a&gt;. It offers a nice introduction to the topic, so I decided to share synthetic notes for it.&lt;/p&gt;
-
-&lt;p&gt;I also wrote a detailed article on the topic for Game Analytics. There, you&amp;rsquo;ll learn a lot more about everything I&amp;rsquo;ve outlined below. Check it out: &lt;a href=&#34;http://www.gameanalytics.com/blog/marketing-indie-game-without-budget.html&#34;&gt;Marketing Your Indie Game On A Zero-Dollar Budget&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Emmy outlines 5 key types of contents required to maximize your game’s reach before and after its release. All of the content has to be prepared thoughtfully in advance as part of a complete marketing plan.&lt;/p&gt;
-
-&lt;h3 id=&#34;1-trailer&#34;&gt;1– Trailer&lt;/h3&gt;
-
-&lt;p&gt;The trailer is your n°1 marketing weapon. Both the users and the press will look at it to judge whether they’ll cover or play the game. A solid trailer needs the following features:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;It should be less than 90 seconds long.&lt;/li&gt;
-&lt;li&gt;Its intro has to catch attention straight away.&lt;/li&gt;
-&lt;li&gt;Music and SFX are powerful tools to mark the minds. Make them great!&lt;/li&gt;
-&lt;li&gt;It is key to show a substantial amount of in-game-footage. Use reviews to your advantage: add quotes from professional reviews. Those give your game more credibility in the eyes of the viewer.&lt;/li&gt;
-&lt;li&gt;End the video with a call to action: the potential buyer should know how to follow you, how to buy the game… make it big and clear!&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/VA3saHRW3H8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;h3 id=&#34;2-screenshots-and-gifs&#34;&gt;2- Screenshots and GIFs&lt;/h3&gt;
-
-&lt;p&gt;Each and every screenshot is its own little piece of art. If you follow artists on twitter, you know how popular artwork is, and how likely people are to like, comment and retweet them. When you design screens and GIFs, think about the people who look at them or want to use them:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;They should be in high resolution, and high quality.&lt;/li&gt;
-&lt;li&gt;Pay attention to your visual composition. It should be balanced.&lt;/li&gt;
-&lt;li&gt;Make sure they are well lit, with both good brightness and contrast.&lt;/li&gt;
-&lt;li&gt;The screens should look appealing, and really they should tell a story.&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/post/2017/marketing-indie-games-with-0-budget/firewatch-sunrise.jpg&#34; alt=&#34;Beautiful sunrise scene in the game Firewatch&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;h3 id=&#34;3-press-release&#34;&gt;3- Press release&lt;/h3&gt;
-
-&lt;p&gt;Once you have your trailer and screenshots, you&amp;rsquo;ll want to compile them in a Press Release or PR. These documents are designed for journalists, who happen to be busy people. They get contacted all the time. People will copy and paste text from your PR, especially if you&amp;rsquo;re new and small. So you do want to write it well.&lt;/p&gt;
-
-&lt;p&gt;Here are the essential characteristics of a good press release:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;All the key information should be in the 1st paragraph. This includes the 5 Ws (What, Who, When, Where, Why?), and it should grab the reader&amp;rsquo;s attention.&lt;/li&gt;
-&lt;li&gt;It should be well written, clear, and stick to the point.&lt;/li&gt;
-&lt;li&gt;The most important parts are the headline, the subhead, and the 1st paragraph.&lt;/li&gt;
-&lt;li&gt;Use a quote from the creative director or someone inside the company to breathe life to your PR.&lt;/li&gt;
-&lt;li&gt;Have the company&amp;rsquo;s information and some ways to contact you at the bottom.&lt;/li&gt;
-&lt;li&gt;Provide a link to your presskit, that contains the trailer and best screenshots.&lt;/li&gt;
-&lt;li&gt;Use in-text hyperlinks so people can jump to another page with a single click.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;4-landing-page&#34;&gt;4- Landing page&lt;/h3&gt;
-
-&lt;p&gt;The landing page is a powerful marketing asset. It is a vitrine for your game, that&amp;rsquo;ll convert visitors to buyers. Emmy mentions the best practices for it to work:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;No navigation. You don&amp;rsquo;t want the top links to take any clicks away from the page.&lt;/li&gt;
-&lt;li&gt;Feature an attention-grabbing headline at the top. Most people will only read that, just like with articles. Give them a reason to check out the trailer, the screenshots, and generally to stay on the page. Use the headline to talk to your target audience.&lt;/li&gt;
-&lt;li&gt;Include social sharing links on the side.&lt;/li&gt;
-&lt;li&gt;Make the trailer video prominent.&lt;/li&gt;
-&lt;li&gt;Have a strong call to action button.&lt;/li&gt;
-&lt;li&gt;Provide a selection of your best screenshots.&lt;/li&gt;
-&lt;li&gt;Mention good reviews and testimonials from influent sources.&lt;/li&gt;
-&lt;li&gt;At the bottom, leave links to your presskit and ways to contact you.&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/post/2017/marketing-indie-games-with-0-budget/hollow-knight-teaser.jpg&#34; alt=&#34;Hollow knight game screenshot&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Hollow knight has a great landing page
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;h3 id=&#34;5-devblog&#34;&gt;5- Devblog&lt;/h3&gt;
-
-&lt;p&gt;Lastly, a devblog can bring you a lot of extra traffic, and help you build a fanbase, although it takes some work. Here are Emmy&amp;rsquo;s tips for it:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Post at least once a week.&lt;/li&gt;
-&lt;li&gt;Always use images in your articles.&lt;/li&gt;
-&lt;li&gt;Link to the devblog in your website&amp;rsquo;s navigation bar and from the homepage.&lt;/li&gt;
-&lt;li&gt;Provide an RSS feed and/or email subscriptions. If people take that step to subscribe, they&amp;rsquo;ll get notified and they&amp;rsquo;re a lot more likely to check out your next stuff.&lt;/li&gt;
-&lt;li&gt;Include links to your accounts on social networks and social sharing icons&lt;/li&gt;
-&lt;li&gt;Call to action. Remind people where they can get your game and some key info they&amp;rsquo;d like to know about at end of every post.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>Emmy Jonhassen, aka IndieGameGirl, gave a talk named Marketing Indie Games on a $0 Budget. It offers a nice introduction to the topic, so I decided to share synthetic notes for it.
+I also wrote a detailed article on the topic for Game Analytics. There, you&amp;rsquo;ll learn a lot more about everything I&amp;rsquo;ve outlined below. Check it out: Marketing Your Indie Game On A Zero-Dollar Budget
+Emmy outlines 5 key types of contents required to maximize your game’s reach before and after its release.</description>
     </item>
     
     <item>
@@ -912,45 +133,10 @@ You also want to know a bit about Krita. My free series will cover everything yo
       <pubDate>Mon, 13 Mar 2017 20:42:51 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/old/construct-2/</guid>
-      <description>&lt;p&gt;In a another life, I wrote a handful of tutorials for Construct 2. They&amp;rsquo;re not on this website anymore, but you can still find them on the engine&amp;rsquo;s official website.&lt;/p&gt;
-
-&lt;p&gt;Now, I make videos tutorials about game creation with free, open source game creation tools: &lt;a href=&#34;http://gdquest.com&#34;&gt;learn more about GDquest&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Construct 2 tutorials:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/4838/grid-based-movement-using-the-tilemap-object-for-collisions&#34;&gt;Grid-Based movement using the Tilemap object for collisions.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1445/programming-simple-touch-qtes&#34;&gt;Programming simple touch QTEs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1430/quick-timer-events-from-a-game-design-perspective&#34;&gt;Quick Timer Events from a Game Design Perspective&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1405/top-down-jump-the-grasshopper&#34;&gt;Top Down Jump - The Grasshopper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1398/how-to-design-professional-looking-mobile-game-buttons&#34;&gt;How to design professional looking mobile game buttons&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1388/12-handy-free-productivity-tools-for-game-designers&#34;&gt;12 handy free productivity tools for game designers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1377/how-to-create-a-radial-lifebar-in-construct-2&#34;&gt;How to create a Radial Lifebar in Construct 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1365/how-to-code-faster-in-construct-2&#34;&gt;How to Code Faster in Construct 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1323/my-7-best-game-design-resources&#34;&gt;My 7 best game design resources&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1275/4-productivity-tricks-with-the-event-editor&#34;&gt;4 productivity tricks with the event editor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1158/how-to-ai-by-example-platform-follower&#34;&gt;How to AI by example - Platform follower&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1154/drastically-reduce-your-games-download-size-with-pngquant&#34;&gt;Drastically reduce your game&amp;rsquo;s download size with PNGquant&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1139/how-to-simplify-your-ai-code-with-finite-state-machines&#34;&gt;How to simplify your AI code with Finite State Machines&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1085/3-techniques-to-manage-complex-ui-with-construct-2&#34;&gt;3 techniques to manage complex UI with construct 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1080/how-to-do-advanced-callbacks-in-construct-2&#34;&gt;How to do advanced callbacks in Construct 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1077/4-lessons-learned-from-dan-the-rabbit&#34;&gt;4 lessons learned from Dan the Rabbit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1063/how-to-improve-your-construct-2-code-with-callbacks&#34;&gt;How to improve your Construct 2 code with Callbacks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1026/ceiling-walk&#34;&gt;Ceiling walk&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Game art tutorials:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1407/how-to-game-art-1-silhouettes&#34;&gt;How to game art #1 – Silhouettes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1410/how-to-game-art-2-drawing-game-assets&#34;&gt;How to game art #2 – Drawing game assets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1412/how-to-game-art-3-drawing-with-selections-in-photoshop&#34;&gt;How to game art #3 – Drawing with selections in Photoshop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1419/how-to-game-art-4-designing-a-cute-character&#34;&gt;How to game art #4 – Designing a cute character&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1426/how-to-game-art-5-the-principles-of-design&#34;&gt;How to game art #5 – The principles of design&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1453/how-to-game-art-6-a-first-look-at-colors&#34;&gt;How to game art #6 - A first look at colors&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.scirra.com/tutorials/1458/how-to-game-art-7-hue-shifting&#34;&gt;How to Game Art #7 - Hue Shifting&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>In a another life, I wrote a handful of tutorials for Construct 2. They&amp;rsquo;re not on this website anymore, but you can still find them on the engine&amp;rsquo;s official website.
+Now, I make videos tutorials about game creation with free, open source game creation tools: learn more about GDquest.
+Construct 2 tutorials:
+ Grid-Based movement using the Tilemap object for collisions. Programming simple touch QTEs Quick Timer Events from a Game Design Perspective Top Down Jump - The Grasshopper How to design professional looking mobile game buttons 12 handy free productivity tools for game designers How to create a Radial Lifebar in Construct 2 How to Code Faster in Construct 2 My 7 best game design resources 4 productivity tricks with the event editor How to AI by example - Platform follower Drastically reduce your game&amp;rsquo;s download size with PNGquant How to simplify your AI code with Finite State Machines 3 techniques to manage complex UI with construct 2 How to do advanced callbacks in Construct 2 4 lessons learned from Dan the Rabbit How to improve your Construct 2 code with Callbacks Ceiling walk  Game art tutorials:</description>
     </item>
     
     <item>
@@ -959,22 +145,9 @@ You also want to know a bit about Krita. My free series will cover everything yo
       <pubDate>Mon, 27 Feb 2017 09:45:11 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/post/2017/news/gaq-early-access/</guid>
-      <description>&lt;p&gt;Update: the course is now out! Learn more below.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Do you want to become a better artist? To learn how professionals make beautiful sprites?&lt;/strong&gt; Make professional painterly game art with Krita is a new premium training out in early access. It will show you how to make your own 2d game art with the open source painting program Krita.&lt;/p&gt;
-
-&lt;p&gt;It is available in 3 different versions to fit your budget and your very needs. You&amp;rsquo;ll get 20% off your purchase with the coupon code &amp;laquo;early&amp;raquo; for the duration of the early access. Learn more below:&lt;/p&gt;
-
-&lt;p&gt;&lt;script src=&#34;https://gumroad.com/js/gumroad-embed.js&#34;&gt;&lt;/script&gt;
-&lt;div class=&#34;gumroad-product-embed&#34; data-gumroad-product-id=&#34;krita-game-art-tutorial-1&#34; data-outbound-embed=&#34;true&#34;&gt;&lt;a href=&#34;https://gumroad.com/l/krita-game-art-tutorial-1&#34;&gt;Loading&amp;hellip;&lt;/a&gt;&lt;/div&gt;
-&lt;noscript&gt;
-&lt;a href=&#34;http://gdquest.com/product/krita/painterly-game-art/&#34;&gt;Access the Krita training&lt;/a&gt;
-&lt;/noscript&gt;&lt;/p&gt;
-
-&lt;p&gt;If you only want to know when the course will be out, subscribe below and I&amp;rsquo;ll let you know via email:&lt;/p&gt;
-
-&lt;style&gt;.gumroad-follow-form-embed button,.gumroad-follow-form-embed input{font-size:15px;font-family:-apple-system,&#34;.SFNSDisplay-Regular&#34;,&#34;Helvetica Neue&#34;,Helvetica,Arial,sans-serif;height:40px!important}.gumroad-follow-form-embed{zoom:1}.gumroad-follow-form-embed:after,.gumroad-follow-form-embed:before{display:table;line-height:0;content:&#34;&#34;}.gumroad-follow-form-embed:after{clear:both}.gumroad-follow-form-embed *{margin:0;border:0;padding:0;outline:0;box-sizing:border-box!important;float:left!important}.gumroad-follow-form-embed input{border-radius:4px 0 0 4px;line-height:20px;background:top right no-repeat #fff;border:1px solid #ddd;border-right:0;color:#aaa;padding:10px;box-shadow:inset 0 1px 0 rgba(0,0,0,.02);text-rendering:optimizeLegibility;font-smoothing:antialiased;-webkit-appearance:none;-moz-appearance:caret;width:65%!important}.gumroad-follow-form-embed button{border-radius:0 4px 4px 0;box-shadow:0 1px 1px rgba(0,0,0,.12);-webkit-transition:all .05s ease-in-out;transition:all .05s ease-in-out;display:inline-block;padding:11px 15px 12px;cursor:pointer;color:#fff;line-height:100%;border:1px solid #31989d;filter:&#34;progid:DXImageTransform.Microsoft.gradient(startColorstr=#5ccfd4, endColorstr=#329ca1, GradientType=0)&#34;;background:-webkit-linear-gradient(top,#5ccfd4,#329ca1);background:linear-gradient(to bottom,#5ccfd4,#329ca1);width:35%!important}&lt;/style&gt;&lt;form action=&#34;https://gumroad.com/follow_from_embed_form&#34; class=&#34;form gumroad-follow-form-embed&#34; method=&#34;post&#34;&gt;&lt;input name=&#34;seller_id&#34; type=&#34;hidden&#34; value=&#34;6873367754130&#34;&gt; &lt;input name=&#34;email&#34; placeholder=&#34;Your email address&#34; type=&#34;email&#34;&gt; &lt;button data-custom-highlight-color=&#34;&#34; type=&#34;submit&#34;&gt;Sign up&lt;/button&gt;&lt;/form&gt;
-</description>
+      <description>Update: the course is now out! Learn more below.
+Do you want to become a better artist? To learn how professionals make beautiful sprites? Make professional painterly game art with Krita is a new premium training out in early access. It will show you how to make your own 2d game art with the open source painting program Krita.
+It is available in 3 different versions to fit your budget and your very needs.</description>
     </item>
     
     <item>
@@ -983,73 +156,7 @@ You also want to know a bit about Krita. My free series will cover everything yo
       <pubDate>Wed, 22 Feb 2017 15:11:59 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/product/krita/painterly-game-art/</guid>
-      <description>
-
-&lt;h2 id=&#34;what-will-i-learn-in-this-course&#34;&gt;What will I learn in this course?&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;How to make beautiful 2d game assets with a painterly style&lt;/li&gt;
-&lt;li&gt;The process professionals follow, from the concept art to the finished assets&lt;/li&gt;
-&lt;li&gt;Art fundamentals such as value and color contrast&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;On top of that, if you buy the premium version, you will get step by step exercise sheets and create your own game mockup, ready to use in the game engine of your choice!&lt;/p&gt;
-
-&lt;p&gt;Check out this &lt;strong&gt;free video from the course&lt;/strong&gt; and get a sense for the content:&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/VtfQ5z3t1E0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;h2 id=&#34;the-training-is-available-in-3-versions&#34;&gt;The training is available in 3 versions&lt;/h2&gt;
-
-&lt;h3 id=&#34;essentials&#34;&gt;Essentials&lt;/h3&gt;
-
-&lt;p&gt;For the occasional painter and those with a limited budget.&lt;/p&gt;
-
-&lt;p&gt;The essential content from the training. You will get the more practical videos, everything related to actually producing the game assets.&lt;/p&gt;
-
-&lt;h3 id=&#34;pro&#34;&gt;Pro&lt;/h3&gt;
-
-&lt;p&gt;The most popular option. For hobbyists, students and aspiring professionals.&lt;/p&gt;
-
-&lt;p&gt;Get all of the essentials, plus:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Fundamental training on the principles of design&lt;/li&gt;
-&lt;li&gt;Techniques to make nondestructive selections in Krita&lt;/li&gt;
-&lt;li&gt;Video demos based on the art of the games Pankapu and Seasons: After Fall&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;premium&#34;&gt;Premium&lt;/h3&gt;
-
-&lt;p&gt;For those who want to go in depth.&lt;/p&gt;
-
-&lt;p&gt;You get everything from the Essentials and Pro versions, plus:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Exclusive videos&lt;/li&gt;
-&lt;li&gt;Step-by-step assignments with extra tips&lt;/li&gt;
-&lt;li&gt;PDF course documents&lt;/li&gt;
-&lt;li&gt;Priority support&lt;/li&gt;
-&lt;li&gt;Access to the GDquest premium Discord server&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/page/product/krita-tutorial-1/krita-tutorial-learn-whole-process.jpg&#34; alt=&#34;Creation process of 2 characters including the sketch, the blocking and the final sprite&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-
-&lt;p&gt;You have some experience with drawing and digital art.
-If you don&amp;rsquo;t know how to use Krita, I made a &lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;FREE Krita tutorial series&lt;/a&gt;. It&amp;rsquo;s more than 6 hours long! In this course, you will learn the tools you need to work comfortably and efficiently with the program.&lt;/p&gt;
-
-&lt;p&gt;Krita is an award winning, free and open source painting program. It is available on all desktop platforms (&lt;em&gt;Windows, Mac, Linux&lt;/em&gt;). You can download it on the &lt;a href=&#34;https://krita.org/en/download/krita-desktop/&#34;&gt;Krita foundation&amp;rsquo;s website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;to-those-who-made-this-possible&#34;&gt;To those who made this possible&lt;/h2&gt;
-
-&lt;p&gt;I want to thank the &lt;a href=&#34;https://www.kickstarter.com/projects/gdquest/game-art-quest-make-professional-2d-art-with-krita&#34;&gt;424 Kickstarter backers&lt;/a&gt; who made this project possible from the bottom of my heart! Thanks to these persons, tens of thousands of people got hours of free education for Krita, and many discovered this wonderful program. This would not have been possible without you. GDquest would not have been possible without you. Many thanks!&lt;/p&gt;
-</description>
+      <description>What will I learn in this course?  How to make beautiful 2d game assets with a painterly style The process professionals follow, from the concept art to the finished assets Art fundamentals such as value and color contrast  On top of that, if you buy the premium version, you will get step by step exercise sheets and create your own game mockup, ready to use in the game engine of your choice!</description>
     </item>
     
     <item>
@@ -1058,19 +165,182 @@ If you don&amp;rsquo;t know how to use Krita, I made a &lt;a href=&#34;http://gd
       <pubDate>Wed, 15 Feb 2017 15:25:47 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tutorial/art/monster-design/</guid>
-      <description>
-
-&lt;p&gt;The intro to monster design is the first free training released on GDquest. In about 40 minutes, it will &lt;strong&gt;run you through the thought process a game artist might follow to design monsters&lt;/strong&gt;. It both covers the thought process behind the design of a monster and an example of monster drawing with pen, paper and Krita.&lt;/p&gt;
-
-&lt;h2 id=&#34;hahahugoshortcode-1hbhb-useful-links&#34;&gt;&lt;i class=&#34;my-fa fa-link
-default
-&#34;&gt;&lt;/i&gt;
- Useful links&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;Free Krita tutorial for Game Artists&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> The intro to monster design is the first free training released on GDquest. In about 40 minutes, it will run you through the thought process a game artist might follow to design monsters. It both covers the thought process behind the design of a monster and an example of monster drawing with pen, paper and Krita.
+Useful links  Free Krita tutorial for Game Artists  </description>
+    </item>
+    
+    <item>
+      <title>Intro to the Godot game engine</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/</link>
+      <pubDate>Wed, 15 Feb 2017 15:25:47 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/</guid>
+      <description>Welcome to the first free tutorial series on GDquest that&amp;rsquo;s dedicated to Godot! Over the course of 1h, it&amp;rsquo;ll teach you some basic concepts with the engine.</description>
+    </item>
+    
+    <item>
+      <title>Krita Brushes For Game Artists</title>
+      <link>http://gdquest.com/product/krita/brushes/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/product/krita/brushes/</guid>
+      <description>Version 13 (April 2017) contains:
+ 73 unique brush presets 2 pdf documents to help you get started with the brushes Monthly updates. More brushes and videos are already on your way! Completely redesigned thumbnails  The premium tier adds:
+ More than 30 minutes of exclusive video tutorials to get the most out of the brushes The natural media brushkit Priority support    The new thumbnails in version 13   I take my time to design the presets and ensure that they are worth adding to the pack.</description>
+    </item>
+    
+    <item>
+      <title>In the office - January news</title>
+      <link>http://gdquest.com/post/2017/news/in-the-office/</link>
+      <pubDate>Sat, 21 Jan 2017 17:35:09 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2017/news/in-the-office/</guid>
+      <description>The past 2 months have been hectic. I’ll pass on the details, but since a few days, I’m renting an office. After so much time struggling to work from home, you can’t imagine how great it feels! I not only have access to the room 24/7, it’s also part of a local business incubator. The structure offer a lot of support, free training on accounting, management, legal stuff… All of which is quite complex in France.</description>
+    </item>
+    
+    <item>
+      <title>Back from japan, back to work</title>
+      <link>http://gdquest.com/post/2016/back-from-japan/</link>
+      <pubDate>Wed, 09 Nov 2016 20:16:29 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2016/back-from-japan/</guid>
+      <description>Yes, I’m back from Japan! Physically at least: my heart is still back there. I’ve been traveling around the country for a bit less than a month, and the experience was incredible. It was a great occasion to practice Japanese and get a better sense for the culture. I’ve read and been told a lot of things before going, and reality felt a lot subtler than what you would expect at first.</description>
+    </item>
+    
+    <item>
+      <title>Game Art Quest vol1 done! Off to Japan</title>
+      <link>http://gdquest.com/post/2016/japan-news/</link>
+      <pubDate>Wed, 28 Sep 2016 08:24:05 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2016/japan-news/</guid>
+      <description>Yes, the first volume of Game Art Quest is done. 6.2 hours of free Krita tutorials (some are still upcoming on the channel). 7 hours if you include the first bonus series of the year: Introduction to monster design for 2-D games. Looking back at the Kickstarter description, this is already more than the promised as far as the total length is concerned.
+ Early access  Available tutorials (free)  The extra premium brushes and their companion tutorials are also getting pretty big.</description>
+    </item>
+    
+    <item>
+      <title>Summer Update</title>
+      <link>http://gdquest.com/post/2016/summer-news/</link>
+      <pubDate>Thu, 08 Sep 2016 13:49:48 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2016/summer-news/</guid>
+      <description>It has been a while since the last behind the scenes news post. There&amp;rsquo;s been good progress with the tutorials and the brushes. I&amp;rsquo;ve been hard at work lately, especially changing my workflow to increase production speed, maintaining the same quality. On the other hand, I haven&amp;rsquo;t been able to update the website and social networks as often as I would&amp;rsquo;ve liked. Aside from that&amp;hellip;
+Krita 3.0.1 is out! Krita 3.</description>
+    </item>
+    
+    <item>
+      <title>June update: the Randa meetings</title>
+      <link>http://gdquest.com/post/2016/kickstarter-news-june/</link>
+      <pubDate>Tue, 28 Jun 2016 11:17:06 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2016/kickstarter-news-june/</guid>
+      <description>We&amp;rsquo;re getting to the end of June. It&amp;rsquo;s time to sum up all that&amp;rsquo;s been happening this month. The short version: I kept improving the website, went to the biggest yearly KDE development sprint in Randa, Switzerland, and added about 1h of tutorials dedicated to Krita 3&amp;rsquo;s new features in the Krita training. You can find more details about what happened in Randa, and what the plans are for July, below.</description>
+    </item>
+    
+    <item>
+      <title>May update: Krita brushes and ConciseCSS</title>
+      <link>http://gdquest.com/post/2016/new-website-and-krita-brushes-update/</link>
+      <pubDate>Mon, 30 May 2016 13:11:19 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2016/new-website-and-krita-brushes-update/</guid>
+      <description>&lt;p&gt;May has been a busy month. I did my best to keep up with everyone on social networks, to give a hand to the Krita developers, with their &lt;a href=&#34;https://www.youtube.com/watch?v=AjIiI8uiVNM&#34;&gt;Kickstarter campaign&lt;/a&gt;&amp;hellip; But I didn&amp;rsquo;t take the time to write longer news posts like this one. Time to share the news for this month! &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What’s New in Krita 3.0? Krita Review</title>
+      <link>http://gdquest.com/post/2016/krita/new-features-in-krita-3/</link>
+      <pubDate>Mon, 09 May 2016 17:49:09 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2016/krita/new-features-in-krita-3/</guid>
+      <description>Never heard of Krita? It is a free, open source digital painting program that used to be Linux-only. Since 2 years though, there&amp;rsquo;s a Windows version, and the program is now being ported to Mac.
+Krita 3 is a major update to an already powerful application. It brings it to a whole new level. It ships with a new rendering engine, a traditional animation toolset, an overhauled layers docker, rulers, grid, guides, snapping support, and a brand-new tablet code, which supports more Wacom alternatives.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Tips: Concatenate paths with variables</title>
+      <link>http://gdquest.com/post/2016/programming/hugo-tips-concat-node-paths-variable/</link>
+      <pubDate>Wed, 20 Apr 2016 09:34:58 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2016/programming/hugo-tips-concat-node-paths-variable/</guid>
+      <description>This tutorial is a post I initially wrote on the Hugo forums. Hugo is the static website generator that powers GDquest. It is a really flexible and elegant system, based on Google&amp;rsquo;s Go programming language. Sometimes, it is a bit hard to use for a non-tech-savvy user. So I decided to share some tips on things that got me stuck at some point. 
+In a template, you sometimes need to load data from a path based on a parameter in your content file’s front matter.</description>
+    </item>
+    
+    <item>
+      <title>Recommended graphic tablets</title>
+      <link>http://gdquest.com/post/2016/krita/recommended-graphic-tablets/</link>
+      <pubDate>Wed, 23 Mar 2016 10:08:53 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2016/krita/recommended-graphic-tablets/</guid>
+      <description>Recommended graphic tablets On this page, you can find a list of the graphic tablets I recommend for Game Art Quest. I used Frenden&amp;rsquo;s reviews as a reference to pick affordable tablets you can try out. I also asked feedback to fellow professionals who use Huion devices, as I only have Wacom tablets here. When you buy a graphic tablet, be sure to test your device and to use your right of withdrawal in case you don&amp;rsquo;t like it.</description>
+    </item>
+    
+    <item>
+      <title>GDquest news and Krita 3.0 pre-alpha 3</title>
+      <link>http://gdquest.com/post/2016/community/gdquest-news-and-krita-3.0-pre-alpha/</link>
+      <pubDate>Wed, 16 Mar 2016 08:25:29 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2016/community/gdquest-news-and-krita-3.0-pre-alpha/</guid>
+      <description>Hi there! I wanted to keep you posted on what is going on right now with GDquest. The video says it all, but I’m going to sum up the news below.
+With one last contract finished last week, and the series on monster design done, I am now working full-time on Game Art Quest. My top priority is to release the first version of the GAQ Krita brush back and to finish chapter 0 in the training.</description>
+    </item>
+    
+    <item>
+      <title>Free Krita Tutorial For Game Artists</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/</link>
+      <pubDate>Mon, 08 Feb 2016 17:55:44 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/</guid>
+      <description>If you want to become a better 2-D game artist, this training is for you. It will teach you how to work with Krita, a mature open source digital painting program. In 6 chapters, we will explore the most important features krita has to offer to game artists.</description>
+    </item>
+    
+    <item>
+      <title>The training has moved!</title>
+      <link>http://gdquest.com/krita-tutorial/volume-1/course/</link>
+      <pubDate>Mon, 08 Feb 2016 17:55:44 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/krita-tutorial/volume-1/course/</guid>
+      <description>Hi! If you&amp;rsquo;re here, you&amp;rsquo;re certainly a backer of the Game Art Quest Kickstarter campaign.
+I moved the course to Gumroad, the same place where you got your premium brushes. Thanks to that change, you can now download the tutorials to watch offline! I sent your personal coupon code via email so you can get an instant free access.
+How to redeem your coupon In the email, you will find a link that will automatically apply your coupon for you.</description>
+    </item>
+    
+    <item>
+      <title>Vote for future free tutorials! 2016</title>
+      <link>http://gdquest.com/post/2016/community/vote-for-upcoming-tutorials-january-2016/</link>
+      <pubDate>Mon, 11 Jan 2016 09:16:10 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2016/community/vote-for-upcoming-tutorials-january-2016/</guid>
+      <description>06-2016 update: Voting is over! You were more than 400 to vote on the series you want to see on GDquest.
+Here are the top 3 results:
+ Overview of Godot 2 (249 votes) Painting rock and grass tiles for 2d games (141 votes) Human proportions, from reality to games (119 votes)  Let your voice be heard Up until now, the tutorials have been a bit random on GDquest.</description>
+    </item>
+    
+    <item>
+      <title>Phaser auto completion in Atom</title>
+      <link>http://gdquest.com/post/2016/programming/phaser-auto-completion-in-atom/</link>
+      <pubDate>Sat, 03 Oct 2015 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2016/programming/phaser-auto-completion-in-atom/</guid>
+      <description>This little guide will show you how to use the tern-phaser plugin by Angelo with Atom.
+Installing tern This first part explains how to get npm, install tern and the tern-phaser plugin. The first thing that you need to ensure is that you have Node.js installed on your computer. You can download it on https://nodejs.org/en/. This will give you access to npm as well, a handy package manager for js libraries and plugins.</description>
+    </item>
+    
+    <item>
+      <title>GDquest</title>
+      <link>http://gdquest.com/homepage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/homepage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>http://gdquest.com/game-design-portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/game-design-portfolio/</guid>
+      <description>We can answer your need for HTML5 and Unity game development. For Html5, we use our open source game engine Meta2d, offering clean and easy to edit code.   We design appealing characters and environments, clear UI elements and polished cut-out animations made with Spine or Photoshop to serve your creative vision.   We have a library of dozens of deep and instructive tutorials to prove our expertise.</description>
     </item>
     
   </channel>

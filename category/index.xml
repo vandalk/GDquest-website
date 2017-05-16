@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category on GDquest</title>
+    <link>http://gdquest.com/category/</link>
+    <description>Recent content in Category on GDquest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    
+	<atom:link href="http://gdquest.com/category/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Community</title>
+      <link>http://gdquest.com/category/community/</link>
+      <pubDate>Mon, 11 Jan 2016 09:16:10 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/category/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Design</title>
+      <link>http://gdquest.com/category/game-design/</link>
+      <pubDate>Sat, 03 Oct 2015 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/category/game-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware</title>
+      <link>http://gdquest.com/category/hardware/</link>
+      <pubDate>Wed, 23 Mar 2016 10:08:53 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/category/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krita</title>
+      <link>http://gdquest.com/category/krita/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/category/krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://gdquest.com/category/news/</link>
+      <pubDate>Tue, 09 May 2017 09:18:18 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/category/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quick Tips</title>
+      <link>http://gdquest.com/category/quick-tips/</link>
+      <pubDate>Sat, 03 Oct 2015 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/category/quick-tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>http://gdquest.com/category/tutorials/</link>
+      <pubDate>Thu, 06 Apr 2017 20:33:30 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/category/tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webdesign</title>
+      <link>http://gdquest.com/category/webdesign/</link>
+      <pubDate>Wed, 20 Apr 2016 09:34:58 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/category/webdesign/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

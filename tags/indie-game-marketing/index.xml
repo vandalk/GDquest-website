@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Indie Game Marketing on GDquest</title>
-    <link>http://gdquest.com/tags/indie-game-marketing/index.xml</link>
+    <link>http://gdquest.com/tags/indie-game-marketing/</link>
     <description>Recent content in Indie Game Marketing on GDquest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <atom:link href="http://gdquest.com/tags/indie-game-marketing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Apr 2017 20:33:30 +0100</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tags/indie-game-marketing/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Marketing indie games with no budget – Notes</title>
@@ -16,114 +19,9 @@
       <pubDate>Thu, 06 Apr 2017 20:33:30 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/post/2017/marketing/marketing-indie-games-with-0-budget/</guid>
-      <description>
-
-&lt;p&gt;Emmy Jonhassen, aka IndieGameGirl, gave a talk named &lt;a href=&#34;http://www.indiegamegirl.com/no-budget-marketing/&#34;&gt;Marketing Indie Games on a $0 Budget&lt;/a&gt;. It offers a nice introduction to the topic, so I decided to share synthetic notes for it.&lt;/p&gt;
-
-&lt;p&gt;I also wrote a detailed article on the topic for Game Analytics. There, you&amp;rsquo;ll learn a lot more about everything I&amp;rsquo;ve outlined below. Check it out: &lt;a href=&#34;http://www.gameanalytics.com/blog/marketing-indie-game-without-budget.html&#34;&gt;Marketing Your Indie Game On A Zero-Dollar Budget&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Emmy outlines 5 key types of contents required to maximize your game’s reach before and after its release. All of the content has to be prepared thoughtfully in advance as part of a complete marketing plan.&lt;/p&gt;
-
-&lt;h3 id=&#34;1-trailer&#34;&gt;1– Trailer&lt;/h3&gt;
-
-&lt;p&gt;The trailer is your n°1 marketing weapon. Both the users and the press will look at it to judge whether they’ll cover or play the game. A solid trailer needs the following features:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;It should be less than 90 seconds long.&lt;/li&gt;
-&lt;li&gt;Its intro has to catch attention straight away.&lt;/li&gt;
-&lt;li&gt;Music and SFX are powerful tools to mark the minds. Make them great!&lt;/li&gt;
-&lt;li&gt;It is key to show a substantial amount of in-game-footage. Use reviews to your advantage: add quotes from professional reviews. Those give your game more credibility in the eyes of the viewer.&lt;/li&gt;
-&lt;li&gt;End the video with a call to action: the potential buyer should know how to follow you, how to buy the game… make it big and clear!&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/VA3saHRW3H8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;h3 id=&#34;2-screenshots-and-gifs&#34;&gt;2- Screenshots and GIFs&lt;/h3&gt;
-
-&lt;p&gt;Each and every screenshot is its own little piece of art. If you follow artists on twitter, you know how popular artwork is, and how likely people are to like, comment and retweet them. When you design screens and GIFs, think about the people who look at them or want to use them:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;They should be in high resolution, and high quality.&lt;/li&gt;
-&lt;li&gt;Pay attention to your visual composition. It should be balanced.&lt;/li&gt;
-&lt;li&gt;Make sure they are well lit, with both good brightness and contrast.&lt;/li&gt;
-&lt;li&gt;The screens should look appealing, and really they should tell a story.&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/post/2017/marketing-indie-games-with-0-budget/firewatch-sunrise.jpg&#34; alt=&#34;Beautiful sunrise scene in the game Firewatch&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;h3 id=&#34;3-press-release&#34;&gt;3- Press release&lt;/h3&gt;
-
-&lt;p&gt;Once you have your trailer and screenshots, you&amp;rsquo;ll want to compile them in a Press Release or PR. These documents are designed for journalists, who happen to be busy people. They get contacted all the time. People will copy and paste text from your PR, especially if you&amp;rsquo;re new and small. So you do want to write it well.&lt;/p&gt;
-
-&lt;p&gt;Here are the essential characteristics of a good press release:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;All the key information should be in the 1st paragraph. This includes the 5 Ws (What, Who, When, Where, Why?), and it should grab the reader&amp;rsquo;s attention.&lt;/li&gt;
-&lt;li&gt;It should be well written, clear, and stick to the point.&lt;/li&gt;
-&lt;li&gt;The most important parts are the headline, the subhead, and the 1st paragraph.&lt;/li&gt;
-&lt;li&gt;Use a quote from the creative director or someone inside the company to breathe life to your PR.&lt;/li&gt;
-&lt;li&gt;Have the company&amp;rsquo;s information and some ways to contact you at the bottom.&lt;/li&gt;
-&lt;li&gt;Provide a link to your presskit, that contains the trailer and best screenshots.&lt;/li&gt;
-&lt;li&gt;Use in-text hyperlinks so people can jump to another page with a single click.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;4-landing-page&#34;&gt;4- Landing page&lt;/h3&gt;
-
-&lt;p&gt;The landing page is a powerful marketing asset. It is a vitrine for your game, that&amp;rsquo;ll convert visitors to buyers. Emmy mentions the best practices for it to work:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;No navigation. You don&amp;rsquo;t want the top links to take any clicks away from the page.&lt;/li&gt;
-&lt;li&gt;Feature an attention-grabbing headline at the top. Most people will only read that, just like with articles. Give them a reason to check out the trailer, the screenshots, and generally to stay on the page. Use the headline to talk to your target audience.&lt;/li&gt;
-&lt;li&gt;Include social sharing links on the side.&lt;/li&gt;
-&lt;li&gt;Make the trailer video prominent.&lt;/li&gt;
-&lt;li&gt;Have a strong call to action button.&lt;/li&gt;
-&lt;li&gt;Provide a selection of your best screenshots.&lt;/li&gt;
-&lt;li&gt;Mention good reviews and testimonials from influent sources.&lt;/li&gt;
-&lt;li&gt;At the bottom, leave links to your presskit and ways to contact you.&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/post/2017/marketing-indie-games-with-0-budget/hollow-knight-teaser.jpg&#34; alt=&#34;Hollow knight game screenshot&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Hollow knight has a great landing page
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;h3 id=&#34;5-devblog&#34;&gt;5- Devblog&lt;/h3&gt;
-
-&lt;p&gt;Lastly, a devblog can bring you a lot of extra traffic, and help you build a fanbase, although it takes some work. Here are Emmy&amp;rsquo;s tips for it:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Post at least once a week.&lt;/li&gt;
-&lt;li&gt;Always use images in your articles.&lt;/li&gt;
-&lt;li&gt;Link to the devblog in your website&amp;rsquo;s navigation bar and from the homepage.&lt;/li&gt;
-&lt;li&gt;Provide an RSS feed and/or email subscriptions. If people take that step to subscribe, they&amp;rsquo;ll get notified and they&amp;rsquo;re a lot more likely to check out your next stuff.&lt;/li&gt;
-&lt;li&gt;Include links to your accounts on social networks and social sharing icons&lt;/li&gt;
-&lt;li&gt;Call to action. Remind people where they can get your game and some key info they&amp;rsquo;d like to know about at end of every post.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>Emmy Jonhassen, aka IndieGameGirl, gave a talk named Marketing Indie Games on a $0 Budget. It offers a nice introduction to the topic, so I decided to share synthetic notes for it.
+I also wrote a detailed article on the topic for Game Analytics. There, you&amp;rsquo;ll learn a lot more about everything I&amp;rsquo;ve outlined below. Check it out: Marketing Your Indie Game On A Zero-Dollar Budget
+Emmy outlines 5 key types of contents required to maximize your game’s reach before and after its release.</description>
     </item>
     
   </channel>

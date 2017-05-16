@@ -2,14 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorials on GDquest</title>
-    <link>http://gdquest.com/tutorial/index.xml</link>
+    <link>http://gdquest.com/tutorial/</link>
     <description>Recent content in Tutorials on GDquest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
     <lastBuildDate>Wed, 01 Mar 2017 20:29:44 +0200</lastBuildDate>
-    <atom:link href="http://gdquest.com/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://gdquest.com/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Intro To Monster Design For 2d Games</title>
@@ -17,19 +19,8 @@
       <pubDate>Wed, 15 Feb 2017 15:25:47 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tutorial/art/monster-design/</guid>
-      <description>
-
-&lt;p&gt;The intro to monster design is the first free training released on GDquest. In about 40 minutes, it will &lt;strong&gt;run you through the thought process a game artist might follow to design monsters&lt;/strong&gt;. It both covers the thought process behind the design of a monster and an example of monster drawing with pen, paper and Krita.&lt;/p&gt;
-
-&lt;h2 id=&#34;hahahugoshortcode-1hbhb-useful-links&#34;&gt;&lt;i class=&#34;my-fa fa-link
-default
-&#34;&gt;&lt;/i&gt;
- Useful links&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;Free Krita tutorial for Game Artists&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> The intro to monster design is the first free training released on GDquest. In about 40 minutes, it will run you through the thought process a game artist might follow to design monsters. It both covers the thought process behind the design of a monster and an example of monster drawing with pen, paper and Krita.
+Useful links  Free Krita tutorial for Game Artists  </description>
     </item>
     
     <item>
@@ -38,8 +29,7 @@ default
       <pubDate>Wed, 15 Feb 2017 15:25:47 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/</guid>
-      <description>&lt;p&gt;Welcome to the first free tutorial series on GDquest that&amp;rsquo;s dedicated to Godot! Over the course of 1h, it&amp;rsquo;ll teach you some basic concepts with the engine.&lt;/p&gt;
-</description>
+      <description>Welcome to the first free tutorial series on GDquest that&amp;rsquo;s dedicated to Godot! Over the course of 1h, it&amp;rsquo;ll teach you some basic concepts with the engine.</description>
     </item>
     
     <item>
@@ -48,8 +38,7 @@ default
       <pubDate>Mon, 08 Feb 2016 17:55:44 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;If you want to become a better 2-D game artist, this training is for you&lt;/strong&gt;. It will teach you how to work with Krita, a mature open source digital painting program. In 6 chapters, we will explore the most important features krita has to offer to game artists.&lt;/p&gt;
-</description>
+      <description>If you want to become a better 2-D game artist, this training is for you. It will teach you how to work with Krita, a mature open source digital painting program. In 6 chapters, we will explore the most important features krita has to offer to game artists.</description>
     </item>
     
   </channel>

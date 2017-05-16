@@ -2,14 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on GDquest</title>
-    <link>http://gdquest.com/about/index.xml</link>
+    <link>http://gdquest.com/about/</link>
     <description>Recent content in About on GDquest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
     <lastBuildDate>Mon, 10 Apr 2017 13:40:07 +0200</lastBuildDate>
-    <atom:link href="http://gdquest.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://gdquest.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>

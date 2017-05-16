@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Krita Brushes on GDquest</title>
-    <link>http://gdquest.com/tags/krita-brushes/index.xml</link>
+    <link>http://gdquest.com/tags/krita-brushes/</link>
     <description>Recent content in Krita Brushes on GDquest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <atom:link href="http://gdquest.com/tags/krita-brushes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 May 2017 08:42:22 +0200</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tags/krita-brushes/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Make Cel Shaded 2d Characters With Krita</title>
@@ -16,98 +19,8 @@
       <pubDate>Thu, 04 May 2017 08:42:22 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/post/2017/news/make-cel-shaded-2d-characters-with-krita/</guid>
-      <description>
-
-&lt;p&gt;The second Krita game art tutorial series is out! Meet Pepper, Carrot, and cel shading. This course is based on the world of Pepper&amp;amp;Carrot, a webcomic under the CCBy 4.0 licence by &lt;a href=&#34;http://davidrevoy.com/&#34;&gt;David Revoy&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-you-will-learn&#34;&gt;What you will learn&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;How to create game characters with a cartoon shaded art style&lt;/li&gt;
-&lt;li&gt;Lighting and shading tricks with Krita&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;This is a short, yet a rich series. It comes with &lt;strong&gt;14 video tutorials&lt;/strong&gt;, plus a fully &lt;strong&gt;commented art time-lapse&lt;/strong&gt;.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/product/krita/cel-shaded-game-art/pepper-and-carrot-artwork.jpg&#34; alt=&#34;Pepper and Carrot side by side, painted with a cartoon art style&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Meet Pepper and Carrot, the 2 characters from the course
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;h2 id=&#34;pre-requisites&#34;&gt;Pre-requisites&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;If you have never used Krita before or don’t feel comfortable with it, check out my &lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;6 hours long free Krita course&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;The pace of the course is like the tutorials you will find on the GDquest channel, you can check them out first and see if they work for you before you buy.&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/godot-engine-kickstarter/krita-course-cel-shading.jpg&#34; alt=&#34;3 stylized characters used to teach lighting fundamentals&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Learn lighting and shading tricks with Krita
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;h2 id=&#34;30-days-moneyback&#34;&gt;30 days moneyback&lt;/h2&gt;
-
-&lt;p&gt;You’re interested in the course, but what if you buy and you don’t like it? No worries, it comes with a &lt;strong&gt;30 days money back warranty&lt;/strong&gt;. Just drop me a message, and you’ll get a refund: no questions asked.&lt;/p&gt;
-
-&lt;p&gt;The course is available on Gumroad. Click the button below to access it. If you pre-order it, use the code &amp;laquo;early&amp;raquo; and get 20% off!&lt;/p&gt;
-
-&lt;div class=&#34;-center&#34;&gt;
-    &lt;a href=&#34;https://gumroad.com/l/cartoon-game-art-krita-course&#34;&gt;
-        &lt;button class=&#34;-calltoaction -success&#34;&gt;
-            Get the course now!
-        &lt;/button&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;what-next&#34;&gt;What next?&lt;/h2&gt;
-
-&lt;p&gt;This series wraps up the Game Art Quest Kickstarter project. Next, we&amp;rsquo;re working together with the Godot developers to offer the first professional course for this wonderful open source engine! &lt;a href=&#34;https://www.youtube.com/c/gdquest&#34;&gt;Subscribe to the Youtube channel&lt;/a&gt; to know when it&amp;rsquo;s available. I&amp;rsquo;m preparing 30 free tutorials for the 30 days of the Kickstarter campaign.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/product/krita/cel-shaded-game-art/pepper-carrot-cover-by-david-revoy.jpg&#34; alt=&#34;Pepper smiling and holding a colorful potion inside her house&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Pepper and Carrot, CC-By 4.0 David Revoy
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-</description>
+      <description>The second Krita game art tutorial series is out! Meet Pepper, Carrot, and cel shading. This course is based on the world of Pepper&amp;amp;Carrot, a webcomic under the CCBy 4.0 licence by David Revoy.
+What you will learn  How to create game characters with a cartoon shaded art style Lighting and shading tricks with Krita  This is a short, yet a rich series. It comes with 14 video tutorials, plus a fully commented art time-lapse.</description>
     </item>
     
     <item>
@@ -116,75 +29,7 @@
       <pubDate>Fri, 28 Apr 2017 08:15:16 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/post/2017/news/krita-brushes-anniversary-update/</guid>
-      <description>
-
-&lt;p&gt;It&amp;rsquo;s been a year already. 12 months, 12 consecutive updates. This anniversary release may not seem like much, but it&amp;rsquo;s certainly the biggest so far. I redesigned all the brushes from scratch! The new thumbnails are circular. That way, all the information they can convey is available whether you look at the pop-up palette or the presets list. The design is also unique so that it’s easy to differentiate from other bundles.&lt;/p&gt;
-
-&lt;p&gt;The updated design reads a lot better when the thumbnails get small. If you work on a laptop, a tablet, or if you have a lot of presets in the docker, you can now spot the one you want faster.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/krita-brushes-anniversary-update/presets-docker-comparison.jpg&#34; alt=&#34;Comparison of the old brush thumbnails and the new ones&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        The old brushes and the new ones in the presets docker. That&amp;#39;s quite a change, isn&amp;#39;t it?
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;There are up to 4 elements in each thumbnail:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;The base&lt;/strong&gt; or background color indicates the bundle a brush belongs to&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The outline&lt;/strong&gt; shows which family the preset belongs to&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The pictogram&lt;/strong&gt;, in the top-right corner, tells you what the brush is intended for&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The stroke&lt;/strong&gt; is prominent, in the center&lt;/li&gt;
-&lt;/ol&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/post/2017/news/krita-brushes-anniversary-update/brush-thumbnail-components.jpg&#34; alt=&#34;The 4 components of a brush thumbnail, and the assembled result&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        A handful of layers are all it takes to generate the complete thumbnail
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;I wrote a python script to automate the process, and make it easier to improve them moving forward. As this is a big change, I&amp;rsquo;m counting on you to tell me what you think!&lt;/p&gt;
-
-&lt;h2 id=&#34;30-off-until-may-1st&#34;&gt;30% off until May 1st&lt;/h2&gt;
-
-&lt;p&gt;The update is in your library already. And to celebrate its anniversary, the premium brushes are on sale this week-end: you&amp;rsquo;ll save 3 euros off the standard version and 7.5 euros off the premium one!&lt;/p&gt;
-
-&lt;div class=&#34;-center&#34;&gt;
-    &lt;a href=&#34;https://gumroad.com/l/krita-brushes-for-game-artists/anniversary&#34;&gt;
-        &lt;button class=&#34;-calltoaction -success&#34;&gt;
-            Get the brushes!
-        &lt;/button&gt;
-    &lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;And if you&amp;rsquo;d like to know when there&amp;rsquo;s a sale or a new course comes out, subscribe below:&lt;/p&gt;
-
-&lt;style&gt;.gumroad-follow-form-embed button,.gumroad-follow-form-embed input{font-size:15px;font-family:-apple-system,&#34;.SFNSDisplay-Regular&#34;,&#34;Helvetica Neue&#34;,Helvetica,Arial,sans-serif;height:40px!important}.gumroad-follow-form-embed{zoom:1}.gumroad-follow-form-embed:after,.gumroad-follow-form-embed:before{display:table;line-height:0;content:&#34;&#34;}.gumroad-follow-form-embed:after{clear:both}.gumroad-follow-form-embed *{margin:0;border:0;padding:0;outline:0;box-sizing:border-box!important;float:left!important}.gumroad-follow-form-embed input{border-radius:4px 0 0 4px;line-height:20px;background:top right no-repeat #fff;border:1px solid #ddd;border-right:0;color:#aaa;padding:10px;box-shadow:inset 0 1px 0 rgba(0,0,0,.02);text-rendering:optimizeLegibility;font-smoothing:antialiased;-webkit-appearance:none;-moz-appearance:caret;width:65%!important}.gumroad-follow-form-embed button{border-radius:0 4px 4px 0;box-shadow:0 1px 1px rgba(0,0,0,.12);-webkit-transition:all .05s ease-in-out;transition:all .05s ease-in-out;display:inline-block;padding:11px 15px 12px;cursor:pointer;color:#fff;line-height:100%;border:1px solid #31989d;filter:&#34;progid:DXImageTransform.Microsoft.gradient(startColorstr=#5ccfd4, endColorstr=#329ca1, GradientType=0)&#34;;background:-webkit-linear-gradient(top,#5ccfd4,#329ca1);background:linear-gradient(to bottom,#5ccfd4,#329ca1);width:35%!important}&lt;/style&gt;&lt;form action=&#34;https://gumroad.com/follow_from_embed_form&#34; class=&#34;form gumroad-follow-form-embed&#34; method=&#34;post&#34;&gt;&lt;input name=&#34;seller_id&#34; type=&#34;hidden&#34; value=&#34;6873367754130&#34;&gt; &lt;input name=&#34;email&#34; placeholder=&#34;Your email address&#34; type=&#34;email&#34;&gt; &lt;button data-custom-highlight-color=&#34;&#34; type=&#34;submit&#34;&gt;Sign up&lt;/button&gt;&lt;/form&gt;
-</description>
+      <description>It&amp;rsquo;s been a year already. 12 months, 12 consecutive updates. This anniversary release may not seem like much, but it&amp;rsquo;s certainly the biggest so far. I redesigned all the brushes from scratch! The new thumbnails are circular. That way, all the information they can convey is available whether you look at the pop-up palette or the presets list. The design is also unique so that it’s easy to differentiate from other bundles.</description>
     </item>
     
     <item>
@@ -193,73 +38,7 @@
       <pubDate>Wed, 22 Feb 2017 15:11:59 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/product/krita/painterly-game-art/</guid>
-      <description>
-
-&lt;h2 id=&#34;what-will-i-learn-in-this-course&#34;&gt;What will I learn in this course?&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;How to make beautiful 2d game assets with a painterly style&lt;/li&gt;
-&lt;li&gt;The process professionals follow, from the concept art to the finished assets&lt;/li&gt;
-&lt;li&gt;Art fundamentals such as value and color contrast&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;On top of that, if you buy the premium version, you will get step by step exercise sheets and create your own game mockup, ready to use in the game engine of your choice!&lt;/p&gt;
-
-&lt;p&gt;Check out this &lt;strong&gt;free video from the course&lt;/strong&gt; and get a sense for the content:&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/VtfQ5z3t1E0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;h2 id=&#34;the-training-is-available-in-3-versions&#34;&gt;The training is available in 3 versions&lt;/h2&gt;
-
-&lt;h3 id=&#34;essentials&#34;&gt;Essentials&lt;/h3&gt;
-
-&lt;p&gt;For the occasional painter and those with a limited budget.&lt;/p&gt;
-
-&lt;p&gt;The essential content from the training. You will get the more practical videos, everything related to actually producing the game assets.&lt;/p&gt;
-
-&lt;h3 id=&#34;pro&#34;&gt;Pro&lt;/h3&gt;
-
-&lt;p&gt;The most popular option. For hobbyists, students and aspiring professionals.&lt;/p&gt;
-
-&lt;p&gt;Get all of the essentials, plus:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Fundamental training on the principles of design&lt;/li&gt;
-&lt;li&gt;Techniques to make nondestructive selections in Krita&lt;/li&gt;
-&lt;li&gt;Video demos based on the art of the games Pankapu and Seasons: After Fall&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;premium&#34;&gt;Premium&lt;/h3&gt;
-
-&lt;p&gt;For those who want to go in depth.&lt;/p&gt;
-
-&lt;p&gt;You get everything from the Essentials and Pro versions, plus:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Exclusive videos&lt;/li&gt;
-&lt;li&gt;Step-by-step assignments with extra tips&lt;/li&gt;
-&lt;li&gt;PDF course documents&lt;/li&gt;
-&lt;li&gt;Priority support&lt;/li&gt;
-&lt;li&gt;Access to the GDquest premium Discord server&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/page/product/krita-tutorial-1/krita-tutorial-learn-whole-process.jpg&#34; alt=&#34;Creation process of 2 characters including the sketch, the blocking and the final sprite&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;requirements&#34;&gt;Requirements&lt;/h2&gt;
-
-&lt;p&gt;You have some experience with drawing and digital art.
-If you don&amp;rsquo;t know how to use Krita, I made a &lt;a href=&#34;http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/&#34;&gt;FREE Krita tutorial series&lt;/a&gt;. It&amp;rsquo;s more than 6 hours long! In this course, you will learn the tools you need to work comfortably and efficiently with the program.&lt;/p&gt;
-
-&lt;p&gt;Krita is an award winning, free and open source painting program. It is available on all desktop platforms (&lt;em&gt;Windows, Mac, Linux&lt;/em&gt;). You can download it on the &lt;a href=&#34;https://krita.org/en/download/krita-desktop/&#34;&gt;Krita foundation&amp;rsquo;s website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;to-those-who-made-this-possible&#34;&gt;To those who made this possible&lt;/h2&gt;
-
-&lt;p&gt;I want to thank the &lt;a href=&#34;https://www.kickstarter.com/projects/gdquest/game-art-quest-make-professional-2d-art-with-krita&#34;&gt;424 Kickstarter backers&lt;/a&gt; who made this project possible from the bottom of my heart! Thanks to these persons, tens of thousands of people got hours of free education for Krita, and many discovered this wonderful program. This would not have been possible without you. GDquest would not have been possible without you. Many thanks!&lt;/p&gt;
-</description>
+      <description>What will I learn in this course?  How to make beautiful 2d game assets with a painterly style The process professionals follow, from the concept art to the finished assets Art fundamentals such as value and color contrast  On top of that, if you buy the premium version, you will get step by step exercise sheets and create your own game mockup, ready to use in the game engine of your choice!</description>
     </item>
     
     <item>
@@ -268,174 +47,9 @@ If you don&amp;rsquo;t know how to use Krita, I made a &lt;a href=&#34;http://gd
       <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/product/krita/brushes/</guid>
-      <description>
-
-&lt;p&gt;Version 13 (&lt;em&gt;April 2017&lt;/em&gt;) contains:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;73 unique brush presets&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2 pdf documents&lt;/strong&gt; to help you get started with the brushes&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Monthly updates&lt;/strong&gt;. More brushes and videos are already on your way!&lt;/li&gt;
-&lt;li&gt;Completely redesigned thumbnails&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The premium tier adds:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;More than 30 minutes of exclusive video tutorials&lt;/strong&gt; to get the most out of the brushes&lt;/li&gt;
-&lt;li&gt;The &lt;strong&gt;natural media brushkit&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Priority support&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://gdquest.com/img/page/krita-brushes/thumbs-redesign-comparison.png&#34; alt=&#34;Brushes thumbnails comparison&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        The new thumbnails in version 13
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;I take my time to design the presets and ensure that they are worth adding to the pack. I also use them in my daily work so they are tested thoroughly in all kinds of configurations.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-other-artists-have-to-say&#34;&gt;What other artists have to say&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://gdquest.com/img/page/krita-brushes/testimonial-zhillustrator.jpg&#34; alt=&#34;Thumbnails painted with Krita by Živko Kondić&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/zhille&#34;&gt;Zhillustrator&lt;/a&gt; writes: &amp;laquo;Nathan&amp;rsquo;s brush set has some essential brushes for digital painting that will ease your way into Krita&amp;rsquo;s powerful brush engine. My favorites in the pack are the mix and smudge brushes. Honestly, if you like the Lite set, it&amp;rsquo;s worth it, Krita is going somewhere.&amp;raquo;&lt;/p&gt;
-
-&lt;p&gt;See more of Zhillustrator&amp;rsquo;s work &lt;a href=&#34;https://www.artstation.com/artist/zhille&#34;&gt;on Artstation&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;free-krita-brushes&#34;&gt;Free Krita brushes&lt;/h2&gt;
-
-&lt;div&gt;
-    
-    &lt;img 
-        src=&#34;http://gdquest.com/img/page/krita-brushes/krita-brushes-banner-lite.jpg&#34; 
-        alt=&#34;Krita brushes banner lite&#34; 
-        class=&#34;banner-img -blue&#34; 
-    /&gt;
-&lt;/div&gt;
-
-
-
-&lt;p&gt;The best part? There is actually a free, smaller version of this set, so you can try it out for yourself.
-&lt;a href=&#34;https://gumroad.com/l/krita-brushes-gdquest-lite&#34;&gt;Click here to download the free Krita brushes&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
-
-&lt;h3 id=&#34;version-13-april-2017&#34;&gt;Version 13 - April 2017&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Complete redesign of the brush thumbnails&lt;/strong&gt;. All 85 brushes now have a new, clearer picture that highlights their stroke and still reads on small screens.This was a lot of work, but now it&amp;rsquo;s done, the set is ready to welcome new presets.&lt;/li&gt;
-&lt;li&gt;Pixel art presets are now in a separate bundle&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;version-12-march-2017&#34;&gt;Version 12 - March 2017&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;9 new brushes&lt;/strong&gt;, including a watercolor sponge, an oil paint brush, chains, and more!&lt;/p&gt;
-
-&lt;h3 id=&#34;version-11-february-2017&#34;&gt;Version 11 - February 2017&lt;/h3&gt;
-
-&lt;h4 id=&#34;new-brushes&#34;&gt;New brushes&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;GDquest_Fill_Flat_Rotation: Sharp flat brush with pen rotation support, for cel shading and silhouettes&lt;/li&gt;
-&lt;li&gt;GDquest_Spray_Dirt_1: Splatters clumps of dots&lt;/li&gt;
-&lt;li&gt;GDquest Cloud Trail: creates a cloudy trail, for fireplaces and trails behind planes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;New premium brushes&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;GDquest_Natural_Charcoal_Soft: charcoal preset with soft textured edges, for sketching&lt;/li&gt;
-&lt;li&gt;GDquest_Natural_Charcoal_Sharp: pencil preset with a sharp outline and subtle texture, for sketching&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;improved-brushes&#34;&gt;Improved brushes&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;GDquest_Aibrush_Shading: Lowered the spacing to fix artifacts that could appear on the stroke&lt;/li&gt;
-&lt;li&gt;GDquest_Fill_Flat_Directional: 6 times faster, improved for cel shading&lt;/li&gt;
-&lt;li&gt;GDquest_Cloud_Builder_Soft: a lot faster, better control over the clouds&amp;rsquo; shape&lt;/li&gt;
-&lt;li&gt;GDquest_PixelArt_Deform_Grow: lowered the deform speed&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;version-10-january-2017&#34;&gt;Version 10 - January 2017&lt;/h3&gt;
-
-&lt;p&gt;Version 10 is a maintenance update. It comes with 4 new presets, but also 11 existing brushes got better! Performance improvements, improved feel&amp;hellip; a good way to prepare major changes coming over the next few updates. As on every other month, I released &lt;a href=&#34;https://gumroad.com/l/krita-brushes-gdquest-lite&#34;&gt;7 new free Krita brushes&lt;/a&gt; in the.&lt;/p&gt;
-
-&lt;h4 id=&#34;new-brushes-1&#34;&gt;New brushes&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Paint Flat Softer: Softer version of the flat paintbrush&lt;/li&gt;
-&lt;li&gt;Paint Flat Sharper: Sharper version of the flat paintbrush, but 40% slower to render&lt;/li&gt;
-&lt;li&gt;Airbrush Shading: An airbrush taylored to block shadows in&lt;/li&gt;
-&lt;li&gt;Airbrush Softer: A subtle airbrush, extra smooth compared to the base Gdquest Airbrush&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;improved-brushes-1&#34;&gt;Improved brushes&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Blend Flat: pen rotation support, improved tip and blend curve, new size&lt;/li&gt;
-&lt;li&gt;Blend Smoky: improved blend curver, new size&lt;/li&gt;
-&lt;li&gt;Blend Smudge: improved opacity curve, new size&lt;/li&gt;
-&lt;li&gt;Cloud Builder: new size&lt;/li&gt;
-&lt;li&gt;Cloud Builder Soft: new size&lt;/li&gt;
-&lt;li&gt;Fill Flat Directional: improved for outlines and inking, new size&lt;/li&gt;
-&lt;li&gt;Ink Brush: improved pressure curve to make lower sizes more accessible, new size. Feels more like a Japanese Ink Brush&lt;/li&gt;
-&lt;li&gt;Ink Rough: improved opacity curve, new opacity, new size. Feels more like an alcohol marker&lt;/li&gt;
-&lt;li&gt;Ink Sketch: new size&lt;/li&gt;
-&lt;li&gt;Paint Flat: 2x faster, pen rotation support, sharper short edge on the brush tip, softer long edge, improved blend curve, new size&lt;/li&gt;
-&lt;li&gt;Paint Round Dry: 25% faster, improved pressure and color blend curves&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;version-9-dec-2016&#34;&gt;Version 9 - Dec 2016&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;10 new presets including a blur tool, splatter brushes, and a rock texture&lt;/li&gt;
-&lt;li&gt;10 natural media presets, and especially a powerful cloud painting tool (premium)&lt;/li&gt;
-&lt;li&gt;a new tutorial on cloud painting (premium)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;version-8-nov-2016&#34;&gt;Version 8 - Nov 2016&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2 textured rock brushes: these presets will allow you to add 2 types of sharp grain to your rocks, for a more believable look.&lt;/li&gt;
-&lt;li&gt;Smear cloud: whether you want to slightly blur or completely diffuse your edges, this is a very efficient preset to do so. It blurs your painting fast and provides very good control.&lt;/li&gt;
-&lt;li&gt;Smoke dusty: this brush can be used for both clouds and smoke. Unlike the existing cloud builder brushes, it offers some high frequency details for a richer look.&lt;/li&gt;
-&lt;li&gt;2 water brushes: the first water brushes are in! They&amp;rsquo;re useful to paint waves, for a lake, a sea or an ocean.&lt;/li&gt;
-&lt;li&gt;Tree leaves builder: a nice brush to quickly add detailed leaves to a piece of concept art.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;version-7-oct-2016&#34;&gt;Version 7 (Oct 2016)&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2 Rock presets: draw small, round and stylized rocks with Rock builder stylized, and detail them with the Rock_detail brush&lt;/li&gt;
-&lt;li&gt;3 special presets for shading: the special_shadow brush allows you to stamp simple round shadows, to place under characters and small assets. The other 2 brushes are directional shading brushes, with a sharp and a soft side.&lt;/li&gt;
-&lt;li&gt;2 pencil-looking brushes: one for sketching, and one for shading.&lt;/li&gt;
-&lt;li&gt;Updated paint_old preset: I remade the preset from scratch. It is at least twice as fast, and strokes are more consistent.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;version-6-sep-2016&#34;&gt;Version 6 (Sep 2016)&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;4 pixel art deform tools: pixel art-friendly Grow, Shrink, Move and Swirl tools&lt;/li&gt;
-&lt;li&gt;2 cloud builder brushes: the first builders are here! These presets will help you paint accurate sprite silhouettes in no time. These will work for both stylized and realistic clouds.&lt;/li&gt;
-&lt;li&gt;2 smoke brushes: for when you need to achieve a textured smoky effect. Also useful to add definition to materials.&lt;/li&gt;
-&lt;li&gt;Text-based install guide (pdf)&lt;/li&gt;
-&lt;li&gt;An intro to brush families (pdf)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Version 13 (April 2017) contains:
+ 73 unique brush presets 2 pdf documents to help you get started with the brushes Monthly updates. More brushes and videos are already on your way! Completely redesigned thumbnails  The premium tier adds:
+ More than 30 minutes of exclusive video tutorials to get the most out of the brushes The natural media brushkit Priority support    The new thumbnails in version 13   I take my time to design the presets and ensure that they are worth adding to the pack.</description>
     </item>
     
   </channel>
