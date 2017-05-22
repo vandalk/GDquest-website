@@ -77,6 +77,15 @@
     </item>
     
     <item>
+      <title>Crowdfunding Campaign</title>
+      <link>http://gdquest.com/tags/crowdfunding-campaign/</link>
+      <pubDate>Mon, 22 May 2017 12:00:18 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/crowdfunding-campaign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Foss</title>
       <link>http://gdquest.com/tags/foss/</link>
       <pubDate>Tue, 09 May 2017 09:18:18 +0200</pubDate>
@@ -122,6 +131,15 @@
     </item>
     
     <item>
+      <title>Game Creation Kickstarter</title>
+      <link>http://gdquest.com/tags/game-creation-kickstarter/</link>
+      <pubDate>Mon, 22 May 2017 12:00:18 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/game-creation-kickstarter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gdquest</title>
       <link>http://gdquest.com/tags/gdquest/</link>
       <pubDate>Tue, 09 May 2017 09:18:18 +0200</pubDate>
@@ -142,7 +160,7 @@
     <item>
       <title>Gdquest Kickstarter</title>
       <link>http://gdquest.com/tags/gdquest-kickstarter/</link>
-      <pubDate>Sat, 06 May 2017 13:37:08 +0200</pubDate>
+      <pubDate>Mon, 22 May 2017 12:00:18 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/gdquest-kickstarter/</guid>
       <description></description>
@@ -160,9 +178,18 @@
     <item>
       <title>Godot Game Engine</title>
       <link>http://gdquest.com/tags/godot-game-engine/</link>
-      <pubDate>Tue, 09 May 2017 09:18:18 +0200</pubDate>
+      <pubDate>Mon, 22 May 2017 12:00:18 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-game-engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godot Kickstarter</title>
+      <link>http://gdquest.com/tags/godot-kickstarter/</link>
+      <pubDate>Mon, 22 May 2017 12:00:18 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-kickstarter/</guid>
       <description></description>
     </item>
     
@@ -298,6 +325,24 @@
       <pubDate>Tue, 09 May 2017 09:18:18 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/learn-game-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn Game Creation</title>
+      <link>http://gdquest.com/tags/learn-game-creation/</link>
+      <pubDate>Mon, 22 May 2017 12:00:18 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/learn-game-creation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make 2d Games</title>
+      <link>http://gdquest.com/tags/make-2d-games/</link>
+      <pubDate>Mon, 22 May 2017 12:00:18 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/make-2d-games/</guid>
       <description></description>
     </item>
     

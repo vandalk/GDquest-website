@@ -8,10 +8,21 @@
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Sat, 06 May 2017 13:37:08 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2017 12:00:18 +0200</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/tags/gdquest-kickstarter/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Make Professional 2d Games with Godot: Kickstarter LIVE</title>
+      <link>http://gdquest.com/post/2017/news/2d-games-godot-kickstarter-live/</link>
+      <pubDate>Mon, 22 May 2017 12:00:18 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2017/news/2d-games-godot-kickstarter-live/</guid>
+      <description>Let&amp;rsquo;s make the first professional 2-D game creation course for the Godot game engine a reality! The Kickstarter is now live. The higher the funding goes, the more content you will get. Every single cent will go to the project.
+On top of that, for the next 30 days, you will get a free tutorial every day on YouTube.
+Learn to create your own 2d game inspired by Zelda! Back the Kickstarter now and get at least 50% of final course&amp;rsquo;s price!</description>
+    </item>
     
     <item>
       <title>Godot Kickstarter, Your Feedback on the Form</title>
