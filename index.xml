@@ -8,7 +8,7 @@
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Sat, 27 May 2017 15:25:47 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2017 18:57:33 +0200</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,6 +20,28 @@
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/krita/game-art-quest/</guid>
       <description>Free Krita tutorial for game artists  A free Krita course focusing on the tools the program offers for game artists and digital painters. It covers everything you need to work efficiently. Free course  Krita brushes       Make Professional Painterly Game Art with Krita  Want to go a step further and learn to make professional sprites? Then, this course is for you.</description>
+    </item>
+    
+    <item>
+      <title>What I&#39;m doing now</title>
+      <link>http://gdquest.com/now/</link>
+      <pubDate>Mon, 03 Jul 2017 18:57:33 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/now/</guid>
+      <description>Last update on July 3, 2017
+I am near Switzerland, in the French Alps.
+Lately, I&amp;rsquo;m:
+ Contributing to the open source game engine Godot Working on a game creation course after a recent success on Kickster Coding a blender add-on to make videos efficiently Working on the GDquest Krita brushes Studying Japanese kanji, at a rate of 1 to 2 every day Trail running and boxing  I&amp;rsquo;m open to collab opportunities with fellow content creators and game creation tutors!</description>
+    </item>
+    
+    <item>
+      <title>Godot Kickstarter: When and How you’ll get your Rewards</title>
+      <link>http://gdquest.com/post/2017/07/godot-kickstarter-rewards-info/</link>
+      <pubDate>Mon, 03 Jul 2017 09:18:18 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2017/07/godot-kickstarter-rewards-info/</guid>
+      <description>You will get all your rewards, votes and major news via email, starting this week. So be sure that you&amp;rsquo;ve set the right address on Kickstarter. Feel free to send me a message on Kickstarter or an email if you have any trouble. Don&amp;rsquo;t sorget to:
+ Add nathan[at]gdquest.com to your contacts Check your spam folder if you didn&amp;rsquo;t get anything on Sunday  When you will get your access keys Discord : the discussion server access will be available this week.</description>
     </item>
     
     <item>
@@ -123,18 +145,6 @@ I didn&amp;rsquo;t expect to go full time with GDquest. Back then there was no w
 It&amp;rsquo;s the first and only Krita course about 2d game art. I took the time to explain the workflow and techniques I use in my work as a professional designer.
 In this course, you will learn:
  How to create smart, reusable game sprites How to make your own game characters and environment You will improve your art fundamentals (Pro and Premium) You will acquire new tricks to work efficiently with Krita (Pro and Premium)  What&amp;rsquo;s in it?</description>
-    </item>
-    
-    <item>
-      <title>What I&#39;m doing now</title>
-      <link>http://gdquest.com/now/</link>
-      <pubDate>Sun, 09 Apr 2017 19:57:33 +0200</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/now/</guid>
-      <description>Last update on April 9, 2017
-I am near Switzerland, in the French Alps.
-Lately, I&amp;rsquo;m:
- Building a mini game art series about cel shaded art with Krita Preparing a Kickstarter campaign for a game design course Writing articles as a freelancer to pay the bills Coding a blender add-on to make videos efficiently Working on the GDquest Krita brushes Improving this website Studying Japanese grammar and kanji Trail running and chinese boxing Occasionally writing hip-hop songs  I&amp;rsquo;m doing most of that, trying to make a living off my work so I can keep supporting open source game creators in a direct way: providing professional grade education for those tools, both paid and free.</description>
     </item>
     
     <item>

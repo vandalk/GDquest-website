@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Now on GDquest</title>
+    <link>http://gdquest.com/tags/now/</link>
+    <description>Recent content in Now on GDquest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Mon, 03 Jul 2017 18:57:33 +0200</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tags/now/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What I&#39;m doing now</title>
+      <link>http://gdquest.com/now/</link>
+      <pubDate>Mon, 03 Jul 2017 18:57:33 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/now/</guid>
+      <description>Last update on July 3, 2017
+I am near Switzerland, in the French Alps.
+Lately, I&amp;rsquo;m:
+ Contributing to the open source game engine Godot Working on a game creation course after a recent success on Kickster Coding a blender add-on to make videos efficiently Working on the GDquest Krita brushes Studying Japanese kanji, at a rate of 1 to 2 every day Trail running and boxing  I&amp;rsquo;m open to collab opportunities with fellow content creators and game creation tutors!</description>
+    </item>
+    
+  </channel>
+</rss>

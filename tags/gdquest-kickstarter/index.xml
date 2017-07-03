@@ -8,10 +8,20 @@
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Mon, 22 May 2017 12:00:18 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2017 09:18:18 +0200</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/tags/gdquest-kickstarter/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Godot Kickstarter: When and How you’ll get your Rewards</title>
+      <link>http://gdquest.com/post/2017/07/godot-kickstarter-rewards-info/</link>
+      <pubDate>Mon, 03 Jul 2017 09:18:18 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2017/07/godot-kickstarter-rewards-info/</guid>
+      <description>You will get all your rewards, votes and major news via email, starting this week. So be sure that you&amp;rsquo;ve set the right address on Kickstarter. Feel free to send me a message on Kickstarter or an email if you have any trouble. Don&amp;rsquo;t sorget to:
+ Add nathan[at]gdquest.com to your contacts Check your spam folder if you didn&amp;rsquo;t get anything on Sunday  When you will get your access keys Discord : the discussion server access will be available this week.</description>
+    </item>
     
     <item>
       <title>Make Professional 2d Games with Godot: Kickstarter LIVE</title>
