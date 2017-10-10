@@ -59,7 +59,7 @@
     </item>
     
     <item>
-      <title>Create A Website</title>
+      <title>Create a Website</title>
       <link>http://gdquest.com/tags/create-a-website/</link>
       <pubDate>Wed, 20 Apr 2016 09:34:58 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
@@ -142,7 +142,7 @@
     <item>
       <title>Gdquest</title>
       <link>http://gdquest.com/tags/gdquest/</link>
-      <pubDate>Tue, 09 May 2017 09:18:18 +0200</pubDate>
+      <pubDate>Tue, 10 Oct 2017 09:03:31 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/gdquest/</guid>
       <description></description>
@@ -172,6 +172,24 @@
       <pubDate>Thu, 04 May 2017 08:42:22 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/gdquest-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godot</title>
+      <link>http://gdquest.com/tags/godot/</link>
+      <pubDate>Tue, 10 Oct 2017 09:03:31 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godot 3</title>
+      <link>http://gdquest.com/tags/godot-3/</link>
+      <pubDate>Tue, 10 Oct 2017 09:03:31 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-3/</guid>
       <description></description>
     </item>
     
@@ -223,7 +241,7 @@
     <item>
       <title>Kickstarter</title>
       <link>http://gdquest.com/tags/kickstarter/</link>
-      <pubDate>Mon, 03 Jul 2017 09:18:18 +0200</pubDate>
+      <pubDate>Tue, 10 Oct 2017 09:03:31 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/kickstarter/</guid>
       <description></description>
@@ -358,7 +376,7 @@
     <item>
       <title>News</title>
       <link>http://gdquest.com/tags/news/</link>
-      <pubDate>Mon, 03 Jul 2017 09:18:18 +0200</pubDate>
+      <pubDate>Tue, 10 Oct 2017 09:03:31 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/news/</guid>
       <description></description>

@@ -8,10 +8,20 @@
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Mon, 03 Jul 2017 09:18:18 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2017 09:03:31 +0200</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/category/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Waiting for Godot 3: Why There Was No Course Update in September</title>
+      <link>http://gdquest.com/post/2017/10/why-no-course-update-september/</link>
+      <pubDate>Tue, 10 Oct 2017 09:03:31 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2017/10/why-no-course-update-september/</guid>
+      <description>Godot 3 is coming out much later than planned. Alpha 2 isn&amp;rsquo;t even out yet. This means breaking changes keep happening on the engine. In the past few weeks alone there were important improvements to 2D physics and the UI system. The devs even renamed _fixed_process to _physics_process. Today I finished a long UI design tutorial only to learn a new Layout menu just arrived.
+  This tutorial will show you how to create a flexible GUI in Godot   If I produced gameplay programming videos now for the course, they&amp;rsquo;d soon become obsolete.</description>
+    </item>
     
     <item>
       <title>Godot Kickstarter: When and How you’ll get your Rewards</title>
