@@ -8,10 +8,23 @@
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Tue, 10 Oct 2017 09:03:31 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 24 Oct 2017 08:10:10 +0200</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Godot 3 Close and Ranged Attack Tutorials</title>
+      <link>http://gdquest.com/post/2017/10/godot-3-alpha-attack-tutorial/</link>
+      <pubDate>Tue, 24 Oct 2017 08:10:10 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2017/10/godot-3-alpha-attack-tutorial/</guid>
+      <description>Last week we did a tutorial about attack mechanics in collaboration with Heartbeast. I got important feedback from you, the backers, and wanted to apply it to a self-contained tutorial. Consider it as a bonus while we&amp;rsquo;re waiting for Godot 3 beta.
+Close combat attack:
+ Weapon Animation  Weapon collision programming   Heartbeast&amp;rsquo;s tutorial:
+ Ranged attack: fireball   It shows some of Godot&amp;rsquo;s strengths:
+ Inherited scenes act as a base class that child scenes derive from, but you control it all through the editor.</description>
+    </item>
     
     <item>
       <title>Waiting for Godot 3: Why There Was No Course Update in September</title>

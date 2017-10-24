@@ -23,6 +23,15 @@
     </item>
     
     <item>
+      <title>Attack</title>
+      <link>http://gdquest.com/tags/attack/</link>
+      <pubDate>Tue, 24 Oct 2017 08:10:10 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/attack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Best Krita Brushes</title>
       <link>http://gdquest.com/tags/best-krita-brushes/</link>
       <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
@@ -187,7 +196,7 @@
     <item>
       <title>Godot 3</title>
       <link>http://gdquest.com/tags/godot-3/</link>
-      <pubDate>Tue, 10 Oct 2017 09:03:31 +0200</pubDate>
+      <pubDate>Tue, 24 Oct 2017 08:10:10 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-3/</guid>
       <description></description>
@@ -241,7 +250,7 @@
     <item>
       <title>Kickstarter</title>
       <link>http://gdquest.com/tags/kickstarter/</link>
-      <pubDate>Tue, 10 Oct 2017 09:03:31 +0200</pubDate>
+      <pubDate>Tue, 24 Oct 2017 08:10:10 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/kickstarter/</guid>
       <description></description>
@@ -410,6 +419,15 @@
     </item>
     
     <item>
+      <title>Ranged Attack Tutorial</title>
+      <link>http://gdquest.com/tags/ranged-attack-tutorial/</link>
+      <pubDate>Tue, 24 Oct 2017 08:10:10 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/ranged-attack-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sale</title>
       <link>http://gdquest.com/tags/sale/</link>
       <pubDate>Thu, 04 May 2017 08:42:22 +0200</pubDate>
@@ -428,11 +446,29 @@
     </item>
     
     <item>
+      <title>Sword Attack Tutorial</title>
+      <link>http://gdquest.com/tags/sword-attack-tutorial/</link>
+      <pubDate>Tue, 24 Oct 2017 08:10:10 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/sword-attack-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Training</title>
       <link>http://gdquest.com/tags/training/</link>
       <pubDate>Sat, 27 May 2017 15:25:47 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>http://gdquest.com/tags/tutorial/</link>
+      <pubDate>Tue, 24 Oct 2017 08:10:10 +0200</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/tutorial/</guid>
       <description></description>
     </item>
     
