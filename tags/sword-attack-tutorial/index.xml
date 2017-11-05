@@ -8,10 +8,21 @@
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Tue, 24 Oct 2017 08:10:10 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 Nov 2017 16:29:59 +0100</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/tags/sword-attack-tutorial/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Godot 3 course: Hobby and Indie versions out in early access</title>
+      <link>http://gdquest.com/post/2017/11/godot-3-course-hobby-indie-out/</link>
+      <pubDate>Sun, 05 Nov 2017 16:29:59 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2017/11/godot-3-course-hobby-indie-out/</guid>
+      <description>The new version is finally out! You will find improvements and an extra video in the Finite State Machine chapter, and a new Game Design chapter. This one includes 3 html-based course documents and 40 minutes of video.
+The missing two versions of the course are now out on Gumroad:
+ Hobby , for hobbyists with some game creation experience, who&amp;rsquo;d like a deeper dive in Godot 3 Indie , for independent developers and students  Disclaimer: I can&amp;rsquo;t produce videos for the main chapters until Godot 3 beta is out.</description>
+    </item>
     
     <item>
       <title>Godot 3 Close and Ranged Attack Tutorials</title>
