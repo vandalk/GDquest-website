@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://gdquest.com/post/2017/11/back-from-the-capitole/</loc>
+    <lastmod>2017-11-22T15:25:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2017/11/godot-3-course-hobby-indie-out/</loc>
     <lastmod>2017-11-05T16:29:59+01:00</lastmod>
   </url>
@@ -221,6 +226,18 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/blender-add-on/</loc>
+    <lastmod>2017-11-22T15:25:48+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/capitole-du-libre/</loc>
+    <lastmod>2017-11-22T15:25:48+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/category/</loc>
     <priority>0</priority>
   </url>
@@ -238,14 +255,14 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/tags/community/</loc>
-    <lastmod>2017-01-21T17:35:09+01:00</lastmod>
+    <loc>http://gdquest.com/category/community/</loc>
+    <lastmod>2016-01-11T09:16:10+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gdquest.com/category/community/</loc>
-    <lastmod>2016-01-11T09:16:10+01:00</lastmod>
+    <loc>http://gdquest.com/tags/community/</loc>
+    <lastmod>2017-01-21T17:35:09+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -287,7 +304,7 @@
   
   <url>
     <loc>http://gdquest.com/</loc>
-    <lastmod>2017-11-05T16:29:59+01:00</lastmod>
+    <lastmod>2017-11-22T15:25:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -344,6 +361,12 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/github/</loc>
+    <lastmod>2017-11-22T15:25:48+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/godot/</loc>
     <lastmod>2017-10-10T09:03:31+02:00</lastmod>
     <priority>0</priority>
@@ -351,7 +374,7 @@
   
   <url>
     <loc>http://gdquest.com/tags/godot-3/</loc>
-    <lastmod>2017-11-05T16:29:59+01:00</lastmod>
+    <lastmod>2017-11-22T15:25:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -498,14 +521,14 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/tags/news/</loc>
-    <lastmod>2017-10-10T09:03:31+02:00</lastmod>
+    <loc>http://gdquest.com/category/news/</loc>
+    <lastmod>2017-11-05T16:29:59+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gdquest.com/category/news/</loc>
-    <lastmod>2017-11-05T16:29:59+01:00</lastmod>
+    <loc>http://gdquest.com/tags/news/</loc>
+    <lastmod>2017-10-10T09:03:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -544,7 +567,7 @@
   
   <url>
     <loc>http://gdquest.com/post/</loc>
-    <lastmod>2017-11-05T16:29:59+01:00</lastmod>
+    <lastmod>2017-11-22T15:25:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
