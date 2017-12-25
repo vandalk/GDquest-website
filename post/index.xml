@@ -8,10 +8,21 @@
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Wed, 22 Nov 2017 15:25:48 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2017 15:54:59 +0100</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Godot course Christmas update: The character controller</title>
+      <link>http://gdquest.com/post/2017/12/godot-3-course-character-controller/</link>
+      <pubDate>Mon, 25 Dec 2017 15:54:59 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2017/12/godot-3-course-character-controller/</guid>
+      <description>The Christmas update of the Godot 3 course is out on Gumroad! It&amp;rsquo;s available in all early access versions of the course: Hobby, Indie and Pro.
+Use the coupon code &amp;laquo;early&amp;raquo; to get 20% off while the course is in early access!
+In this series, you&amp;rsquo;ll learn how to create a fairly robust character controller: we&amp;rsquo;re covering input, walk and run speed, handling collisions, adding a bump animation when the character hits something&amp;hellip; with a lot of techniques exposed along the way.</description>
+    </item>
     
     <item>
       <title>Godot and Blender presentations from the Capitole du Libre 2017</title>
