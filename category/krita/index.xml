@@ -8,20 +8,10 @@
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Sun, 30 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/category/krita/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Krita brushes update 14 - release notes</title>
-      <link>http://gdquest.com/product/krita/brushes/version-14/</link>
-      <pubDate>Sun, 30 Jul 2017 00:00:00 +0000</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/product/krita/brushes/version-14/</guid>
-      <description>The new release of the GDquest Krita brushes comes with 4 vegetation presets. In the past year, I learned a lot about Krita&amp;rsquo;s brush engines, its strengths and limitations. I also tried to release a lot of presets to stuff up the pack. It&amp;rsquo;s now time to slow down, and improve the releases. Starting with this one, the focus is on quality over quantity.
-The new presets are all documented.</description>
-    </item>
     
     <item>
       <title>Make Cel Shaded 2d Characters With Krita</title>
