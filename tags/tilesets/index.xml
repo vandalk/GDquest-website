@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tilesets on GDquest</title>
+    <link>http://gdquest.com/tags/tilesets/</link>
+    <description>Recent content in Tilesets on GDquest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Thu, 01 Feb 2018 13:25:29 +0100</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tags/tilesets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Godot 3 course, tilesets update out!</title>
+      <link>http://gdquest.com/post/2018/01/godot-course-update-4/</link>
+      <pubDate>Thu, 01 Feb 2018 13:25:29 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2018/01/godot-course-update-4/</guid>
+      <description>The 4th update of the Godot 3 course  is out! It includes the new tilesets and tilemap chapter, along with new videos to flesh out chapter 01.The character controller and chapter 08.Game pre-production.
+Godot 3 just came out , and with some more work done on the official documentation and a nice collab with Mike from GameFromScratch, I will now focus my efforts fully on the course.
+ The new website design by djrm looks gorgeous.</description>
+    </item>
+    
+  </channel>
+</rss>

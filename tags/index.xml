@@ -169,7 +169,7 @@
     <item>
       <title>Gdquest</title>
       <link>http://gdquest.com/tags/gdquest/</link>
-      <pubDate>Mon, 25 Dec 2017 15:54:59 +0100</pubDate>
+      <pubDate>Thu, 01 Feb 2018 13:25:29 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/gdquest/</guid>
       <description></description>
@@ -223,9 +223,18 @@
     <item>
       <title>Godot 3</title>
       <link>http://gdquest.com/tags/godot-3/</link>
-      <pubDate>Wed, 22 Nov 2017 15:25:48 +0100</pubDate>
+      <pubDate>Thu, 01 Feb 2018 13:25:29 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godot Course Update</title>
+      <link>http://gdquest.com/tags/godot-course-update/</link>
+      <pubDate>Thu, 01 Feb 2018 13:25:29 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-course-update/</guid>
       <description></description>
     </item>
     
@@ -392,6 +401,15 @@
     </item>
     
     <item>
+      <title>Level Design</title>
+      <link>http://gdquest.com/tags/level-design/</link>
+      <pubDate>Thu, 01 Feb 2018 13:25:29 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/level-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Make 2d Games</title>
       <link>http://gdquest.com/tags/make-2d-games/</link>
       <pubDate>Mon, 22 May 2017 12:00:18 +0200</pubDate>
@@ -478,6 +496,33 @@
       <pubDate>Sun, 05 Nov 2017 16:29:59 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/sword-attack-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tilemap</title>
+      <link>http://gdquest.com/tags/tilemap/</link>
+      <pubDate>Thu, 01 Feb 2018 13:25:29 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/tilemap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiles</title>
+      <link>http://gdquest.com/tags/tiles/</link>
+      <pubDate>Thu, 01 Feb 2018 13:25:29 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/tiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tilesets</title>
+      <link>http://gdquest.com/tags/tilesets/</link>
+      <pubDate>Thu, 01 Feb 2018 13:25:29 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/tilesets/</guid>
       <description></description>
     </item>
     

@@ -8,10 +8,21 @@
     <language>en-EN</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Mon, 25 Dec 2017 15:54:59 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2018 13:25:29 +0100</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Godot 3 course, tilesets update out!</title>
+      <link>http://gdquest.com/post/2018/01/godot-course-update-4/</link>
+      <pubDate>Thu, 01 Feb 2018 13:25:29 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2018/01/godot-course-update-4/</guid>
+      <description>The 4th update of the Godot 3 course  is out! It includes the new tilesets and tilemap chapter, along with new videos to flesh out chapter 01.The character controller and chapter 08.Game pre-production.
+Godot 3 just came out , and with some more work done on the official documentation and a nice collab with Mike from GameFromScratch, I will now focus my efforts fully on the course.
+ The new website design by djrm looks gorgeous.</description>
+    </item>
     
     <item>
       <title>Godot course Christmas update: The character controller</title>
