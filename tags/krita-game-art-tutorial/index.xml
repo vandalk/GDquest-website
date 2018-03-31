@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Krita Game Art Tutorial on GDquest</title>
+    <title>Krita Game Art Tutorial on GDQuest</title>
     <link>http://gdquest.com/tags/krita-game-art-tutorial/</link>
-    <description>Recent content in Krita Game Art Tutorial on GDquest</description>
+    <description>Recent content in Krita Game Art Tutorial on GDQuest</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
+    <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
     <lastBuildDate>Fri, 14 Apr 2017 13:06:14 +0200</lastBuildDate>

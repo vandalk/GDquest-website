@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Community on GDquest</title>
+    <title>Community on GDQuest</title>
     <link>http://gdquest.com/tags/community/</link>
-    <description>Recent content in Community on GDquest</description>
+    <description>Recent content in Community on GDQuest</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
+    <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
     <lastBuildDate>Sat, 21 Jan 2017 17:35:09 +0100</lastBuildDate>

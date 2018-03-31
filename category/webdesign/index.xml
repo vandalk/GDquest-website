@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Webdesign on GDquest</title>
+    <title>Webdesign on GDQuest</title>
     <link>http://gdquest.com/category/webdesign/</link>
-    <description>Recent content in Webdesign on GDquest</description>
+    <description>Recent content in Webdesign on GDQuest</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
+    <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
     <lastBuildDate>Wed, 20 Apr 2016 09:34:58 +0200</lastBuildDate>

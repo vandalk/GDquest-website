@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Capitole Du Libre on GDquest</title>
+    <title>Capitole Du Libre on GDQuest</title>
     <link>http://gdquest.com/tags/capitole-du-libre/</link>
-    <description>Recent content in Capitole Du Libre on GDquest</description>
+    <description>Recent content in Capitole Du Libre on GDQuest</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
+    <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
     <lastBuildDate>Wed, 22 Nov 2017 15:25:48 +0100</lastBuildDate>

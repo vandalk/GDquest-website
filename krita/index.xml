@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Krita on GDquest</title>
+    <title>Krita on GDQuest</title>
     <link>http://gdquest.com/krita/</link>
-    <description>Recent content in Krita on GDquest</description>
+    <description>Recent content in Krita on GDQuest</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
+    <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
     <lastBuildDate>Mon, 08 Feb 2016 17:55:44 +0100</lastBuildDate>
@@ -30,7 +30,7 @@ How to redeem your coupon In the email, you will find a link that will automatic
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/krita/game-art-quest/</guid>
-      <description>Free Krita tutorial for game artists  A free Krita course focusing on the tools the program offers for game artists and digital painters. It covers everything you need to work efficiently. Free course  Krita brushes       Make Professional Painterly Game Art with Krita  Want to go a step further and learn to make professional sprites? Then, this course is for you.</description>
+      <description>Free Krita tutorial for game artists  A free Krita course focusing on the tools the program offers for game artists and digital painters. It covers everything you need to work efficiently. Krita brushes  Free course     Make Professional Painterly Game Art with Krita  Want to go a step further and learn to make professional sprites? Then, this course is for you. Learn more     Discover Game Art Quest!</description>
     </item>
     
   </channel>

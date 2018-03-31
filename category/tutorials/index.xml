@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tutorials on GDquest</title>
+    <title>Tutorials on GDQuest</title>
     <link>http://gdquest.com/category/tutorials/</link>
-    <description>Recent content in Tutorials on GDquest</description>
+    <description>Recent content in Tutorials on GDQuest</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
+    <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
     <lastBuildDate>Thu, 06 Apr 2017 20:33:30 +0100</lastBuildDate>

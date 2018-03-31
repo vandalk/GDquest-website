@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Update on GDquest</title>
+    <title>Update on GDQuest</title>
     <link>http://gdquest.com/tags/update/</link>
-    <description>Recent content in Update on GDquest</description>
+    <description>Recent content in Update on GDQuest</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
+    <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
     <lastBuildDate>Thu, 04 May 2017 08:42:22 +0200</lastBuildDate>

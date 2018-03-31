@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kickstarter 2017 on GDquest</title>
+    <title>Kickstarter 2017 on GDQuest</title>
     <link>http://gdquest.com/tags/kickstarter-2017/</link>
-    <description>Recent content in Kickstarter 2017 on GDquest</description>
+    <description>Recent content in Kickstarter 2017 on GDQuest</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
+    <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
     <lastBuildDate>Sat, 06 May 2017 13:37:08 +0200</lastBuildDate>

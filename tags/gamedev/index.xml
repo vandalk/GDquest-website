@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gamedev on GDQuest</title>
+    <link>http://gdquest.com/tags/gamedev/</link>
+    <description>Recent content in Gamedev on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Sat, 31 Mar 2018 15:19:32 +0900</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tags/gamedev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Godot 3 course: small March update</title>
+      <link>http://gdquest.com/post/2018/03/godot-course-update-6/</link>
+      <pubDate>Sat, 31 Mar 2018 15:19:32 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2018/03/godot-course-update-6/</guid>
+      <description>The new update is out! As announced in the last news post, it&amp;rsquo;s smaller than usual. for two reasons:
+ I moved to Japan, took some time off and had a lot to do to settle down I caught a cold and worked slower than usual for the past 10 days. Over the past week I barely had any voice at all  Work has still been busy until the end of the month: it not only took a while to get back to everyone, catch up with activity on GitHub, but also to get back up to speed in a foreign country.</description>
+    </item>
+    
+  </channel>
+</rss>

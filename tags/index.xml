@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on GDquest</title>
+    <title>Tags on GDQuest</title>
     <link>http://gdquest.com/tags/</link>
-    <description>Recent content in Tags on GDquest</description>
+    <description>Recent content in Tags on GDQuest</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
+    <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
     <lastBuildDate>Thu, 04 May 2017 08:42:22 +0200</lastBuildDate>
@@ -19,6 +19,15 @@
       <pubDate>Thu, 04 May 2017 08:42:22 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/anniversary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Astar</title>
+      <link>http://gdquest.com/tags/astar/</link>
+      <pubDate>Sat, 31 Mar 2018 15:19:32 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/astar/</guid>
       <description></description>
     </item>
     
@@ -167,9 +176,18 @@
     </item>
     
     <item>
+      <title>Gamedev</title>
+      <link>http://gdquest.com/tags/gamedev/</link>
+      <pubDate>Sat, 31 Mar 2018 15:19:32 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/gamedev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gdquest</title>
       <link>http://gdquest.com/tags/gdquest/</link>
-      <pubDate>Thu, 01 Feb 2018 13:25:29 +0100</pubDate>
+      <pubDate>Sat, 31 Mar 2018 15:19:32 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/gdquest/</guid>
       <description></description>
@@ -223,7 +241,7 @@
     <item>
       <title>Godot 3</title>
       <link>http://gdquest.com/tags/godot-3/</link>
-      <pubDate>Thu, 01 Feb 2018 13:25:29 +0100</pubDate>
+      <pubDate>Sat, 31 Mar 2018 15:19:32 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-3/</guid>
       <description></description>
@@ -232,7 +250,7 @@
     <item>
       <title>Godot Course Update</title>
       <link>http://gdquest.com/tags/godot-course-update/</link>
-      <pubDate>Thu, 01 Feb 2018 13:25:29 +0100</pubDate>
+      <pubDate>Sat, 31 Mar 2018 15:19:32 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-course-update/</guid>
       <description></description>
@@ -280,6 +298,15 @@
       <pubDate>Thu, 06 Apr 2017 20:33:30 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/indie-game-marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Japan</title>
+      <link>http://gdquest.com/tags/japan/</link>
+      <pubDate>Sat, 31 Mar 2018 15:19:32 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/japan/</guid>
       <description></description>
     </item>
     
@@ -428,6 +455,15 @@
     </item>
     
     <item>
+      <title>Nara</title>
+      <link>http://gdquest.com/tags/nara/</link>
+      <pubDate>Sat, 31 Mar 2018 15:19:32 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/nara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>News</title>
       <link>http://gdquest.com/tags/news/</link>
       <pubDate>Tue, 10 Oct 2017 09:03:31 +0200</pubDate>
@@ -460,6 +496,15 @@
       <pubDate>Tue, 09 May 2017 09:18:18 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pathfinding</title>
+      <link>http://gdquest.com/tags/pathfinding/</link>
+      <pubDate>Sat, 31 Mar 2018 15:19:32 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/pathfinding/</guid>
       <description></description>
     </item>
     

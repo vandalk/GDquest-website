@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on GDquest</title>
+    <title>News on GDQuest</title>
     <link>http://gdquest.com/tags/news/</link>
-    <description>Recent content in News on GDquest</description>
+    <description>Recent content in News on GDQuest</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-EN</language>
+    <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
     <lastBuildDate>Tue, 10 Oct 2017 09:03:31 +0200</lastBuildDate>
@@ -20,7 +20,7 @@
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/post/2017/10/why-no-course-update-september/</guid>
       <description>Godot 3 is coming out much later than planned. Alpha 2 isn&amp;rsquo;t even out yet. This means breaking changes keep happening on the engine. In the past few weeks alone there were important improvements to 2D physics and the UI system. The devs even renamed _fixed_process to _physics_process. Today I finished a long UI design tutorial only to learn a new Layout menu just arrived.
-  This tutorial will show you how to create a flexible GUI in Godot   If I produced gameplay programming videos now for the course, they&amp;rsquo;d soon become obsolete.</description>
+   This tutorial will show you how to create a flexible GUI in Godot   If I produced gameplay programming videos now for the course, they&amp;rsquo;d soon become obsolete.</description>
     </item>
     
     <item>

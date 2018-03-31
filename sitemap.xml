@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://gdquest.com/post/2018/03/godot-course-update-6/</loc>
+    <lastmod>2018-03-31T15:19:32+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2018/01/godot-course-update-4/</loc>
     <lastmod>2018-02-01T13:25:29+01:00</lastmod>
   </url>
@@ -33,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/now/</loc>
+    <loc>http://gdquest.com/about/profiles/nathan/</loc>
     <lastmod>2017-07-03T18:57:33+02:00</lastmod>
   </url>
   
@@ -219,8 +224,19 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/astar/</loc>
+    <lastmod>2018-03-31T15:19:32+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/attack/</loc>
     <lastmod>2017-11-05T16:29:59+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/banner/</loc>
     <priority>0</priority>
   </url>
   
@@ -309,12 +325,8 @@
   
   <url>
     <loc>http://gdquest.com/</loc>
-    <lastmod>2018-02-01T13:25:29+01:00</lastmod>
+    <lastmod>2018-03-31T15:19:32+09:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://gdquest.com/homepage/</loc>
   </url>
   
   <url>
@@ -342,8 +354,14 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/gamedev/</loc>
+    <lastmod>2018-03-31T15:19:32+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/gdquest/</loc>
-    <lastmod>2018-02-01T13:25:29+01:00</lastmod>
+    <lastmod>2018-03-31T15:19:32+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -379,13 +397,13 @@
   
   <url>
     <loc>http://gdquest.com/tags/godot-3/</loc>
-    <lastmod>2018-02-01T13:25:29+01:00</lastmod>
+    <lastmod>2018-03-31T15:19:32+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://gdquest.com/tags/godot-course-update/</loc>
-    <lastmod>2018-02-01T13:25:29+01:00</lastmod>
+    <lastmod>2018-03-31T15:19:32+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -422,6 +440,12 @@
   <url>
     <loc>http://gdquest.com/tags/indie-game-marketing/</loc>
     <lastmod>2017-04-06T20:33:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/japan/</loc>
+    <lastmod>2018-03-31T15:19:32+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -538,6 +562,12 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/nara/</loc>
+    <lastmod>2018-03-31T15:19:32+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/news/</loc>
     <lastmod>2017-10-10T09:03:31+02:00</lastmod>
     <priority>0</priority>
@@ -574,6 +604,12 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/pathfinding/</loc>
+    <lastmod>2018-03-31T15:19:32+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/game-design-portfolio/</loc>
   </url>
   
@@ -584,7 +620,7 @@
   
   <url>
     <loc>http://gdquest.com/post/</loc>
-    <lastmod>2018-02-01T13:25:29+01:00</lastmod>
+    <lastmod>2018-03-31T15:19:32+09:00</lastmod>
     <priority>0</priority>
   </url>
   
