@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://gdquest.com/product/godot/make-pro-2d-games/content/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2018/03/godot-course-update-6/</loc>
     <lastmod>2018-03-31T15:19:32+09:00</lastmod>
   </url>
@@ -298,6 +303,12 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/course-content/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/create-a-website/</loc>
     <lastmod>2016-04-20T09:34:58+02:00</lastmod>
     <priority>0</priority>
@@ -406,8 +417,20 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/category/godot/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/godot-3/</loc>
-    <lastmod>2018-03-31T15:19:32+09:00</lastmod>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/godot-course/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -426,6 +449,11 @@
   <url>
     <loc>http://gdquest.com/tags/godot-kickstarter/</loc>
     <lastmod>2017-07-03T09:18:18+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/product/godot/</loc>
     <priority>0</priority>
   </url>
   
@@ -562,6 +590,11 @@
   <url>
     <loc>http://gdquest.com/tags/make-2d-games/</loc>
     <lastmod>2017-05-22T12:00:18+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/product/godot/make-pro-2d-games/</loc>
     <priority>0</priority>
   </url>
   
@@ -715,6 +748,12 @@
   <url>
     <loc>http://gdquest.com/tags/update/</loc>
     <lastmod>2017-05-04T08:42:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/video-list/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
