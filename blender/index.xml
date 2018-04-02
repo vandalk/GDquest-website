@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blenders on GDQuest</title>
+    <link>http://gdquest.com/blender/</link>
+    <description>Recent content in Blenders on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    
+	<atom:link href="http://gdquest.com/blender/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

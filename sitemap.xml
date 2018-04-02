@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/blender/power-sequencer/</loc>
+    <lastmod>2018-01-04T19:46:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2017/12/godot-3-course-character-controller/</loc>
     <lastmod>2017-12-25T15:54:59+01:00</lastmod>
   </url>
@@ -249,6 +254,11 @@
   <url>
     <loc>http://gdquest.com/tags/blender-add-on/</loc>
     <lastmod>2017-11-22T15:25:48+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/blender/</loc>
     <priority>0</priority>
   </url>
   
