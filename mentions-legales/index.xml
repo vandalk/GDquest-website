@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mentions-legales on GDQuest</title>
+    <link>http://gdquest.com/mentions-legales/</link>
+    <description>Recent content in Mentions-legales on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Wed, 04 Apr 2018 12:07:36 +0900</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/mentions-legales/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mentions légales</title>
+      <link>http://gdquest.com/mentions-legales/</link>
+      <pubDate>Wed, 04 Apr 2018 12:07:36 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/mentions-legales/</guid>
+      <description>Informations sur l&amp;rsquo;éditeur Lovato Nathan
+numéro de téléphone: N/A
+adresse de l&amp;rsquo;entreprise: 81 Place de la mairie, 74550 Perrignier
+contact: nathan@gdquest.com
+Hébergement Ce site est hébergé sur GitHub Pages
+GitHub, 88 Colin P Kelly Jr St, San Francisco, CA 94107, United States
+numéro de téléphone: +1 (877) 448-4820
+Propriété intellectuelle Sauf indication contraire pour des fichiers spécifiques, le code source de ce site est libre et disponible sous license MIT.</description>
+    </item>
+    
+  </channel>
+</rss>

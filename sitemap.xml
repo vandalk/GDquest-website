@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/become-a-game-creator/first-steps-programming/</loc>
+    <lastmod>2018-04-12T09:04:58+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/mentions-legales/</loc>
     <lastmod>2018-04-04T12:07:36+09:00</lastmod>
   </url>
@@ -251,11 +256,6 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/banner/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://gdquest.com/tags/best-krita-brushes/</loc>
     <lastmod>2017-01-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -351,7 +351,7 @@
   
   <url>
     <loc>http://gdquest.com/</loc>
-    <lastmod>2018-04-04T12:07:36+09:00</lastmod>
+    <lastmod>2018-04-12T09:04:58+09:00</lastmod>
     <priority>0</priority>
   </url>
   

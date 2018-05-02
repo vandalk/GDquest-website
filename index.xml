@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Wed, 04 Apr 2018 12:07:36 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Apr 2018 09:04:58 +0900</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Become a Game Developer: Your First Steps with Programming</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/become-a-game-creator/first-steps-programming/</link>
+      <pubDate>Thu, 12 Apr 2018 09:04:58 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/become-a-game-creator/first-steps-programming/</guid>
+      <description>You want to get started with game creation and programming but don&amp;rsquo;t know where to start? That&amp;rsquo;s what this series is all about!
+This first part is for you if you have little to no programming experience. You&amp;rsquo;re going to learn:
+ That you should learn programming foundations first That Programming is for everyone. It&amp;rsquo;s not just about math and it&amp;rsquo;s not just for men or young people How to get started today  It is the first part of a Free and Open Source intro series to game creation and to the Godot game engine .</description>
+    </item>
     
     <item>
       <title>Mentions légales</title>
@@ -129,13 +140,13 @@ Lately, I&amp;rsquo;m:
     </item>
     
     <item>
-      <title>30 Days of Godot Tutorials</title>
+      <title>30 Days of Godot 2 Tutorials</title>
       <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/</link>
       <pubDate>Sat, 27 May 2017 15:25:47 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/</guid>
-      <description>These tutorials are brought to you for free as part of the Kickstarter project Make Professional 2d Games with Godot. It was funded in 12h, and plenty of stretch goals were unlocked already. Please check it out!
-This is an Open Source project. Both the assets and the code are available on Github, with comments to help you learn directly from the examples.</description>
+      <description>These 30 Godot 2 tutorials were brought to you for free as part of the Kickstarter project Make Professional 2d Games with Godot. For more recent tutorials check out GDquest on Youtube !
+All the assets and the code open source on Github with extra comments to help you learn directly from the projects.</description>
     </item>
     
     <item>
