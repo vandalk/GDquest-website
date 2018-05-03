@@ -238,6 +238,11 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/</loc>
+    <lastmod>2018-04-12T09:04:58+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/anniversary/</loc>
     <lastmod>2017-05-04T08:42:22+02:00</lastmod>
     <priority>0</priority>
@@ -346,12 +351,6 @@
   <url>
     <loc>http://gdquest.com/tags/free-krita-brushes/</loc>
     <lastmod>2017-02-22T15:11:59+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://gdquest.com/</loc>
-    <lastmod>2018-04-12T09:04:58+09:00</lastmod>
     <priority>0</priority>
   </url>
   
