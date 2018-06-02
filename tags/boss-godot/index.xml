@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gamedev on GDQuest</title>
-    <link>http://gdquest.com/tags/gamedev/</link>
-    <description>Recent content in Gamedev on GDQuest</description>
+    <title>Boss Godot on GDQuest</title>
+    <link>http://gdquest.com/tags/boss-godot/</link>
+    <description>Recent content in Boss Godot on GDQuest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
     <lastBuildDate>Fri, 01 Jun 2018 18:19:32 +0900</lastBuildDate>
     
-	<atom:link href="http://gdquest.com/tags/gamedev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://gdquest.com/tags/boss-godot/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,16 +22,6 @@
       <description>In this month&amp;rsquo;s update you get one new chapter in the course. This is the hardest and probably the biggest series I made so far: chapter 5 is dedicated to boss creation.
 This builds upon chapters 1 to 3 and brings the state programming pattern  to everyone, whether you&amp;rsquo;ve got the essentials, the indie, or the pro version.
 As the boss chapter took twice the time I planned to invest in it, I couldn&amp;rsquo;t finish the essentials version in May.</description>
-    </item>
-    
-    <item>
-      <title>Godot 3 course: small March update</title>
-      <link>http://gdquest.com/post/2018/03/godot-course-update-6/</link>
-      <pubDate>Sat, 31 Mar 2018 15:19:32 +0900</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/post/2018/03/godot-course-update-6/</guid>
-      <description>The new update is out! As announced in the last news post, it&amp;rsquo;s smaller than usual. for two reasons:
- I moved to Japan, took some time off and had a lot to do to settle down I caught a cold and worked slower than usual for the past 10 days. Over the past week I barely had any voice at all  Work has still been busy until the end of the month: it not only took a while to get back to everyone, catch up with activity on GitHub, but also to get back up to speed in a foreign country.</description>
     </item>
     
   </channel>

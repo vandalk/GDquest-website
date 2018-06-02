@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Mon, 03 Jul 2017 09:18:18 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jun 2018 18:19:32 +0900</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/tags/godot-game-engine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Godot 3 course: the boss chapter is out!</title>
+      <link>http://gdquest.com/post/2018/06/godot-course-update-7/</link>
+      <pubDate>Fri, 01 Jun 2018 18:19:32 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2018/06/godot-course-update-7/</guid>
+      <description>In this month&amp;rsquo;s update you get one new chapter in the course. This is the hardest and probably the biggest series I made so far: chapter 5 is dedicated to boss creation.
+This builds upon chapters 1 to 3 and brings the state programming pattern  to everyone, whether you&amp;rsquo;ve got the essentials, the indie, or the pro version.
+As the boss chapter took twice the time I planned to invest in it, I couldn&amp;rsquo;t finish the essentials version in May.</description>
+    </item>
     
     <item>
       <title>Godot Kickstarter: When and How you’ll get your Rewards</title>
