@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Thu, 04 May 2017 08:42:22 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 09 Jun 2018 13:18:14 +0900</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Add On</title>
+      <link>http://gdquest.com/tags/add-on/</link>
+      <pubDate>Sat, 09 Jun 2018 13:18:14 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/add-on/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anniversary</title>
@@ -46,6 +55,24 @@
       <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/best-krita-brushes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender</title>
+      <link>http://gdquest.com/tags/blender/</link>
+      <pubDate>Sat, 09 Jun 2018 13:18:14 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/blender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender 2.79</title>
+      <link>http://gdquest.com/tags/blender-2.79/</link>
+      <pubDate>Sat, 09 Jun 2018 13:18:14 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/blender-2.79/</guid>
       <description></description>
     </item>
     
@@ -205,7 +232,7 @@
     <item>
       <title>Gdquest</title>
       <link>http://gdquest.com/tags/gdquest/</link>
-      <pubDate>Fri, 01 Jun 2018 18:19:32 +0900</pubDate>
+      <pubDate>Sat, 09 Jun 2018 13:18:14 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/gdquest/</guid>
       <description></description>
@@ -520,7 +547,7 @@
     <item>
       <title>Open Source</title>
       <link>http://gdquest.com/tags/open-source/</link>
-      <pubDate>Tue, 09 May 2017 09:18:18 +0200</pubDate>
+      <pubDate>Sat, 09 Jun 2018 13:18:14 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/open-source/</guid>
       <description></description>
@@ -532,6 +559,24 @@
       <pubDate>Sat, 31 Mar 2018 15:19:32 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/pathfinding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plugin</title>
+      <link>http://gdquest.com/tags/plugin/</link>
+      <pubDate>Sat, 09 Jun 2018 13:18:14 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/plugin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Sequencer</title>
+      <link>http://gdquest.com/tags/power-sequencer/</link>
+      <pubDate>Sat, 09 Jun 2018 13:18:14 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/power-sequencer/</guid>
       <description></description>
     </item>
     
@@ -550,6 +595,15 @@
       <pubDate>Thu, 04 May 2017 08:42:22 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/sale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequencer</title>
+      <link>http://gdquest.com/tags/sequencer/</link>
+      <pubDate>Sat, 09 Jun 2018 13:18:14 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/sequencer/</guid>
       <description></description>
     </item>
     
@@ -626,11 +680,29 @@
     </item>
     
     <item>
+      <title>Video Editing</title>
+      <link>http://gdquest.com/tags/video-editing/</link>
+      <pubDate>Sat, 09 Jun 2018 13:18:14 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/video-editing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Video List</title>
       <link>http://gdquest.com/tags/video-list/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/video-list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vse</title>
+      <link>http://gdquest.com/tags/vse/</link>
+      <pubDate>Sat, 09 Jun 2018 13:18:14 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/vse/</guid>
       <description></description>
     </item>
     

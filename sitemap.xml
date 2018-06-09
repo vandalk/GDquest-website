@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://gdquest.com/post/2018/06/blender-power-sequencer-1.0-out/</loc>
+    <lastmod>2018-06-09T13:18:14+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2018/06/godot-course-update-7/</loc>
     <lastmod>2018-06-01T18:19:32+09:00</lastmod>
   </url>
@@ -244,7 +249,13 @@
   
   <url>
     <loc>http://gdquest.com/</loc>
-    <lastmod>2018-06-01T18:19:32+09:00</lastmod>
+    <lastmod>2018-06-09T13:18:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/add-on/</loc>
+    <lastmod>2018-06-09T13:18:14+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -268,6 +279,18 @@
   <url>
     <loc>http://gdquest.com/tags/best-krita-brushes/</loc>
     <lastmod>2017-01-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/blender/</loc>
+    <lastmod>2018-06-09T13:18:14+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/blender-2.79/</loc>
+    <lastmod>2018-06-09T13:18:14+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -397,7 +420,7 @@
   
   <url>
     <loc>http://gdquest.com/tags/gdquest/</loc>
-    <lastmod>2018-06-01T18:19:32+09:00</lastmod>
+    <lastmod>2018-06-09T13:18:14+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -657,13 +680,19 @@
   
   <url>
     <loc>http://gdquest.com/tags/open-source/</loc>
-    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
+    <lastmod>2018-06-09T13:18:14+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://gdquest.com/tags/pathfinding/</loc>
     <lastmod>2018-03-31T15:19:32+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/plugin/</loc>
+    <lastmod>2018-06-09T13:18:14+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -678,7 +707,13 @@
   
   <url>
     <loc>http://gdquest.com/post/</loc>
-    <lastmod>2018-06-01T18:19:32+09:00</lastmod>
+    <lastmod>2018-06-09T13:18:14+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/power-sequencer/</loc>
+    <lastmod>2018-06-09T13:18:14+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -707,6 +742,12 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/sequencer/</loc>
+    <lastmod>2018-06-09T13:18:14+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/static-html-engine/</loc>
     <lastmod>2016-04-20T09:34:58+02:00</lastmod>
     <priority>0</priority>
@@ -720,7 +761,7 @@
   
   <url>
     <loc>http://gdquest.com/tags/</loc>
-    <lastmod>2017-05-04T08:42:22+02:00</lastmod>
+    <lastmod>2018-06-09T13:18:14+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -767,8 +808,20 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/video-editing/</loc>
+    <lastmod>2018-06-09T13:18:14+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/video-list/</loc>
     <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/vse/</loc>
+    <lastmod>2018-06-09T13:18:14+09:00</lastmod>
     <priority>0</priority>
   </url>
   
