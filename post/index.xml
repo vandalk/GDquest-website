@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Sat, 09 Jun 2018 13:18:14 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jun 2018 15:39:19 +0900</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Godot course release 9: particles!</title>
+      <link>http://gdquest.com/post/2018/06/godot-course-update-9/</link>
+      <pubDate>Sat, 30 Jun 2018 15:39:19 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2018/06/godot-course-update-9/</guid>
+      <description>This month&amp;rsquo;s update adds 2 hours of tutorials dedicated to particles! There are now over 70 video tutorials in the course&amp;rsquo;s Pro version .
+The particles chapter shows how to create a variety of effects like smoke and explosions. We start with the very basics and wrap-up with a fireball and layered visual effects.
+If the first steps don&amp;rsquo;t change too much between effects, I wanted to show you tricks to build varied and complex effects with a small number of basic textures.</description>
+    </item>
     
     <item>
       <title>Blender Power Sequencer 1.0 is out!</title>

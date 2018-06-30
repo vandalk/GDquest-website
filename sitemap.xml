@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://gdquest.com/post/2018/06/godot-course-update-9/</loc>
+    <lastmod>2018-06-30T15:39:19+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2018/06/blender-power-sequencer-1.0-out/</loc>
     <lastmod>2018-06-09T13:18:14+09:00</lastmod>
   </url>
@@ -249,7 +254,7 @@
   
   <url>
     <loc>http://gdquest.com/</loc>
-    <lastmod>2018-06-09T13:18:14+09:00</lastmod>
+    <lastmod>2018-06-30T15:39:19+09:00</lastmod>
   </url>
   
   <url>
@@ -420,7 +425,7 @@
   
   <url>
     <loc>http://gdquest.com/tags/gdquest/</loc>
-    <lastmod>2018-06-09T13:18:14+09:00</lastmod>
+    <lastmod>2018-06-30T15:39:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -707,7 +712,7 @@
   
   <url>
     <loc>http://gdquest.com/post/</loc>
-    <lastmod>2018-06-09T13:18:14+09:00</lastmod>
+    <lastmod>2018-06-30T15:39:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
