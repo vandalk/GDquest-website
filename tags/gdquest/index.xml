@@ -14,6 +14,18 @@
     
     
     <item>
+      <title>Godot course release 10: User Interface</title>
+      <link>http://gdquest.com/post/2018/07/godot-course-update-9/</link>
+      <pubDate>Sat, 30 Jun 2018 15:39:19 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2018/07/godot-course-update-9/</guid>
+      <description>This month&amp;rsquo;s update adds 2 hours of tutorials dedicated to particles! There are now over 70 video tutorials in the course&amp;rsquo;s Pro version .
+Learn to design Game User Interface with Godot This chapter is only in the Indie and Pro versions of the course.
+You will learn:
+ How to keep your UI separate from your gameplay code Pause, and a simple pause menu using Godot&amp;rsquo;s UI themes An animated and configurable player lifebar Lifebars that automatically follow monsters and characters  Get the course!</description>
+    </item>
+    
+    <item>
       <title>Godot course release 9: particles!</title>
       <link>http://gdquest.com/post/2018/06/godot-course-update-9/</link>
       <pubDate>Sat, 30 Jun 2018 15:39:19 +0900</pubDate>

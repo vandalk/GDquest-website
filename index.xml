@@ -8,10 +8,58 @@
     <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Sat, 30 Jun 2018 15:39:19 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 19 Apr 2016 05:54:04 +0000</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Quickstart Guide Intro</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/8_quickstart_guide_intro/</link>
+      <pubDate>Tue, 19 Apr 2016 05:54:04 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/8_quickstart_guide_intro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krita tutorial: getting to know the UI</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/9_krita_tutorial_getting_to_know_the_ui/</link>
+      <pubDate>Tue, 19 Apr 2016 05:54:14 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/9_krita_tutorial_getting_to_know_the_ui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Navigation on the canvas in Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/10_navigation_on_the_canvas_in_krita/</link>
+      <pubDate>Thu, 21 Apr 2016 05:01:27 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/10_navigation_on_the_canvas_in_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Painting with the freehand brush tool</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/11_painting_with_the_freehand_brush_tool/</link>
+      <pubDate>Tue, 26 Apr 2016 07:04:40 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/11_painting_with_the_freehand_brush_tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godot course release 10: User Interface</title>
+      <link>http://gdquest.com/post/2018/07/godot-course-update-9/</link>
+      <pubDate>Sat, 30 Jun 2018 15:39:19 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2018/07/godot-course-update-9/</guid>
+      <description>This month&amp;rsquo;s update adds 2 hours of tutorials dedicated to particles! There are now over 70 video tutorials in the course&amp;rsquo;s Pro version .
+Learn to design Game User Interface with Godot This chapter is only in the Indie and Pro versions of the course.
+You will learn:
+ How to keep your UI separate from your gameplay code Pause, and a simple pause menu using Godot&amp;rsquo;s UI themes An animated and configurable player lifebar Lifebars that automatically follow monsters and characters  Get the course!</description>
+    </item>
     
     <item>
       <title>Godot course release 9: particles!</title>
@@ -95,6 +143,15 @@ Godot 3 just came out , and with some more work done on the official documentati
     </item>
     
     <item>
+      <title>Blender Power Sequencer reference</title>
+      <link>http://gdquest.com/blender/power-sequencer/docs/</link>
+      <pubDate>Mon, 01 Jan 2018 19:47:10 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/blender/power-sequencer/docs/</guid>
+      <description>operators Add Crossfade Add Speed Add Transform Border Select Change Playback Speed Channel Offset Clear Fades Concatenate Strips Copy Selected Sequences Cycle Scenes Decrease Playback Speed Delete Direct Edit Crossfade Fade Strips Grab Closest Handle or Cut Grab Sequence Handle Import Local Footage Increase Playback Speed Mouse Cut Mouse Toggle Mute Mouse Trim Preview Last Cut Preview to selection Render for Web Ripple Delete Save Direct Smart Snap Snap Selection to Cursor Toggle Selected Mute Toggle Waveforms Trim to Surrounding Cuts Refresh AllAdd CrossfadeBased on the active strip, finds the closest next sequence of a similar type, moves it so it overlaps the active strip, and adds a gamma cross effect between them.</description>
+    </item>
+    
+    <item>
       <title>Godot course Christmas update: The character controller</title>
       <link>http://gdquest.com/post/2017/12/godot-3-course-character-controller/</link>
       <pubDate>Mon, 25 Dec 2017 15:54:59 +0100</pubDate>
@@ -173,13 +230,273 @@ Lately, I&amp;rsquo;m:
     </item>
     
     <item>
-      <title>30 Days of Godot 2 Tutorials</title>
-      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/</link>
-      <pubDate>Sat, 27 May 2017 15:25:47 +0200</pubDate>
+      <title>Intro to UI containers: Godot engine tutorial</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/31_intro_to_ui_containers_godot_engine_tutorial/</link>
+      <pubDate>Fri, 30 Jun 2017 08:59:59 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/</guid>
-      <description>These 30 Godot 2 tutorials were brought to you for free as part of the Kickstarter project Make Professional 2d Games with Godot. For more recent tutorials check out GDquest on Youtube !
-All the assets and the code open source on Github with extra comments to help you learn directly from the projects.</description>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/31_intro_to_ui_containers_godot_engine_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tennis on steroids? Godot programming, Kickstarter finish</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/30_tennis_on_steroids_godot_programming_kickstarter_finish/</link>
+      <pubDate>Wed, 21 Jun 2017 10:59:57 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/30_tennis_on_steroids_godot_programming_kickstarter_finish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview of the 5 most common UI nodes in Godot</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/29_overview_of_the_5_most_common_ui_nodes_in_godot/</link>
+      <pubDate>Tue, 20 Jun 2017 13:56:53 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/29_overview_of_the_5_most_common_ui_nodes_in_godot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to signals in the Godot game engine</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/28_introduction_to_signals_in_the_godot_game_engine/</link>
+      <pubDate>Tue, 20 Jun 2017 08:16:23 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/28_introduction_to_signals_in_the_godot_game_engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to animate with Tween and GDscript: Godot tutorial</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/27_how_to_animate_with_tween_and_gdscript_godot_tutorial/</link>
+      <pubDate>Sun, 18 Jun 2017 18:18:11 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/27_how_to_animate_with_tween_and_gdscript_godot_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview of Godot 2 and 3&#39;s features (presentation)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/26_overview_of_godot_2_and_3s_features_/</link>
+      <pubDate>Sat, 17 Jun 2017 13:04:58 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/26_overview_of_godot_2_and_3s_features_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Code a Save System: Godot Tutorial</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/25_how_to_code_a_save_system_godot_tutorial/</link>
+      <pubDate>Fri, 16 Jun 2017 16:26:46 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/25_how_to_code_a_save_system_godot_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Save the Player Settings with ConfigFile (Godot tutorial)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/24_how_to_save_the_player_settings_with_configfile_/</link>
+      <pubDate>Thu, 15 Jun 2017 14:35:46 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/24_how_to_save_the_player_settings_with_configfile_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] How to detect slopes in a platform game using the Dot Product: Godot tutorial</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/23__how_to_detect_slopes_in_a_platform_game_using_the_dot_product_godot_tutorial/</link>
+      <pubDate>Mon, 12 Jun 2017 16:45:19 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/23__how_to_detect_slopes_in_a_platform_game_using_the_dot_product_godot_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your questions about Godot, Game Creation, the Kickstarter?</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/22_your_questions_about_godot_game_creation_the_kickstarter/</link>
+      <pubDate>Sun, 11 Jun 2017 15:46:50 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/22_your_questions_about_godot_game_creation_the_kickstarter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to the Vector Dot Product: How to code a Field of View in Godot</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/21_intro_to_the_vector_dot_product_how_to_code_a_field_of_view_in_godot/</link>
+      <pubDate>Sat, 10 Jun 2017 14:59:07 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/21_intro_to_the_vector_dot_product_how_to_code_a_field_of_view_in_godot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] Isometric Grid-Based Movement in Godot 2</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/20__isometric_gridbased_movement_in_godot_2/</link>
+      <pubDate>Fri, 09 Jun 2017 12:49:16 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/20__isometric_gridbased_movement_in_godot_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Isometric Movement in Games</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/19_introduction_to_isometric_movement_in_games/</link>
+      <pubDate>Thu, 08 Jun 2017 16:52:35 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/19_introduction_to_isometric_movement_in_games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Kraken: Game Creature Art Process with 2dGameArtGuru</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/18_the_kraken_game_creature_art_process_with_2dgameartguru/</link>
+      <pubDate>Wed, 07 Jun 2017 13:32:46 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/18_the_kraken_game_creature_art_process_with_2dgameartguru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[TIPS] Script and Scene Sync in Godot: see your changes at runtime!</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/17__script_and_scene_sync_in_godot_see_your_changes_at_runtime/</link>
+      <pubDate>Tue, 06 Jun 2017 15:59:07 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/17__script_and_scene_sync_in_godot_see_your_changes_at_runtime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] Top-Down Car with Steering in Godot</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/16__topdown_car_with_steering_in_godot/</link>
+      <pubDate>Mon, 05 Jun 2017 16:09:54 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/16__topdown_car_with_steering_in_godot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shortcuts to Code Faster in the GDscript Editor (Godot tutorial)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/15_shortcuts_to_code_faster_in_the_gdscript_editor_/</link>
+      <pubDate>Sun, 04 Jun 2017 12:57:04 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/15_shortcuts_to_code_faster_in_the_gdscript_editor_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Vectors for Game Creators (Collab with Pigdev)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/14_introduction_to_vectors_for_game_creators_/</link>
+      <pubDate>Sat, 03 Jun 2017 13:46:22 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/14_introduction_to_vectors_for_game_creators_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make the Player Move on a Grid in Godot: Grid-based Movement 4/4</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/13_make_the_player_move_on_a_grid_in_godot_gridbased_movement_44/</link>
+      <pubDate>Fri, 02 Jun 2017 13:07:41 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/13_make_the_player_move_on_a_grid_in_godot_gridbased_movement_44/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code a Robust Grid system in Godot with these 2 Functions: Grid-based movement 3/4</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/12_code_a_robust_grid_system_in_godot_with_these_2_functions_gridbased_movement_34/</link>
+      <pubDate>Thu, 01 Jun 2017 09:00:34 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/12_code_a_robust_grid_system_in_godot_with_these_2_functions_gridbased_movement_34/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create the Grid&#39;s Foundations in Godot: Grid-based movement 2/4</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/11_create_the_grids_foundations_in_godot_gridbased_movement_24/</link>
+      <pubDate>Wed, 31 May 2017 14:02:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/11_create_the_grids_foundations_in_godot_gridbased_movement_24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple Top-Down character movement in Godot: Grid-based movement 1/4</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/10_simple_topdown_character_movement_in_godot_gridbased_movement_14/</link>
+      <pubDate>Tue, 30 May 2017 16:03:25 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/10_simple_topdown_character_movement_in_godot_gridbased_movement_14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Import Maps from Tiled in Godot</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/9_how_to_import_maps_from_tiled_in_godot/</link>
+      <pubDate>Sun, 28 May 2017 15:24:12 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/9_how_to_import_maps_from_tiled_in_godot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[TOOL] Top-Down Tileset Template (Open Source)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/8__topdown_tileset_template_/</link>
+      <pubDate>Sun, 28 May 2017 15:03:38 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/8__topdown_tileset_template_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to the Animation Tools in the Godot Game Engine</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/7_intro_to_the_animation_tools_in_the_godot_game_engine/</link>
+      <pubDate>Sat, 27 May 2017 17:00:28 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/7_intro_to_the_animation_tools_in_the_godot_game_engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to tilesets in the Godot Engine</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/4_introduction_to_tilesets_in_the_godot_engine/</link>
+      <pubDate>Fri, 26 May 2017 16:30:11 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/4_introduction_to_tilesets_in_the_godot_engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zelda-like Custom Camera: Instant room transitions in Godot</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/6_zeldalike_custom_camera_instant_room_transitions_in_godot/</link>
+      <pubDate>Thu, 25 May 2017 14:47:37 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/6_zeldalike_custom_camera_instant_room_transitions_in_godot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Camera in Godot 2: Let&#39;s simplify the code!</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/5_custom_camera_in_godot_2_lets_simplify_the_code/</link>
+      <pubDate>Thu, 25 May 2017 11:12:15 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/5_custom_camera_in_godot_2_lets_simplify_the_code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Camera in Godot, part 2: Follow the Player</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/3_custom_camera_in_godot_part_2_follow_the_player/</link>
+      <pubDate>Wed, 24 May 2017 19:20:44 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/3_custom_camera_in_godot_part_2_follow_the_player/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Camera in Godot, part 1: Transform the Canvas</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/2_custom_camera_in_godot_part_1_transform_the_canvas/</link>
+      <pubDate>Wed, 24 May 2017 12:26:15 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/2_custom_camera_in_godot_part_1_transform_the_canvas/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -210,7 +527,7 @@ I’m doing it with the devs&amp;rsquo; support: Rémi (akien) followed the proj
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/post/2017/news/make-cartoon-game-characters-krita-out/</guid>
       <description>The second premium Krita game art course, Make Cel Shaded Game Characters, is out! It contains 14 tutorials that will help you improve your lighting fundamentals and show you how to make a game character.
-Get the course now! The course is based on Pepper and Carrot, the main 2 characters of a webcomic by David Revoy. It&amp;rsquo;s available under the CC-By 4.0 licence. It&amp;rsquo;s very common to work on an existing IP or world as a game artist, and David&amp;rsquo;s comic allows us to do just that.</description>
+Get the course now!The course is based on Pepper and Carrot, the main 2 characters of a webcomic by David Revoy. It&amp;rsquo;s available under the CC-By 4.0 licence. It&amp;rsquo;s very common to work on an existing IP or world as a game artist, and David&amp;rsquo;s comic allows us to do just that.</description>
     </item>
     
     <item>
@@ -276,6 +593,15 @@ In this course, you will learn:
     </item>
     
     <item>
+      <title>How to do double jumps and flip the character - Godot platform game tutorial</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/9_how_to_do_double_jumps_and_flip_the_character__godot_platform_game_tutorial/</link>
+      <pubDate>Wed, 12 Apr 2017 18:51:51 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/9_how_to_do_double_jumps_and_flip_the_character__godot_platform_game_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Marketing indie games with no budget – Notes</title>
       <link>http://gdquest.com/post/2017/marketing/marketing-indie-games-with-0-budget/</link>
       <pubDate>Thu, 06 Apr 2017 20:33:30 +0100</pubDate>
@@ -284,6 +610,24 @@ In this course, you will learn:
       <description>Emmy Jonhassen, aka IndieGameGirl, gave a talk named Marketing Indie Games on a $0 Budget. It offers a nice introduction to the topic, so I decided to share synthetic notes for it.
 I also wrote a detailed article on the topic for Game Analytics. There, you&amp;rsquo;ll learn a lot more about everything I&amp;rsquo;ve outlined below. Check it out: Marketing Your Indie Game On A Zero-Dollar Budget
 Emmy outlines 5 key types of contents required to maximize your game’s reach before and after its release.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to GDscript - Godot tutorial</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/1_introduction_to_gdscript__godot_tutorial/</link>
+      <pubDate>Sat, 01 Apr 2017 06:34:16 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/1_introduction_to_gdscript__godot_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to the Godot game engine</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/0_intro_to_the_godot_game_engine/</link>
+      <pubDate>Sat, 01 Apr 2017 06:32:05 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/0_intro_to_the_godot_game_engine/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -319,22 +663,30 @@ It is available in 3 different versions to fit your budget and your very needs.<
     </item>
     
     <item>
-      <title>Intro To Monster Design For 2d Games</title>
-      <link>http://gdquest.com/tutorial/art/monster-design/</link>
-      <pubDate>Wed, 15 Feb 2017 15:25:47 +0200</pubDate>
+      <title>How to make collisions work - Godot 2 tutorial</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/8_how_to_make_collisions_work__godot_2_tutorial/</link>
+      <pubDate>Thu, 09 Feb 2017 07:42:37 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/art/monster-design/</guid>
-      <description> The intro to monster design is the first free training released on GDquest. In about 40 minutes, it will run you through the thought process a game artist might follow to design monsters. It both covers the thought process behind the design of a monster and an example of monster drawing with pen, paper and Krita.
-Useful links  Free Krita tutorial for Game Artists  </description>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/8_how_to_make_collisions_work__godot_2_tutorial/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Intro to the Godot game engine</title>
-      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/</link>
-      <pubDate>Wed, 15 Feb 2017 15:25:47 +0200</pubDate>
+      <title>Input and Input Map - Godot Tutorial</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/6_input_and_input_map__godot_tutorial/</link>
+      <pubDate>Tue, 07 Feb 2017 10:41:39 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/</guid>
-      <description>Welcome to the first free tutorial series on GDquest that&amp;rsquo;s dedicated to Godot! Over the course of 1h, it&amp;rsquo;ll teach you some basic concepts with the engine.</description>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/6_input_and_input_map__godot_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to code JUMP mechanics - Godot tutorial</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/7_how_to_code_jump_mechanics__godot_tutorial/</link>
+      <pubDate>Thu, 02 Feb 2017 10:16:14 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/7_how_to_code_jump_mechanics__godot_tutorial/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -345,7 +697,7 @@ It is available in 3 different versions to fit your budget and your very needs.<
       <guid>http://gdquest.com/product/krita/brushes/</guid>
       <description>Version 15 contains:
  83 unique brush presets 4 PDF documents to help you get started with the brushes Lifetime free updates  The premium tier adds:
- More than 30 minutes of exclusive video tutorials to get the most out of the brushes The natural media brushkit Priority support on Discord  Get the brushes    The new thumbnails in version 13   I take my time to design the presets and ensure that they are worth adding to the pack.</description>
+ More than 30 minutes of exclusive video tutorials to get the most out of the brushes The natural media brushkit Priority support on Discord  Get the brushes   The new thumbnails in version 13   I take my time to design the presets and ensure that they are worth adding to the pack.</description>
     </item>
     
     <item>
@@ -355,6 +707,330 @@ It is available in 3 different versions to fit your budget and your very needs.<
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/post/2017/news/in-the-office/</guid>
       <description>The past 2 months have been hectic. I’ll pass on the details, but since a few days, I’m renting an office. After so much time struggling to work from home, you can’t imagine how great it feels! I not only have access to the room 24/7, it’s also part of a local business incubator. The structure offer a lot of support, free training on accounting, management, legal stuff… All of which is quite complex in France.</description>
+    </item>
+    
+    <item>
+      <title>3 techniques for game asset blocking in Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/35_3_techniques_for_game_asset_blocking_in_krita/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/35_3_techniques_for_game_asset_blocking_in_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create your own keyboard shortcuts in Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/20_create_your_own_keyboard_shortcuts_in_krita/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/20_create_your_own_keyboard_shortcuts_in_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customize your Keyboard Shortcuts in Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/31_customize_your_keyboard_shortcuts_in_krita/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/31_customize_your_keyboard_shortcuts_in_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to block in a game sprite in Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/34_how_to_block_in_a_game_sprite_in_krita/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/34_how_to_block_in_a_game_sprite_in_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to make a comic strip layout in Krita 3 - part 1</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/27_how_to_make_a_comic_strip_layout_in_krita_3__part_1/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/27_how_to_make_a_comic_strip_layout_in_krita_3__part_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to make a comic strip layout in Krita 3 - part 2</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/28_how_to_make_a_comic_strip_layout_in_krita_3__part_2/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/28_how_to_make_a_comic_strip_layout_in_krita_3__part_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to use the Grid in Krita 3</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/24_how_to_use_the_grid_in_krita_3/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/24_how_to_use_the_grid_in_krita_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to use the Guides in Krita 3</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/25_how_to_use_the_guides_in_krita_3/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/25_how_to_use_the_guides_in_krita_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instant Preview: new rendering engine in Krita 3</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/22_instant_preview_new_rendering_engine_in_krita_3/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/22_instant_preview_new_rendering_engine_in_krita_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to grid, guides and snapping in Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/23_intro_to_grid_guides_and_snapping_in_krita/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/23_intro_to_grid_guides_and_snapping_in_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krita animation tutorial: How to use the animation tools</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_6/49_krita_animation_tutorial_how_to_use_the_animation_tools/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_6/49_krita_animation_tutorial_how_to_use_the_animation_tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krita tutorial: 3 essential color adjustment filters</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/46_krita_tutorial_3_essential_color_adjustment_filters/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/46_krita_tutorial_3_essential_color_adjustment_filters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krita tutorial: 4 useful filters</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/45_krita_tutorial_4_useful_filters/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/45_krita_tutorial_4_useful_filters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krita tutorial: Draw tiling patterns with the wrap around mode</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/40_krita_tutorial_draw_tiling_patterns_with_the_wrap_around_mode/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/40_krita_tutorial_draw_tiling_patterns_with_the_wrap_around_mode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krita tutorial: How to paint in symmetry</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/39_krita_tutorial_how_to_paint_in_symmetry/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/39_krita_tutorial_how_to_paint_in_symmetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krita tutorial: How to use the perspective transform mode</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/42_krita_tutorial_how_to_use_the_perspective_transform_mode/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/42_krita_tutorial_how_to_use_the_perspective_transform_mode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krita tutorial: How to use the warp and cage transform for concept art</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/43_krita_tutorial_how_to_use_the_warp_and_cage_transform_for_concept_art/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/43_krita_tutorial_how_to_use_the_warp_and_cage_transform_for_concept_art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krita tutorial: Sculpt your assets with the liquify transform</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/44_krita_tutorial_sculpt_your_assets_with_the_liquify_transform/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/44_krita_tutorial_sculpt_your_assets_with_the_liquify_transform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krita tutorial: Understanding Krita&#39;s blending modes</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/38_krita_tutorial_understanding_kritas_blending_modes/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/38_krita_tutorial_understanding_kritas_blending_modes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krita tutorial: understanding transparency masks</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/47_krita_tutorial_understanding_transparency_masks/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/47_krita_tutorial_understanding_transparency_masks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krita&#39;s Fill tool: fill outlines and selections</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/19_kritas_fill_tool_fill_outlines_and_selections/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/19_kritas_fill_tool_fill_outlines_and_selections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Layers in Krita 3: Color tags</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/30_layers_in_krita_3_color_tags/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/30_layers_in_krita_3_color_tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Layers in Krita 3: Overview of the new features</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/29_layers_in_krita_3_overview_of_the_new_features/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/29_layers_in_krita_3_overview_of_the_new_features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make Clipping Masks in Krita, tutorial about Inherit Alpha</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/48_make_clipping_masks_in_krita__tutorial_about_inherit_alpha/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/48_make_clipping_masks_in_krita__tutorial_about_inherit_alpha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Move and Transform your selections in Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/21_move_and_transform_your_selections_in_krita/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/21_move_and_transform_your_selections_in_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New features in Krita 3.0.1</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/41_new_features_in_krita_3_0_1/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/41_new_features_in_krita_3_0_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview of snapping in Krita 3</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/26_overview_of_snapping_in_krita_3/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/26_overview_of_snapping_in_krita_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polishing a game sprite with Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/37_polishing_a_game_sprite_with_krita/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/37_polishing_a_game_sprite_with_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refining the game asset in Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/36_refining_the_game_asset_in_krita/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/36_refining_the_game_asset_in_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The game asset workflow: Concept 1 - Learning</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/33_the_game_asset_workflow_concept_1__learning/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/33_the_game_asset_workflow_concept_1__learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godot tools: How to use VSCode with Godot</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/4_godot_tools_how_to_use_vscode_with_godot/</link>
+      <pubDate>Thu, 19 Jan 2017 08:43:26 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/4_godot_tools_how_to_use_vscode_with_godot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to the Godot game engine</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/0_intro_to_the_godot_game_engine/</link>
+      <pubDate>Thu, 19 Jan 2017 08:43:26 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/0_intro_to_the_godot_game_engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to GDscript - Godot tutorial</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/1_introduction_to_gdscript__godot_tutorial/</link>
+      <pubDate>Thu, 19 Jan 2017 08:43:26 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/1_introduction_to_gdscript__godot_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godot tutorial: Horizontal platform movement</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/5_godot_tutorial_horizontal_platform_movement/</link>
+      <pubDate>Thu, 19 Jan 2017 08:31:53 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/5_godot_tutorial_horizontal_platform_movement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How we designed a runner game with Godot (collab with Pigdev)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/3_how_we_designed_a_runner_game_with_godot_/</link>
+      <pubDate>Fri, 30 Dec 2016 14:38:15 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/3_how_we_designed_a_runner_game_with_godot_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Game Art Process - collab with Pigdev</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/2_the_game_art_process__collab_with_pigdev/</link>
+      <pubDate>Thu, 29 Dec 2016 09:50:47 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/2_the_game_art_process__collab_with_pigdev/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -387,6 +1063,15 @@ Krita 3.0.1 is out! Krita 3.</description>
     </item>
     
     <item>
+      <title>Overview of the game asset creation process in Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/18_overview_of_the_game_asset_creation_process_in_krita/</link>
+      <pubDate>Thu, 28 Jul 2016 06:50:47 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/18_overview_of_the_game_asset_creation_process_in_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>June update: the Randa meetings</title>
       <link>http://gdquest.com/post/2016/kickstarter-news-june/</link>
       <pubDate>Tue, 28 Jun 2016 11:17:06 +0200</pubDate>
@@ -405,6 +1090,15 @@ Krita 3.0.1 is out! Krita 3.</description>
     </item>
     
     <item>
+      <title>What’s New in Krita 3: Krita Review</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/15_whats_new_in_krita_3_krita_review/</link>
+      <pubDate>Wed, 18 May 2016 05:56:35 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/15_whats_new_in_krita_3_krita_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>What’s New in Krita 3.0? Krita Review</title>
       <link>http://gdquest.com/post/2016/krita/new-features-in-krita-3/</link>
       <pubDate>Mon, 09 May 2016 17:49:09 +0200</pubDate>
@@ -415,6 +1109,33 @@ Krita 3 is a major update to an already powerful application. It brings it to a 
     </item>
     
     <item>
+      <title>Krita layers tutorial: introduction to the layers docker</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/13_krita_layers_tutorial_introduction_to_the_layers_docker/</link>
+      <pubDate>Wed, 04 May 2016 07:53:03 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/13_krita_layers_tutorial_introduction_to_the_layers_docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krita&#39;s pop up palette and color picker</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/14_kritas_pop_up_palette_and_color_picker/</link>
+      <pubDate>Wed, 04 May 2016 07:53:03 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/14_kritas_pop_up_palette_and_color_picker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working with the selection tools in Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/12_working_with_the_selection_tools_in_krita/</link>
+      <pubDate>Wed, 04 May 2016 07:53:03 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/12_working_with_the_selection_tools_in_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hugo Tips: Concatenate paths with variables</title>
       <link>http://gdquest.com/post/2016/programming/hugo-tips-concat-node-paths-variable/</link>
       <pubDate>Wed, 20 Apr 2016 09:34:58 +0200</pubDate>
@@ -422,6 +1143,87 @@ Krita 3 is a major update to an already powerful application. It brings it to a 
       <guid>http://gdquest.com/post/2016/programming/hugo-tips-concat-node-paths-variable/</guid>
       <description>This tutorial is a post I initially wrote on the Hugo forums. Hugo is the static website generator that powers GDquest. It is a really flexible and elegant system, based on Google&amp;rsquo;s Go programming language. Sometimes, it is a bit hard to use for a non-tech-savvy user. So I decided to share some tips on things that got me stuck at some point. 
 In a template, you sometimes need to load data from a path based on a parameter in your content file’s front matter.</description>
+    </item>
+    
+    <item>
+      <title>Intro to Monster Design 7 - Drawing the bear asset 2</title>
+      <link>http://gdquest.com/tutorial/art/monster-design/chapter2/6_intro_to_monster_design_7__drawing_the_bear_asset_2/</link>
+      <pubDate>Fri, 15 Apr 2016 09:11:22 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/monster-design/chapter2/6_intro_to_monster_design_7__drawing_the_bear_asset_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PureRef tutorial: a free, cross-platform virtual board for artists!</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/7_pureref_tutorial_a_free_crossplatform_virtual_board_for_artists/</link>
+      <pubDate>Thu, 14 Apr 2016 06:27:21 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/7_pureref_tutorial_a_free_crossplatform_virtual_board_for_artists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Picasa - a free program to organize your reference images</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/6_picasa__a_free_program_to_organize_your_reference_images/</link>
+      <pubDate>Tue, 12 Apr 2016 10:53:10 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/6_picasa__a_free_program_to_organize_your_reference_images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to setup a wacom tablet with Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/5_how_to_setup_a_wacom_tablet_with_krita/</link>
+      <pubDate>Thu, 07 Apr 2016 06:07:14 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/5_how_to_setup_a_wacom_tablet_with_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to graphic tablets</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/4_introduction_to_graphic_tablets/</link>
+      <pubDate>Tue, 05 Apr 2016 06:54:11 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/4_introduction_to_graphic_tablets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your Krita learning toolbox</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/3_your_krita_learning_toolbox/</link>
+      <pubDate>Thu, 31 Mar 2016 07:18:27 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/3_your_krita_learning_toolbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to take the most out of these Krita tutorials</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/2_how_to_take_the_most_out_of_these_krita_tutorials/</link>
+      <pubDate>Tue, 29 Mar 2016 10:05:27 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/2_how_to_take_the_most_out_of_these_krita_tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting common issues in Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/1_troubleshooting_common_issues_in_krita/</link>
+      <pubDate>Mon, 28 Mar 2016 09:24:10 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/1_troubleshooting_common_issues_in_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Install Krita on Windows</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/0_how_to_install_krita_on_windows/</link>
+      <pubDate>Mon, 28 Mar 2016 09:24:01 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/0_how_to_install_krita_on_windows/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -444,12 +1246,21 @@ With one last contract finished last week, and the series on monster design done
     </item>
     
     <item>
-      <title>Free Krita Tutorial For Game Artists</title>
-      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/</link>
-      <pubDate>Mon, 08 Feb 2016 17:55:44 +0100</pubDate>
+      <title>Intro to Monster Design 6 - Drawing the bear asset</title>
+      <link>http://gdquest.com/tutorial/art/monster-design/chapter2/5_intro_to_monster_design_6__drawing_the_bear_asset/</link>
+      <pubDate>Thu, 18 Feb 2016 08:18:39 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/</guid>
-      <description>If you want to become a better 2-D game artist, this training is for you. It will teach you how to work with Krita, a mature open source digital painting program. In 6 chapters, we will explore the most important features krita has to offer to game artists.</description>
+      <guid>http://gdquest.com/tutorial/art/monster-design/chapter2/5_intro_to_monster_design_6__drawing_the_bear_asset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to monster design 5 - Designing the mole bear 2</title>
+      <link>http://gdquest.com/tutorial/art/monster-design/chapter2/4_introduction_to_monster_design_5__designing_the_mole_bear_2/</link>
+      <pubDate>Wed, 10 Feb 2016 14:08:23 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/monster-design/chapter2/4_introduction_to_monster_design_5__designing_the_mole_bear_2/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -461,6 +1272,42 @@ With one last contract finished last week, and the series on monster design done
       <description>Hi! If you&amp;rsquo;re here, you&amp;rsquo;re certainly a backer of the Game Art Quest Kickstarter campaign.
 I moved the course to Gumroad, the same place where you got your premium brushes. Thanks to that change, you can now download the tutorials to watch offline! I sent your personal coupon code via email so you can get an instant free access.
 How to redeem your coupon In the email, you will find a link that will automatically apply your coupon for you.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Monster Design - Enemies in Mario</title>
+      <link>http://gdquest.com/tutorial/art/monster-design/chapter1/0_introduction_to_monster_design__enemies_in_mario/</link>
+      <pubDate>Fri, 05 Feb 2016 19:50:40 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/monster-design/chapter1/0_introduction_to_monster_design__enemies_in_mario/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to monster design 4 - Designing the mole-bear 1</title>
+      <link>http://gdquest.com/tutorial/art/monster-design/chapter2/3_introduction_to_monster_design_4__designing_the_molebear_1/</link>
+      <pubDate>Wed, 03 Feb 2016 10:16:35 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/monster-design/chapter2/3_introduction_to_monster_design_4__designing_the_molebear_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to monster design 3 - 3 Principles of Monster Design</title>
+      <link>http://gdquest.com/tutorial/art/monster-design/chapter1/2_introduction_to_monster_design_3__3_principles_of_monster_design/</link>
+      <pubDate>Wed, 27 Jan 2016 17:16:01 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/monster-design/chapter1/2_introduction_to_monster_design_3__3_principles_of_monster_design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to monster design 2 - FFXIV analysis</title>
+      <link>http://gdquest.com/tutorial/art/monster-design/chapter1/1_introduction_to_monster_design_2__ffxiv_analysis/</link>
+      <pubDate>Fri, 22 Jan 2016 08:37:22 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/monster-design/chapter1/1_introduction_to_monster_design_2__ffxiv_analysis/</guid>
+      <description></description>
     </item>
     
     <item>

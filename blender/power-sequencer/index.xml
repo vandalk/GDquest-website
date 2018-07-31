@@ -13,5 +13,14 @@
 	<atom:link href="http://gdquest.com/blender/power-sequencer/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Blender Power Sequencer reference</title>
+      <link>http://gdquest.com/blender/power-sequencer/docs/</link>
+      <pubDate>Mon, 01 Jan 2018 19:47:10 +0100</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/blender/power-sequencer/docs/</guid>
+      <description>operators Add Crossfade Add Speed Add Transform Border Select Change Playback Speed Channel Offset Clear Fades Concatenate Strips Copy Selected Sequences Cycle Scenes Decrease Playback Speed Delete Direct Edit Crossfade Fade Strips Grab Closest Handle or Cut Grab Sequence Handle Import Local Footage Increase Playback Speed Mouse Cut Mouse Toggle Mute Mouse Trim Preview Last Cut Preview to selection Render for Web Ripple Delete Save Direct Smart Snap Snap Selection to Cursor Toggle Selected Mute Toggle Waveforms Trim to Surrounding Cuts Refresh AllAdd CrossfadeBased on the active strip, finds the closest next sequence of a similar type, moves it so it overlaps the active strip, and adds a gamma cross effect between them.</description>
+    </item>
+    
   </channel>
 </rss>

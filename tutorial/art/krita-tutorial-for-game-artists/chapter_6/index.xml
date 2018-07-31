@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animation with Krita 3 on GDQuest</title>
+    <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_6/</link>
+    <description>Recent content in Animation with Krita 3 on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Fri, 20 Jan 2017 07:54:29 +0000</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Krita animation tutorial: How to use the animation tools</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_6/49_krita_animation_tutorial_how_to_use_the_animation_tools/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_6/49_krita_animation_tutorial_how_to_use_the_animation_tools/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

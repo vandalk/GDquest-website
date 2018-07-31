@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creating our monster with Krita on GDQuest</title>
+    <link>http://gdquest.com/tutorial/art/monster-design/chapter2/</link>
+    <description>Recent content in Creating our monster with Krita on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Fri, 15 Apr 2016 09:11:22 +0000</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tutorial/art/monster-design/chapter2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to Monster Design 7 - Drawing the bear asset 2</title>
+      <link>http://gdquest.com/tutorial/art/monster-design/chapter2/6_intro_to_monster_design_7__drawing_the_bear_asset_2/</link>
+      <pubDate>Fri, 15 Apr 2016 09:11:22 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/monster-design/chapter2/6_intro_to_monster_design_7__drawing_the_bear_asset_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Monster Design 6 - Drawing the bear asset</title>
+      <link>http://gdquest.com/tutorial/art/monster-design/chapter2/5_intro_to_monster_design_6__drawing_the_bear_asset/</link>
+      <pubDate>Thu, 18 Feb 2016 08:18:39 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/monster-design/chapter2/5_intro_to_monster_design_6__drawing_the_bear_asset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to monster design 5 - Designing the mole bear 2</title>
+      <link>http://gdquest.com/tutorial/art/monster-design/chapter2/4_introduction_to_monster_design_5__designing_the_mole_bear_2/</link>
+      <pubDate>Wed, 10 Feb 2016 14:08:23 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/monster-design/chapter2/4_introduction_to_monster_design_5__designing_the_mole_bear_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to monster design 4 - Designing the mole-bear 1</title>
+      <link>http://gdquest.com/tutorial/art/monster-design/chapter2/3_introduction_to_monster_design_4__designing_the_molebear_1/</link>
+      <pubDate>Wed, 03 Feb 2016 10:16:35 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/monster-design/chapter2/3_introduction_to_monster_design_4__designing_the_molebear_1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

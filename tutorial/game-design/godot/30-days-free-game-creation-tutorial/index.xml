@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>30 Days of Godot 2 Tutorials on GDQuest</title>
+    <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/</link>
+    <description>Recent content in 30 Days of Godot 2 Tutorials on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Sat, 27 May 2017 15:25:47 +0200</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

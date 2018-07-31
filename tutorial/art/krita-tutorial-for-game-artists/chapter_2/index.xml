@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview of Krita on GDQuest</title>
+    <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/</link>
+    <description>Recent content in Overview of Krita on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Tue, 19 Apr 2016 05:54:04 +0000</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quickstart Guide Intro</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/8_quickstart_guide_intro/</link>
+      <pubDate>Tue, 19 Apr 2016 05:54:04 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/8_quickstart_guide_intro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krita tutorial: getting to know the UI</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/9_krita_tutorial_getting_to_know_the_ui/</link>
+      <pubDate>Tue, 19 Apr 2016 05:54:14 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/9_krita_tutorial_getting_to_know_the_ui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Navigation on the canvas in Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/10_navigation_on_the_canvas_in_krita/</link>
+      <pubDate>Thu, 21 Apr 2016 05:01:27 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/10_navigation_on_the_canvas_in_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Painting with the freehand brush tool</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/11_painting_with_the_freehand_brush_tool/</link>
+      <pubDate>Tue, 26 Apr 2016 07:04:40 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/11_painting_with_the_freehand_brush_tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create your own keyboard shortcuts in Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/20_create_your_own_keyboard_shortcuts_in_krita/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/20_create_your_own_keyboard_shortcuts_in_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krita&#39;s Fill tool: fill outlines and selections</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/19_kritas_fill_tool_fill_outlines_and_selections/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/19_kritas_fill_tool_fill_outlines_and_selections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Move and Transform your selections in Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/21_move_and_transform_your_selections_in_krita/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/21_move_and_transform_your_selections_in_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krita layers tutorial: introduction to the layers docker</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/13_krita_layers_tutorial_introduction_to_the_layers_docker/</link>
+      <pubDate>Wed, 04 May 2016 07:53:03 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/13_krita_layers_tutorial_introduction_to_the_layers_docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krita&#39;s pop up palette and color picker</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/14_kritas_pop_up_palette_and_color_picker/</link>
+      <pubDate>Wed, 04 May 2016 07:53:03 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/14_kritas_pop_up_palette_and_color_picker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working with the selection tools in Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/12_working_with_the_selection_tools_in_krita/</link>
+      <pubDate>Wed, 04 May 2016 07:53:03 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/12_working_with_the_selection_tools_in_krita/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

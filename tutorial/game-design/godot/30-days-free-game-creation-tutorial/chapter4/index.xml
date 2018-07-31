@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vectors, save and Godot overview on GDQuest</title>
+    <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/</link>
+    <description>Recent content in Vectors, save and Godot overview on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Sun, 18 Jun 2017 18:18:11 +0000</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to animate with Tween and GDscript: Godot tutorial</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/27_how_to_animate_with_tween_and_gdscript_godot_tutorial/</link>
+      <pubDate>Sun, 18 Jun 2017 18:18:11 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/27_how_to_animate_with_tween_and_gdscript_godot_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview of Godot 2 and 3&#39;s features (presentation)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/26_overview_of_godot_2_and_3s_features_/</link>
+      <pubDate>Sat, 17 Jun 2017 13:04:58 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/26_overview_of_godot_2_and_3s_features_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Code a Save System: Godot Tutorial</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/25_how_to_code_a_save_system_godot_tutorial/</link>
+      <pubDate>Fri, 16 Jun 2017 16:26:46 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/25_how_to_code_a_save_system_godot_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Save the Player Settings with ConfigFile (Godot tutorial)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/24_how_to_save_the_player_settings_with_configfile_/</link>
+      <pubDate>Thu, 15 Jun 2017 14:35:46 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/24_how_to_save_the_player_settings_with_configfile_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] How to detect slopes in a platform game using the Dot Product: Godot tutorial</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/23__how_to_detect_slopes_in_a_platform_game_using_the_dot_product_godot_tutorial/</link>
+      <pubDate>Mon, 12 Jun 2017 16:45:19 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/23__how_to_detect_slopes_in_a_platform_game_using_the_dot_product_godot_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your questions about Godot, Game Creation, the Kickstarter?</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/22_your_questions_about_godot_game_creation_the_kickstarter/</link>
+      <pubDate>Sun, 11 Jun 2017 15:46:50 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/22_your_questions_about_godot_game_creation_the_kickstarter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

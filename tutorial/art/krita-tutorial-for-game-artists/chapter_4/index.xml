@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The 2d game asset workflow on GDQuest</title>
+    <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/</link>
+    <description>Recent content in The 2d game asset workflow on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Fri, 20 Jan 2017 07:54:29 +0000</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3 techniques for game asset blocking in Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/35_3_techniques_for_game_asset_blocking_in_krita/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/35_3_techniques_for_game_asset_blocking_in_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to block in a game sprite in Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/34_how_to_block_in_a_game_sprite_in_krita/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/34_how_to_block_in_a_game_sprite_in_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polishing a game sprite with Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/37_polishing_a_game_sprite_with_krita/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/37_polishing_a_game_sprite_with_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refining the game asset in Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/36_refining_the_game_asset_in_krita/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/36_refining_the_game_asset_in_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The game asset workflow: Concept 1 - Learning</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/33_the_game_asset_workflow_concept_1__learning/</link>
+      <pubDate>Fri, 20 Jan 2017 07:54:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/33_the_game_asset_workflow_concept_1__learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview of the game asset creation process in Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/18_overview_of_the_game_asset_creation_process_in_krita/</link>
+      <pubDate>Thu, 28 Jul 2016 06:50:47 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/18_overview_of_the_game_asset_creation_process_in_krita/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

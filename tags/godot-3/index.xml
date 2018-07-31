@@ -8,10 +8,22 @@
     <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Fri, 01 Jun 2018 18:19:32 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jun 2018 15:39:19 +0900</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/tags/godot-3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Godot course release 10: User Interface</title>
+      <link>http://gdquest.com/post/2018/07/godot-course-update-9/</link>
+      <pubDate>Sat, 30 Jun 2018 15:39:19 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2018/07/godot-course-update-9/</guid>
+      <description>This month&amp;rsquo;s update adds 2 hours of tutorials dedicated to particles! There are now over 70 video tutorials in the course&amp;rsquo;s Pro version .
+Learn to design Game User Interface with Godot This chapter is only in the Indie and Pro versions of the course.
+You will learn:
+ How to keep your UI separate from your gameplay code Pause, and a simple pause menu using Godot&amp;rsquo;s UI themes An animated and configurable player lifebar Lifebars that automatically follow monsters and characters  Get the course!</description>
+    </item>
     
     <item>
       <title>Godot 3 course: the boss chapter is out!</title>
@@ -32,8 +44,9 @@ As the boss chapter took twice the time I planned to invest in it, I couldn&amp;
       <guid>http://gdquest.com/product/godot/make-pro-2d-games/content/</guid>
       <description>Last update: April 30
 The course is still in early access, with currently six out of twelve chapters available in the Pro version.
-The course comes in 3 versions. Each builds on top of the previous one and adds extra content:
- Hobby  (€ 14.95) Indie  (€ 29.95) Pro  (€ 59.95)  You&amp;rsquo;ll find some free tutorial samples below. I also released the Finite State Machine  demo open source, for the official Godot documentation.</description>
+The course comes in 3 versions. Indie contains all of Hobby, and Pro contains all chapters and extra resources:
+ Hobby  (€ 14.95) Indie  (€ 29.95) Pro  (€ 59.95)  If you&amp;rsquo;re only looking for UI tutorials, check out our standalone course:
+Create User Interface Godot CourseYou&amp;rsquo;ll find some free tutorial samples below.</description>
     </item>
     
     <item>

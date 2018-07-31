@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monster design basics on GDQuest</title>
+    <link>http://gdquest.com/tutorial/art/monster-design/chapter1/</link>
+    <description>Recent content in Monster design basics on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Fri, 05 Feb 2016 19:50:40 +0000</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tutorial/art/monster-design/chapter1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to Monster Design - Enemies in Mario</title>
+      <link>http://gdquest.com/tutorial/art/monster-design/chapter1/0_introduction_to_monster_design__enemies_in_mario/</link>
+      <pubDate>Fri, 05 Feb 2016 19:50:40 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/monster-design/chapter1/0_introduction_to_monster_design__enemies_in_mario/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to monster design 3 - 3 Principles of Monster Design</title>
+      <link>http://gdquest.com/tutorial/art/monster-design/chapter1/2_introduction_to_monster_design_3__3_principles_of_monster_design/</link>
+      <pubDate>Wed, 27 Jan 2016 17:16:01 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/monster-design/chapter1/2_introduction_to_monster_design_3__3_principles_of_monster_design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to monster design 2 - FFXIV analysis</title>
+      <link>http://gdquest.com/tutorial/art/monster-design/chapter1/1_introduction_to_monster_design_2__ffxiv_analysis/</link>
+      <pubDate>Fri, 22 Jan 2016 08:37:22 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/monster-design/chapter1/1_introduction_to_monster_design_2__ffxiv_analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,6 +3,106 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/</loc>
+    <lastmod>2017-05-28T15:03:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/</loc>
+    <lastmod>2016-04-14T06:27:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/</loc>
+    <lastmod>2017-01-19T08:43:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/monster-design/chapter1/</loc>
+    <lastmod>2016-02-05T19:50:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/monster-design/chapter2/</loc>
+    <lastmod>2016-04-15T09:11:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/</loc>
+    <lastmod>2017-04-12T18:51:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/</loc>
+    <lastmod>2016-04-19T05:54:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/</loc>
+    <lastmod>2017-06-04T12:57:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/</loc>
+    <lastmod>2017-06-10T14:59:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/</loc>
+    <lastmod>2017-06-18T18:18:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/</loc>
+    <lastmod>2017-06-30T08:59:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_6/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/8_quickstart_guide_intro/</loc>
+    <lastmod>2016-04-19T05:54:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/9_krita_tutorial_getting_to_know_the_ui/</loc>
+    <lastmod>2016-04-19T05:54:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/10_navigation_on_the_canvas_in_krita/</loc>
+    <lastmod>2016-04-21T05:01:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/11_painting_with_the_freehand_brush_tool/</loc>
+    <lastmod>2016-04-26T07:04:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/post/2018/07/godot-course-update-9/</loc>
+    <lastmod>2018-06-30T15:39:19+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2018/06/godot-course-update-9/</loc>
     <lastmod>2018-06-30T15:39:19+09:00</lastmod>
   </url>
@@ -48,6 +148,11 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/blender/power-sequencer/docs/</loc>
+    <lastmod>2018-01-01T19:47:10+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2017/12/godot-3-course-character-controller/</loc>
     <lastmod>2017-12-25T15:54:59+01:00</lastmod>
   </url>
@@ -83,8 +188,158 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/31_intro_to_ui_containers_godot_engine_tutorial/</loc>
+    <lastmod>2017-06-30T08:59:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/30_tennis_on_steroids_godot_programming_kickstarter_finish/</loc>
+    <lastmod>2017-06-21T10:59:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/29_overview_of_the_5_most_common_ui_nodes_in_godot/</loc>
+    <lastmod>2017-06-20T13:56:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/28_introduction_to_signals_in_the_godot_game_engine/</loc>
+    <lastmod>2017-06-20T08:16:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/27_how_to_animate_with_tween_and_gdscript_godot_tutorial/</loc>
+    <lastmod>2017-06-18T18:18:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/26_overview_of_godot_2_and_3s_features_/</loc>
+    <lastmod>2017-06-17T13:04:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/25_how_to_code_a_save_system_godot_tutorial/</loc>
+    <lastmod>2017-06-16T16:26:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/24_how_to_save_the_player_settings_with_configfile_/</loc>
+    <lastmod>2017-06-15T14:35:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/23__how_to_detect_slopes_in_a_platform_game_using_the_dot_product_godot_tutorial/</loc>
+    <lastmod>2017-06-12T16:45:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter4/22_your_questions_about_godot_game_creation_the_kickstarter/</loc>
+    <lastmod>2017-06-11T15:46:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/21_intro_to_the_vector_dot_product_how_to_code_a_field_of_view_in_godot/</loc>
+    <lastmod>2017-06-10T14:59:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/20__isometric_gridbased_movement_in_godot_2/</loc>
+    <lastmod>2017-06-09T12:49:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/19_introduction_to_isometric_movement_in_games/</loc>
+    <lastmod>2017-06-08T16:52:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/18_the_kraken_game_creature_art_process_with_2dgameartguru/</loc>
+    <lastmod>2017-06-07T13:32:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/17__script_and_scene_sync_in_godot_see_your_changes_at_runtime/</loc>
+    <lastmod>2017-06-06T15:59:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/16__topdown_car_with_steering_in_godot/</loc>
+    <lastmod>2017-06-05T16:09:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/15_shortcuts_to_code_faster_in_the_gdscript_editor_/</loc>
+    <lastmod>2017-06-04T12:57:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/14_introduction_to_vectors_for_game_creators_/</loc>
+    <lastmod>2017-06-03T13:46:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/13_make_the_player_move_on_a_grid_in_godot_gridbased_movement_44/</loc>
+    <lastmod>2017-06-02T13:07:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/12_code_a_robust_grid_system_in_godot_with_these_2_functions_gridbased_movement_34/</loc>
+    <lastmod>2017-06-01T09:00:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/11_create_the_grids_foundations_in_godot_gridbased_movement_24/</loc>
+    <lastmod>2017-05-31T14:02:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/10_simple_topdown_character_movement_in_godot_gridbased_movement_14/</loc>
+    <lastmod>2017-05-30T16:03:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/9_how_to_import_maps_from_tiled_in_godot/</loc>
+    <lastmod>2017-05-28T15:24:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/8__topdown_tileset_template_/</loc>
+    <lastmod>2017-05-28T15:03:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/7_intro_to_the_animation_tools_in_the_godot_game_engine/</loc>
+    <lastmod>2017-05-27T17:00:28+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/</loc>
     <lastmod>2017-05-27T15:25:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/4_introduction_to_tilesets_in_the_godot_engine/</loc>
+    <lastmod>2017-05-26T16:30:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/6_zeldalike_custom_camera_instant_room_transitions_in_godot/</loc>
+    <lastmod>2017-05-25T14:47:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/5_custom_camera_in_godot_2_lets_simplify_the_code/</loc>
+    <lastmod>2017-05-25T11:12:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/3_custom_camera_in_godot_part_2_follow_the_player/</loc>
+    <lastmod>2017-05-24T19:20:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/2_custom_camera_in_godot_part_1_transform_the_canvas/</loc>
+    <lastmod>2017-05-24T12:26:15+00:00</lastmod>
   </url>
   
   <url>
@@ -138,6 +393,11 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/9_how_to_do_double_jumps_and_flip_the_character__godot_platform_game_tutorial/</loc>
+    <lastmod>2017-04-12T18:51:51+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/about/</loc>
     <lastmod>2017-04-10T13:40:07+02:00</lastmod>
   </url>
@@ -145,6 +405,16 @@
   <url>
     <loc>http://gdquest.com/post/2017/marketing/marketing-indie-games-with-0-budget/</loc>
     <lastmod>2017-04-06T20:33:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/1_introduction_to_gdscript__godot_tutorial/</loc>
+    <lastmod>2017-04-01T06:34:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/0_intro_to_the_godot_game_engine/</loc>
+    <lastmod>2017-04-01T06:32:05+00:00</lastmod>
   </url>
   
   <url>
@@ -178,6 +448,21 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/8_how_to_make_collisions_work__godot_2_tutorial/</loc>
+    <lastmod>2017-02-09T07:42:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/6_input_and_input_map__godot_tutorial/</loc>
+    <lastmod>2017-02-07T10:41:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/7_how_to_code_jump_mechanics__godot_tutorial/</loc>
+    <lastmod>2017-02-02T10:16:14+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/product/krita/brushes/</loc>
     <lastmod>2017-01-30T00:00:00+00:00</lastmod>
   </url>
@@ -185,6 +470,186 @@
   <url>
     <loc>http://gdquest.com/post/2017/news/in-the-office/</loc>
     <lastmod>2017-01-21T17:35:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/35_3_techniques_for_game_asset_blocking_in_krita/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/20_create_your_own_keyboard_shortcuts_in_krita/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/31_customize_your_keyboard_shortcuts_in_krita/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/34_how_to_block_in_a_game_sprite_in_krita/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/27_how_to_make_a_comic_strip_layout_in_krita_3__part_1/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/28_how_to_make_a_comic_strip_layout_in_krita_3__part_2/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/24_how_to_use_the_grid_in_krita_3/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/25_how_to_use_the_guides_in_krita_3/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/22_instant_preview_new_rendering_engine_in_krita_3/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/23_intro_to_grid_guides_and_snapping_in_krita/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_6/49_krita_animation_tutorial_how_to_use_the_animation_tools/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/46_krita_tutorial_3_essential_color_adjustment_filters/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/45_krita_tutorial_4_useful_filters/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/40_krita_tutorial_draw_tiling_patterns_with_the_wrap_around_mode/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/39_krita_tutorial_how_to_paint_in_symmetry/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/42_krita_tutorial_how_to_use_the_perspective_transform_mode/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/43_krita_tutorial_how_to_use_the_warp_and_cage_transform_for_concept_art/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/44_krita_tutorial_sculpt_your_assets_with_the_liquify_transform/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/38_krita_tutorial_understanding_kritas_blending_modes/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/47_krita_tutorial_understanding_transparency_masks/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/19_kritas_fill_tool_fill_outlines_and_selections/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/30_layers_in_krita_3_color_tags/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/29_layers_in_krita_3_overview_of_the_new_features/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/48_make_clipping_masks_in_krita__tutorial_about_inherit_alpha/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/21_move_and_transform_your_selections_in_krita/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_5/41_new_features_in_krita_3_0_1/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/26_overview_of_snapping_in_krita_3/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/37_polishing_a_game_sprite_with_krita/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/36_refining_the_game_asset_in_krita/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/33_the_game_asset_workflow_concept_1__learning/</loc>
+    <lastmod>2017-01-20T07:54:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/4_godot_tools_how_to_use_vscode_with_godot/</loc>
+    <lastmod>2017-01-19T08:43:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/0_intro_to_the_godot_game_engine/</loc>
+    <lastmod>2017-01-19T08:43:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/1_introduction_to_gdscript__godot_tutorial/</loc>
+    <lastmod>2017-01-19T08:43:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/5_godot_tutorial_horizontal_platform_movement/</loc>
+    <lastmod>2017-01-19T08:31:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/3_how_we_designed_a_runner_game_with_godot_/</loc>
+    <lastmod>2016-12-30T14:38:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/2_the_game_art_process__collab_with_pigdev/</loc>
+    <lastmod>2016-12-29T09:50:47+00:00</lastmod>
   </url>
   
   <url>
@@ -203,6 +668,11 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_4/18_overview_of_the_game_asset_creation_process_in_krita/</loc>
+    <lastmod>2016-07-28T06:50:47+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2016/kickstarter-news-june/</loc>
     <lastmod>2016-06-28T11:17:06+02:00</lastmod>
   </url>
@@ -213,13 +683,78 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_3/15_whats_new_in_krita_3_krita_review/</loc>
+    <lastmod>2016-05-18T05:56:35+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2016/krita/new-features-in-krita-3/</loc>
     <lastmod>2016-05-09T17:49:09+02:00</lastmod>
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/13_krita_layers_tutorial_introduction_to_the_layers_docker/</loc>
+    <lastmod>2016-05-04T07:53:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/14_kritas_pop_up_palette_and_color_picker/</loc>
+    <lastmod>2016-05-04T07:53:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/12_working_with_the_selection_tools_in_krita/</loc>
+    <lastmod>2016-05-04T07:53:03+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2016/programming/hugo-tips-concat-node-paths-variable/</loc>
     <lastmod>2016-04-20T09:34:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/monster-design/chapter2/6_intro_to_monster_design_7__drawing_the_bear_asset_2/</loc>
+    <lastmod>2016-04-15T09:11:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/7_pureref_tutorial_a_free_crossplatform_virtual_board_for_artists/</loc>
+    <lastmod>2016-04-14T06:27:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/6_picasa__a_free_program_to_organize_your_reference_images/</loc>
+    <lastmod>2016-04-12T10:53:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/5_how_to_setup_a_wacom_tablet_with_krita/</loc>
+    <lastmod>2016-04-07T06:07:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/4_introduction_to_graphic_tablets/</loc>
+    <lastmod>2016-04-05T06:54:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/3_your_krita_learning_toolbox/</loc>
+    <lastmod>2016-03-31T07:18:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/2_how_to_take_the_most_out_of_these_krita_tutorials/</loc>
+    <lastmod>2016-03-29T10:05:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/1_troubleshooting_common_issues_in_krita/</loc>
+    <lastmod>2016-03-28T09:24:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/0_how_to_install_krita_on_windows/</loc>
+    <lastmod>2016-03-28T09:24:01+00:00</lastmod>
   </url>
   
   <url>
@@ -233,6 +768,16 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/art/monster-design/chapter2/5_intro_to_monster_design_6__drawing_the_bear_asset/</loc>
+    <lastmod>2016-02-18T08:18:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/monster-design/chapter2/4_introduction_to_monster_design_5__designing_the_mole_bear_2/</loc>
+    <lastmod>2016-02-10T14:08:23+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/</loc>
     <lastmod>2016-02-08T17:55:44+01:00</lastmod>
   </url>
@@ -240,6 +785,26 @@
   <url>
     <loc>http://gdquest.com/krita-tutorial/volume-1/course/</loc>
     <lastmod>2016-02-08T17:55:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/monster-design/chapter1/0_introduction_to_monster_design__enemies_in_mario/</loc>
+    <lastmod>2016-02-05T19:50:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/monster-design/chapter2/3_introduction_to_monster_design_4__designing_the_molebear_1/</loc>
+    <lastmod>2016-02-03T10:16:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/monster-design/chapter1/2_introduction_to_monster_design_3__3_principles_of_monster_design/</loc>
+    <lastmod>2016-01-27T17:16:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/monster-design/chapter1/1_introduction_to_monster_design_2__ffxiv_analysis/</loc>
+    <lastmod>2016-01-22T08:37:22+00:00</lastmod>
   </url>
   
   <url>
@@ -254,7 +819,7 @@
   
   <url>
     <loc>http://gdquest.com/</loc>
-    <lastmod>2018-06-30T15:39:19+09:00</lastmod>
+    <lastmod>2016-04-19T05:54:04+00:00</lastmod>
   </url>
   
   <url>
@@ -266,6 +831,11 @@
   <url>
     <loc>http://gdquest.com/tags/anniversary/</loc>
     <lastmod>2017-05-04T08:42:22+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/</loc>
     <priority>0</priority>
   </url>
   
@@ -340,14 +910,14 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/tags/community/</loc>
-    <lastmod>2017-01-21T17:35:09+01:00</lastmod>
+    <loc>http://gdquest.com/category/community/</loc>
+    <lastmod>2016-01-11T09:16:10+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gdquest.com/category/community/</loc>
-    <lastmod>2016-01-11T09:16:10+01:00</lastmod>
+    <loc>http://gdquest.com/tags/community/</loc>
+    <lastmod>2017-01-21T17:35:09+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -418,6 +988,11 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/game-design/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/gamedev/</loc>
     <lastmod>2018-06-01T18:19:32+09:00</lastmod>
     <priority>0</priority>
@@ -454,20 +1029,20 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/tags/godot/</loc>
-    <lastmod>2017-10-10T09:03:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://gdquest.com/category/godot/</loc>
     <lastmod>2018-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/godot/</loc>
+    <lastmod>2017-10-10T09:03:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/godot-3/</loc>
-    <lastmod>2018-06-01T18:19:32+09:00</lastmod>
+    <lastmod>2018-06-30T15:39:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -492,6 +1067,18 @@
   <url>
     <loc>http://gdquest.com/tags/godot-kickstarter/</loc>
     <lastmod>2017-07-03T09:18:18+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/godot-user-interface-tutorial/</loc>
+    <lastmod>2018-06-30T15:39:19+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/</loc>
+    <lastmod>2018-04-12T09:04:58+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -654,14 +1241,14 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/tags/news/</loc>
-    <lastmod>2017-10-10T09:03:31+02:00</lastmod>
+    <loc>http://gdquest.com/category/news/</loc>
+    <lastmod>2017-11-05T16:29:59+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gdquest.com/category/news/</loc>
-    <lastmod>2017-11-05T16:29:59+01:00</lastmod>
+    <loc>http://gdquest.com/tags/news/</loc>
+    <lastmod>2017-10-10T09:03:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   

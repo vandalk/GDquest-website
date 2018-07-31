@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Custom camera, Tilesets and Animation on GDQuest</title>
+    <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/</link>
+    <description>Recent content in Custom camera, Tilesets and Animation on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Sun, 28 May 2017 15:03:38 +0000</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[TOOL] Top-Down Tileset Template (Open Source)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/8__topdown_tileset_template_/</link>
+      <pubDate>Sun, 28 May 2017 15:03:38 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/8__topdown_tileset_template_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to the Animation Tools in the Godot Game Engine</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/7_intro_to_the_animation_tools_in_the_godot_game_engine/</link>
+      <pubDate>Sat, 27 May 2017 17:00:28 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/7_intro_to_the_animation_tools_in_the_godot_game_engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to tilesets in the Godot Engine</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/4_introduction_to_tilesets_in_the_godot_engine/</link>
+      <pubDate>Fri, 26 May 2017 16:30:11 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/4_introduction_to_tilesets_in_the_godot_engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zelda-like Custom Camera: Instant room transitions in Godot</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/6_zeldalike_custom_camera_instant_room_transitions_in_godot/</link>
+      <pubDate>Thu, 25 May 2017 14:47:37 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/6_zeldalike_custom_camera_instant_room_transitions_in_godot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Camera in Godot 2: Let&#39;s simplify the code!</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/5_custom_camera_in_godot_2_lets_simplify_the_code/</link>
+      <pubDate>Thu, 25 May 2017 11:12:15 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/5_custom_camera_in_godot_2_lets_simplify_the_code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Camera in Godot, part 2: Follow the Player</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/3_custom_camera_in_godot_part_2_follow_the_player/</link>
+      <pubDate>Wed, 24 May 2017 19:20:44 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/3_custom_camera_in_godot_part_2_follow_the_player/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Camera in Godot, part 1: Transform the Canvas</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/2_custom_camera_in_godot_part_1_transform_the_canvas/</link>
+      <pubDate>Wed, 24 May 2017 12:26:15 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/2_custom_camera_in_godot_part_1_transform_the_canvas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to GDscript - Godot tutorial</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/1_introduction_to_gdscript__godot_tutorial/</link>
+      <pubDate>Sat, 01 Apr 2017 06:34:16 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/1_introduction_to_gdscript__godot_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to the Godot game engine</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/0_intro_to_the_godot_game_engine/</link>
+      <pubDate>Sat, 01 Apr 2017 06:32:05 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter1/0_intro_to_the_godot_game_engine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

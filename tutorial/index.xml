@@ -13,54 +13,5 @@
 	<atom:link href="http://gdquest.com/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Become a Game Developer: Your First Steps with Programming</title>
-      <link>http://gdquest.com/tutorial/game-design/godot/become-a-game-creator/first-steps-programming/</link>
-      <pubDate>Thu, 12 Apr 2018 09:04:58 +0900</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/game-design/godot/become-a-game-creator/first-steps-programming/</guid>
-      <description>You want to get started with game creation and programming but don&amp;rsquo;t know where to start? That&amp;rsquo;s what this series is all about!
-This first part is for you if you have little to no programming experience. You&amp;rsquo;re going to learn:
- That you should learn programming foundations first That Programming is for everyone. It&amp;rsquo;s not just about math and it&amp;rsquo;s not just for men or young people How to get started today  It is the first part of a Free and Open Source intro series to game creation and to the Godot game engine .</description>
-    </item>
-    
-    <item>
-      <title>30 Days of Godot 2 Tutorials</title>
-      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/</link>
-      <pubDate>Sat, 27 May 2017 15:25:47 +0200</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/</guid>
-      <description>These 30 Godot 2 tutorials were brought to you for free as part of the Kickstarter project Make Professional 2d Games with Godot. For more recent tutorials check out GDquest on Youtube !
-All the assets and the code open source on Github with extra comments to help you learn directly from the projects.</description>
-    </item>
-    
-    <item>
-      <title>Intro To Monster Design For 2d Games</title>
-      <link>http://gdquest.com/tutorial/art/monster-design/</link>
-      <pubDate>Wed, 15 Feb 2017 15:25:47 +0200</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/art/monster-design/</guid>
-      <description> The intro to monster design is the first free training released on GDquest. In about 40 minutes, it will run you through the thought process a game artist might follow to design monsters. It both covers the thought process behind the design of a monster and an example of monster drawing with pen, paper and Krita.
-Useful links  Free Krita tutorial for Game Artists  </description>
-    </item>
-    
-    <item>
-      <title>Intro to the Godot game engine</title>
-      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/</link>
-      <pubDate>Wed, 15 Feb 2017 15:25:47 +0200</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/</guid>
-      <description>Welcome to the first free tutorial series on GDquest that&amp;rsquo;s dedicated to Godot! Over the course of 1h, it&amp;rsquo;ll teach you some basic concepts with the engine.</description>
-    </item>
-    
-    <item>
-      <title>Free Krita Tutorial For Game Artists</title>
-      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/</link>
-      <pubDate>Mon, 08 Feb 2016 17:55:44 +0100</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/</guid>
-      <description>If you want to become a better 2-D game artist, this training is for you. It will teach you how to work with Krita, a mature open source digital painting program. In 6 chapters, we will explore the most important features krita has to offer to game artists.</description>
-    </item>
-    
   </channel>
 </rss>

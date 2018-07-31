@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Signals, UI and closing stream on GDQuest</title>
+    <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/</link>
+    <description>Recent content in Signals, UI and closing stream on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Fri, 30 Jun 2017 08:59:59 +0000</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to UI containers: Godot engine tutorial</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/31_intro_to_ui_containers_godot_engine_tutorial/</link>
+      <pubDate>Fri, 30 Jun 2017 08:59:59 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/31_intro_to_ui_containers_godot_engine_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tennis on steroids? Godot programming, Kickstarter finish</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/30_tennis_on_steroids_godot_programming_kickstarter_finish/</link>
+      <pubDate>Wed, 21 Jun 2017 10:59:57 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/30_tennis_on_steroids_godot_programming_kickstarter_finish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview of the 5 most common UI nodes in Godot</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/29_overview_of_the_5_most_common_ui_nodes_in_godot/</link>
+      <pubDate>Tue, 20 Jun 2017 13:56:53 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/29_overview_of_the_5_most_common_ui_nodes_in_godot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to signals in the Godot game engine</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/28_introduction_to_signals_in_the_godot_game_engine/</link>
+      <pubDate>Tue, 20 Jun 2017 08:16:23 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter5/28_introduction_to_signals_in_the_godot_game_engine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

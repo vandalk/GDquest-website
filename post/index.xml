@@ -14,6 +14,18 @@
     
     
     <item>
+      <title>Godot course release 10: User Interface</title>
+      <link>http://gdquest.com/post/2018/07/godot-course-update-9/</link>
+      <pubDate>Sat, 30 Jun 2018 15:39:19 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2018/07/godot-course-update-9/</guid>
+      <description>This month&amp;rsquo;s update adds 2 hours of tutorials dedicated to particles! There are now over 70 video tutorials in the course&amp;rsquo;s Pro version .
+Learn to design Game User Interface with Godot This chapter is only in the Indie and Pro versions of the course.
+You will learn:
+ How to keep your UI separate from your gameplay code Pause, and a simple pause menu using Godot&amp;rsquo;s UI themes An animated and configurable player lifebar Lifebars that automatically follow monsters and characters  Get the course!</description>
+    </item>
+    
+    <item>
       <title>Godot course release 9: particles!</title>
       <link>http://gdquest.com/post/2018/06/godot-course-update-9/</link>
       <pubDate>Sat, 30 Jun 2018 15:39:19 +0900</pubDate>
@@ -161,7 +173,7 @@ I’m doing it with the devs&amp;rsquo; support: Rémi (akien) followed the proj
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/post/2017/news/make-cartoon-game-characters-krita-out/</guid>
       <description>The second premium Krita game art course, Make Cel Shaded Game Characters, is out! It contains 14 tutorials that will help you improve your lighting fundamentals and show you how to make a game character.
-Get the course now! The course is based on Pepper and Carrot, the main 2 characters of a webcomic by David Revoy. It&amp;rsquo;s available under the CC-By 4.0 licence. It&amp;rsquo;s very common to work on an existing IP or world as a game artist, and David&amp;rsquo;s comic allows us to do just that.</description>
+Get the course now!The course is based on Pepper and Carrot, the main 2 characters of a webcomic by David Revoy. It&amp;rsquo;s available under the CC-By 4.0 licence. It&amp;rsquo;s very common to work on an existing IP or world as a game artist, and David&amp;rsquo;s comic allows us to do just that.</description>
     </item>
     
     <item>

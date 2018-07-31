@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tilemaps, Grids and Vectors on GDQuest</title>
+    <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/</link>
+    <description>Recent content in Tilemaps, Grids and Vectors on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Sun, 04 Jun 2017 12:57:04 +0000</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shortcuts to Code Faster in the GDscript Editor (Godot tutorial)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/15_shortcuts_to_code_faster_in_the_gdscript_editor_/</link>
+      <pubDate>Sun, 04 Jun 2017 12:57:04 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/15_shortcuts_to_code_faster_in_the_gdscript_editor_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Vectors for Game Creators (Collab with Pigdev)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/14_introduction_to_vectors_for_game_creators_/</link>
+      <pubDate>Sat, 03 Jun 2017 13:46:22 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/14_introduction_to_vectors_for_game_creators_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make the Player Move on a Grid in Godot: Grid-based Movement 4/4</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/13_make_the_player_move_on_a_grid_in_godot_gridbased_movement_44/</link>
+      <pubDate>Fri, 02 Jun 2017 13:07:41 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/13_make_the_player_move_on_a_grid_in_godot_gridbased_movement_44/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code a Robust Grid system in Godot with these 2 Functions: Grid-based movement 3/4</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/12_code_a_robust_grid_system_in_godot_with_these_2_functions_gridbased_movement_34/</link>
+      <pubDate>Thu, 01 Jun 2017 09:00:34 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/12_code_a_robust_grid_system_in_godot_with_these_2_functions_gridbased_movement_34/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create the Grid&#39;s Foundations in Godot: Grid-based movement 2/4</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/11_create_the_grids_foundations_in_godot_gridbased_movement_24/</link>
+      <pubDate>Wed, 31 May 2017 14:02:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/11_create_the_grids_foundations_in_godot_gridbased_movement_24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple Top-Down character movement in Godot: Grid-based movement 1/4</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/10_simple_topdown_character_movement_in_godot_gridbased_movement_14/</link>
+      <pubDate>Tue, 30 May 2017 16:03:25 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/10_simple_topdown_character_movement_in_godot_gridbased_movement_14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Import Maps from Tiled in Godot</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/9_how_to_import_maps_from_tiled_in_godot/</link>
+      <pubDate>Sun, 28 May 2017 15:24:12 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter2/9_how_to_import_maps_from_tiled_in_godot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

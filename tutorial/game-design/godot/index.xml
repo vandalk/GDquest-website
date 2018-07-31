@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Godots on GDQuest</title>
+    <link>http://gdquest.com/tutorial/game-design/godot/</link>
+    <description>Recent content in Godots on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Thu, 12 Apr 2018 09:04:58 +0900</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tutorial/game-design/godot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Become a Game Developer: Your First Steps with Programming</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/become-a-game-creator/first-steps-programming/</link>
+      <pubDate>Thu, 12 Apr 2018 09:04:58 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/become-a-game-creator/first-steps-programming/</guid>
+      <description>You want to get started with game creation and programming but don&amp;rsquo;t know where to start? That&amp;rsquo;s what this series is all about!
+This first part is for you if you have little to no programming experience. You&amp;rsquo;re going to learn:
+ That you should learn programming foundations first That Programming is for everyone. It&amp;rsquo;s not just about math and it&amp;rsquo;s not just for men or young people How to get started today  It is the first part of a Free and Open Source intro series to game creation and to the Godot game engine .</description>
+    </item>
+    
+  </channel>
+</rss>

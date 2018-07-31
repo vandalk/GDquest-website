@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Free Krita Tutorial For Game Artists on GDQuest</title>
+    <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/</link>
+    <description>Recent content in Free Krita Tutorial For Game Artists on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Mon, 08 Feb 2016 17:55:44 +0100</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

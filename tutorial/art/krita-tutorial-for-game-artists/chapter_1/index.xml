@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Get the most of the course on GDQuest</title>
+    <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/</link>
+    <description>Recent content in Get the most of the course on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Thu, 14 Apr 2016 06:27:21 +0000</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PureRef tutorial: a free, cross-platform virtual board for artists!</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/7_pureref_tutorial_a_free_crossplatform_virtual_board_for_artists/</link>
+      <pubDate>Thu, 14 Apr 2016 06:27:21 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/7_pureref_tutorial_a_free_crossplatform_virtual_board_for_artists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Picasa - a free program to organize your reference images</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/6_picasa__a_free_program_to_organize_your_reference_images/</link>
+      <pubDate>Tue, 12 Apr 2016 10:53:10 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/6_picasa__a_free_program_to_organize_your_reference_images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to setup a wacom tablet with Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/5_how_to_setup_a_wacom_tablet_with_krita/</link>
+      <pubDate>Thu, 07 Apr 2016 06:07:14 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/5_how_to_setup_a_wacom_tablet_with_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to graphic tablets</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/4_introduction_to_graphic_tablets/</link>
+      <pubDate>Tue, 05 Apr 2016 06:54:11 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/4_introduction_to_graphic_tablets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your Krita learning toolbox</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/3_your_krita_learning_toolbox/</link>
+      <pubDate>Thu, 31 Mar 2016 07:18:27 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/3_your_krita_learning_toolbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to take the most out of these Krita tutorials</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/2_how_to_take_the_most_out_of_these_krita_tutorials/</link>
+      <pubDate>Tue, 29 Mar 2016 10:05:27 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/2_how_to_take_the_most_out_of_these_krita_tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting common issues in Krita</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/1_troubleshooting_common_issues_in_krita/</link>
+      <pubDate>Mon, 28 Mar 2016 09:24:10 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/1_troubleshooting_common_issues_in_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Install Krita on Windows</title>
+      <link>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/0_how_to_install_krita_on_windows/</link>
+      <pubDate>Mon, 28 Mar 2016 09:24:01 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/0_how_to_install_krita_on_windows/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

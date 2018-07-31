@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Godot User Interface Tutorial on GDQuest</title>
+    <link>http://gdquest.com/tags/godot-user-interface-tutorial/</link>
+    <description>Recent content in Godot User Interface Tutorial on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Sat, 30 Jun 2018 15:39:19 +0900</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tags/godot-user-interface-tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Godot course release 10: User Interface</title>
+      <link>http://gdquest.com/post/2018/07/godot-course-update-9/</link>
+      <pubDate>Sat, 30 Jun 2018 15:39:19 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2018/07/godot-course-update-9/</guid>
+      <description>This month&amp;rsquo;s update adds 2 hours of tutorials dedicated to particles! There are now over 70 video tutorials in the course&amp;rsquo;s Pro version .
+Learn to design Game User Interface with Godot This chapter is only in the Indie and Pro versions of the course.
+You will learn:
+ How to keep your UI separate from your gameplay code Pause, and a simple pause menu using Godot&amp;rsquo;s UI themes An animated and configurable player lifebar Lifebars that automatically follow monsters and characters  Get the course!</description>
+    </item>
+    
+  </channel>
+</rss>

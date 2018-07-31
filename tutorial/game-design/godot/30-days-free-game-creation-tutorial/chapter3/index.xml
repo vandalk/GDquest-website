@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steering, the Kraken and isometric movement on GDQuest</title>
+    <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/</link>
+    <description>Recent content in Steering, the Kraken and isometric movement on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Sat, 10 Jun 2017 14:59:07 +0000</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to the Vector Dot Product: How to code a Field of View in Godot</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/21_intro_to_the_vector_dot_product_how_to_code_a_field_of_view_in_godot/</link>
+      <pubDate>Sat, 10 Jun 2017 14:59:07 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/21_intro_to_the_vector_dot_product_how_to_code_a_field_of_view_in_godot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] Isometric Grid-Based Movement in Godot 2</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/20__isometric_gridbased_movement_in_godot_2/</link>
+      <pubDate>Fri, 09 Jun 2017 12:49:16 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/20__isometric_gridbased_movement_in_godot_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Isometric Movement in Games</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/19_introduction_to_isometric_movement_in_games/</link>
+      <pubDate>Thu, 08 Jun 2017 16:52:35 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/19_introduction_to_isometric_movement_in_games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Kraken: Game Creature Art Process with 2dGameArtGuru</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/18_the_kraken_game_creature_art_process_with_2dgameartguru/</link>
+      <pubDate>Wed, 07 Jun 2017 13:32:46 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/18_the_kraken_game_creature_art_process_with_2dgameartguru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[TIPS] Script and Scene Sync in Godot: see your changes at runtime!</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/17__script_and_scene_sync_in_godot_see_your_changes_at_runtime/</link>
+      <pubDate>Tue, 06 Jun 2017 15:59:07 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/17__script_and_scene_sync_in_godot_see_your_changes_at_runtime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DEMO] Top-Down Car with Steering in Godot</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/16__topdown_car_with_steering_in_godot/</link>
+      <pubDate>Mon, 05 Jun 2017 16:09:54 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/30-days-free-game-creation-tutorial/chapter3/16__topdown_car_with_steering_in_godot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
