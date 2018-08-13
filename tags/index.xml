@@ -178,7 +178,7 @@
     <item>
       <title>Free</title>
       <link>http://gdquest.com/tags/free/</link>
-      <pubDate>Sat, 27 May 2017 15:25:47 +0200</pubDate>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/free/</guid>
       <description></description>
@@ -284,11 +284,29 @@
     </item>
     
     <item>
+      <title>Godot 2d Tutorial</title>
+      <link>http://gdquest.com/tags/godot-2d-tutorial/</link>
+      <pubDate>Mon, 30 Jul 2018 15:39:19 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-2d-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Godot 3</title>
       <link>http://gdquest.com/tags/godot-3/</link>
       <pubDate>Mon, 30 Jul 2018 15:39:19 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godot 3 Course Gdquest</title>
+      <link>http://gdquest.com/tags/godot-3-course-gdquest/</link>
+      <pubDate>Mon, 30 Jul 2018 15:39:19 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-3-course-gdquest/</guid>
       <description></description>
     </item>
     
@@ -320,11 +338,38 @@
     </item>
     
     <item>
+      <title>Godot Inventory Tutorial</title>
+      <link>http://gdquest.com/tags/godot-inventory-tutorial/</link>
+      <pubDate>Mon, 30 Jul 2018 15:39:19 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-inventory-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Godot Kickstarter</title>
       <link>http://gdquest.com/tags/godot-kickstarter/</link>
       <pubDate>Mon, 03 Jul 2017 09:18:18 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-kickstarter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godot Lifebar Tutorial</title>
+      <link>http://gdquest.com/tags/godot-lifebar-tutorial/</link>
+      <pubDate>Mon, 30 Jul 2018 15:39:19 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-lifebar-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godot Ui Tutorial</title>
+      <link>http://gdquest.com/tags/godot-ui-tutorial/</link>
+      <pubDate>Mon, 30 Jul 2018 15:39:19 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-ui-tutorial/</guid>
       <description></description>
     </item>
     
@@ -664,7 +709,7 @@
     <item>
       <title>Training</title>
       <link>http://gdquest.com/tags/training/</link>
-      <pubDate>Sat, 27 May 2017 15:25:47 +0200</pubDate>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/training/</guid>
       <description></description>

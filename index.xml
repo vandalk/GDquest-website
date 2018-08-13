@@ -61,6 +61,42 @@ These 3.5 hours of extra tutorials dedicated to Game User Interface will show yo
     </item>
     
     <item>
+      <title>Water Shadow and Masking</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/6-water-shadow-and-masking/</link>
+      <pubDate>Fri, 27 Jul 2018 16:29:57 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/6-water-shadow-and-masking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functions in ShaderScript</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/5-functions-in-shaderscript/</link>
+      <pubDate>Wed, 25 Jul 2018 16:29:54 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/5-functions-in-shaderscript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Merging the Two Waves Together</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/4-merging-the-two-waves-together/</link>
+      <pubDate>Mon, 23 Jul 2018 16:29:50 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/4-merging-the-two-waves-together/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Texture-based Deformation</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/3-texturebased-deformation/</link>
+      <pubDate>Wed, 04 Jul 2018 16:30:05 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/3-texturebased-deformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Godot course release 9: particles!</title>
       <link>http://gdquest.com/post/2018/06/godot-course-update-9/</link>
       <pubDate>Sat, 30 Jun 2018 15:39:19 +0900</pubDate>
@@ -69,6 +105,33 @@ These 3.5 hours of extra tutorials dedicated to Game User Interface will show yo
       <description>This month&amp;rsquo;s update adds 2 hours of tutorials dedicated to particles! There are now over 70 video tutorials in the course&amp;rsquo;s Pro version .
 The particles chapter shows how to create a variety of effects like smoke and explosions. We start with the very basics and wrap-up with a fireball and layered visual effects.
 If the first steps don&amp;rsquo;t change too much between effects, I wanted to show you tricks to build varied and complex effects with a small number of basic textures.</description>
+    </item>
+    
+    <item>
+      <title>Godot 3D shader tutorial : Water in 3D</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/2-water-in-3d/</link>
+      <pubDate>Sat, 16 Jun 2018 23:09:08 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/2-water-in-3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Animated Water and UV Coordinates</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/1-animated-water-and-uv-coordinates/</link>
+      <pubDate>Fri, 15 Jun 2018 02:47:02 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/1-animated-water-and-uv-coordinates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Shader Programming</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/0-intro-to-shader-programming/</link>
+      <pubDate>Fri, 15 Jun 2018 02:44:32 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/0-intro-to-shader-programming/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -593,10 +656,10 @@ In this course, you will learn:
     
     <item>
       <title>How to do double jumps and flip the character - Godot platform game tutorial</title>
-      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/9_how_to_do_double_jumps_and_flip_the_character__godot_platform_game_tutorial/</link>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/5-how-to-do-double-jumps-and-flip-the-character/</link>
       <pubDate>Wed, 12 Apr 2017 18:51:51 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/9_how_to_do_double_jumps_and_flip_the_character__godot_platform_game_tutorial/</guid>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/5-how-to-do-double-jumps-and-flip-the-character/</guid>
       <description></description>
     </item>
     
@@ -663,28 +726,28 @@ It is available in 3 different versions to fit your budget and your very needs.<
     
     <item>
       <title>How to make collisions work - Godot 2 tutorial</title>
-      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/8_how_to_make_collisions_work__godot_2_tutorial/</link>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/4-how-to-make-collisions-work-godot-2-tutorial/</link>
       <pubDate>Thu, 09 Feb 2017 07:42:37 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/8_how_to_make_collisions_work__godot_2_tutorial/</guid>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/4-how-to-make-collisions-work-godot-2-tutorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Input and Input Map - Godot Tutorial</title>
-      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/6_input_and_input_map__godot_tutorial/</link>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/2-input-and-input-map-godot-tutorial/</link>
       <pubDate>Tue, 07 Feb 2017 10:41:39 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/6_input_and_input_map__godot_tutorial/</guid>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/2-input-and-input-map-godot-tutorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to code JUMP mechanics - Godot tutorial</title>
-      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/7_how_to_code_jump_mechanics__godot_tutorial/</link>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/3-how-to-code-jump-mechanics-godot-tutorial/</link>
       <pubDate>Thu, 02 Feb 2017 10:16:14 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/7_how_to_code_jump_mechanics__godot_tutorial/</guid>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/3-how-to-code-jump-mechanics-godot-tutorial/</guid>
       <description></description>
     </item>
     
@@ -980,55 +1043,55 @@ It is available in 3 different versions to fit your budget and your very needs.<
     
     <item>
       <title>Godot tools: How to use VSCode with Godot</title>
-      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/4_godot_tools_how_to_use_vscode_with_godot/</link>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/0-godot-tools-how-to-use-vscode-with-godot/</link>
       <pubDate>Thu, 19 Jan 2017 08:43:26 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/4_godot_tools_how_to_use_vscode_with_godot/</guid>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/0-godot-tools-how-to-use-vscode-with-godot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intro to the Godot game engine</title>
-      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/0_intro_to_the_godot_game_engine/</link>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/0-intro-to-the-godot-game-engine/</link>
       <pubDate>Thu, 19 Jan 2017 08:43:26 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/0_intro_to_the_godot_game_engine/</guid>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/0-intro-to-the-godot-game-engine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction to GDscript - Godot tutorial</title>
-      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/1_introduction_to_gdscript__godot_tutorial/</link>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/1-introduction-to-gdscript/</link>
       <pubDate>Thu, 19 Jan 2017 08:43:26 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/1_introduction_to_gdscript__godot_tutorial/</guid>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/1-introduction-to-gdscript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Godot tutorial: Horizontal platform movement</title>
-      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/5_godot_tutorial_horizontal_platform_movement/</link>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/1-godot-tutorial-horizontal-platform-movement/</link>
       <pubDate>Thu, 19 Jan 2017 08:31:53 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/5_godot_tutorial_horizontal_platform_movement/</guid>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/1-godot-tutorial-horizontal-platform-movement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How we designed a runner game with Godot (collab with Pigdev)</title>
-      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/3_how_we_designed_a_runner_game_with_godot_/</link>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/3-how-we-designed-a-runner-game-with-godot-/</link>
       <pubDate>Fri, 30 Dec 2016 14:38:15 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/3_how_we_designed_a_runner_game_with_godot_/</guid>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/3-how-we-designed-a-runner-game-with-godot-/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Game Art Process - collab with Pigdev</title>
-      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/2_the_game_art_process__collab_with_pigdev/</link>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/2-the-game-art-process-collab-with-pigdev/</link>
       <pubDate>Thu, 29 Dec 2016 09:50:47 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/2_the_game_art_process__collab_with_pigdev/</guid>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/2-the-game-art-process-collab-with-pigdev/</guid>
       <description></description>
     </item>
     
@@ -1328,15 +1391,6 @@ Here are the top 3 results:
       <guid>http://gdquest.com/post/2016/programming/phaser-auto-completion-in-atom/</guid>
       <description>This little guide will show you how to use the tern-phaser plugin by Angelo with Atom.
 Installing tern This first part explains how to get npm, install tern and the tern-phaser plugin. The first thing that you need to ensure is that you have Node.js installed on your computer. You can download it on https://nodejs.org/en/. This will give you access to npm as well, a handy package manager for js libraries and plugins.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://gdquest.com/post/2018/08/godot-ui-course/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/post/2018/08/godot-ui-course/</guid>
-      <description>If you&amp;rsquo;re not a Kickstarter backer and you are only interested in UI design, we made this series available as a stand-alone product! So can get only the tutorials that you want at a fraction of the full course&amp;rsquo;s price.</description>
     </item>
     
     <item>

@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/</loc>
+    <lastmod>2018-07-27T16:29:57+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tutorial/art/monster-design/chapter2/</loc>
     <lastmod>2016-04-15T09:11:22+00:00</lastmod>
   </url>
@@ -98,13 +103,53 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2018/07/godot-course-update-user-interface/</loc>
     <lastmod>2018-07-30T15:39:19+09:00</lastmod>
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/6-water-shadow-and-masking/</loc>
+    <lastmod>2018-07-27T16:29:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/5-functions-in-shaderscript/</loc>
+    <lastmod>2018-07-25T16:29:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/4-merging-the-two-waves-together/</loc>
+    <lastmod>2018-07-23T16:29:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/3-texturebased-deformation/</loc>
+    <lastmod>2018-07-04T16:30:05+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2018/06/godot-course-update-9/</loc>
     <lastmod>2018-06-30T15:39:19+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/2-water-in-3d/</loc>
+    <lastmod>2018-06-16T23:09:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/1-animated-water-and-uv-coordinates/</loc>
+    <lastmod>2018-06-15T02:47:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/0-intro-to-shader-programming/</loc>
+    <lastmod>2018-06-15T02:44:32+00:00</lastmod>
   </url>
   
   <url>
@@ -393,7 +438,7 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/9_how_to_do_double_jumps_and_flip_the_character__godot_platform_game_tutorial/</loc>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/5-how-to-do-double-jumps-and-flip-the-character/</loc>
     <lastmod>2017-04-12T18:51:51+00:00</lastmod>
   </url>
   
@@ -448,17 +493,17 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/8_how_to_make_collisions_work__godot_2_tutorial/</loc>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/4-how-to-make-collisions-work-godot-2-tutorial/</loc>
     <lastmod>2017-02-09T07:42:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/6_input_and_input_map__godot_tutorial/</loc>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/2-input-and-input-map-godot-tutorial/</loc>
     <lastmod>2017-02-07T10:41:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/7_how_to_code_jump_mechanics__godot_tutorial/</loc>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/3-how-to-code-jump-mechanics-godot-tutorial/</loc>
     <lastmod>2017-02-02T10:16:14+00:00</lastmod>
   </url>
   
@@ -623,32 +668,32 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/4_godot_tools_how_to_use_vscode_with_godot/</loc>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/0-godot-tools-how-to-use-vscode-with-godot/</loc>
     <lastmod>2017-01-19T08:43:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/0_intro_to_the_godot_game_engine/</loc>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/0-intro-to-the-godot-game-engine/</loc>
     <lastmod>2017-01-19T08:43:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/1_introduction_to_gdscript__godot_tutorial/</loc>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/1-introduction-to-gdscript/</loc>
     <lastmod>2017-01-19T08:43:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/5_godot_tutorial_horizontal_platform_movement/</loc>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter2/1-godot-tutorial-horizontal-platform-movement/</loc>
     <lastmod>2017-01-19T08:31:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/3_how_we_designed_a_runner_game_with_godot_/</loc>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/3-how-we-designed-a-runner-game-with-godot-/</loc>
     <lastmod>2016-12-30T14:38:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/2_the_game_art_process__collab_with_pigdev/</loc>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-godot/chapter1/2-the-game-art-process-collab-with-pigdev/</loc>
     <lastmod>2016-12-29T09:50:47+00:00</lastmod>
   </url>
   
@@ -823,10 +868,6 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/post/2018/08/godot-ui-course/</loc>
-  </url>
-  
-  <url>
     <loc>http://gdquest.com/tags/add-on/</loc>
     <lastmod>2018-06-09T13:18:14+09:00</lastmod>
     <priority>0</priority>
@@ -914,14 +955,14 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/tags/community/</loc>
-    <lastmod>2017-01-21T17:35:09+01:00</lastmod>
+    <loc>http://gdquest.com/category/community/</loc>
+    <lastmod>2016-01-11T09:16:10+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gdquest.com/category/community/</loc>
-    <lastmod>2016-01-11T09:16:10+01:00</lastmod>
+    <loc>http://gdquest.com/tags/community/</loc>
+    <lastmod>2017-01-21T17:35:09+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -957,7 +998,7 @@
   
   <url>
     <loc>http://gdquest.com/tags/free/</loc>
-    <lastmod>2017-05-27T15:25:47+02:00</lastmod>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1033,19 +1074,31 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/tags/godot/</loc>
-    <lastmod>2017-10-10T09:03:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://gdquest.com/category/godot/</loc>
     <lastmod>2018-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/godot/</loc>
+    <lastmod>2017-10-10T09:03:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/godot-2d-tutorial/</loc>
+    <lastmod>2018-07-30T15:39:19+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/godot-3/</loc>
+    <lastmod>2018-07-30T15:39:19+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/godot-3-course-gdquest/</loc>
     <lastmod>2018-07-30T15:39:19+09:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1069,8 +1122,26 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/godot-inventory-tutorial/</loc>
+    <lastmod>2018-07-30T15:39:19+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/godot-kickstarter/</loc>
     <lastmod>2017-07-03T09:18:18+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/godot-lifebar-tutorial/</loc>
+    <lastmod>2018-07-30T15:39:19+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/godot-ui-tutorial/</loc>
+    <lastmod>2018-07-30T15:39:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1245,14 +1316,14 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/tags/news/</loc>
-    <lastmod>2017-10-10T09:03:31+02:00</lastmod>
+    <loc>http://gdquest.com/category/news/</loc>
+    <lastmod>2017-11-05T16:29:59+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gdquest.com/category/news/</loc>
-    <lastmod>2017-11-05T16:29:59+01:00</lastmod>
+    <loc>http://gdquest.com/tags/news/</loc>
+    <lastmod>2017-10-10T09:03:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1381,7 +1452,7 @@
   
   <url>
     <loc>http://gdquest.com/tags/training/</loc>
-    <lastmod>2017-05-27T15:25:47+02:00</lastmod>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

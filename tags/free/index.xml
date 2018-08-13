@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Sat, 27 May 2017 15:25:47 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/tags/free/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduction to Shaders in Godot</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/</guid>
+      <description>Learn to create shaders from scratch in Godot 3! This Free series focuses on 2d shaders, but we worked together with Baastian Olij to cover 3d water as well.</description>
+    </item>
     
     <item>
       <title>30 Days of Godot 2 Tutorials</title>

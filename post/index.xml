@@ -365,14 +365,5 @@ Here are the top 3 results:
 Installing tern This first part explains how to get npm, install tern and the tern-phaser plugin. The first thing that you need to ensure is that you have Node.js installed on your computer. You can download it on https://nodejs.org/en/. This will give you access to npm as well, a handy package manager for js libraries and plugins.</description>
     </item>
     
-    <item>
-      <title></title>
-      <link>http://gdquest.com/post/2018/08/godot-ui-course/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/post/2018/08/godot-ui-course/</guid>
-      <description>If you&amp;rsquo;re not a Kickstarter backer and you are only interested in UI design, we made this series available as a stand-alone product! So can get only the tutorials that you want at a fraction of the full course&amp;rsquo;s price.</description>
-    </item>
-    
   </channel>
 </rss>

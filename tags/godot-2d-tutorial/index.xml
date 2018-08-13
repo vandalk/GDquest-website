@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Godot 2d Tutorial on GDQuest</title>
+    <link>http://gdquest.com/tags/godot-2d-tutorial/</link>
+    <description>Recent content in Godot 2d Tutorial on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Mon, 30 Jul 2018 15:39:19 +0900</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tags/godot-2d-tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GUI and Inventory tutorials: Godot course release 10</title>
+      <link>http://gdquest.com/post/2018/07/godot-course-update-user-interface/</link>
+      <pubDate>Mon, 30 Jul 2018 15:39:19 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2018/07/godot-course-update-user-interface/</guid>
+      <description>The UI course update is up! That&amp;rsquo;s the biggest monthly release to date 😊
+These 3.5 hours of extra tutorials dedicated to Game User Interface will show you:
+ How to separate the UI code from the gameplay, using the node tree, signals, and yield features How to design reusable UI components with Godot&amp;rsquo;s theme system How to create an inventory system and item menu  The first UI chapter is in both the Indie and Pro versions of the course.</description>
+    </item>
+    
+  </channel>
+</rss>
