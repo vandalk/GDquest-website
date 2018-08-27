@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Godot Engine Ui on GDQuest</title>
+    <link>http://gdquest.com/tags/godot-engine-ui/</link>
+    <description>Recent content in Godot Engine Ui on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Mon, 13 Aug 2018 19:49:19 +0900</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tags/godot-engine-ui/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Godot Interface Design Course: standalone version</title>
+      <link>http://gdquest.com/post/2018/08/godot-ui-course/</link>
+      <pubDate>Mon, 13 Aug 2018 19:49:19 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2018/08/godot-ui-course/</guid>
+      <description>If you don&amp;rsquo;t have the full Godot 3 course and you are only interested in UI design, you can now get our UI master series as a stand-alone course! That way you only pay for the content you want! 😊
+This initial release contains 25 tutorials, for over 3h30 of content. You&amp;rsquo;ll learn to create:
+ A pause menu and manage pause An inventory system you can use for any type of game An item menu inspired by old-school Japanese RPGs Animated lifebars and gauges that follow monsters in the game  Get the Godot UI Tutorial!</description>
+    </item>
+    
+  </channel>
+</rss>
