@@ -1234,13 +1234,13 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/product/godot/</loc>
+    <loc>http://gdquest.com/tutorial/game-design/godot/</loc>
+    <lastmod>2018-04-12T09:04:58+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gdquest.com/tutorial/game-design/godot/</loc>
-    <lastmod>2018-04-12T09:04:58+09:00</lastmod>
+    <loc>http://gdquest.com/product/godot/</loc>
     <priority>0</priority>
   </url>
   
