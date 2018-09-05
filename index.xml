@@ -50,6 +50,27 @@
     </item>
     
     <item>
+      <title>Learn to Write Typed GDscript in Godot 3.1</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/gdscript/typed-gdscript/</link>
+      <pubDate>Tue, 04 Sep 2018 06:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/gdscript/typed-gdscript/</guid>
+      <description>GDscript is getting optional typing syntax in Godot 3.1. In this guide, you&amp;rsquo;ll learn:
+ How to use types in GDscript That strong types can help you avoid bugs  Where and how you use this new language feature is entirely up to you: you can use it only in some sensitive GDScript files, use it everywhere, or write code like you always did!
+Strong types can be used on variables, constants, functions, parameters, and return types.</description>
+    </item>
+    
+    <item>
+      <title>The Shop Course Series is Out Now</title>
+      <link>http://gdquest.com/post/2018/09/godot-shop-series/</link>
+      <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2018/09/godot-shop-series/</guid>
+      <description>This month&amp;rsquo;s course update wraps up the UI arc of the project. With 3 chapters, it&amp;rsquo;s more content than initially planned (a recurring theme at this point), hopefully for the better 😉
+The Shop tutorial series will show you how to both design and code a flexible shop system. It works for J-RPGs, Western RPGs, and any type of game, really. The logic behind the Inventory and the Shop chapters can apply to a wide range of menus.</description>
+    </item>
+    
+    <item>
       <title>Blender Power Sequencer 1.1 out: Faster edits ✂🎞</title>
       <link>http://gdquest.com/post/2018/08/power-sequencer-1.1/</link>
       <pubDate>Tue, 28 Aug 2018 09:49:11 +0900</pubDate>
@@ -232,7 +253,7 @@ Godot 3 just came out , and with some more work done on the official documentati
       <pubDate>Mon, 01 Jan 2018 19:47:10 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/blender/power-sequencer/docs/</guid>
-      <description>operators Add Crossfade Add Speed Add Transform Border Select Change Playback Speed Channel Offset Clear Fades Concatenate Strips Copy Selected Sequences Cycle Scenes Decrease Playback Speed Delete Direct Edit Crossfade Fade Strips Grab Closest Handle or Cut Grab Sequence Handle Import Local Footage Increase Playback Speed Mouse Cut Mouse Toggle Mute Mouse Trim Preview Last Cut Preview to selection Render for Web Ripple Delete Save Direct Smart Snap Snap Selection to Cursor Toggle Selected Mute Toggle Waveforms Trim to Surrounding Cuts Refresh AllAdd CrossfadeBased on the active strip, finds the closest next sequence of a similar type, moves it so it overlaps the active strip, and adds a gamma cross effect between them.</description>
+      <description>operators Add Speed Add Transform Border Select Change Playback Speed Channel Offset Concatenate Strips Copy Selected Sequences Add Crossfade Edit Crossfade Cycle Scenes Decrease Playback Speed Delete Direct Fade Strips Clear Fades Auto select and grab Grab Closest Handle or Cut Grab Sequence Handle Import Local Footage Increase Playback Speed Mouse Cut Mouse Toggle Mute Mouse Trim Preview Last Cut Preview to selection Render for Web Ripple Delete Save Direct Smart Snap Snap Selection to Cursor Toggle Selected Mute Toggle Waveforms Trim to Surrounding Cuts Refresh AllAdd SpeedAdd 2x speed to strip and set it&amp;rsquo;s frame end accordingly.</description>
     </item>
     
     <item>

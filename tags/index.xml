@@ -286,7 +286,7 @@
     <item>
       <title>Game Design</title>
       <link>http://gdquest.com/tags/game-design/</link>
-      <pubDate>Mon, 13 Aug 2018 19:49:19 +0900</pubDate>
+      <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/game-design/</guid>
       <description></description>
@@ -304,7 +304,7 @@
     <item>
       <title>Gdquest</title>
       <link>http://gdquest.com/tags/gdquest/</link>
-      <pubDate>Mon, 13 Aug 2018 19:49:19 +0900</pubDate>
+      <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/gdquest/</guid>
       <description></description>
@@ -338,6 +338,24 @@
     </item>
     
     <item>
+      <title>Gdscript Tutorial</title>
+      <link>http://gdquest.com/tags/gdscript-tutorial/</link>
+      <pubDate>Tue, 04 Sep 2018 06:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/gdscript-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gdscript Typed</title>
+      <link>http://gdquest.com/tags/gdscript-typed/</link>
+      <pubDate>Tue, 04 Sep 2018 06:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/gdscript-typed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Github</title>
       <link>http://gdquest.com/tags/github/</link>
       <pubDate>Wed, 22 Nov 2017 15:25:48 +0100</pubDate>
@@ -367,7 +385,7 @@
     <item>
       <title>Godot 3</title>
       <link>http://gdquest.com/tags/godot-3/</link>
-      <pubDate>Mon, 13 Aug 2018 19:49:19 +0900</pubDate>
+      <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-3/</guid>
       <description></description>
@@ -376,7 +394,7 @@
     <item>
       <title>Godot 3 Course</title>
       <link>http://gdquest.com/tags/godot-3-course/</link>
-      <pubDate>Mon, 13 Aug 2018 19:49:19 +0900</pubDate>
+      <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-3-course/</guid>
       <description></description>
@@ -392,9 +410,36 @@
     </item>
     
     <item>
+      <title>Godot 3 Tutorial</title>
+      <link>http://gdquest.com/tags/godot-3-tutorial/</link>
+      <pubDate>Tue, 04 Sep 2018 06:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-3-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godot 3.1</title>
+      <link>http://gdquest.com/tags/godot-3.1/</link>
+      <pubDate>Tue, 04 Sep 2018 06:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-3.1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godot 3.1 Gdscript</title>
+      <link>http://gdquest.com/tags/godot-3.1-gdscript/</link>
+      <pubDate>Tue, 04 Sep 2018 06:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-3.1-gdscript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Godot Control Tutorial</title>
       <link>http://gdquest.com/tags/godot-control-tutorial/</link>
-      <pubDate>Mon, 13 Aug 2018 19:49:19 +0900</pubDate>
+      <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-control-tutorial/</guid>
       <description></description>
@@ -421,7 +466,7 @@
     <item>
       <title>Godot Engine Ui</title>
       <link>http://gdquest.com/tags/godot-engine-ui/</link>
-      <pubDate>Mon, 13 Aug 2018 19:49:19 +0900</pubDate>
+      <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-engine-ui/</guid>
       <description></description>
@@ -430,7 +475,7 @@
     <item>
       <title>Godot Game Engine</title>
       <link>http://gdquest.com/tags/godot-game-engine/</link>
-      <pubDate>Mon, 13 Aug 2018 19:49:19 +0900</pubDate>
+      <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-game-engine/</guid>
       <description></description>
@@ -439,7 +484,7 @@
     <item>
       <title>Godot Interface Tutorial</title>
       <link>http://gdquest.com/tags/godot-interface-tutorial/</link>
-      <pubDate>Mon, 13 Aug 2018 19:49:19 +0900</pubDate>
+      <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-interface-tutorial/</guid>
       <description></description>
@@ -448,7 +493,7 @@
     <item>
       <title>Godot Inventory Tutorial</title>
       <link>http://gdquest.com/tags/godot-inventory-tutorial/</link>
-      <pubDate>Mon, 13 Aug 2018 19:49:19 +0900</pubDate>
+      <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-inventory-tutorial/</guid>
       <description></description>
@@ -466,16 +511,43 @@
     <item>
       <title>Godot Lifebar Tutorial</title>
       <link>http://gdquest.com/tags/godot-lifebar-tutorial/</link>
-      <pubDate>Mon, 13 Aug 2018 19:49:19 +0900</pubDate>
+      <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-lifebar-tutorial/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Godot Programming Tutorial</title>
+      <link>http://gdquest.com/tags/godot-programming-tutorial/</link>
+      <pubDate>Tue, 04 Sep 2018 06:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-programming-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godot Tutorial</title>
+      <link>http://gdquest.com/tags/godot-tutorial/</link>
+      <pubDate>Tue, 04 Sep 2018 06:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godot Typed Gdscript</title>
+      <link>http://gdquest.com/tags/godot-typed-gdscript/</link>
+      <pubDate>Tue, 04 Sep 2018 06:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-typed-gdscript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Godot Ui Tutorial</title>
       <link>http://gdquest.com/tags/godot-ui-tutorial/</link>
-      <pubDate>Mon, 13 Aug 2018 19:49:19 +0900</pubDate>
+      <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-ui-tutorial/</guid>
       <description></description>
@@ -484,7 +556,7 @@
     <item>
       <title>Godot User Interface Tutorial</title>
       <link>http://gdquest.com/tags/godot-user-interface-tutorial/</link>
-      <pubDate>Mon, 13 Aug 2018 19:49:19 +0900</pubDate>
+      <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-user-interface-tutorial/</guid>
       <description></description>
@@ -829,6 +901,15 @@
       <pubDate>Sun, 05 Nov 2017 16:29:59 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typed Gdscript</title>
+      <link>http://gdquest.com/tags/typed-gdscript/</link>
+      <pubDate>Tue, 04 Sep 2018 06:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/typed-gdscript/</guid>
       <description></description>
     </item>
     

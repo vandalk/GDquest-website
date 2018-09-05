@@ -8,10 +8,20 @@
     <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Mon, 13 Aug 2018 19:49:19 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 08:18:06 +0900</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/tags/godot-ui-tutorial/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Shop Course Series is Out Now</title>
+      <link>http://gdquest.com/post/2018/09/godot-shop-series/</link>
+      <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2018/09/godot-shop-series/</guid>
+      <description>This month&amp;rsquo;s course update wraps up the UI arc of the project. With 3 chapters, it&amp;rsquo;s more content than initially planned (a recurring theme at this point), hopefully for the better 😉
+The Shop tutorial series will show you how to both design and code a flexible shop system. It works for J-RPGs, Western RPGs, and any type of game, really. The logic behind the Inventory and the Shop chapters can apply to a wide range of menus.</description>
+    </item>
     
     <item>
       <title>Godot Interface Design Course: standalone version</title>

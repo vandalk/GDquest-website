@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Godot 3.1 on GDQuest</title>
+    <link>http://gdquest.com/tags/godot-3.1/</link>
+    <description>Recent content in Godot 3.1 on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Tue, 04 Sep 2018 06:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tags/godot-3.1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learn to Write Typed GDscript in Godot 3.1</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/gdscript/typed-gdscript/</link>
+      <pubDate>Tue, 04 Sep 2018 06:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/gdscript/typed-gdscript/</guid>
+      <description>GDscript is getting optional typing syntax in Godot 3.1. In this guide, you&amp;rsquo;ll learn:
+ How to use types in GDscript That strong types can help you avoid bugs  Where and how you use this new language feature is entirely up to you: you can use it only in some sensitive GDScript files, use it everywhere, or write code like you always did!
+Strong types can be used on variables, constants, functions, parameters, and return types.</description>
+    </item>
+    
+  </channel>
+</rss>
