@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shop Tutorial on GDQuest</title>
+    <link>http://gdquest.com/tags/shop-tutorial/</link>
+    <description>Recent content in Shop Tutorial on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Fri, 07 Sep 2018 10:02:15 +0900</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tags/shop-tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Create Professional User Interface in Godot</title>
+      <link>http://gdquest.com/product/godot/user-interface-series/</link>
+      <pubDate>Fri, 07 Sep 2018 10:02:15 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/product/godot/user-interface-series/</guid>
+      <description>In this course, you will learn how to best create User Interfaces for your games with the open source Godot Engine.
+This series is included in our larger Make Professional Games with Godot course. We made it as a standalone if you only want to learn about interface! So you only pay for the chapters you need 😄
+I&amp;rsquo;ve been one of the biggest contributors to Gdoot&amp;rsquo;s official UI tutorials, like the Intro to Godot&amp;rsquo;s UI system.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -50,6 +50,28 @@
     </item>
     
     <item>
+      <title>Create Professional User Interface in Godot</title>
+      <link>http://gdquest.com/product/godot/user-interface-series/</link>
+      <pubDate>Fri, 07 Sep 2018 10:02:15 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/product/godot/user-interface-series/</guid>
+      <description>In this course, you will learn how to best create User Interfaces for your games with the open source Godot Engine.
+This series is included in our larger Make Professional Games with Godot course. We made it as a standalone if you only want to learn about interface! So you only pay for the chapters you need 😄
+I&amp;rsquo;ve been one of the biggest contributors to Gdoot&amp;rsquo;s official UI tutorials, like the Intro to Godot&amp;rsquo;s UI system.</description>
+    </item>
+    
+    <item>
+      <title>Make Professional 2d Games with Godot</title>
+      <link>http://gdquest.com/product/godot/make-pro-2d-games/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/product/godot/make-pro-2d-games/</guid>
+      <description>Become a better game developer! With this course, you will learn to create the main mechanics and systems in your own games, using the Free Godot Game Engine.
+Unlike in many beginner courses that show how to code a specific game step-by-step, this one will teach you professional game creation techniques you can apply to any type of game!
+ Purchasing the Pro course is the best investment I have made.</description>
+    </item>
+    
+    <item>
       <title>Learn to Write Typed GDscript in Godot 3.1</title>
       <link>http://gdquest.com/tutorial/game-design/godot/gdscript/typed-gdscript/</link>
       <pubDate>Tue, 04 Sep 2018 06:00:00 +0000</pubDate>

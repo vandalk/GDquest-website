@@ -8,22 +8,31 @@
     <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Sep 2018 10:02:15 +0900</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/category/godot/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Godot course: available content</title>
-      <link>http://gdquest.com/product/godot/make-pro-2d-games/content/</link>
-      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      <title>Create Professional User Interface in Godot</title>
+      <link>http://gdquest.com/product/godot/user-interface-series/</link>
+      <pubDate>Fri, 07 Sep 2018 10:02:15 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/product/godot/make-pro-2d-games/content/</guid>
-      <description>Last update: August 30
-The course is still in early access, with currently 11/12 chapters available in the Pro version.
-The course comes in 3 versions. Indie contains all of Hobby, and Pro contains all chapters and extra resources:
- Hobby  Indie  Pro   If you&amp;rsquo;re only looking for UI tutorials, check out our standalone course:
-Create User Interface Godot CourseYou&amp;rsquo;ll find some free tutorial samples below.</description>
+      <guid>http://gdquest.com/product/godot/user-interface-series/</guid>
+      <description>In this course, you will learn how to best create User Interfaces for your games with the open source Godot Engine.
+This series is included in our larger Make Professional Games with Godot course. We made it as a standalone if you only want to learn about interface! So you only pay for the chapters you need 😄
+I&amp;rsquo;ve been one of the biggest contributors to Gdoot&amp;rsquo;s official UI tutorials, like the Intro to Godot&amp;rsquo;s UI system.</description>
+    </item>
+    
+    <item>
+      <title>Make Professional 2d Games with Godot</title>
+      <link>http://gdquest.com/product/godot/make-pro-2d-games/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/product/godot/make-pro-2d-games/</guid>
+      <description>Become a better game developer! With this course, you will learn to create the main mechanics and systems in your own games, using the Free Godot Game Engine.
+Unlike in many beginner courses that show how to code a specific game step-by-step, this one will teach you professional game creation techniques you can apply to any type of game!
+ Purchasing the Pro course is the best investment I have made.</description>
     </item>
     
   </channel>

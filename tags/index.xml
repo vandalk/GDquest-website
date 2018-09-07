@@ -185,11 +185,11 @@
     </item>
     
     <item>
-      <title>Course Content</title>
-      <link>http://gdquest.com/tags/course-content/</link>
-      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      <title>Control Nodes Tutorial</title>
+      <link>http://gdquest.com/tags/control-nodes-tutorial/</link>
+      <pubDate>Fri, 07 Sep 2018 10:02:15 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tags/course-content/</guid>
+      <guid>http://gdquest.com/tags/control-nodes-tutorial/</guid>
       <description></description>
     </item>
     
@@ -217,6 +217,24 @@
       <pubDate>Mon, 22 May 2017 12:00:18 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/crowdfunding-campaign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Art</title>
+      <link>http://gdquest.com/tags/digital-art/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/digital-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Painting</title>
+      <link>http://gdquest.com/tags/digital-painting/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/digital-painting/</guid>
       <description></description>
     </item>
     
@@ -268,7 +286,7 @@
     <item>
       <title>Game Creation</title>
       <link>http://gdquest.com/tags/game-creation/</link>
-      <pubDate>Tue, 09 May 2017 09:18:18 +0200</pubDate>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/game-creation/</guid>
       <description></description>
@@ -284,18 +302,36 @@
     </item>
     
     <item>
+      <title>Game Creation Tutorial</title>
+      <link>http://gdquest.com/tags/game-creation-tutorial/</link>
+      <pubDate>Fri, 07 Sep 2018 10:02:15 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/game-creation-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Game Design</title>
       <link>http://gdquest.com/tags/game-design/</link>
-      <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/game-design/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Game User Interface</title>
+      <link>http://gdquest.com/tags/game-user-interface/</link>
+      <pubDate>Fri, 07 Sep 2018 10:02:15 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/game-user-interface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gamedev</title>
       <link>http://gdquest.com/tags/gamedev/</link>
-      <pubDate>Fri, 01 Jun 2018 18:19:32 +0900</pubDate>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/gamedev/</guid>
       <description></description>
@@ -367,7 +403,7 @@
     <item>
       <title>Godot</title>
       <link>http://gdquest.com/tags/godot/</link>
-      <pubDate>Tue, 10 Oct 2017 09:03:31 +0200</pubDate>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot/</guid>
       <description></description>
@@ -446,15 +482,6 @@
     </item>
     
     <item>
-      <title>Godot Course</title>
-      <link>http://gdquest.com/tags/godot-course/</link>
-      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tags/godot-course/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Godot Course Update</title>
       <link>http://gdquest.com/tags/godot-course-update/</link>
       <pubDate>Fri, 01 Jun 2018 18:19:32 +0900</pubDate>
@@ -475,7 +502,7 @@
     <item>
       <title>Godot Game Engine</title>
       <link>http://gdquest.com/tags/godot-game-engine/</link>
-      <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
+      <pubDate>Fri, 07 Sep 2018 10:02:15 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-game-engine/</guid>
       <description></description>
@@ -484,7 +511,7 @@
     <item>
       <title>Godot Interface Tutorial</title>
       <link>http://gdquest.com/tags/godot-interface-tutorial/</link>
-      <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
+      <pubDate>Fri, 07 Sep 2018 10:02:15 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-interface-tutorial/</guid>
       <description></description>
@@ -545,6 +572,15 @@
     </item>
     
     <item>
+      <title>Godot Ui</title>
+      <link>http://gdquest.com/tags/godot-ui/</link>
+      <pubDate>Fri, 07 Sep 2018 10:02:15 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-ui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Godot Ui Tutorial</title>
       <link>http://gdquest.com/tags/godot-ui-tutorial/</link>
       <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
@@ -590,6 +626,15 @@
     </item>
     
     <item>
+      <title>Inventory Tutorial</title>
+      <link>http://gdquest.com/tags/inventory-tutorial/</link>
+      <pubDate>Fri, 07 Sep 2018 10:02:15 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/inventory-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Japan</title>
       <link>http://gdquest.com/tags/japan/</link>
       <pubDate>Sat, 31 Mar 2018 15:19:32 +0900</pubDate>
@@ -613,6 +658,15 @@
       <pubDate>Sat, 06 May 2017 13:37:08 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/kickstarter-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krita</title>
+      <link>http://gdquest.com/tags/krita/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/krita/</guid>
       <description></description>
     </item>
     
@@ -712,6 +766,15 @@
       <pubDate>Mon, 22 May 2017 12:00:18 +0200</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/learn-game-creation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn Game Development</title>
+      <link>http://gdquest.com/tags/learn-game-development/</link>
+      <pubDate>Fri, 07 Sep 2018 10:02:15 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/learn-game-development/</guid>
       <description></description>
     </item>
     
@@ -842,6 +905,15 @@
     </item>
     
     <item>
+      <title>Shop Tutorial</title>
+      <link>http://gdquest.com/tags/shop-tutorial/</link>
+      <pubDate>Fri, 07 Sep 2018 10:02:15 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/shop-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Static Html Engine</title>
       <link>http://gdquest.com/tags/static-html-engine/</link>
       <pubDate>Wed, 20 Apr 2016 09:34:58 +0200</pubDate>
@@ -928,15 +1000,6 @@
       <pubDate>Sat, 09 Jun 2018 13:18:14 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/video-editing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video List</title>
-      <link>http://gdquest.com/tags/video-list/</link>
-      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
-      <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/tags/video-list/</guid>
       <description></description>
     </item>
     

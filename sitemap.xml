@@ -103,6 +103,16 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/product/godot/user-interface-series/</loc>
+    <lastmod>2018-09-07T10:02:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/product/godot/make-pro-2d-games/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tutorial/game-design/godot/gdscript/typed-gdscript/</loc>
     <lastmod>2018-09-04T06:00:00+00:00</lastmod>
   </url>
@@ -190,11 +200,6 @@
   <url>
     <loc>http://gdquest.com/mentions-legales/</loc>
     <lastmod>2018-04-04T12:07:36+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://gdquest.com/product/godot/make-pro-2d-games/content/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1023,8 +1028,8 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/tags/course-content/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <loc>http://gdquest.com/tags/control-nodes-tutorial/</loc>
+    <lastmod>2018-09-07T10:02:15+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1043,6 +1048,18 @@
   <url>
     <loc>http://gdquest.com/tags/crowdfunding-campaign/</loc>
     <lastmod>2017-05-22T12:00:18+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/digital-art/</loc>
+    <lastmod>2017-05-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/digital-painting/</loc>
+    <lastmod>2017-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1078,7 +1095,7 @@
   
   <url>
     <loc>http://gdquest.com/tags/game-creation/</loc>
-    <lastmod>2017-05-09T09:18:18+02:00</lastmod>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1089,8 +1106,14 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/game-creation-tutorial/</loc>
+    <lastmod>2018-09-07T10:02:15+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/game-design/</loc>
-    <lastmod>2018-09-01T08:18:06+09:00</lastmod>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1101,13 +1124,19 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/game-user-interface/</loc>
+    <lastmod>2018-09-07T10:02:15+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tutorial/game-design/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://gdquest.com/tags/gamedev/</loc>
-    <lastmod>2018-06-01T18:19:32+09:00</lastmod>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1155,13 +1184,13 @@
   
   <url>
     <loc>http://gdquest.com/tags/godot/</loc>
-    <lastmod>2017-10-10T09:03:31+02:00</lastmod>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://gdquest.com/category/godot/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-07T10:02:15+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1214,12 +1243,6 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/tags/godot-course/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://gdquest.com/tags/godot-course-update/</loc>
     <lastmod>2018-06-01T18:19:32+09:00</lastmod>
     <priority>0</priority>
@@ -1233,13 +1256,13 @@
   
   <url>
     <loc>http://gdquest.com/tags/godot-game-engine/</loc>
-    <lastmod>2018-09-01T08:18:06+09:00</lastmod>
+    <lastmod>2018-09-07T10:02:15+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://gdquest.com/tags/godot-interface-tutorial/</loc>
-    <lastmod>2018-09-01T08:18:06+09:00</lastmod>
+    <lastmod>2018-09-07T10:02:15+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1280,6 +1303,12 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/godot-ui/</loc>
+    <lastmod>2018-09-07T10:02:15+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/godot-ui-tutorial/</loc>
     <lastmod>2018-09-01T08:18:06+09:00</lastmod>
     <priority>0</priority>
@@ -1294,11 +1323,6 @@
   <url>
     <loc>http://gdquest.com/tutorial/game-design/godot/</loc>
     <lastmod>2018-09-04T06:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://gdquest.com/product/godot/</loc>
     <priority>0</priority>
   </url>
   
@@ -1327,6 +1351,12 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/inventory-tutorial/</loc>
+    <lastmod>2018-09-07T10:02:15+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/japan/</loc>
     <lastmod>2018-03-31T15:19:32+09:00</lastmod>
     <priority>0</priority>
@@ -1347,6 +1377,12 @@
   <url>
     <loc>http://gdquest.com/krita/</loc>
     <lastmod>2016-02-08T17:55:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/krita/</loc>
+    <lastmod>2017-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1427,6 +1463,12 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/learn-game-development/</loc>
+    <lastmod>2018-09-07T10:02:15+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/level-design/</loc>
     <lastmod>2018-02-01T13:25:29+01:00</lastmod>
     <priority>0</priority>
@@ -1435,11 +1477,6 @@
   <url>
     <loc>http://gdquest.com/tags/make-2d-games/</loc>
     <lastmod>2017-05-22T12:00:18+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://gdquest.com/product/godot/make-pro-2d-games/</loc>
     <priority>0</priority>
   </url>
   
@@ -1526,7 +1563,7 @@
   
   <url>
     <loc>http://gdquest.com/product/</loc>
-    <lastmod>2017-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-07T10:02:15+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1551,6 +1588,12 @@
   <url>
     <loc>http://gdquest.com/tags/sequencer/</loc>
     <lastmod>2018-06-09T13:18:14+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/shop-tutorial/</loc>
+    <lastmod>2018-09-07T10:02:15+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1623,12 +1666,6 @@
   <url>
     <loc>http://gdquest.com/tags/video-editing/</loc>
     <lastmod>2018-06-09T13:18:14+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://gdquest.com/tags/video-list/</loc>
-    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
