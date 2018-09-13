@@ -20,8 +20,8 @@
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tutorial/game-design/godot/gdscript/typed-gdscript/</guid>
       <description>GDscript is getting optional typing syntax in Godot 3.1. In this guide, you&amp;rsquo;ll learn:
- How to use types in GDscript That strong types can help you avoid bugs  Where and how you use this new language feature is entirely up to you: you can use it only in some sensitive GDScript files, use it everywhere, or write code like you always did!
-Strong types can be used on variables, constants, functions, parameters, and return types.</description>
+ How to use types in GDscript That static types can help you avoid bugs  Where and how you use this new language feature is entirely up to you: you can use it only in some sensitive GDScript files, use it everywhere, or write code like you always did!
+Static types can be used on variables, constants, functions, parameters, and return types.</description>
     </item>
     
   </channel>

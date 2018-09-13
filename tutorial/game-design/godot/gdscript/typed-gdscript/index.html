@@ -1,64 +1,4 @@
-<!DOCTYPE html>
-<html data-theme="default">
-
-  <head>
-  <title>Learn to Write Typed GDscript in Godot 3.1  &middot; GDQuest</title>
-
-  
-  <link rel="canonical" href="http://gdquest.com/tutorial/game-design/godot/gdscript/typed-gdscript/" />
-
-  <link href="http://gdquest.com/favicon.png" rel="icon">
-  
-
-  
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:600,700,800" rel="stylesheet">
-
-  
-  <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
-
-  <link rel="stylesheet" href="/css/gdquest.css">
-
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-
-<meta name="description" content="GDscript is getting optional typing syntax in Godot 3.1! Get started with it in this intro tutorial." />
-
-<meta name="keywords" content="gdscript typed, typed gdscript, gdscript tutorial, godot programming tutorial, godot typed gdscript, godot tutorial, godot 3.1, godot 3.1 gdscript, godot 3 tutorial, gdscript tutorial, ">
- <link rel="author" href="http://plus.google.com/+Gdquest"> 
-
-
-<meta property="og:title" content="Learn to Write Typed GDscript in Godot 3.1  &middot; GDQuest ">
-<meta property="og:site_name" content="GDQuest"/>
-<meta property="og:url" content="http://gdquest.com/tutorial/game-design/godot/gdscript/typed-gdscript/" />
-<meta property="og:locale" content="en-us">
-
-<meta property="og:type" content="article" />
-<meta property="og:description" content="GDscript is getting optional typing syntax in Godot 3.1! Get started with it in this intro tutorial."/>
-<meta property="og:article:published_time" content="2018-09-04T06:00:00Z" />
-<meta property="og:article:modified_time" content="2018-09-04T06:00:00Z" />
-
-<meta property="og:image" content="http://gdquest.com/tutorial/game-design/godot/gdscript/typed-gdscript/img/banner.png" />
-
-  <meta property="og:article:tag" content="gdscript typed">  <meta property="og:article:tag" content="typed gdscript">  <meta property="og:article:tag" content="gdscript tutorial">  <meta property="og:article:tag" content="godot programming tutorial">  <meta property="og:article:tag" content="godot typed gdscript">  <meta property="og:article:tag" content="godot tutorial">  <meta property="og:article:tag" content="godot 3.1">  <meta property="og:article:tag" content="godot 3.1 gdscript">  <meta property="og:article:tag" content="godot 3 tutorial">  <meta property="og:article:tag" content="gdscript tutorial">  
-
-
-
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="@NathanGDquest" />
-<meta name="twitter:creator" content="@NathanGDquest" />
-<meta name="twitter:title" content="Learn to Write Typed GDscript in Godot 3.1" />
-<meta name="twitter:description" content="GDscript is getting optional typing syntax in Godot 3.1! Get started with it in this intro tutorial." />
-<meta name="twitter:url" content="http://gdquest.com/tutorial/game-design/godot/gdscript/typed-gdscript/" />
-<meta name="twitter:domain" content="http://gdquest.com/">
-
-
-<script type="application/ld+json">
-{
+<!DOCTYPE html><html data-theme="default"><head><title>Learn to Write Typed GDscript in Godot 3.1 &middot; GDQuest</title><link rel="canonical" href="http://gdquest.com/tutorial/game-design/godot/gdscript/typed-gdscript/"><link href="http://gdquest.com/favicon.png" rel="icon"><link href="https://fonts.googleapis.com/css?family=Montserrat:600,700,800" rel="stylesheet"><script defer="defer" src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script><link rel="stylesheet" href="/css/gdquest.css"><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="HandheldFriendly" content="True"><meta name="MobileOptimized" content="320"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="GDscript is getting optional typing syntax in Godot 3.1! Get started with it in this intro tutorial."><meta name="keywords" content="gdscript typed, typed gdscript, gdscript tutorial, godot programming tutorial, godot typed gdscript, godot tutorial, godot 3.1, godot 3.1 gdscript, godot 3 tutorial, gdscript tutorial, "><link rel="author" href="http://plus.google.com/+Gdquest"><meta property="og:title" content="Learn to Write Typed GDscript in Godot 3.1  &middot; GDQuest "><meta property="og:site_name" content="GDQuest"><meta property="og:url" content="http://gdquest.com/tutorial/game-design/godot/gdscript/typed-gdscript/"><meta property="og:locale" content="en-us"><meta property="og:type" content="article"><meta property="og:description" content="GDscript is getting optional typing syntax in Godot 3.1! Get started with it in this intro tutorial."><meta property="og:article:published_time" content="2018-09-04T06:00:00Z"><meta property="og:article:modified_time" content="2018-09-04T06:00:00Z"><meta property="og:image" content="http://gdquest.com/tutorial/game-design/godot/gdscript/typed-gdscript/img/banner.png"><meta property="og:article:tag" content="gdscript typed"><meta property="og:article:tag" content="typed gdscript"><meta property="og:article:tag" content="gdscript tutorial"><meta property="og:article:tag" content="godot programming tutorial"><meta property="og:article:tag" content="godot typed gdscript"><meta property="og:article:tag" content="godot tutorial"><meta property="og:article:tag" content="godot 3.1"><meta property="og:article:tag" content="godot 3.1 gdscript"><meta property="og:article:tag" content="godot 3 tutorial"><meta property="og:article:tag" content="gdscript tutorial"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@NathanGDquest"><meta name="twitter:creator" content="@NathanGDquest"><meta name="twitter:title" content="Learn to Write Typed GDscript in Godot 3.1"><meta name="twitter:description" content="GDscript is getting optional typing syntax in Godot 3.1! Get started with it in this intro tutorial."><meta name="twitter:url" content="http://gdquest.com/tutorial/game-design/godot/gdscript/typed-gdscript/"><meta name="twitter:domain" content="http://gdquest.com/"><script type="application/ld+json">{
     "@context": "http://schema.org",
     "@type": "Article",
     "headline": "Learn to Write Typed GDscript in Godot 3.1",
@@ -68,128 +8,8 @@
     },
     "datePublished": "2018-09-04",
     "description": "GDscript is getting optional typing syntax in Godot 3.1! Get started with it in this intro tutorial.",
-    "wordCount": 1826
-}
-</script>
-
-
-<meta name="generator" content="Hugo 0.48" />
-
-</head>
-
-
-  <body>
-		<header class="darkbg" id="header">
-
-			<input type="checkbox" id="nav_toggle_cb">
-			<div id="topbar" class="container flex align-items-center" data-font="title semibold uppercase">
-				<span class="flex align-items-center">
-					<a href="http://gdquest.com/">
-						<img src="/img/header_logo.png" alt="GDQuest"/>
-					</a>
-					<label for="nav_toggle_cb" id="menu_btn"><i class="fas fa-bars icon"></i></label>
-				</span>
-    		
-<nav class="flex full align-items-center justify-space-between">
-	<section id="page_links">
-		 
-    	<a  href="/tutorial/">
-    		Tuts
-    	</a>
-    
-    	<a  href="/product/">
-    		products
-    	</a>
-    
-    	<a  href="/about/">
-    		About
-    	</a>
-    
-    	<a  href="/post/">
-    		News
-    	</a>
-    
-	</section>
-
-	<div data-font="centered">
-		<section id="social_links">
-			
-	      <a target="_blank" href="https://www.youtube.com/c/gdquest" target="_blank">
-	      	<i class="fab fa-youtube" title="GDquest Youtube channel"></i>
-	      </a>
-	    
-	      <a target="_blank" href="https://www.facebook.com/gdquest" target="_blank">
-	      	<i class="fab fa-facebook" title="GDquest Facebook page"></i>
-	      </a>
-	    
-	      <a target="_blank" href="https://twitter.com/NathanGDquest" target="_blank">
-	      	<i class="fab fa-twitter" title="GDquest Twitter page"></i>
-	      </a>
-	    
-		</section>
-
-		<a target="_blank" id="shop_link" href="https://gumroad.com/gdquest" class="btn shop">
-			Shop
-		</a>
-	</div>
-</nav>
-			</div>
-
-			<section class="container" id="header_content">
-				
-<div class="blurred-fill"
-     
-     style="background-image: url(img/banner.png)"
-     ></div>
-<div class="grid center small-v-padding content">
-    <div>
-        <h1 class="no-margin">Learn to Write Typed GDscript in Godot 3.1</h1>
-        
-        
-            
-            <p>by: Nathan Lovato </p>
-            
-        
-    </div>
-</div>
-
-			</section>
-		</header>
-
-		<main>
-			
-<div class="grid center container">
-    <article class="base-v-padding">
-        
-        <img src="img/banner.png" alt="">
-        
-        
-
-<p>GDscript is getting <strong>optional</strong> typing syntax in Godot 3.1. In this guide, you&rsquo;ll learn:</p>
-
-<ul>
-<li><strong>How to use types in GDscript</strong></li>
-<li>That <strong>strong types can help you avoid bugs</strong></li>
-</ul>
-
-<p>Where and how you use this new language feature is entirely up to you: you can use it only in some sensitive GDScript files, use it everywhere, or write code like you always did!</p>
-
-<p>Strong types can be used on variables, constants, functions, parameters, and return types.</p>
-
-
-
-<aside class="note">
-    Typed GDscript is not available in Godot 3.0. It will be available from Godot 3.1.
-</aside>
-
-
-<h2 id="why-you-should-learn-to-use-typed-gdscript">Why You Should Learn to Use Typed GDScript</h2>
-
-<p>With typed GDscript, Godot can detect even more errors as you write code! It gives you and your teammates more information as you&rsquo;re working, as the arguments&rsquo; types show up when you call a method.</p>
-
-<p>Imagine you&rsquo;re programming an inventory system. You code an <code>Item</code> node, then an <code>Inventory</code>. To add items to the inventory, the people who work with your code should always pass an <code>Item</code> to the <code>Inventory.add</code> method. With types, you can force them to:</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#e6db74">&#34;&#34;&#34;in Item.gd&#34;&#34;&#34;</span>
+    "wordCount": 1852
+}</script><meta name="generator" content="Hugo 0.48"></head><body><header class="darkbg" id="header"><input type="checkbox" id="nav_toggle_cb"><div id="topbar" class="container flex align-items-center" data-font="title semibold uppercase"><span class="flex align-items-center"><a href="http://gdquest.com/"><img src="/img/header_logo.png" alt="GDQuest"></a><label for="nav_toggle_cb" id="menu_btn"><i class="fas fa-bars icon"></i></label></span><nav class="flex full align-items-center justify-space-between"><section id="page_links"><a href="/tutorial/">Tuts </a><a href="/product/">products </a><a href="/about/">About </a><a href="/post/">News</a></section><div data-font="centered"><section id="social_links"><a target="_blank" href="https://www.youtube.com/c/gdquest" target="_blank"><i class="fab fa-youtube" title="GDquest Youtube channel"></i> </a><a target="_blank" href="https://www.facebook.com/gdquest" target="_blank"><i class="fab fa-facebook" title="GDquest Facebook page"></i> </a><a target="_blank" href="https://twitter.com/NathanGDquest" target="_blank"><i class="fab fa-twitter" title="GDquest Twitter page"></i></a></section><a target="_blank" id="shop_link" href="https://gumroad.com/gdquest" class="btn shop">Shop</a></div></nav></div><section class="container" id="header_content"><div class="blurred-fill" style="background-image: url(img/banner.png)"></div><div class="grid center small-v-padding content"><div><h1 class="no-margin">Learn to Write Typed GDscript in Godot 3.1</h1><p>by: Nathan Lovato</p></div></div></section></header><main><div class="grid center container"><article class="base-v-padding"><img src="img/banner.png" alt=""><p>GDscript is getting <strong>optional</strong> typing syntax in Godot 3.1. In this guide, you&rsquo;ll learn:</p><ul><li><strong>How to use types in GDscript</strong></li><li>That <strong>static types can help you avoid bugs</strong></li></ul><p>Where and how you use this new language feature is entirely up to you: you can use it only in some sensitive GDScript files, use it everywhere, or write code like you always did!</p><p>Static types can be used on variables, constants, functions, parameters, and return types.</p><aside class="note">Typed GDscript is not available in Godot 3.0. It will be available from Godot 3.1.</aside><h2 id="why-you-should-learn-to-use-typed-gdscript">Why You Should Learn to Use Typed GDScript</h2><p>With typed GDscript, Godot can detect even more errors as you write code! It gives you and your teammates more information as you&rsquo;re working, as the arguments&rsquo; types show up when you call a method.</p><p>Imagine you&rsquo;re programming an inventory system. You code an <code>Item</code> node, then an <code>Inventory</code>. To add items to the inventory, the people who work with your code should always pass an <code>Item</code> to the <code>Inventory.add</code> method. With types, you can force them to:</p><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#e6db74">&#34;&#34;&#34;in Item.gd&#34;&#34;&#34;</span>
 class_name Item
 
 <span style="color:#e6db74">&#34;&#34;&#34;in Inventory.gd&#34;&#34;&#34;</span>
@@ -199,128 +19,20 @@ class_name Inventory
 	<span style="color:#66d9ef">var</span> item <span style="color:#f92672">=</span> find_item(reference)
 	<span style="color:#66d9ef">if</span> <span style="color:#f92672">not</span> item:
 		item <span style="color:#f92672">=</span> _instance_item_from_db(reference)
-	item<span style="color:#f92672">.</span>amount <span style="color:#f92672">+=</span> amount</code></pre></div>
-
-<!-- TODO: in nightly build, I don't get the function definition popup
-When you use the `Inventory` in your project, you don't have to open the source script to know what the `reference` argument should be: -->
-
-<p>Another significant advantage of typed GDScript is the new <strong>warning system</strong>. From version 3.1, Godot gives you warnings about your code as you write it: the engine identifies sections of your code that may lead to issues at runtime, but lets you decide whether or not you want to leave the code as it is. More on that in a moment.</p>
-
-<p>Strong types also give you better code completion options. Below, you can see the difference between a dynamic vs. a strongly typed completion options for a class called <code>PlayerController</code>.</p>
-
-<p>You&rsquo;ve probably stored a node in a variable before, and typed a dot to be left with no autocomplete suggestions:</p>
-
-<p><img src="./img/code-completion-dynamic.png" alt="code completion options for dynamic" /></p>
-
-<p>This is due to dynamic code. Godot cannot know what node or value type you&rsquo;re passing to the function. If you write the type explicitely however, you will get all public methods and variables from the node:</p>
-
-<p><img src="./img/code-completion-typed.png" alt="code completion options for typed" /></p>
-
-<p>In the future, typed GDScript will also increase code performance: Just In Time compilation and other compiler improvements are already on the roadmap!</p>
-
-<p>Overall, typed programming gives you a more structured experience. It helps prevent errors and improves the self-documenting aspect of your scripts. This is especially helpful when you&rsquo;re working in a team or on a long-term project: studies have shown that developers spend most of their time reading other people&rsquo;s code, or scripts they wrote in the past and forgot about. The clearer and the more structured the code, the faster is it to understand, the faster you can move forward.</p>
-
-<h2 id="how-to-use-strong-typing-in-godot-3-1">How to Use Strong Typing in Godot 3.1</h2>
-
-<p>To define the type of a variable or a constant, write a colon after the variable&rsquo;s name, followed by its type. E.g. <code>var health : int</code>. The <code>: type</code> notation is called a type hint:</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">var</span> damage : <span style="color:#a6e22e">float</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">10.5</span>
-<span style="color:#66d9ef">const</span> MOVE_SPEED : <span style="color:#a6e22e">float</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">50.0</span></code></pre></div>
-
-<p>Godot will try to infer types if you write a colon, but you omit the type:</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">var</span> life_points : <span style="color:#f92672">=</span> <span style="color:#ae81ff">4</span>
+	item<span style="color:#f92672">.</span>amount <span style="color:#f92672">+=</span> amount</code></pre></div><!-- TODO: in nightly build, I don't get the function definition popup
+When you use the `Inventory` in your project, you don't have to open the source script to know what the `reference` argument should be: --><p>Another significant advantage of typed GDScript is the new <strong>warning system</strong>. From version 3.1, Godot gives you warnings about your code as you write it: the engine identifies sections of your code that may lead to issues at runtime, but lets you decide whether or not you want to leave the code as it is. More on that in a moment.</p><p>Static types also give you better code completion options. Below, you can see the difference between a dynamic vs. a static typed completion options for a class called <code>PlayerController</code>.</p><p>You&rsquo;ve probably stored a node in a variable before, and typed a dot to be left with no autocomplete suggestions:</p><p><img src="./img/code-completion-dynamic.png" alt="code completion options for dynamic"></p><p>This is due to dynamic code. Godot cannot know what node or value type you&rsquo;re passing to the function. If you write the type explicitely however, you will get all public methods and variables from the node:</p><p><img src="./img/code-completion-typed.png" alt="code completion options for typed"></p><p>In the future, typed GDScript will also increase code performance: Just In Time compilation and other compiler improvements are already on the roadmap!</p><p>Overall, typed programming gives you a more structured experience. It helps prevent errors and improves the self-documenting aspect of your scripts. This is especially helpful when you&rsquo;re working in a team or on a long-term project: studies have shown that developers spend most of their time reading other people&rsquo;s code, or scripts they wrote in the past and forgot about. The clearer and the more structured the code, the faster is it to understand, the faster you can move forward.</p><h2 id="how-to-use-static-typing-in-godot-3-1">How to Use Static Typing in Godot 3.1</h2><p>To define the type of a variable or a constant, write a colon after the variable&rsquo;s name, followed by its type. E.g. <code>var health : int</code>. This forces the type of variable to always stay the same:</p><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">var</span> damage : <span style="color:#a6e22e">float</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">10.5</span>
+<span style="color:#66d9ef">const</span> MOVE_SPEED : <span style="color:#a6e22e">float</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">50.0</span></code></pre></div><p>Godot will try to infer types if you write a colon, but you omit the type:</p><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">var</span> life_points : <span style="color:#f92672">=</span> <span style="color:#ae81ff">4</span>
 <span style="color:#66d9ef">var</span> damage : <span style="color:#f92672">=</span> <span style="color:#ae81ff">10.5</span>
-<span style="color:#66d9ef">var</span> motion : <span style="color:#f92672">=</span> <span style="color:#a6e22e">Vector2</span>()</code></pre></div>
-
-<p>Currently you can use three types of&hellip; types:</p>
-
-<ol>
-<li><a href="http://docs.godotengine.org/en/3.0/getting_started/scripting/gdscript/gdscript_basics.html#built-in-types">Built-in types</a></li>
-<li>Core classes and nodes (<code>Object</code>, <code>Node</code>, <code>Area2D</code>, <code>Camera2D</code>, etc.)</li>
-<li>Your own, custom nodes. Look at the new <a href="https://godot.readthedocs.io/en/latest/getting_started/step_by_step/scripting_continued.html#register-scripts-as-classes">class_name</a> feature to register types in the editor.</li>
-</ol>
-
-
-
-<aside class="note">
-    You don&rsquo;t need to write type hints for constants as Godot sets it automatically from the assigned value. But you can still do so to make the intent of your code clearer.
-</aside>
-
-
-<h3 id="custom-variable-types">Custom Variable Types</h3>
-
-<p>You can use any node, including your custom classes, as types. There are two ways to use them in scripts. The first method is to preload the script you want to use as a type in a constant:</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">const</span> Rifle <span style="color:#f92672">=</span> preload(<span style="color:#e6db74">&#39;res://player/weapons/Rifle.gd&#39;</span>)
-<span style="color:#66d9ef">var</span> my_rifle : Rifle</code></pre></div>
-
-<p>The second method is to use the <code>class_name</code> keyword when you create. For the example above, your Rifle.gd would look like this:</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">extends</span> <span style="color:#a6e22e">Node2D</span>
-class_name Rifle</code></pre></div>
-
-<p>If you use <code>class_name</code>, Godot registers the Rifle type globally in the editor, and you can use it anywhere without having to preload it into a constant:</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">var</span> my_rifle : Rifle</code></pre></div>
-
-<h3 id="variable-casting">Variable Casting</h3>
-
-<p>Type casting is a key concept in typed languages. We call the conversion of a value from from one type of another casting.</p>
-
-<p>Imagine an Enemy in your game, that <code>extends Area2D</code>. You want it to collide with the Player, a <code>KinematicBody2D</code> with a script called <code>PlayerController</code> attached to it. You use the <code>on_body_entered</code> signal to detect the collision. With typed code, the body you detect is going to be a generic <code>PhysicsBody2D</code>, and not your <code>PlayerController</code> on the <code>_on_body_entered</code> callback.</p>
-
-<p>You can check if this <code>PhysicsBody2D</code> is your Player with the <code>as</code> casting keyword:</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">func</span> _on_body_entered(body : <span style="color:#a6e22e">PhysicsBody2D</span>) <span style="color:#f92672">-&gt;</span> void:
-    <span style="color:#66d9ef">var</span> player <span style="color:#f92672">=</span> body as PlayerController
+<span style="color:#66d9ef">var</span> motion : <span style="color:#f92672">=</span> <span style="color:#a6e22e">Vector2</span>()</code></pre></div><p>Currently you can use three types of&hellip; types:</p><ol><li><a href="http://docs.godotengine.org/en/3.0/getting_started/scripting/gdscript/gdscript_basics.html#built-in-types">Built-in types</a></li><li>Core classes and nodes (<code>Object</code>, <code>Node</code>, <code>Area2D</code>, <code>Camera2D</code>, etc.)</li><li>Your own, custom classes. Look at the new <a href="https://godot.readthedocs.io/en/latest/getting_started/step_by_step/scripting_continued.html#register-scripts-as-classes">class_name</a> feature to register types in the editor.</li></ol><aside class="note">You don&rsquo;t need to write type hints for constants as Godot sets it automatically from the assigned value. But you can still do so to make the intent of your code clearer.</aside><h3 id="custom-variable-types">Custom Variable Types</h3><p>You can use any class, including your custom classes, as types. There are two ways to use them in scripts. The first method is to preload the script you want to use as a type in a constant:</p><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">const</span> Rifle <span style="color:#f92672">=</span> preload(<span style="color:#e6db74">&#39;res://player/weapons/Rifle.gd&#39;</span>)
+<span style="color:#66d9ef">var</span> my_rifle : Rifle</code></pre></div><p>The second method is to use the <code>class_name</code> keyword when you create. For the example above, your Rifle.gd would look like this:</p><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">extends</span> <span style="color:#a6e22e">Node2D</span>
+class_name Rifle</code></pre></div><p>If you use <code>class_name</code>, Godot registers the Rifle type globally in the editor, and you can use it anywhere without having to preload it into a constant:</p><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">var</span> my_rifle : Rifle</code></pre></div><h3 id="variable-casting">Variable Casting</h3><p>Type casting is a key concept in typed languages. We call the conversion of a value from from one type of another casting.</p><p>Imagine an Enemy in your game, that <code>extends Area2D</code>. You want it to collide with the Player, a <code>KinematicBody2D</code> with a script called <code>PlayerController</code> attached to it. You use the <code>on_body_entered</code> signal to detect the collision. With typed code, the body you detect is going to be a generic <code>PhysicsBody2D</code>, and not your <code>PlayerController</code> on the <code>_on_body_entered</code> callback.</p><p>You can check if this <code>PhysicsBody2D</code> is your Player with the <code>as</code> casting keyword, and using the colon <code>:</code> again to force the variable to use this type. This forces the variable to stick to the <code>PlayerController</code> type:</p><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">func</span> _on_body_entered(body : <span style="color:#a6e22e">PhysicsBody2D</span>) <span style="color:#f92672">-&gt;</span> void:
+    <span style="color:#66d9ef">var</span> player :<span style="color:#f92672">=</span> body as PlayerController
     <span style="color:#66d9ef">if</span> <span style="color:#f92672">not</span> player:
         <span style="color:#66d9ef">return</span>
-    player<span style="color:#f92672">.</span>damage()</code></pre></div>
-
-<p>As we&rsquo;re dealing with a custom type, if the <code>body</code> doesn&rsquo;t extend <code>PlayerController</code>, the <code>player</code>variable will be set to <code>null</code>. We can use this to check if the body is the player or not. We will also get full autocompletion on the player variable thanks to that cast.</p>
-
-
-
-<aside class="note">
-    If you try to cast with a built-in type and it fails, Godot will throw an error.
-</aside>
-
-
-<h4 id="safe-lines">Safe lines</h4>
-
-<p>You can also use casting is to ensure safe lines. Safe lines are a new tool in Godot 3.1 to tell you when ambiguous lines of code are type-safe. As you can mix and match typed and dynamic code, at times, Godot doesn&rsquo;t have enough information to if an instruction will trigger an error or not at runtime.</p>
-
-<p>This happens when you get a child node. Let&rsquo;s take a timer for example: with dynamic code, you can get the node with <code>$Timer</code>. GDscript supports <a href="https://stackoverflow.com/a/4205163/8125343">duck-typing</a>, so even if your timer is of type <code>Timer</code>, it is also a <code>Node</code> and an <code>Object</code>, two classes it extends. With dynamic GDscript, you also also don&rsquo;t care about the node&rsquo;s type as long as it has the methods you need to call.</p>
-
-<p>You can use casting to tell Godot the type you expect when you get a node: <code>($Timer as Timer)</code>, <code>($Player as KinematicBody2D)</code>, etc. Godot will ensure the type works and if so, the line number will turn green at the left of the script editor.</p>
-
-<p><img src="./img/safe-unsafe-line.png" alt="Safe vs Unsafe Line" /></p>
-
-
-
-<aside class="note">
-    <p>You can turn off safe lines or change their color in the editor settings.</p>
-
-</aside>
-
-
-<h3 id="define-the-return-type-of-a-function-with-the-arrow">Define the Return Type of a Function with the Arrow -&gt;</h3>
-
-<p>To define the return type of a function, write a dash and a right angle bracket <code>-&gt;</code> after it&rsquo;s declaration, followed by the return type:</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">func</span> _process(delta : <span style="color:#a6e22e">float</span>) <span style="color:#f92672">-&gt;</span> void:
-    <span style="color:#66d9ef">pass</span></code></pre></div>
-
-<p>The type <code>void</code> means the function does not return anything. You can use any type as with variables:</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">func</span> hit(damage : <span style="color:#a6e22e">float</span>) <span style="color:#f92672">-&gt;</span> <span style="color:#a6e22e">bool</span>:
+    player<span style="color:#f92672">.</span>damage()</code></pre></div><p>As we&rsquo;re dealing with a custom type, if the <code>body</code> doesn&rsquo;t extend <code>PlayerController</code>, the <code>player</code>variable will be set to <code>null</code>. We can use this to check if the body is the player or not. We will also get full autocompletion on the player variable thanks to that cast.</p><aside class="note">If you try to cast with a built-in type and it fails, Godot will throw an error.</aside><h4 id="safe-lines">Safe lines</h4><p>You can also use casting is to ensure safe lines. Safe lines are a new tool in Godot 3.1 to tell you when ambiguous lines of code are type-safe. As you can mix and match typed and dynamic code, at times, Godot doesn&rsquo;t have enough information to if an instruction will trigger an error or not at runtime.</p><p>This happens when you get a child node. Let&rsquo;s take a timer for example: with dynamic code, you can get the node with <code>$Timer</code>. GDscript supports <a href="https://stackoverflow.com/a/4205163/8125343">duck-typing</a>, so even if your timer is of type <code>Timer</code>, it is also a <code>Node</code> and an <code>Object</code>, two classes it extends. With dynamic GDscript, you also also don&rsquo;t care about the node&rsquo;s type as long as it has the methods you need to call.</p><p>You can use casting to tell Godot the type you expect when you get a node: <code>($Timer as Timer)</code>, <code>($Player as KinematicBody2D)</code>, etc. Godot will ensure the type works and if so, the line number will turn green at the left of the script editor.</p><p><img src="./img/safe-unsafe-line.png" alt="Safe vs Unsafe Line"></p><aside class="note"><p>You can turn off safe lines or change their color in the editor settings.</p></aside><h3 id="define-the-return-type-of-a-function-with-the-arrow">Define the Return Type of a Function with the Arrow -&gt;</h3><p>To define the return type of a function, write a dash and a right angle bracket <code>-&gt;</code> after it&rsquo;s declaration, followed by the return type:</p><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">func</span> _process(delta : <span style="color:#a6e22e">float</span>) <span style="color:#f92672">-&gt;</span> void:
+    <span style="color:#66d9ef">pass</span></code></pre></div><p>The type <code>void</code> means the function does not return anything. You can use any type as with variables:</p><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">func</span> hit(damage : <span style="color:#a6e22e">float</span>) <span style="color:#f92672">-&gt;</span> <span style="color:#a6e22e">bool</span>:
     health_points <span style="color:#f92672">-=</span> damage
-    <span style="color:#66d9ef">return</span> health_points <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">0</span></code></pre></div>
-
-<p>You can also use your own nodes as return types:</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#e6db74">&#34;&#34;&#34;Inventory.gd&#34;&#34;&#34;</span>
+    <span style="color:#66d9ef">return</span> health_points <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">0</span></code></pre></div><p>You can also use your own nodes as return types:</p><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#e6db74">&#34;&#34;&#34;Inventory.gd&#34;&#34;&#34;</span>
 
 <span style="color:#e6db74">&#34;&#34;&#34;Adds an item to the inventory and returns it&#34;&#34;&#34;</span>
 <span style="color:#66d9ef">func</span> add(reference : Item, amount : <span style="color:#a6e22e">int</span>) <span style="color:#f92672">-&gt;</span> Item:
@@ -328,189 +40,30 @@ class_name Rifle</code></pre></div>
 	<span style="color:#66d9ef">if</span> <span style="color:#f92672">not</span> item:
 		item <span style="color:#f92672">=</span> ItemDatabase<span style="color:#f92672">.</span>get_instance(reference)
 	item<span style="color:#f92672">.</span>amount <span style="color:#f92672">+=</span> amount
-    <span style="color:#66d9ef">return</span> item</code></pre></div>
-
-<h2 id="typed-or-dynamic-stick-to-one-style">Typed or Dynamic: Stick to One Style</h2>
-
-<p>Typed GDscript and dynamic GDscript can coexist in the same project. But I recommended to stick to either style for consistency in your codebase, and for your peers. It&rsquo;s easier for everyone to work together if you follow the same guidelines, and faster to read and understand other people&rsquo;s code.</p>
-
-<p>Typed code takes a little more writing, but you get the benefits we discussed above. Here&rsquo;s an example of the same, empty script, in a dynamic style:</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">extends</span> <span style="color:#a6e22e">Node</span>
+    <span style="color:#66d9ef">return</span> item</code></pre></div><h2 id="typed-or-dynamic-stick-to-one-style">Typed or Dynamic: Stick to One Style</h2><p>Typed GDscript and dynamic GDscript can coexist in the same project. But I recommended to stick to either style for consistency in your codebase, and for your peers. It&rsquo;s easier for everyone to work together if you follow the same guidelines, and faster to read and understand other people&rsquo;s code.</p><p>Typed code takes a little more writing, but you get the benefits we discussed above. Here&rsquo;s an example of the same, empty script, in a dynamic style:</p><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">extends</span> <span style="color:#a6e22e">Node</span>
     <span style="color:#66d9ef">func</span> _ready():
         <span style="color:#66d9ef">pass</span>
     <span style="color:#66d9ef">func</span> _process(delta):
-        <span style="color:#66d9ef">pass</span></code></pre></div>
-
-<p>And with strong typing:</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">extends</span> <span style="color:#a6e22e">Node</span>
+        <span style="color:#66d9ef">pass</span></code></pre></div><p>And with static typing:</p><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">extends</span> <span style="color:#a6e22e">Node</span>
     <span style="color:#66d9ef">func</span> _ready() <span style="color:#f92672">-&gt;</span> void:
         <span style="color:#66d9ef">pass</span>
     <span style="color:#66d9ef">func</span> _process(delta : <span style="color:#a6e22e">float</span>) <span style="color:#f92672">-&gt;</span> void:
-        <span style="color:#66d9ef">pass</span></code></pre></div>
-
-<p>As you can see, you can also use types with the engine&rsquo;s virtual methods. Signal callbacks, like any methods, can also use types. Here&rsquo;s a <code>body_entered</code> signal in a dynamic style:</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">func</span> _on_Area2D_body_entered(body):
-    <span style="color:#66d9ef">pass</span></code></pre></div>
-
-<p>And the same callback, with type hints:</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">func</span> _on_area_entered(area : <span style="color:#a6e22e">CollisionObject2D</span>) <span style="color:#f92672">-&gt;</span> void:
-    <span style="color:#66d9ef">pass</span></code></pre></div>
-
-<p>You&rsquo;re free to replace, e.g. the <code>PhysicsBody2D</code>, with your own type, to cast parameters automatically:</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">func</span> _on_area_entered(bullet : Bullet) <span style="color:#f92672">-&gt;</span> void:
+        <span style="color:#66d9ef">pass</span></code></pre></div><p>As you can see, you can also use types with the engine&rsquo;s virtual methods. Signal callbacks, like any methods, can also use types. Here&rsquo;s a <code>body_entered</code> signal in a dynamic style:</p><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">func</span> _on_Area2D_body_entered(body):
+    <span style="color:#66d9ef">pass</span></code></pre></div><p>And the same callback, with type hints:</p><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">func</span> _on_area_entered(area : <span style="color:#a6e22e">CollisionObject2D</span>) <span style="color:#f92672">-&gt;</span> void:
+    <span style="color:#66d9ef">pass</span></code></pre></div><p>You&rsquo;re free to replace, e.g. the <code>PhysicsBody2D</code>, with your own type, to cast parameters automatically:</p><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">func</span> _on_area_entered(bullet : Bullet) <span style="color:#f92672">-&gt;</span> void:
     <span style="color:#66d9ef">if</span> <span style="color:#f92672">not</span> bullet:
         <span style="color:#66d9ef">return</span>
-    take_damage(bullet<span style="color:#f92672">.</span>damage)</code></pre></div>
-
-<p>The <code>bullet</code> variable could hold any <code>CollisionObject2D</code> here, but we make sure it is our <code>Bullet</code>, a node we created for our project.
-If it&rsquo;s anything else, like an <code>Area2D</code>, or any node that doesn&rsquo;t extend <code>Bullet</code>, the <code>bullet</code> variable will be <code>null</code>.</p>
-
-<aside id="call-to-action" data-font="centered" class="card outline">
-    <div class="content">
-        <h4 class="no-margin-top">Want to become a better designer?</h4>
-        <div class="grid split2">
-            <a href="http://youtube.com/c/gdquest" class="btn">Free tutorials</a>
-            <a href="https://gumroad.com/gdquest" class="btn shop">Premium courses</a>
-        </div>
-    </div>
-</aside>
-
-
-<h2 id="warning-system">Warning System</h2>
-
-<p>The warning system complements typed GDscript. It&rsquo;s here to help you avoid mistakes that are hard to spot during development, and that may lead to runtime errors.</p>
-
-<p>You can configure warnings in the Project Settings under a new section called <code>GDscript</code>:</p>
-
-<p><img src="./img/warning-system-settings.png" alt="warning system project settings" /></p>
-
-<p>You can find a list of warnings for the active GDscript file in the script editor&rsquo;s status bar. The example below has 3 warnings:</p>
-
-<p><img src="./img/warning-example.png" alt="warning system example" /></p>
-
-<p>To ignore specific warnings in one file, insert a special comment of the form <code>#warning-ignore:warning-id</code>, or click on the ignore link to the right of the warning&rsquo;s description. Godot will add a comment above the corresponding line and the code won&rsquo;t trigger the corresponding warning anymore:</p>
-
-<p><img src="./img/warning-system-ignore.png" alt="warning system ignore example" /></p>
-
-<p>Warnings won&rsquo;t prevent the game from running, but you can turn them into errors if you&rsquo;d like. This way your game won&rsquo;t compile unless you fix all warnings. Head to <code>GDscript</code> section of the Project Settings to turn on this option. Here&rsquo;s the same file as the previous example with warnings as errors turned on:</p>
-
-<p><img src="./img/warning-system-errors.png" alt="warnings as errors" /></p>
-
-<h2 id="cases-where-you-can-t-specify-types">Cases Where You Can&rsquo;t Specify Types</h2>
-
-<p>To wrap up this introduction, let&rsquo;s cover a few cases where you can&rsquo;t use type hints. All the examples below <strong>will trigger errors</strong>.</p>
-
-<p>You can&rsquo;t use Enums as types:</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">enum</span> MoveDirection { UP, DOWN, LEFT, RIGHT }
-<span style="color:#66d9ef">var</span> current_direction : MoveDirection</code></pre></div>
-
-<p>You can&rsquo;t specify the type of individual members in an array. This will give you an error:</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">var</span> enemies : <span style="color:#a6e22e">Array</span> <span style="color:#f92672">=</span> [<span style="color:#f92672">$</span>Goblin : Enemy, <span style="color:#f92672">$</span>Zombie : Enemy]</code></pre></div>
-
-<p>You can&rsquo;t force the assignment of types in a <code>for</code> loop as each element the <code>for</code> keyword loops already has a different type. So you <strong>cannot</strong> write:</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">var</span> names [<span style="color:#e6db74">&#39;John&#39;</span>, <span style="color:#e6db74">&#39;Marta&#39;</span>, <span style="color:#e6db74">&#39;Samantha&#39;</span>, <span style="color:#e6db74">&#39;Jimmy&#39;</span>]
+    take_damage(bullet<span style="color:#f92672">.</span>damage)</code></pre></div><p>The <code>bullet</code> variable could hold any <code>CollisionObject2D</code> here, but we make sure it is our <code>Bullet</code>, a node we created for our project. If it&rsquo;s anything else, like an <code>Area2D</code>, or any node that doesn&rsquo;t extend <code>Bullet</code>, the <code>bullet</code> variable will be <code>null</code>.</p><aside id="call-to-action" data-font="centered" class="card outline"><div class="content"><h4 class="no-margin-top">Want to become a better designer?</h4><div class="grid split2"><a href="http://youtube.com/c/gdquest" class="btn">Free tutorials</a> <a href="https://gumroad.com/gdquest" class="btn shop">Premium courses</a></div></div></aside><h2 id="warning-system">Warning System</h2><p>The warning system complements typed GDscript. It&rsquo;s here to help you avoid mistakes that are hard to spot during development, and that may lead to runtime errors.</p><p>You can configure warnings in the Project Settings under a new section called <code>GDscript</code>:</p><p><img src="./img/warning-system-settings.png" alt="warning system project settings"></p><p>You can find a list of warnings for the active GDscript file in the script editor&rsquo;s status bar. The example below has 3 warnings:</p><p><img src="./img/warning-example.png" alt="warning system example"></p><p>To ignore specific warnings in one file, insert a special comment of the form <code>#warning-ignore:warning-id</code>, or click on the ignore link to the right of the warning&rsquo;s description. Godot will add a comment above the corresponding line and the code won&rsquo;t trigger the corresponding warning anymore:</p><p><img src="./img/warning-system-ignore.png" alt="warning system ignore example"></p><p>Warnings won&rsquo;t prevent the game from running, but you can turn them into errors if you&rsquo;d like. This way your game won&rsquo;t compile unless you fix all warnings. Head to <code>GDscript</code> section of the Project Settings to turn on this option. Here&rsquo;s the same file as the previous example with warnings as errors turned on:</p><p><img src="./img/warning-system-errors.png" alt="warnings as errors"></p><h2 id="cases-where-you-can-t-specify-types">Cases Where You Can&rsquo;t Specify Types</h2><p>To wrap up this introduction, let&rsquo;s cover a few cases where you can&rsquo;t use type hints. All the examples below <strong>will trigger errors</strong>.</p><p>You can&rsquo;t use Enums as types:</p><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">enum</span> MoveDirection { UP, DOWN, LEFT, RIGHT }
+<span style="color:#66d9ef">var</span> current_direction : MoveDirection</code></pre></div><p>You can&rsquo;t specify the type of individual members in an array. This will give you an error:</p><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">var</span> enemies : <span style="color:#a6e22e">Array</span> <span style="color:#f92672">=</span> [<span style="color:#f92672">$</span>Goblin : Enemy, <span style="color:#f92672">$</span>Zombie : Enemy]</code></pre></div><p>You can&rsquo;t force the assignment of types in a <code>for</code> loop as each element the <code>for</code> keyword loops already has a different type. So you <strong>cannot</strong> write:</p><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#66d9ef">var</span> names [<span style="color:#e6db74">&#39;John&#39;</span>, <span style="color:#e6db74">&#39;Marta&#39;</span>, <span style="color:#e6db74">&#39;Samantha&#39;</span>, <span style="color:#e6db74">&#39;Jimmy&#39;</span>]
 <span style="color:#66d9ef">for</span> name : <span style="color:#a6e22e">String</span> <span style="color:#f92672">in</span> names:
-    <span style="color:#66d9ef">pass</span></code></pre></div>
-
-<p>Two scripts can&rsquo;t depend on each other in a cyclic fashion:</p>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#e6db74">&#34;&#34;&#34;Player.gd&#34;&#34;&#34;</span>
+    <span style="color:#66d9ef">pass</span></code></pre></div><p>Two scripts can&rsquo;t depend on each other in a cyclic fashion:</p><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#e6db74">&#34;&#34;&#34;Player.gd&#34;&#34;&#34;</span>
 <span style="color:#66d9ef">extends</span> <span style="color:#a6e22e">Area2D</span>
 class_name Player
 
-<span style="color:#66d9ef">var</span> rifle : Rifle</code></pre></div>
-
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#e6db74">&#34;&#34;&#34;Rifle.gd&#34;&#34;&#34;</span>
+<span style="color:#66d9ef">var</span> rifle : Rifle</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-gdscript" data-lang="gdscript"><span style="color:#e6db74">&#34;&#34;&#34;Rifle.gd&#34;&#34;&#34;</span>
 <span style="color:#66d9ef">extends</span> <span style="color:#a6e22e">Area2D</span>
 class_name Rifle
 
-<span style="color:#66d9ef">var</span> player : Player</code></pre></div>
-
-<h2 id="summary">Summary</h2>
-
-<p>Typed GDscript is a powerful tool. Coming with Godot 3.1, it can already help you write more structured code, help you avoid common errors, and create scalable systems. In the future, strong types will also bring you a nice performance boost thanks to upcoming compiler optimizations.</p>
-
-<p>Want to become a better game creator? Be sure to <a href="https://twitter.com/NathanGDquest">follow us on Twitter</a> for more tutorials and news dedicated to game creation and Free Software!</p>
-
-
-        
-
-<section class="card darkbg no-margin flex horizontal profile">
-  <div class="avatar" style="background-image: url(http://gdquest.com/img/avatar/nathan.png);"></div>
-
-  <div class="small-padding content">
-    <h3 class="no-margin" data-font="ultrabold capitalize">Nathan Lovato</h3>
-
-    
-      <div class="social-links tiny-spaced-children">
-        
-          <a href="https://www.facebook.com/nathan.lovato.9" title="Facebook page" class="icon" target="_blank">
-            <i class="fab fa-facebook"></i>
-          </a>
-        
-          <a href="https://twitter.com/NathanGDquest" title="Twitter page" class="icon" target="_blank">
-            <i class="fab fa-twitter"></i>
-          </a>
-        
-          <a href="http://youtube.com/c/gdquest" title="Youtube page" class="icon" target="_blank">
-            <i class="fab fa-youtube"></i>
-          </a>
-        
-      </div>
-    
-
-    
-      <p>I&#39;m a courteous game designer, with a taste for open source. I&#39;ll share all I know.</p>
-    
-
-    <div class="buttons">
-      <a href="/about/profiles/nathan" class="btn flat">learn more</a>
-    </div>
-  </div>
-
-</section>
-
-
-
-        <footer data-font="centered" class="card outline base-top-margin ">
-    <p> <a href="https://creativecommons.org/licenses/by/4.0/">CC-By 4.0</a> GDquest and contributors
- </p>
-    <p> This page was last modified on September 4, 2018 </p>
-    <p>
-        <a href="https://github.com/GDquest/GDquest-website/edit/master/content/tutorial/game-design/godot/gdscript/typed-gdscript/index.md" class="btn">
-            Improve this page
-        </a>
-    </p>
-</footer>
-
-    </article>
-</div>
-
-		</main>
-
-    <footer class="darkbg base-v-padding">
-	<div class="container">
-		  <small>
-          (c) 2015-2018 <a href="https://twitter.com/NathanGDquest">Nathan Lovato</a> | <a href="/mentions-legales">mentions légales</a>
-      </small>
-	</div>
-</footer>
-
-
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+<span style="color:#66d9ef">var</span> player : Player</code></pre></div><h2 id="summary">Summary</h2><p>Typed GDscript is a powerful tool. Coming with Godot 3.1, it can already help you write more structured code, help you avoid common errors, and create scalable systems. In the future, static types will also bring you a nice performance boost thanks to upcoming compiler optimizations.</p><p>Want to become a better game creator? Be sure to <a href="https://twitter.com/NathanGDquest">follow us on Twitter</a> for more tutorials and news dedicated to game creation and Free Software!</p><section class="card darkbg no-margin flex horizontal profile"><div class="avatar" style="background-image: url(http://gdquest.com/img/avatar/nathan.png)"></div><div class="small-padding content"><h3 class="no-margin" data-font="ultrabold capitalize">Nathan Lovato</h3><div class="social-links tiny-spaced-children"><a href="https://www.facebook.com/nathan.lovato.9" title="Facebook page" class="icon" target="_blank"><i class="fab fa-facebook"></i> </a><a href="https://twitter.com/NathanGDquest" title="Twitter page" class="icon" target="_blank"><i class="fab fa-twitter"></i> </a><a href="http://youtube.com/c/gdquest" title="Youtube page" class="icon" target="_blank"><i class="fab fa-youtube"></i></a></div><p>I&#39;m a courteous game designer, with a taste for open source. I&#39;ll share all I know.</p><div class="buttons"><a href="/about/profiles/nathan" class="btn flat">learn more</a></div></div></section><footer data-font="centered" class="card outline base-top-margin"><p><a href="https://creativecommons.org/licenses/by/4.0/">CC-By 4.0</a> GDquest and contributors</p><p>This page was last modified on September 4, 2018</p><p><a href="https://github.com/GDquest/GDquest-website/edit/master/content/tutorial/game-design/godot/gdscript/typed-gdscript/index.md" class="btn">Improve this page</a></p></footer></article></div></main><footer class="darkbg base-v-padding"><div class="container"><small>(c) 2015-2018 <a href="https://twitter.com/NathanGDquest">Nathan Lovato</a> | <a href="/mentions-legales">mentions légales</a></small></div></footer><script>window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
 ga('create', 'UA-58510266-1', 'auto');
-ga('send', 'pageview');
-</script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
-
-  </body>
-</html>
+ga('send', 'pageview');</script><script async src="https://www.google-analytics.com/analytics.js"></script></body></html>
