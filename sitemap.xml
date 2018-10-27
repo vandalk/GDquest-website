@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/art/pixel-art/chapter/</loc>
+    <lastmod>2015-11-27T13:15:12+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/</loc>
     <lastmod>2018-07-27T16:29:57+00:00</lastmod>
   </url>
@@ -100,6 +105,11 @@
   <url>
     <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/11_painting_with_the_freehand_brush_tool/</loc>
     <lastmod>2016-04-26T07:04:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/post/2018/10/godot-course-content-list/</loc>
+    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -883,8 +893,48 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/art/pixel-art/chapter/6_how_to_draw_characters_as_in_super_time_force_part_2/</loc>
+    <lastmod>2015-11-27T13:15:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/pixel-art/chapter/5_how_to_design_pixel_art_characters_as_in_super_time_force__part_1/</loc>
+    <lastmod>2015-11-19T14:14:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/pixel-art/chapter/3_7_tips_to_master_hd_index_painting_with_krita/</loc>
+    <lastmod>2015-11-12T19:28:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/pixel-art/chapter/2_hd_index_painting_with_krita/</loc>
+    <lastmod>2015-11-12T19:28:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/pixel-art/chapter/0_6_pixel_art_drawing_techniques/</loc>
+    <lastmod>2015-11-12T19:28:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/pixel-art/chapter/1_how_to_setup_krita_for_pixel_art___krita_pixel_art_tutorial/</loc>
+    <lastmod>2015-11-12T19:25:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/pixel-art/chapter/4_how_to_draw_clouds_in_pixel_art/</loc>
+    <lastmod>2015-11-05T09:16:43+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2016/programming/phaser-auto-completion-in-atom/</loc>
     <lastmod>2015-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/pixel-art/</loc>
+    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1016,20 +1066,26 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/tags/community/</loc>
-    <lastmod>2017-01-21T17:35:09+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://gdquest.com/category/community/</loc>
     <lastmod>2016-01-11T09:16:10+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://gdquest.com/tags/community/</loc>
+    <lastmod>2017-01-21T17:35:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/control-nodes-tutorial/</loc>
     <lastmod>2018-09-07T10:02:15+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/course-content/</loc>
+    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1112,14 +1168,14 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/tags/game-design/</loc>
-    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+    <loc>http://gdquest.com/category/game-design/</loc>
+    <lastmod>2015-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gdquest.com/category/game-design/</loc>
-    <lastmod>2015-10-03T00:00:00+00:00</lastmod>
+    <loc>http://gdquest.com/tags/game-design/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1183,14 +1239,14 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/tags/godot/</loc>
-    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+    <loc>http://gdquest.com/category/godot/</loc>
+    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gdquest.com/category/godot/</loc>
-    <lastmod>2018-09-07T10:02:15+09:00</lastmod>
+    <loc>http://gdquest.com/tags/godot/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1202,7 +1258,7 @@
   
   <url>
     <loc>http://gdquest.com/tags/godot-3/</loc>
-    <lastmod>2018-09-01T08:18:06+09:00</lastmod>
+    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1239,6 +1295,12 @@
   <url>
     <loc>http://gdquest.com/tags/godot-control-tutorial/</loc>
     <lastmod>2018-09-01T08:18:06+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/godot-course/</loc>
+    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1381,13 +1443,13 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/tags/krita/</loc>
+    <loc>http://gdquest.com/category/krita/</loc>
     <lastmod>2017-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gdquest.com/category/krita/</loc>
+    <loc>http://gdquest.com/tags/krita/</loc>
     <lastmod>2017-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1493,14 +1555,14 @@
   </url>
   
   <url>
-    <loc>http://gdquest.com/tags/news/</loc>
-    <lastmod>2017-10-10T09:03:31+02:00</lastmod>
+    <loc>http://gdquest.com/category/news/</loc>
+    <lastmod>2017-11-05T16:29:59+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gdquest.com/category/news/</loc>
-    <lastmod>2017-11-05T16:29:59+01:00</lastmod>
+    <loc>http://gdquest.com/tags/news/</loc>
+    <lastmod>2017-10-10T09:03:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1551,7 +1613,7 @@
   
   <url>
     <loc>http://gdquest.com/post/</loc>
-    <lastmod>2018-09-01T08:18:06+09:00</lastmod>
+    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1666,6 +1728,12 @@
   <url>
     <loc>http://gdquest.com/tags/video-editing/</loc>
     <lastmod>2018-06-09T13:18:14+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tags/video-list/</loc>
+    <lastmod>2018-10-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

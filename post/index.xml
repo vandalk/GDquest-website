@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Sat, 01 Sep 2018 08:18:06 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Available content in the Godot Course</title>
+      <link>http://gdquest.com/post/2018/10/godot-course-content-list/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2018/10/godot-course-content-list/</guid>
+      <description>The course comes in 3 versions. Indie contains all of Hobby, and Pro contains all chapters from Hobby and Indie, and extra resources:
+ Hobby  Indie  Pro   If you&amp;rsquo;re only looking for UI tutorials, check out our standalone course:
+Create User Interface Godot CourseYou&amp;rsquo;ll find some free tutorial samples below. I also released the Finite State Machine  demo open source, for the official Godot documentation.</description>
+    </item>
     
     <item>
       <title>The Shop Course Series is Out Now</title>

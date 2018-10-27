@@ -51,5 +51,14 @@ All the assets and the code open source on Github with extra comments to help yo
       <description>Welcome to the first free tutorial series on GDquest that&amp;rsquo;s dedicated to Godot! Over the course of 1h, it&amp;rsquo;ll teach you some basic concepts with the engine.</description>
     </item>
     
+    <item>
+      <title>Pixel Art Tutorial</title>
+      <link>http://gdquest.com/tutorial/art/pixel-art/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/pixel-art/</guid>
+      <description>ENTER DESCRIPTION</description>
+    </item>
+    
   </channel>
 </rss>

@@ -8,22 +8,20 @@
     <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/tags/course-content/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Godot course: available content</title>
-      <link>http://gdquest.com/product/godot/make-pro-2d-games/content/</link>
-      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      <title>Available content in the Godot Course</title>
+      <link>http://gdquest.com/post/2018/10/godot-course-content-list/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
-      <guid>http://gdquest.com/product/godot/make-pro-2d-games/content/</guid>
-      <description>Last update: August 30
-The course is still in early access, with currently 11/12 chapters available in the Pro version.
-The course comes in 3 versions. Indie contains all of Hobby, and Pro contains all chapters and extra resources:
+      <guid>http://gdquest.com/post/2018/10/godot-course-content-list/</guid>
+      <description>The course comes in 3 versions. Indie contains all of Hobby, and Pro contains all chapters from Hobby and Indie, and extra resources:
  Hobby  Indie  Pro   If you&amp;rsquo;re only looking for UI tutorials, check out our standalone course:
-Create User Interface Godot CourseYou&amp;rsquo;ll find some free tutorial samples below.</description>
+Create User Interface Godot CourseYou&amp;rsquo;ll find some free tutorial samples below. I also released the Finite State Machine  demo open source, for the official Godot documentation.</description>
     </item>
     
   </channel>

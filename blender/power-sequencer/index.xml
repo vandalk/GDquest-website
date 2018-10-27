@@ -19,7 +19,7 @@
       <pubDate>Mon, 01 Jan 2018 19:47:10 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/blender/power-sequencer/docs/</guid>
-      <description>operators Add Speed Add Transform Border Select Change Playback Speed Channel Offset Concatenate Strips Copy Selected Sequences Add Crossfade Edit Crossfade Cycle Scenes Decrease Playback Speed Delete Direct Fade Strips Clear Fades Auto select and grab Grab Closest Handle or Cut Grab Sequence Handle Import Local Footage Increase Playback Speed Mouse Cut Mouse Toggle Mute Mouse Trim Preview Last Cut Preview to selection Render for Web Ripple Delete Save Direct Smart Snap Snap Selection to Cursor Toggle Selected Mute Toggle Waveforms Trim to Surrounding Cuts Refresh AllAdd SpeedAdd 2x speed to strip and set it&amp;rsquo;s frame end accordingly.</description>
+      <description>operators Add Speed Add Transform Border Select Change Playback Speed Channel Offset Concatenate Strips Copy Selected Sequences Add Crossfade Edit Crossfade Decrease Playback Speed Delete Direct Fade Strips Clear Fades Auto select and grab Grab Closest Handle or Cut Grab Sequence Handle Import Local Footage Increase Playback Speed Mouse Cut Mouse Toggle Mute Mouse Trim Preview Last Cut Preview to selection Render for Web Ripple Delete Save Direct Cycle Scenes Smart Snap Snap Selection to Cursor Toggle Selected Mute Toggle Waveforms Trim to Surrounding Cuts Refresh AllAdd SpeedAdd 2x speed to strip and set it&amp;rsquo;s frame end accordingly.</description>
     </item>
     
   </channel>

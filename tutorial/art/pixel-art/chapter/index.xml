@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pixel Art Series on GDQuest</title>
+    <link>http://gdquest.com/tutorial/art/pixel-art/chapter/</link>
+    <description>Recent content in Pixel Art Series on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Fri, 27 Nov 2015 13:15:12 +0000</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tutorial/art/pixel-art/chapter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to draw characters as in Super Time Force part 2</title>
+      <link>http://gdquest.com/tutorial/art/pixel-art/chapter/6_how_to_draw_characters_as_in_super_time_force_part_2/</link>
+      <pubDate>Fri, 27 Nov 2015 13:15:12 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/pixel-art/chapter/6_how_to_draw_characters_as_in_super_time_force_part_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to design pixel art characters as in Super Time Force - part 1</title>
+      <link>http://gdquest.com/tutorial/art/pixel-art/chapter/5_how_to_design_pixel_art_characters_as_in_super_time_force__part_1/</link>
+      <pubDate>Thu, 19 Nov 2015 14:14:02 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/pixel-art/chapter/5_how_to_design_pixel_art_characters_as_in_super_time_force__part_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7 tips to master HD index painting with Krita</title>
+      <link>http://gdquest.com/tutorial/art/pixel-art/chapter/3_7_tips_to_master_hd_index_painting_with_krita/</link>
+      <pubDate>Thu, 12 Nov 2015 19:28:44 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/pixel-art/chapter/3_7_tips_to_master_hd_index_painting_with_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HD Index Painting With Krita</title>
+      <link>http://gdquest.com/tutorial/art/pixel-art/chapter/2_hd_index_painting_with_krita/</link>
+      <pubDate>Thu, 12 Nov 2015 19:28:40 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/pixel-art/chapter/2_hd_index_painting_with_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6 Pixel Art Drawing Techniques</title>
+      <link>http://gdquest.com/tutorial/art/pixel-art/chapter/0_6_pixel_art_drawing_techniques/</link>
+      <pubDate>Thu, 12 Nov 2015 19:28:33 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/pixel-art/chapter/0_6_pixel_art_drawing_techniques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to setup Krita for pixel art  - Krita pixel art tutorial</title>
+      <link>http://gdquest.com/tutorial/art/pixel-art/chapter/1_how_to_setup_krita_for_pixel_art___krita_pixel_art_tutorial/</link>
+      <pubDate>Thu, 12 Nov 2015 19:25:56 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/pixel-art/chapter/1_how_to_setup_krita_for_pixel_art___krita_pixel_art_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Draw Clouds in Pixel Art</title>
+      <link>http://gdquest.com/tutorial/art/pixel-art/chapter/4_how_to_draw_clouds_in_pixel_art/</link>
+      <pubDate>Thu, 05 Nov 2015 09:16:43 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/pixel-art/chapter/4_how_to_draw_clouds_in_pixel_art/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

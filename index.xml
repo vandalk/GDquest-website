@@ -50,6 +50,17 @@
     </item>
     
     <item>
+      <title>Available content in the Godot Course</title>
+      <link>http://gdquest.com/post/2018/10/godot-course-content-list/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2018/10/godot-course-content-list/</guid>
+      <description>The course comes in 3 versions. Indie contains all of Hobby, and Pro contains all chapters from Hobby and Indie, and extra resources:
+ Hobby  Indie  Pro   If you&amp;rsquo;re only looking for UI tutorials, check out our standalone course:
+Create User Interface Godot CourseYou&amp;rsquo;ll find some free tutorial samples below. I also released the Finite State Machine  demo open source, for the official Godot documentation.</description>
+    </item>
+    
+    <item>
       <title>Create Professional User Interface in Godot</title>
       <link>http://gdquest.com/product/godot/user-interface-series/</link>
       <pubDate>Fri, 07 Sep 2018 10:02:15 +0900</pubDate>
@@ -61,7 +72,7 @@ I&amp;rsquo;ve been one of the biggest contributors to Gdoot&amp;rsquo;s officia
     </item>
     
     <item>
-      <title>Make Professional 2d Games with Godot</title>
+      <title>make professional 2d games with godot</title>
       <link>http://gdquest.com/product/godot/make-pro-2d-games/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
@@ -222,7 +233,7 @@ As the boss chapter took twice the time I planned to invest in it, I couldn&amp;
     </item>
     
     <item>
-      <title>Become a Game Developer: Your First Steps with Programming</title>
+      <title>Become a Game Developer: How to Learn to Code</title>
       <link>http://gdquest.com/tutorial/game-design/godot/become-a-game-creator/first-steps-programming/</link>
       <pubDate>Thu, 12 Apr 2018 09:04:58 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
@@ -275,7 +286,7 @@ Godot 3 just came out , and with some more work done on the official documentati
       <pubDate>Mon, 01 Jan 2018 19:47:10 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/blender/power-sequencer/docs/</guid>
-      <description>operators Add Speed Add Transform Border Select Change Playback Speed Channel Offset Concatenate Strips Copy Selected Sequences Add Crossfade Edit Crossfade Cycle Scenes Decrease Playback Speed Delete Direct Fade Strips Clear Fades Auto select and grab Grab Closest Handle or Cut Grab Sequence Handle Import Local Footage Increase Playback Speed Mouse Cut Mouse Toggle Mute Mouse Trim Preview Last Cut Preview to selection Render for Web Ripple Delete Save Direct Smart Snap Snap Selection to Cursor Toggle Selected Mute Toggle Waveforms Trim to Surrounding Cuts Refresh AllAdd SpeedAdd 2x speed to strip and set it&amp;rsquo;s frame end accordingly.</description>
+      <description>operators Add Speed Add Transform Border Select Change Playback Speed Channel Offset Concatenate Strips Copy Selected Sequences Add Crossfade Edit Crossfade Decrease Playback Speed Delete Direct Fade Strips Clear Fades Auto select and grab Grab Closest Handle or Cut Grab Sequence Handle Import Local Footage Increase Playback Speed Mouse Cut Mouse Toggle Mute Mouse Trim Preview Last Cut Preview to selection Render for Web Ripple Delete Save Direct Cycle Scenes Smart Snap Snap Selection to Cursor Toggle Selected Mute Toggle Waveforms Trim to Surrounding Cuts Refresh AllAdd SpeedAdd 2x speed to strip and set it&amp;rsquo;s frame end accordingly.</description>
     </item>
     
     <item>
@@ -1446,6 +1457,69 @@ How to redeem your coupon In the email, you will find a link that will automatic
       <description>06-2016 update: Voting is over! You were more than 400 to vote on the series you want to see on GDquest.
 Here are the top 3 results:
  Overview of Godot 2 (249 votes) Painting rock and grass tiles for 2d games (141 votes) Human proportions, from reality to games (119 votes)  Let your voice be heard Up until now, the tutorials have been a bit random on GDquest.</description>
+    </item>
+    
+    <item>
+      <title>How to draw characters as in Super Time Force part 2</title>
+      <link>http://gdquest.com/tutorial/art/pixel-art/chapter/6_how_to_draw_characters_as_in_super_time_force_part_2/</link>
+      <pubDate>Fri, 27 Nov 2015 13:15:12 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/pixel-art/chapter/6_how_to_draw_characters_as_in_super_time_force_part_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to design pixel art characters as in Super Time Force - part 1</title>
+      <link>http://gdquest.com/tutorial/art/pixel-art/chapter/5_how_to_design_pixel_art_characters_as_in_super_time_force__part_1/</link>
+      <pubDate>Thu, 19 Nov 2015 14:14:02 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/pixel-art/chapter/5_how_to_design_pixel_art_characters_as_in_super_time_force__part_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7 tips to master HD index painting with Krita</title>
+      <link>http://gdquest.com/tutorial/art/pixel-art/chapter/3_7_tips_to_master_hd_index_painting_with_krita/</link>
+      <pubDate>Thu, 12 Nov 2015 19:28:44 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/pixel-art/chapter/3_7_tips_to_master_hd_index_painting_with_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HD Index Painting With Krita</title>
+      <link>http://gdquest.com/tutorial/art/pixel-art/chapter/2_hd_index_painting_with_krita/</link>
+      <pubDate>Thu, 12 Nov 2015 19:28:40 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/pixel-art/chapter/2_hd_index_painting_with_krita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6 Pixel Art Drawing Techniques</title>
+      <link>http://gdquest.com/tutorial/art/pixel-art/chapter/0_6_pixel_art_drawing_techniques/</link>
+      <pubDate>Thu, 12 Nov 2015 19:28:33 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/pixel-art/chapter/0_6_pixel_art_drawing_techniques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to setup Krita for pixel art  - Krita pixel art tutorial</title>
+      <link>http://gdquest.com/tutorial/art/pixel-art/chapter/1_how_to_setup_krita_for_pixel_art___krita_pixel_art_tutorial/</link>
+      <pubDate>Thu, 12 Nov 2015 19:25:56 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/pixel-art/chapter/1_how_to_setup_krita_for_pixel_art___krita_pixel_art_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Draw Clouds in Pixel Art</title>
+      <link>http://gdquest.com/tutorial/art/pixel-art/chapter/4_how_to_draw_clouds_in_pixel_art/</link>
+      <pubDate>Thu, 05 Nov 2015 09:16:43 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/pixel-art/chapter/4_how_to_draw_clouds_in_pixel_art/</guid>
+      <description></description>
     </item>
     
     <item>
