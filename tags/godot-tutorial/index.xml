@@ -8,10 +8,22 @@
     <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Tue, 04 Sep 2018 06:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/tags/godot-tutorial/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Godot Course&#39;s Final Chapter is Out</title>
+      <link>http://gdquest.com/post/2018/10/godot-course-final-release/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/post/2018/10/godot-course-final-release/</guid>
+      <description>The last chapter of the Godot course is here! The project is now out of early access. 😄
+Make Professional 2D Games with Godot is the first intermediate-level course for the Godot Game Engine.
+Unlike many on-demand online courses, it is modular: you can watch the chapters in any order as they all focus on a specific topic.
+In every series, you&amp;rsquo;ll learn specific techniques like steering motion or how to code Finite State Machines, that will help you solve the many problems you&amp;rsquo;ll encounter in your projects.</description>
+    </item>
     
     <item>
       <title>Learn to Write Typed GDscript in Godot 3.1</title>

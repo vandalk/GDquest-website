@@ -439,7 +439,7 @@
     <item>
       <title>Godot 3 Course</title>
       <link>http://gdquest.com/tags/godot-3-course/</link>
-      <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-3-course/</guid>
       <description></description>
@@ -518,11 +518,29 @@
     </item>
     
     <item>
+      <title>Godot Free Demos</title>
+      <link>http://gdquest.com/tags/godot-free-demos/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-free-demos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Godot Game Engine</title>
       <link>http://gdquest.com/tags/godot-game-engine/</link>
       <pubDate>Fri, 07 Sep 2018 10:02:15 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-game-engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godot Gdquest Course</title>
+      <link>http://gdquest.com/tags/godot-gdquest-course/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-gdquest-course/</guid>
       <description></description>
     </item>
     
@@ -563,6 +581,15 @@
     </item>
     
     <item>
+      <title>Godot Presentation</title>
+      <link>http://gdquest.com/tags/godot-presentation/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Godot Programming Tutorial</title>
       <link>http://gdquest.com/tags/godot-programming-tutorial/</link>
       <pubDate>Tue, 04 Sep 2018 06:00:00 +0000</pubDate>
@@ -572,9 +599,27 @@
     </item>
     
     <item>
+      <title>Godot Rpg</title>
+      <link>http://gdquest.com/tags/godot-rpg/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-rpg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godot Slideshow</title>
+      <link>http://gdquest.com/tags/godot-slideshow/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-slideshow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Godot Tutorial</title>
       <link>http://gdquest.com/tags/godot-tutorial/</link>
-      <pubDate>Tue, 04 Sep 2018 06:00:00 +0000</pubDate>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-tutorial/</guid>
       <description></description>
@@ -613,6 +658,15 @@
       <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/godot-user-interface-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Godot Zelda Like</title>
+      <link>http://gdquest.com/tags/godot-zelda-like/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/godot-zelda-like/</guid>
       <description></description>
     </item>
     
@@ -781,7 +835,7 @@
     <item>
       <title>Learn Game Creation</title>
       <link>http://gdquest.com/tags/learn-game-creation/</link>
-      <pubDate>Mon, 22 May 2017 12:00:18 +0200</pubDate>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/learn-game-creation/</guid>
       <description></description>
@@ -793,6 +847,15 @@
       <pubDate>Fri, 07 Sep 2018 10:02:15 +0900</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tags/learn-game-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn Godot</title>
+      <link>http://gdquest.com/tags/learn-godot/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tags/learn-godot/</guid>
       <description></description>
     </item>
     
