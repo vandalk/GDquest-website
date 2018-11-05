@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ENTER TITLE on GDQuest</title>
+    <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/</link>
+    <description>Recent content in ENTER TITLE on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Mon, 24 Sep 2018 16:29:49 +0000</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fast and Precise Selections: Blender VSE (tutorial)</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/17_fast_and_precise_selections_blender_vse_/</link>
+      <pubDate>Mon, 24 Sep 2018 16:29:49 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/17_fast_and_precise_selections_blender_vse_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Render in the Blender Sequencer: Multithreaded Render with BPSrender cli (tutorial)</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/16_fast_render_in_the_blender_sequencer_multithreaded_render_with_bpsrender_cli_/</link>
+      <pubDate>Fri, 14 Sep 2018 16:29:57 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/16_fast_render_in_the_blender_sequencer_multithreaded_render_with_bpsrender_cli_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender Video Editing Tutorial: Power Sequencer Workflow 1</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/1_blender_video_editing_tutorial_power_sequencer_workflow_1/</link>
+      <pubDate>Fri, 08 Jun 2018 06:43:19 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/1_blender_video_editing_tutorial_power_sequencer_workflow_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn Video Editing in Blender: Getting started with the VSE and Power Sequencer</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/0_learn_video_editing_in_blender_getting_started_with_the_vse_and_power_sequencer/</link>
+      <pubDate>Fri, 08 Jun 2018 06:43:19 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/0_learn_video_editing_in_blender_getting_started_with_the_vse_and_power_sequencer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender VSE: zoom and navigation</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/8_blender_vse_zoom_and_navigation/</link>
+      <pubDate>Sun, 24 Dec 2017 10:50:34 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/8_blender_vse_zoom_and_navigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender Power Sequencer: Render for the web (video editing tutorial)</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/6_blender_power_sequencer_render_for_the_web_/</link>
+      <pubDate>Fri, 22 Dec 2017 10:11:34 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/6_blender_power_sequencer_render_for_the_web_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Sequencer: Copy, Cut and Paste strips</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/15_power_sequencer_copy_cut_and_paste_strips/</link>
+      <pubDate>Fri, 22 Dec 2017 10:10:49 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/15_power_sequencer_copy_cut_and_paste_strips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender Sequencer tips: Ripple edit to make space</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/14_blender_sequencer_tips_ripple_edit_to_make_space/</link>
+      <pubDate>Fri, 22 Dec 2017 10:10:46 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/14_blender_sequencer_tips_ripple_edit_to_make_space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender Power Sequencer: Cut and Trim with the Mouse (video editing tutorial)</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/3_blender_power_sequencer_cut_and_trim_with_the_mouse_/</link>
+      <pubDate>Tue, 12 Dec 2017 10:37:47 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/3_blender_power_sequencer_cut_and_trim_with_the_mouse_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender Power Sequencer: Import local footage (video editing tutorial)</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/2_blender_power_sequencer_import_local_footage_/</link>
+      <pubDate>Fri, 08 Dec 2017 14:42:34 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/2_blender_power_sequencer_import_local_footage_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender Power Sequencer: Fade in, fade out (video editing tutorial)</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/5_blender_power_sequencer_fade_in_fade_out_/</link>
+      <pubDate>Fri, 08 Dec 2017 14:42:30 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/5_blender_power_sequencer_fade_in_fade_out_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender Sequencer: the powerful Snap</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/9_blender_sequencer_the_powerful_snap/</link>
+      <pubDate>Wed, 06 Dec 2017 10:41:47 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/9_blender_sequencer_the_powerful_snap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Sequencer: Add Transform Effect</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/10_power_sequencer_add_transform_effect/</link>
+      <pubDate>Wed, 06 Dec 2017 10:41:47 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/10_power_sequencer_add_transform_effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Sequencer Utils: Render Proxies with FFmpeg</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/13_power_sequencer_utils_render_proxies_with_ffmpeg/</link>
+      <pubDate>Wed, 06 Dec 2017 10:35:38 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/13_power_sequencer_utils_render_proxies_with_ffmpeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender Power Sequencer: Crossfades (video editing tutorial)</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/4_blender_power_sequencer_crossfades_/</link>
+      <pubDate>Wed, 06 Dec 2017 10:29:54 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/4_blender_power_sequencer_crossfades_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender VSE: change properties on a big selection with Python</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/11_blender_vse_change_properties_on_a_big_selection_with_python/</link>
+      <pubDate>Wed, 06 Dec 2017 10:28:18 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/11_blender_vse_change_properties_on_a_big_selection_with_python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender VSE: change opacity on a big selection with Python</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/12_blender_vse_change_opacity_on_a_big_selection_with_python/</link>
+      <pubDate>Wed, 06 Dec 2017 10:28:17 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/12_blender_vse_change_opacity_on_a_big_selection_with_python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Sequencer: Install Python and FFmpeg on Windows</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/7_power_sequencer_install_python_and_ffmpeg_on_windows/</link>
+      <pubDate>Wed, 06 Dec 2017 10:28:13 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/7_power_sequencer_install_python_and_ffmpeg_on_windows/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

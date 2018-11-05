@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ENTER TITLE on GDQuest</title>
+    <link>http://gdquest.com/tutorial/photography/darktable/darktable-photo-development-tutorials/chapter/</link>
+    <description>Recent content in ENTER TITLE on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Mon, 03 Sep 2018 16:29:48 +0000</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tutorial/photography/darktable/darktable-photo-development-tutorials/chapter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beautiful Raw Photo Contrast in Darktable: Get Started with Darkroom (tutorial)</title>
+      <link>http://gdquest.com/tutorial/photography/darktable/darktable-photo-development-tutorials/chapter/1_beautiful_raw_photo_contrast_in_darktable_get_started_with_darkroom_/</link>
+      <pubDate>Mon, 03 Sep 2018 16:29:48 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/photography/darktable/darktable-photo-development-tutorials/chapter/1_beautiful_raw_photo_contrast_in_darktable_get_started_with_darkroom_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Free Lightroom Alternative: Darktable Review</title>
+      <link>http://gdquest.com/tutorial/photography/darktable/darktable-photo-development-tutorials/chapter/0_free_lightroom_alternative_darktable_review/</link>
+      <pubDate>Thu, 23 Aug 2018 23:42:57 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/photography/darktable/darktable-photo-development-tutorials/chapter/0_free_lightroom_alternative_darktable_review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

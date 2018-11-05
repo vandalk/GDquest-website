@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
     <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
-    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Aug 2018 23:34:41 +0000</lastBuildDate>
     
 	<atom:link href="http://gdquest.com/tags/training/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Darktable Photo Development Tutorials</title>
+      <link>http://gdquest.com/tutorial/photography/darktable/darktable-photo-development-tutorials/</link>
+      <pubDate>Thu, 23 Aug 2018 23:34:41 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/photography/darktable/darktable-photo-development-tutorials/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Intro to Shaders in Godot</title>
@@ -20,6 +29,33 @@
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/</guid>
       <description>Learn to create shaders from scratch in Godot 3! This Free series focuses on 2d shaders, but we worked together with Baastian Olij to cover 3d water as well.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Multiplayer in Godot</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/</link>
+      <pubDate>Thu, 09 Aug 2018 03:45:41 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Interface Tutorials</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/</link>
+      <pubDate>Thu, 24 May 2018 08:11:15 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender Video Editing tutorials (with Power Sequencer)</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/</link>
+      <pubDate>Wed, 06 Dec 2017 10:22:20 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -8,6 +8,26 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/chapter/</loc>
+    <lastmod>2018-08-22T16:30:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/</loc>
+    <lastmod>2018-10-10T16:29:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/photography/darktable/darktable-photo-development-tutorials/chapter/</loc>
+    <lastmod>2018-09-03T16:29:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/</loc>
+    <lastmod>2018-09-24T16:29:49+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_1/</loc>
     <lastmod>2016-04-14T06:27:21+00:00</lastmod>
   </url>
@@ -108,6 +128,11 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/open-source/contributing-guidelines/</loc>
+    <lastmod>2018-11-05T09:30:19+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2018/10/godot-course-final-release/</loc>
     <lastmod>2018-10-28T00:00:00+00:00</lastmod>
   </url>
@@ -115,6 +140,26 @@
   <url>
     <loc>http://gdquest.com/post/2018/10/godot-course-content-list/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/8_input_remapping_in_godot_/</loc>
+    <lastmod>2018-10-10T16:29:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/7_animated_experience_bar_in_godot_/</loc>
+    <lastmod>2018-10-03T16:29:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/17_fast_and_precise_selections_blender_vse_/</loc>
+    <lastmod>2018-09-24T16:29:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/16_fast_render_in_the_blender_sequencer_multithreaded_render_with_bpsrender_cli_/</loc>
+    <lastmod>2018-09-14T16:29:57+00:00</lastmod>
   </url>
   
   <url>
@@ -133,6 +178,11 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/photography/darktable/darktable-photo-development-tutorials/chapter/1_beautiful_raw_photo_contrast_in_darktable_get_started_with_darkroom_/</loc>
+    <lastmod>2018-09-03T16:29:48+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2018/09/godot-shop-series/</loc>
     <lastmod>2018-09-01T08:18:06+09:00</lastmod>
   </url>
@@ -143,6 +193,46 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/photography/darktable/darktable-photo-development-tutorials/chapter/0_free_lightroom_alternative_darktable_review/</loc>
+    <lastmod>2018-08-23T23:42:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/photography/darktable/darktable-photo-development-tutorials/</loc>
+    <lastmod>2018-08-23T23:34:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/chapter/2_intro_to_multiplayer_in_godot_/</loc>
+    <lastmod>2018-08-22T16:30:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/2_intro_to_multiplayer_in_godot_/</loc>
+    <lastmod>2018-08-22T16:30:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/6_tips_align_and_center_items_in_a_grid_in_godot_/</loc>
+    <lastmod>2018-08-20T16:29:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/chapter/1_intro_to_multiplayer_in_godot_/</loc>
+    <lastmod>2018-08-18T05:18:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/1_intro_to_multiplayer_in_godot_/</loc>
+    <lastmod>2018-08-18T05:18:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/5_how_to_code_a_pause_in_godot_/</loc>
+    <lastmod>2018-08-13T16:30:08+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2018/08/godot-ui-course/</loc>
     <lastmod>2018-08-13T19:49:19+09:00</lastmod>
   </url>
@@ -150,6 +240,21 @@
   <url>
     <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/chapter/0_intro_to_multiplayer_in_godot_3_lobby_demo_overview_/</loc>
+    <lastmod>2018-08-09T03:52:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/0_intro_to_multiplayer_in_godot_3_lobby_demo_overview_/</loc>
+    <lastmod>2018-08-09T03:52:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/</loc>
+    <lastmod>2018-08-09T03:45:41+00:00</lastmod>
   </url>
   
   <url>
@@ -170,6 +275,11 @@
   <url>
     <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/4-merging-the-two-waves-together/</loc>
     <lastmod>2018-07-23T16:29:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/4_lifebar_code_and_animation_in_godot_/</loc>
+    <lastmod>2018-07-18T16:30:05+00:00</lastmod>
   </url>
   
   <url>
@@ -203,8 +313,43 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/1_blender_video_editing_tutorial_power_sequencer_workflow_1/</loc>
+    <lastmod>2018-06-08T06:43:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/0_learn_video_editing_in_blender_getting_started_with_the_vse_and_power_sequencer/</loc>
+    <lastmod>2018-06-08T06:43:19+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2018/06/godot-course-update-7/</loc>
     <lastmod>2018-06-01T18:19:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/2_grid_guides_and_smart_snapping_in_godot_3_/</loc>
+    <lastmod>2018-05-31T06:32:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/0_create_a_game_interface_from_scratch_in_godot_3_/</loc>
+    <lastmod>2018-05-24T08:11:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/3_getting_started_with_screen_sizes_in_godot_3/</loc>
+    <lastmod>2018-05-24T08:11:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/1_introduction_to_ui_containers_in_godot_3_/</loc>
+    <lastmod>2018-05-24T08:11:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/</loc>
+    <lastmod>2018-05-24T08:11:15+00:00</lastmod>
   </url>
   
   <url>
@@ -240,6 +385,81 @@
   <url>
     <loc>http://gdquest.com/post/2017/12/godot-3-course-character-controller/</loc>
     <lastmod>2017-12-25T15:54:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/8_blender_vse_zoom_and_navigation/</loc>
+    <lastmod>2017-12-24T10:50:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/6_blender_power_sequencer_render_for_the_web_/</loc>
+    <lastmod>2017-12-22T10:11:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/15_power_sequencer_copy_cut_and_paste_strips/</loc>
+    <lastmod>2017-12-22T10:10:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/14_blender_sequencer_tips_ripple_edit_to_make_space/</loc>
+    <lastmod>2017-12-22T10:10:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/3_blender_power_sequencer_cut_and_trim_with_the_mouse_/</loc>
+    <lastmod>2017-12-12T10:37:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/2_blender_power_sequencer_import_local_footage_/</loc>
+    <lastmod>2017-12-08T14:42:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/5_blender_power_sequencer_fade_in_fade_out_/</loc>
+    <lastmod>2017-12-08T14:42:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/9_blender_sequencer_the_powerful_snap/</loc>
+    <lastmod>2017-12-06T10:41:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/10_power_sequencer_add_transform_effect/</loc>
+    <lastmod>2017-12-06T10:41:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/13_power_sequencer_utils_render_proxies_with_ffmpeg/</loc>
+    <lastmod>2017-12-06T10:35:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/4_blender_power_sequencer_crossfades_/</loc>
+    <lastmod>2017-12-06T10:29:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/11_blender_vse_change_properties_on_a_big_selection_with_python/</loc>
+    <lastmod>2017-12-06T10:28:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/12_blender_vse_change_opacity_on_a_big_selection_with_python/</loc>
+    <lastmod>2017-12-06T10:28:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/7_power_sequencer_install_python_and_ffmpeg_on_windows/</loc>
+    <lastmod>2017-12-06T10:28:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/</loc>
+    <lastmod>2017-12-06T10:22:20+00:00</lastmod>
   </url>
   
   <url>
@@ -1037,6 +1257,11 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/blender/</loc>
     <priority>0</priority>
   </url>
@@ -1113,6 +1338,11 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/photography/darktable/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/digital-art/</loc>
     <lastmod>2017-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1132,7 +1362,7 @@
   
   <url>
     <loc>http://gdquest.com/tags/free/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-23T23:34:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1644,6 +1874,11 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/photography/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tags/plugin/</loc>
     <lastmod>2018-06-09T13:18:14+09:00</lastmod>
     <priority>0</priority>
@@ -1744,7 +1979,7 @@
   
   <url>
     <loc>http://gdquest.com/tags/training/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-23T23:34:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1781,6 +2016,11 @@
   <url>
     <loc>http://gdquest.com/tags/video-list/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/video-editing/</loc>
     <priority>0</priority>
   </url>
   

@@ -50,6 +50,17 @@
     </item>
     
     <item>
+      <title>The Contributor&#39;s Guidelines</title>
+      <link>http://gdquest.com/open-source/contributing-guidelines/</link>
+      <pubDate>Mon, 05 Nov 2018 09:30:19 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/open-source/contributing-guidelines/</guid>
+      <description>Want to become a contributor? Thank you kindly for taking the time to give everyone a hand! 😄
+To make it as smooth and as pleasant as possible for everyone to work together, we&amp;rsquo;ll ask you to:
+ Communicate. Let people know what you&amp;rsquo;re working on, join discussion on the issues, and open your own! Be and mindful of the contributors&amp;rsquo; and the maintainers&amp;rsquo; time. Everyone here is providing their expertise benevolently.</description>
+    </item>
+    
+    <item>
       <title>The Godot Course&#39;s Final Chapter is Out</title>
       <link>http://gdquest.com/post/2018/10/godot-course-final-release/</link>
       <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
@@ -70,6 +81,42 @@ In every series, you&amp;rsquo;ll learn specific techniques like steering motion
       <description>The course comes in 3 versions. Indie contains all of Hobby, and Pro contains all chapters from Hobby and Indie, and extra resources:
  Hobby  Indie  Pro   If you&amp;rsquo;re only looking for UI tutorials, check out our standalone course:
 Create User Interface Godot CourseYou&amp;rsquo;ll find some free tutorial samples below. I also released the Finite State Machine  demo open source, for the official Godot documentation.</description>
+    </item>
+    
+    <item>
+      <title>Input Remapping in Godot (Free project and code overview)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/8_input_remapping_in_godot_/</link>
+      <pubDate>Wed, 10 Oct 2018 16:29:50 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/8_input_remapping_in_godot_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Animated Experience Bar in Godot (tutorial 2/2)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/7_animated_experience_bar_in_godot_/</link>
+      <pubDate>Wed, 03 Oct 2018 16:29:54 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/7_animated_experience_bar_in_godot_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast and Precise Selections: Blender VSE (tutorial)</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/17_fast_and_precise_selections_blender_vse_/</link>
+      <pubDate>Mon, 24 Sep 2018 16:29:49 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/17_fast_and_precise_selections_blender_vse_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Render in the Blender Sequencer: Multithreaded Render with BPSrender cli (tutorial)</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/16_fast_render_in_the_blender_sequencer_multithreaded_render_with_bpsrender_cli_/</link>
+      <pubDate>Fri, 14 Sep 2018 16:29:57 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/16_fast_render_in_the_blender_sequencer_multithreaded_render_with_bpsrender_cli_/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -106,6 +153,15 @@ Static types can be used on variables, constants, functions, parameters, and ret
     </item>
     
     <item>
+      <title>Beautiful Raw Photo Contrast in Darktable: Get Started with Darkroom (tutorial)</title>
+      <link>http://gdquest.com/tutorial/photography/darktable/darktable-photo-development-tutorials/chapter/1_beautiful_raw_photo_contrast_in_darktable_get_started_with_darkroom_/</link>
+      <pubDate>Mon, 03 Sep 2018 16:29:48 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/photography/darktable/darktable-photo-development-tutorials/chapter/1_beautiful_raw_photo_contrast_in_darktable_get_started_with_darkroom_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Shop Course Series is Out Now</title>
       <link>http://gdquest.com/post/2018/09/godot-shop-series/</link>
       <pubDate>Sat, 01 Sep 2018 08:18:06 +0900</pubDate>
@@ -127,6 +183,69 @@ Version 1.1 improves the editing workflow with new features like:
     </item>
     
     <item>
+      <title>Free Lightroom Alternative: Darktable Review</title>
+      <link>http://gdquest.com/tutorial/photography/darktable/darktable-photo-development-tutorials/chapter/0_free_lightroom_alternative_darktable_review/</link>
+      <pubDate>Thu, 23 Aug 2018 23:42:57 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/photography/darktable/darktable-photo-development-tutorials/chapter/0_free_lightroom_alternative_darktable_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Multiplayer in Godot (3): Rifle and UI (tutorial)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/chapter/2_intro_to_multiplayer_in_godot_/</link>
+      <pubDate>Wed, 22 Aug 2018 16:30:05 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/chapter/2_intro_to_multiplayer_in_godot_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Multiplayer in Godot (3): Rifle and UI (tutorial)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/2_intro_to_multiplayer_in_godot_/</link>
+      <pubDate>Wed, 22 Aug 2018 16:30:05 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/2_intro_to_multiplayer_in_godot_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tips: Align and Center Items in a Grid in Godot (tutorial)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/6_tips_align_and_center_items_in_a_grid_in_godot_/</link>
+      <pubDate>Mon, 20 Aug 2018 16:29:58 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/6_tips_align_and_center_items_in_a_grid_in_godot_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Multiplayer in Godot (2): Player Overview (tutorial)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/chapter/1_intro_to_multiplayer_in_godot_/</link>
+      <pubDate>Sat, 18 Aug 2018 05:18:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/chapter/1_intro_to_multiplayer_in_godot_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Multiplayer in Godot (2): Player Overview (tutorial)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/1_intro_to_multiplayer_in_godot_/</link>
+      <pubDate>Sat, 18 Aug 2018 05:18:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/1_intro_to_multiplayer_in_godot_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Code a Pause in Godot (tutorial)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/5_how_to_code_a_pause_in_godot_/</link>
+      <pubDate>Mon, 13 Aug 2018 16:30:08 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/5_how_to_code_a_pause_in_godot_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Godot Interface Design Course: standalone version</title>
       <link>http://gdquest.com/post/2018/08/godot-ui-course/</link>
       <pubDate>Mon, 13 Aug 2018 19:49:19 +0900</pubDate>
@@ -135,6 +254,24 @@ Version 1.1 improves the editing workflow with new features like:
       <description>If you don&amp;rsquo;t have the full Godot 3 course and you are only interested in UI design, you can now get our UI master series as a stand-alone course! That way you only pay for the content you want! 😊
 This initial release contains 25 tutorials, for over 3h30 of content. You&amp;rsquo;ll learn to create:
  A pause menu and manage pause An inventory system you can use for any type of game An item menu inspired by old-school Japanese RPGs Animated lifebars and gauges that follow monsters in the game  Get the Godot UI Tutorial!</description>
+    </item>
+    
+    <item>
+      <title>Intro to Multiplayer in Godot 3: Lobby Demo Overview (tutorial)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/chapter/0_intro_to_multiplayer_in_godot_3_lobby_demo_overview_/</link>
+      <pubDate>Thu, 09 Aug 2018 03:52:22 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/chapter/0_intro_to_multiplayer_in_godot_3_lobby_demo_overview_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Multiplayer in Godot 3: Lobby Demo Overview (tutorial)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/0_intro_to_multiplayer_in_godot_3_lobby_demo_overview_/</link>
+      <pubDate>Thu, 09 Aug 2018 03:52:22 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/0_intro_to_multiplayer_in_godot_3_lobby_demo_overview_/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -172,6 +309,15 @@ These 3.5 hours of extra tutorials dedicated to Game User Interface will show yo
       <pubDate>Mon, 23 Jul 2018 16:29:50 +0000</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-shaders/chapter/4-merging-the-two-waves-together/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lifebar Code and Animation in Godot (tutorial)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/4_lifebar_code_and_animation_in_godot_/</link>
+      <pubDate>Wed, 18 Jul 2018 16:30:05 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/4_lifebar_code_and_animation_in_godot_/</guid>
       <description></description>
     </item>
     
@@ -234,6 +380,24 @@ The add-on brings over 40 new core editing features to Blender, including:
     </item>
     
     <item>
+      <title>Blender Video Editing Tutorial: Power Sequencer Workflow 1</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/1_blender_video_editing_tutorial_power_sequencer_workflow_1/</link>
+      <pubDate>Fri, 08 Jun 2018 06:43:19 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/1_blender_video_editing_tutorial_power_sequencer_workflow_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn Video Editing in Blender: Getting started with the VSE and Power Sequencer</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/0_learn_video_editing_in_blender_getting_started_with_the_vse_and_power_sequencer/</link>
+      <pubDate>Fri, 08 Jun 2018 06:43:19 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/0_learn_video_editing_in_blender_getting_started_with_the_vse_and_power_sequencer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Godot 3 course: the boss chapter is out!</title>
       <link>http://gdquest.com/post/2018/06/godot-course-update-7/</link>
       <pubDate>Fri, 01 Jun 2018 18:19:32 +0900</pubDate>
@@ -242,6 +406,42 @@ The add-on brings over 40 new core editing features to Blender, including:
       <description>In this month&amp;rsquo;s update you get one new chapter in the course. This is the hardest and probably the biggest series I made so far: chapter 5 is dedicated to boss creation.
 This builds upon chapters 1 to 3 and brings the state programming pattern  to everyone, whether you&amp;rsquo;ve got the essentials, the indie, or the pro version.
 As the boss chapter took twice the time I planned to invest in it, I couldn&amp;rsquo;t finish the essentials version in May.</description>
+    </item>
+    
+    <item>
+      <title>Grid, Guides, and Smart Snapping in Godot 3 (tutorial)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/2_grid_guides_and_smart_snapping_in_godot_3_/</link>
+      <pubDate>Thu, 31 May 2018 06:32:10 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/2_grid_guides_and_smart_snapping_in_godot_3_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create a Game Interface From Scratch in Godot 3 (tutorial)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/0_create_a_game_interface_from_scratch_in_godot_3_/</link>
+      <pubDate>Thu, 24 May 2018 08:11:15 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/0_create_a_game_interface_from_scratch_in_godot_3_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Screen Sizes in Godot 3</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/3_getting_started_with_screen_sizes_in_godot_3/</link>
+      <pubDate>Thu, 24 May 2018 08:11:15 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/3_getting_started_with_screen_sizes_in_godot_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to UI Containers in Godot 3 (tutorial)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/1_introduction_to_ui_containers_in_godot_3_/</link>
+      <pubDate>Thu, 24 May 2018 08:11:15 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/user-interface-tutorials/chapter/1_introduction_to_ui_containers_in_godot_3_/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -310,6 +510,132 @@ Godot 3 just came out , and with some more work done on the official documentati
       <description>The Christmas update of the Godot 3 course is out on Gumroad! It&amp;rsquo;s available in all early access versions of the course: Hobby, Indie and Pro.
 Use the coupon code &amp;laquo;early&amp;raquo; to get 20% off while the course is in early access!
 In this series, you&amp;rsquo;ll learn how to create a fairly robust character controller: we&amp;rsquo;re covering input, walk and run speed, handling collisions, adding a bump animation when the character hits something&amp;hellip; with a lot of techniques exposed along the way.</description>
+    </item>
+    
+    <item>
+      <title>Blender VSE: zoom and navigation</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/8_blender_vse_zoom_and_navigation/</link>
+      <pubDate>Sun, 24 Dec 2017 10:50:34 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/8_blender_vse_zoom_and_navigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender Power Sequencer: Render for the web (video editing tutorial)</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/6_blender_power_sequencer_render_for_the_web_/</link>
+      <pubDate>Fri, 22 Dec 2017 10:11:34 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/6_blender_power_sequencer_render_for_the_web_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Sequencer: Copy, Cut and Paste strips</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/15_power_sequencer_copy_cut_and_paste_strips/</link>
+      <pubDate>Fri, 22 Dec 2017 10:10:49 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/15_power_sequencer_copy_cut_and_paste_strips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender Sequencer tips: Ripple edit to make space</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/14_blender_sequencer_tips_ripple_edit_to_make_space/</link>
+      <pubDate>Fri, 22 Dec 2017 10:10:46 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/14_blender_sequencer_tips_ripple_edit_to_make_space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender Power Sequencer: Cut and Trim with the Mouse (video editing tutorial)</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/3_blender_power_sequencer_cut_and_trim_with_the_mouse_/</link>
+      <pubDate>Tue, 12 Dec 2017 10:37:47 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/3_blender_power_sequencer_cut_and_trim_with_the_mouse_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender Power Sequencer: Import local footage (video editing tutorial)</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/2_blender_power_sequencer_import_local_footage_/</link>
+      <pubDate>Fri, 08 Dec 2017 14:42:34 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/2_blender_power_sequencer_import_local_footage_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender Power Sequencer: Fade in, fade out (video editing tutorial)</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/5_blender_power_sequencer_fade_in_fade_out_/</link>
+      <pubDate>Fri, 08 Dec 2017 14:42:30 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/5_blender_power_sequencer_fade_in_fade_out_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender Sequencer: the powerful Snap</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/9_blender_sequencer_the_powerful_snap/</link>
+      <pubDate>Wed, 06 Dec 2017 10:41:47 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/9_blender_sequencer_the_powerful_snap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Sequencer: Add Transform Effect</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/10_power_sequencer_add_transform_effect/</link>
+      <pubDate>Wed, 06 Dec 2017 10:41:47 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/10_power_sequencer_add_transform_effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Sequencer Utils: Render Proxies with FFmpeg</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/13_power_sequencer_utils_render_proxies_with_ffmpeg/</link>
+      <pubDate>Wed, 06 Dec 2017 10:35:38 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/13_power_sequencer_utils_render_proxies_with_ffmpeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender Power Sequencer: Crossfades (video editing tutorial)</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/4_blender_power_sequencer_crossfades_/</link>
+      <pubDate>Wed, 06 Dec 2017 10:29:54 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/4_blender_power_sequencer_crossfades_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender VSE: change properties on a big selection with Python</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/11_blender_vse_change_properties_on_a_big_selection_with_python/</link>
+      <pubDate>Wed, 06 Dec 2017 10:28:18 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/11_blender_vse_change_properties_on_a_big_selection_with_python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender VSE: change opacity on a big selection with Python</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/12_blender_vse_change_opacity_on_a_big_selection_with_python/</link>
+      <pubDate>Wed, 06 Dec 2017 10:28:17 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/12_blender_vse_change_opacity_on_a_big_selection_with_python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Sequencer: Install Python and FFmpeg on Windows</title>
+      <link>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/7_power_sequencer_install_python_and_ffmpeg_on_windows/</link>
+      <pubDate>Wed, 06 Dec 2017 10:28:13 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/video-editing/blender-power-sequencer/blender-video-editing-tutorials/chapter/7_power_sequencer_install_python_and_ffmpeg_on_windows/</guid>
+      <description></description>
     </item>
     
     <item>

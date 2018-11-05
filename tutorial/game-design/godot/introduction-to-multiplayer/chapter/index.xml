@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ENTER TITLE on GDQuest</title>
+    <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/chapter/</link>
+    <description>Recent content in ENTER TITLE on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Wed, 22 Aug 2018 16:30:05 +0000</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/chapter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to Multiplayer in Godot (3): Rifle and UI (tutorial)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/chapter/2_intro_to_multiplayer_in_godot_/</link>
+      <pubDate>Wed, 22 Aug 2018 16:30:05 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/chapter/2_intro_to_multiplayer_in_godot_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Multiplayer in Godot (2): Player Overview (tutorial)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/chapter/1_intro_to_multiplayer_in_godot_/</link>
+      <pubDate>Sat, 18 Aug 2018 05:18:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/chapter/1_intro_to_multiplayer_in_godot_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro to Multiplayer in Godot 3: Lobby Demo Overview (tutorial)</title>
+      <link>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/chapter/0_intro_to_multiplayer_in_godot_3_lobby_demo_overview_/</link>
+      <pubDate>Thu, 09 Aug 2018 03:52:22 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/chapter/0_intro_to_multiplayer_in_godot_3_lobby_demo_overview_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

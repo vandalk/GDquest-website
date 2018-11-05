@@ -13,5 +13,16 @@
 	<atom:link href="http://gdquest.com/open-source/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>The Contributor&#39;s Guidelines</title>
+      <link>http://gdquest.com/open-source/contributing-guidelines/</link>
+      <pubDate>Mon, 05 Nov 2018 09:30:19 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/open-source/contributing-guidelines/</guid>
+      <description>Want to become a contributor? Thank you kindly for taking the time to give everyone a hand! 😄
+To make it as smooth and as pleasant as possible for everyone to work together, we&amp;rsquo;ll ask you to:
+ Communicate. Let people know what you&amp;rsquo;re working on, join discussion on the issues, and open your own! Be and mindful of the contributors&amp;rsquo; and the maintainers&amp;rsquo; time. Everyone here is providing their expertise benevolently.</description>
+    </item>
+    
   </channel>
 </rss>
