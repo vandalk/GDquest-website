@@ -50,6 +50,18 @@
     </item>
     
     <item>
+      <title>GDQuest Code of Conduct</title>
+      <link>http://gdquest.com/open-source/code-of-conduct/</link>
+      <pubDate>Tue, 04 Dec 2018 09:30:19 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/open-source/code-of-conduct/</guid>
+      <description>Version v1.0.0
+This document is based on the GNU Kind Communications Guidelines by Richard Stallman.
+In short, our goal with these guidelines is to build a welcoming, a safe, and a productive space for every creator and contributor. We&amp;rsquo;re here to push Free Software projects forward together, working past our differences.
+We encourage contributions from anyone who wishes to help with the development of any GDquest project, regardless of gender, race, religion, cultural background, and any other demographic characteristics, as well as personal political views.</description>
+    </item>
+    
+    <item>
       <title>The Contributor&#39;s Guidelines</title>
       <link>http://gdquest.com/open-source/contributing-guidelines/</link>
       <pubDate>Mon, 05 Nov 2018 09:30:19 +0900</pubDate>
@@ -498,7 +510,7 @@ Godot 3 just came out , and with some more work done on the official documentati
       <pubDate>Mon, 01 Jan 2018 19:47:10 +0100</pubDate>
       <author>nathan@gdquest.com (Nathan Lovato)</author>
       <guid>http://gdquest.com/blender/power-sequencer/docs/</guid>
-      <description>operators Add Speed Add Transform Border Select Change Playback Speed Channel Offset Concatenate Strips Copy Selected Sequences Add Crossfade Edit Crossfade Decrease Playback Speed Delete Direct Fade Strips Clear Fades Auto select and grab Grab Closest Handle or Cut Grab Sequence Handle Import Local Footage Increase Playback Speed Mouse Cut Mouse Toggle Mute Mouse Trim Preview Last Cut Preview to selection Render for Web Ripple Delete Save Direct Cycle Scenes Smart Snap Snap Selection to Cursor Toggle Selected Mute Toggle Waveforms Trim to Surrounding Cuts Refresh AllAdd SpeedAdd 2x speed to strip and set it&amp;rsquo;s frame end accordingly.</description>
+      <description>operators Add Speed Add Transform Border Select Change Playback Speed Channel Offset Concatenate Strips Copy Selected Sequences Add Crossfade Decrease Playback Speed Delete Direct Fade Strips Clear Fades Auto select and grab Grab Closest Handle or Cut Grab Sequence Handle Import Local Footage Increase Playback Speed Mouse Cut Mouse Toggle Mute Mouse Trim Preview Last Cut Preview to selection Render for Web Ripple Delete Save Direct Cycle Scenes Smart Snap Snap Selection to Cursor Toggle Selected Mute Toggle Waveforms Three Point Edit Trim to Surrounding Cuts Refresh AllAdd SpeedAdd 2x speed to strip and set it&amp;rsquo;s frame end accordingly.</description>
     </item>
     
     <item>
@@ -1751,6 +1763,51 @@ How to redeem your coupon In the email, you will find a link that will automatic
     </item>
     
     <item>
+      <title>13 free Open Source software to make your games!</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/11_13_free_open_source_software_to_make_your_games/</link>
+      <pubDate>Sat, 06 Feb 2016 16:07:11 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/11_13_free_open_source_software_to_make_your_games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7 Books to Explore Game Creation in Greater Depth</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/10_7_books_to_explore_game_creation_in_greater_depth/</link>
+      <pubDate>Sat, 06 Feb 2016 16:07:07 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/10_7_books_to_explore_game_creation_in_greater_depth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>12 handy free productivity tools for game designers</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/9_12_handy_free_productivity_tools_for_game_designers/</link>
+      <pubDate>Sat, 06 Feb 2016 16:07:05 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/9_12_handy_free_productivity_tools_for_game_designers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My 8 best game design resources</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/8_my_8_best_game_design_resources/</link>
+      <pubDate>Sat, 06 Feb 2016 16:07:02 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/8_my_8_best_game_design_resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quick Timer Events from a Game Design Perspective</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/7_quick_timer_events_from_a_game_design_perspective/</link>
+      <pubDate>Sat, 06 Feb 2016 16:05:41 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/7_quick_timer_events_from_a_game_design_perspective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Introduction to Monster Design - Enemies in Mario</title>
       <link>http://gdquest.com/tutorial/art/monster-design/chapter1/0_introduction_to_monster_design__enemies_in_mario/</link>
       <pubDate>Fri, 05 Feb 2016 19:50:40 +0000</pubDate>
@@ -1787,6 +1844,15 @@ How to redeem your coupon In the email, you will find a link that will automatic
     </item>
     
     <item>
+      <title>Introduction to Monster Design - Enemies in Mario</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/21_introduction_to_monster_design__enemies_in_mario/</link>
+      <pubDate>Thu, 14 Jan 2016 22:30:20 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/21_introduction_to_monster_design__enemies_in_mario/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vote for future free tutorials! 2016</title>
       <link>http://gdquest.com/post/2016/community/vote-for-upcoming-tutorials-january-2016/</link>
       <pubDate>Mon, 11 Jan 2016 09:16:10 +0100</pubDate>
@@ -1795,6 +1861,33 @@ How to redeem your coupon In the email, you will find a link that will automatic
       <description>06-2016 update: Voting is over! You were more than 400 to vote on the series you want to see on GDquest.
 Here are the top 3 results:
  Overview of Godot 2 (249 votes) Painting rock and grass tiles for 2d games (141 votes) Human proportions, from reality to games (119 votes)  Let your voice be heard Up until now, the tutorials have been a bit random on GDquest.</description>
+    </item>
+    
+    <item>
+      <title>How to Paint Rocks for Games - part 3</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/20_how_to_paint_rocks_for_games__part_3/</link>
+      <pubDate>Mon, 21 Dec 2015 15:48:22 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/20_how_to_paint_rocks_for_games__part_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to paint rocks for games - part 1</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/19_how_to_paint_rocks_for_games__part_1/</link>
+      <pubDate>Fri, 04 Dec 2015 21:19:24 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/19_how_to_paint_rocks_for_games__part_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Paint Rocks for Games - part 2</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/18_how_to_paint_rocks_for_games__part_2/</link>
+      <pubDate>Fri, 04 Dec 2015 18:21:28 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/18_how_to_paint_rocks_for_games__part_2/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -1861,6 +1954,24 @@ Here are the top 3 results:
     </item>
     
     <item>
+      <title>Overview of Simple Collisions Detection Types in 2d games</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/6_overview_of_simple_collisions_detection_types_in_2d_games/</link>
+      <pubDate>Thu, 22 Oct 2015 08:30:01 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/6_overview_of_simple_collisions_detection_types_in_2d_games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movement Analysis - Ori and the Blind Forest</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/5_movement_analysis__ori_and_the_blind_forest/</link>
+      <pubDate>Mon, 05 Oct 2015 11:22:15 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/5_movement_analysis__ori_and_the_blind_forest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Phaser auto completion in Atom</title>
       <link>http://gdquest.com/post/2016/programming/phaser-auto-completion-in-atom/</link>
       <pubDate>Sat, 03 Oct 2015 00:00:00 +0000</pubDate>
@@ -1868,6 +1979,249 @@ Here are the top 3 results:
       <guid>http://gdquest.com/post/2016/programming/phaser-auto-completion-in-atom/</guid>
       <description>This little guide will show you how to use the tern-phaser plugin by Angelo with Atom.
 Installing tern This first part explains how to get npm, install tern and the tern-phaser plugin. The first thing that you need to ensure is that you have Node.js installed on your computer. You can download it on https://nodejs.org/en/. This will give you access to npm as well, a handy package manager for js libraries and plugins.</description>
+    </item>
+    
+    <item>
+      <title>Game Engines: what are they and how to choose the right one?</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/4_game_engines_what_are_they_and_how_to_choose_the_right_one/</link>
+      <pubDate>Wed, 30 Sep 2015 18:09:58 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/4_game_engines_what_are_they_and_how_to_choose_the_right_one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring grid-based movement</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/3_exploring_gridbased_movement/</link>
+      <pubDate>Thu, 17 Sep 2015 07:41:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/3_exploring_gridbased_movement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The preproduction of a small game</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/2_the_preproduction_of_a_small_game/</link>
+      <pubDate>Wed, 09 Sep 2015 19:00:54 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/2_the_preproduction_of_a_small_game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6 Tips for a successful Game Jam</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/1_6_tips_for_a_successful_game_jam/</link>
+      <pubDate>Wed, 02 Sep 2015 15:09:36 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/1_6_tips_for_a_successful_game_jam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Design Quest - Intro</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/0_game_design_quest__intro/</link>
+      <pubDate>Fri, 21 Aug 2015 20:04:30 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/0_game_design_quest__intro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to setup Krita for pixel art  - Krita pixel art tutorial</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/17_how_to_setup_krita_for_pixel_art___krita_pixel_art_tutorial/</link>
+      <pubDate>Mon, 27 Jul 2015 07:05:03 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/17_how_to_setup_krita_for_pixel_art___krita_pixel_art_tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Painting with Krita - The Game Asset Workflow</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/16_painting_with_krita__the_game_asset_workflow/</link>
+      <pubDate>Mon, 20 Jul 2015 08:50:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/16_painting_with_krita__the_game_asset_workflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Painting with Krita - Getting Started part 2</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/15_painting_with_krita__getting_started_part_2/</link>
+      <pubDate>Sun, 12 Jul 2015 16:23:33 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/15_painting_with_krita__getting_started_part_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Painting with Krita - Getting Started</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/14_painting_with_krita__getting_started/</link>
+      <pubDate>Mon, 06 Jul 2015 10:35:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/14_painting_with_krita__getting_started/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krita 2.9 review, and overview of the key features</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/13_krita_2_9_review_and_overview_of_the_key_features/</link>
+      <pubDate>Thu, 02 Jul 2015 12:14:10 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/13_krita_2_9_review_and_overview_of_the_key_features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5 tricks to spot painting mistakes on your own</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/12_5_tricks_to_spot_painting_mistakes_on_your_own/</link>
+      <pubDate>Wed, 17 Jun 2015 14:49:29 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/12_5_tricks_to_spot_painting_mistakes_on_your_own/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating Appealing Color Palettes 2</title>
+      <link>http://gdquest.com/tutorial/art/color-tutorials/chapter/3_creating_appealing_color_palettes_2/</link>
+      <pubDate>Mon, 08 Jun 2015 07:05:57 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/color-tutorials/chapter/3_creating_appealing_color_palettes_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating Appealing Color Palettes 1</title>
+      <link>http://gdquest.com/tutorial/art/color-tutorials/chapter/2_creating_appealing_color_palettes_1/</link>
+      <pubDate>Mon, 08 Jun 2015 07:05:54 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/color-tutorials/chapter/2_creating_appealing_color_palettes_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Picking Strong Colors with Hue Shifting</title>
+      <link>http://gdquest.com/tutorial/art/color-tutorials/chapter/1_picking_strong_colors_with_hue_shifting/</link>
+      <pubDate>Mon, 08 Jun 2015 07:05:38 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/color-tutorials/chapter/1_picking_strong_colors_with_hue_shifting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A First Look at Colors</title>
+      <link>http://gdquest.com/tutorial/art/color-tutorials/chapter/0_a_first_look_at_colors/</link>
+      <pubDate>Mon, 08 Jun 2015 07:05:31 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/color-tutorials/chapter/0_a_first_look_at_colors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3 Techniques to Draw Professional Mobile Game Buttons</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/11_3_techniques_to_draw_professional_mobile_game_buttons/</link>
+      <pubDate>Wed, 03 Jun 2015 15:34:35 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/11_3_techniques_to_draw_professional_mobile_game_buttons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6 Pixel Art Drawing Techniques</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/10_6_pixel_art_drawing_techniques/</link>
+      <pubDate>Wed, 27 May 2015 18:20:01 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/10_6_pixel_art_drawing_techniques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating Appealing Color Palettes 2</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/9_creating_appealing_color_palettes_2/</link>
+      <pubDate>Wed, 20 May 2015 12:17:52 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/9_creating_appealing_color_palettes_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating Appealing Color Palettes 1</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/8_creating_appealing_color_palettes_1/</link>
+      <pubDate>Thu, 14 May 2015 16:46:57 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/8_creating_appealing_color_palettes_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Picking Strong Colors with Hue Shifting</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/7_picking_strong_colors_with_hue_shifting/</link>
+      <pubDate>Wed, 06 May 2015 15:13:37 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/7_picking_strong_colors_with_hue_shifting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A First Look at Colors</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/6_a_first_look_at_colors/</link>
+      <pubDate>Wed, 29 Apr 2015 16:57:18 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/6_a_first_look_at_colors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6 Principles of Visual Design</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/5_6_principles_of_visual_design/</link>
+      <pubDate>Wed, 01 Apr 2015 19:11:58 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/5_6_principles_of_visual_design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing a cute character</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/4_designing_a_cute_character/</link>
+      <pubDate>Wed, 25 Mar 2015 14:44:30 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/4_designing_a_cute_character/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drawing Game Assets with Selections</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/3_drawing_game_assets_with_selections/</link>
+      <pubDate>Wed, 18 Mar 2015 14:23:47 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/3_drawing_game_assets_with_selections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Sketch Game Assets</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/2_how_to_sketch_game_assets/</link>
+      <pubDate>Wed, 11 Mar 2015 12:47:55 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/2_how_to_sketch_game_assets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mastering Silhouettes in Photoshop</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/1_mastering_silhouettes_in_photoshop/</link>
+      <pubDate>Wed, 04 Mar 2015 20:39:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/1_mastering_silhouettes_in_photoshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to design professional looking mobile game buttons</title>
+      <link>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/0_how_to_design_professional_looking_mobile_game_buttons/</link>
+      <pubDate>Wed, 25 Feb 2015 12:18:41 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/0_how_to_design_professional_looking_mobile_game_buttons/</guid>
+      <description></description>
     </item>
     
     <item>

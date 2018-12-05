@@ -8,6 +8,21 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/art/color-tutorials/chapter/</loc>
+    <lastmod>2015-06-08T07:05:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/</loc>
+    <lastmod>2016-01-14T22:30:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/</loc>
+    <lastmod>2016-02-06T16:07:11+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tutorial/game-design/godot/introduction-to-multiplayer/chapter/</loc>
     <lastmod>2018-08-22T16:30:05+00:00</lastmod>
   </url>
@@ -125,6 +140,11 @@
   <url>
     <loc>http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/chapter_2/11_painting_with_the_freehand_brush_tool/</loc>
     <lastmod>2016-04-26T07:04:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/open-source/code-of-conduct/</loc>
+    <lastmod>2018-12-04T09:30:19+09:00</lastmod>
   </url>
   
   <url>
@@ -1093,6 +1113,31 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/11_13_free_open_source_software_to_make_your_games/</loc>
+    <lastmod>2016-02-06T16:07:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/10_7_books_to_explore_game_creation_in_greater_depth/</loc>
+    <lastmod>2016-02-06T16:07:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/9_12_handy_free_productivity_tools_for_game_designers/</loc>
+    <lastmod>2016-02-06T16:07:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/8_my_8_best_game_design_resources/</loc>
+    <lastmod>2016-02-06T16:07:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/7_quick_timer_events_from_a_game_design_perspective/</loc>
+    <lastmod>2016-02-06T16:05:41+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tutorial/art/monster-design/chapter1/0_introduction_to_monster_design__enemies_in_mario/</loc>
     <lastmod>2016-02-05T19:50:40+00:00</lastmod>
   </url>
@@ -1113,8 +1158,28 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/21_introduction_to_monster_design__enemies_in_mario/</loc>
+    <lastmod>2016-01-14T22:30:20+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2016/community/vote-for-upcoming-tutorials-january-2016/</loc>
     <lastmod>2016-01-11T09:16:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/20_how_to_paint_rocks_for_games__part_3/</loc>
+    <lastmod>2015-12-21T15:48:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/19_how_to_paint_rocks_for_games__part_1/</loc>
+    <lastmod>2015-12-04T21:19:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/18_how_to_paint_rocks_for_games__part_2/</loc>
+    <lastmod>2015-12-04T18:21:28+00:00</lastmod>
   </url>
   
   <url>
@@ -1153,13 +1218,173 @@
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/6_overview_of_simple_collisions_detection_types_in_2d_games/</loc>
+    <lastmod>2015-10-22T08:30:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/5_movement_analysis__ori_and_the_blind_forest/</loc>
+    <lastmod>2015-10-05T11:22:15+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/post/2016/programming/phaser-auto-completion-in-atom/</loc>
     <lastmod>2015-10-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/4_game_engines_what_are_they_and_how_to_choose_the_right_one/</loc>
+    <lastmod>2015-09-30T18:09:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/3_exploring_gridbased_movement/</loc>
+    <lastmod>2015-09-17T07:41:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/2_the_preproduction_of_a_small_game/</loc>
+    <lastmod>2015-09-09T19:00:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/1_6_tips_for_a_successful_game_jam/</loc>
+    <lastmod>2015-09-02T15:09:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/0_game_design_quest__intro/</loc>
+    <lastmod>2015-08-21T20:04:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/</loc>
+    <lastmod>2015-08-21T20:02:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/17_how_to_setup_krita_for_pixel_art___krita_pixel_art_tutorial/</loc>
+    <lastmod>2015-07-27T07:05:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/16_painting_with_krita__the_game_asset_workflow/</loc>
+    <lastmod>2015-07-20T08:50:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/15_painting_with_krita__getting_started_part_2/</loc>
+    <lastmod>2015-07-12T16:23:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/14_painting_with_krita__getting_started/</loc>
+    <lastmod>2015-07-06T10:35:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/13_krita_2_9_review_and_overview_of_the_key_features/</loc>
+    <lastmod>2015-07-02T12:14:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/12_5_tricks_to_spot_painting_mistakes_on_your_own/</loc>
+    <lastmod>2015-06-17T14:49:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/color-tutorials/chapter/3_creating_appealing_color_palettes_2/</loc>
+    <lastmod>2015-06-08T07:05:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/color-tutorials/chapter/2_creating_appealing_color_palettes_1/</loc>
+    <lastmod>2015-06-08T07:05:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/color-tutorials/chapter/1_picking_strong_colors_with_hue_shifting/</loc>
+    <lastmod>2015-06-08T07:05:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/color-tutorials/chapter/0_a_first_look_at_colors/</loc>
+    <lastmod>2015-06-08T07:05:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/color-tutorials/</loc>
+    <lastmod>2015-06-08T07:05:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/11_3_techniques_to_draw_professional_mobile_game_buttons/</loc>
+    <lastmod>2015-06-03T15:34:35+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gdquest.com/tutorial/art/pixel-art/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/10_6_pixel_art_drawing_techniques/</loc>
+    <lastmod>2015-05-27T18:20:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/9_creating_appealing_color_palettes_2/</loc>
+    <lastmod>2015-05-20T12:17:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/8_creating_appealing_color_palettes_1/</loc>
+    <lastmod>2015-05-14T16:46:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/7_picking_strong_colors_with_hue_shifting/</loc>
+    <lastmod>2015-05-06T15:13:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/6_a_first_look_at_colors/</loc>
+    <lastmod>2015-04-29T16:57:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/5_6_principles_of_visual_design/</loc>
+    <lastmod>2015-04-01T19:11:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/4_designing_a_cute_character/</loc>
+    <lastmod>2015-03-25T14:44:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/3_drawing_game_assets_with_selections/</loc>
+    <lastmod>2015-03-18T14:23:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/2_how_to_sketch_game_assets/</loc>
+    <lastmod>2015-03-11T12:47:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/1_mastering_silhouettes_in_photoshop/</loc>
+    <lastmod>2015-03-04T20:39:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/chapter/0_how_to_design_professional_looking_mobile_game_buttons/</loc>
+    <lastmod>2015-02-25T12:18:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/art/game-art-tutorials/</loc>
+    <lastmod>2015-02-25T11:43:39+00:00</lastmod>
   </url>
   
   <url>
@@ -1464,6 +1689,11 @@
   <url>
     <loc>http://gdquest.com/tags/gdscript-typed/</loc>
     <lastmod>2018-09-04T06:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gdquest.com/tutorial/game-design/general/</loc>
     <priority>0</priority>
   </url>
   

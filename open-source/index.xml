@@ -14,6 +14,18 @@
     
     
     <item>
+      <title>GDQuest Code of Conduct</title>
+      <link>http://gdquest.com/open-source/code-of-conduct/</link>
+      <pubDate>Tue, 04 Dec 2018 09:30:19 +0900</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/open-source/code-of-conduct/</guid>
+      <description>Version v1.0.0
+This document is based on the GNU Kind Communications Guidelines by Richard Stallman.
+In short, our goal with these guidelines is to build a welcoming, a safe, and a productive space for every creator and contributor. We&amp;rsquo;re here to push Free Software projects forward together, working past our differences.
+We encourage contributions from anyone who wishes to help with the development of any GDquest project, regardless of gender, race, religion, cultural background, and any other demographic characteristics, as well as personal political views.</description>
+    </item>
+    
+    <item>
       <title>The Contributor&#39;s Guidelines</title>
       <link>http://gdquest.com/open-source/contributing-guidelines/</link>
       <pubDate>Mon, 05 Nov 2018 09:30:19 +0900</pubDate>

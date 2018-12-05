@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ENTER TITLE on GDQuest</title>
+    <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/</link>
+    <description>Recent content in ENTER TITLE on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Sat, 06 Feb 2016 16:07:11 +0000</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>13 free Open Source software to make your games!</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/11_13_free_open_source_software_to_make_your_games/</link>
+      <pubDate>Sat, 06 Feb 2016 16:07:11 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/11_13_free_open_source_software_to_make_your_games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7 Books to Explore Game Creation in Greater Depth</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/10_7_books_to_explore_game_creation_in_greater_depth/</link>
+      <pubDate>Sat, 06 Feb 2016 16:07:07 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/10_7_books_to_explore_game_creation_in_greater_depth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>12 handy free productivity tools for game designers</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/9_12_handy_free_productivity_tools_for_game_designers/</link>
+      <pubDate>Sat, 06 Feb 2016 16:07:05 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/9_12_handy_free_productivity_tools_for_game_designers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My 8 best game design resources</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/8_my_8_best_game_design_resources/</link>
+      <pubDate>Sat, 06 Feb 2016 16:07:02 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/8_my_8_best_game_design_resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quick Timer Events from a Game Design Perspective</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/7_quick_timer_events_from_a_game_design_perspective/</link>
+      <pubDate>Sat, 06 Feb 2016 16:05:41 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/7_quick_timer_events_from_a_game_design_perspective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview of Simple Collisions Detection Types in 2d games</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/6_overview_of_simple_collisions_detection_types_in_2d_games/</link>
+      <pubDate>Thu, 22 Oct 2015 08:30:01 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/6_overview_of_simple_collisions_detection_types_in_2d_games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movement Analysis - Ori and the Blind Forest</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/5_movement_analysis__ori_and_the_blind_forest/</link>
+      <pubDate>Mon, 05 Oct 2015 11:22:15 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/5_movement_analysis__ori_and_the_blind_forest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Engines: what are they and how to choose the right one?</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/4_game_engines_what_are_they_and_how_to_choose_the_right_one/</link>
+      <pubDate>Wed, 30 Sep 2015 18:09:58 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/4_game_engines_what_are_they_and_how_to_choose_the_right_one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring grid-based movement</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/3_exploring_gridbased_movement/</link>
+      <pubDate>Thu, 17 Sep 2015 07:41:00 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/3_exploring_gridbased_movement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The preproduction of a small game</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/2_the_preproduction_of_a_small_game/</link>
+      <pubDate>Wed, 09 Sep 2015 19:00:54 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/2_the_preproduction_of_a_small_game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6 Tips for a successful Game Jam</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/1_6_tips_for_a_successful_game_jam/</link>
+      <pubDate>Wed, 02 Sep 2015 15:09:36 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/1_6_tips_for_a_successful_game_jam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Design Quest - Intro</title>
+      <link>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/0_game_design_quest__intro/</link>
+      <pubDate>Fri, 21 Aug 2015 20:04:30 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/game-design/general/game-design-tutorial/chapter/0_game_design_quest__intro/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

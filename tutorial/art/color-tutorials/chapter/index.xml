@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ENTER TITLE on GDQuest</title>
+    <link>http://gdquest.com/tutorial/art/color-tutorials/chapter/</link>
+    <description>Recent content in ENTER TITLE on GDQuest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>nathan@gdquest.com (Nathan Lovato)</managingEditor>
+    <webMaster>nathan@gdquest.com (Nathan Lovato)</webMaster>
+    <lastBuildDate>Mon, 08 Jun 2015 07:05:57 +0000</lastBuildDate>
+    
+	<atom:link href="http://gdquest.com/tutorial/art/color-tutorials/chapter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating Appealing Color Palettes 2</title>
+      <link>http://gdquest.com/tutorial/art/color-tutorials/chapter/3_creating_appealing_color_palettes_2/</link>
+      <pubDate>Mon, 08 Jun 2015 07:05:57 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/color-tutorials/chapter/3_creating_appealing_color_palettes_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating Appealing Color Palettes 1</title>
+      <link>http://gdquest.com/tutorial/art/color-tutorials/chapter/2_creating_appealing_color_palettes_1/</link>
+      <pubDate>Mon, 08 Jun 2015 07:05:54 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/color-tutorials/chapter/2_creating_appealing_color_palettes_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Picking Strong Colors with Hue Shifting</title>
+      <link>http://gdquest.com/tutorial/art/color-tutorials/chapter/1_picking_strong_colors_with_hue_shifting/</link>
+      <pubDate>Mon, 08 Jun 2015 07:05:38 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/color-tutorials/chapter/1_picking_strong_colors_with_hue_shifting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A First Look at Colors</title>
+      <link>http://gdquest.com/tutorial/art/color-tutorials/chapter/0_a_first_look_at_colors/</link>
+      <pubDate>Mon, 08 Jun 2015 07:05:31 +0000</pubDate>
+      <author>nathan@gdquest.com (Nathan Lovato)</author>
+      <guid>http://gdquest.com/tutorial/art/color-tutorials/chapter/0_a_first_look_at_colors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
